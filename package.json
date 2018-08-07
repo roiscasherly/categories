@@ -1,7 +1,7 @@
 {
-  "name": "categories",
+  "name": "@streetcredlabs/categories",
   "version": "1.0.0",
-  "description": "Wrapper for categories",
+  "description": "JS utility wrapper for places category taxonomy",
   "repository": {
     "type": "git",
     "url": "https://github.com/streetcredlabs/categories.git"
@@ -26,7 +26,7 @@
       "git add"
     ]
   },
-  "author": "",
+  "author": "The StreetCred Team",
   "license": "MIT",
   "devDependencies": {
     "babel-plugin-external-helpers": "6.22.0",
