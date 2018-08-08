@@ -1,5 +1,0 @@
-src
-.babelrc
-.travis.yml
-.prettierignore
-rollup.config.js

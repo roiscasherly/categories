@@ -6,36 +6,34 @@ Categories represent the place type, for example a Starbucks is a `coffee_shop`.
 
 ## Usage
 
-### To Install Package through Github Directly
-
-Include this snippet of code under the `dependencies` section within `package.json` file:
+### Install via npm or yarn
 
 ```bash
-"categories": "git+ssh://github.com/streetcredlabs/categories.git"
+yarn add @streetcredlabs/categories
+or
+npm i --save @streetcredlabs/categories
 ```
-
-`Note`: This is used for local module testing, because we haven't published the package through `yarn` nor `npm` yet. The user can `npm install` to download the package as if it was a `npm`/`yarn` package.
 
 ### Import/require in the JavaScript client code
 
 ```JavaScript
 // using CommonJS
-const { findById } = require('categories');
+const { findById } = require('@streetcredlabs/categories');
 
 // using ES6
-import { findById } from 'categories';
+import { findById } from '@streetcredlabs/categories';
 ```
 
 ## API
 
 ### findById
 
+This function allows the client to look up the category object by its id. Categories may be nested.
+
 ```JavaScript
+import { findById } from '@streetcredlabs/categories';
 const category = findById(1);
 ```
-
-This function allows the client to lookup the category object by its id.
-Category objects will have the following structure. Categories may be nested.
 
 ```JavaScript
 {
@@ -44,6 +42,26 @@ Category objects will have the following structure. Categories may be nested.
   "icon": "theatre",
   "categories": [ <category> ]
 }
+```
+
+### dump
+Returns the entire categories array.
+
+```JavaScript
+import { dump } from '@streetcredlabs/categories';
+const categories = dump();
+```
+
+```javascript
+[
+  {
+    "id": 1,
+    "name": "Arts & Entertainment",
+    "icon": "theatre",
+    "categories": [...]
+  },
+  ...
+]
 ```
 
 -------------------
@@ -98,14 +116,16 @@ npm run build
 
 ---------------
 
-# Plugins/Modules Used Within Package
+# Project Technical Decisions
+
+## Plugins/Modules Used Within Package
 
 - [Rollup-plugin-json](https://github.com/rollup/rollup-plugin-json), which allows Rollup to import data from a JSON file.
 - [Rollup-plugin-node-resolve](https://github.com/rollup/rollup-plugin-node-resolve), which allows us to load third-party modules in node_modules.
 - [Rollup-plugin-commonjs](https://github.com/rollup/rollup-plugin-commonjs), which coverts CommonJS modules to ES6, which stops them from breaking Rollup.
 - [Babel](https://babeljs.io), which transpiles new features of JavaScript (ES6/ES2015 and so on) into ES5
 
-# Why Are We Using Rollup.js?
+## Why Are We Using Rollup.js?
 
 - Represents the next generation of build tools in terms of its performance (build time), intermediate configuration (less complicated than webpack but more involved than Parcel), and optional but out-of-the-box features likes source maps, and not using a .babelrc.
 - Rich ecosystem of plugins for file loading/dev servers
