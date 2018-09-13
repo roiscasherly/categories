@@ -2322,7 +2322,7 @@
 			{
 				"id": 3033,
 				"name": "Coffee Shop",
-				"icon": "restaurant",
+				"icon": "cafe",
 				"attributes": [{
 					"name": "Hours",
 					"type": "object",
@@ -14918,7 +14918,7 @@
 					},
 					{
 						"id": 9043,
-						"name": "Metro Station",
+						"name": "Subway Station",
 						"icon": "station",
 						"attributes": [{
 							"name": "Wheelchair Accessible",
