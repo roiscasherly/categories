@@ -12395,6 +12395,28 @@
 						}]
 					},
 					{
+						"id": 8117,
+						"name": "General Clothing Store",
+						"icon": "clothes",
+						"attributes": [{
+							"name": "Hours",
+							"type": "object",
+							"required": true
+						}, {
+							"name": "Phone",
+							"type": "string",
+							"required": false
+						}, {
+							"name": "Website",
+							"type": "string",
+							"required": false
+						}, {
+							"name": "Wheelchair Accessible",
+							"type": "boolean",
+							"required": true
+						}]
+					},
+					{
 						"id": 8084,
 						"name": "Lingerie Shop",
 						"icon": "clothes",
