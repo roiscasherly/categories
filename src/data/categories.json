@@ -227,7 +227,7 @@
 						}, {
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -317,7 +317,7 @@
 						}, {
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -339,7 +339,7 @@
 						}, {
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -361,7 +361,7 @@
 						}, {
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -1318,7 +1318,7 @@
 				}, {
 					"name": "Phone",
 					"type": "string",
-					"required": true
+					"required": false
 				}, {
 					"name": "Website",
 					"type": "string",
@@ -8577,7 +8577,7 @@
 						}, {
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -8599,7 +8599,7 @@
 						}, {
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -8621,7 +8621,7 @@
 						}, {
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -8643,7 +8643,7 @@
 						}, {
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -8715,7 +8715,7 @@
 						}, {
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -8737,7 +8737,7 @@
 						}, {
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -8831,7 +8831,7 @@
 						}, {
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -8853,7 +8853,7 @@
 						}, {
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -8875,7 +8875,7 @@
 						}, {
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -8897,7 +8897,7 @@
 						}, {
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -8919,7 +8919,7 @@
 						}, {
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -8941,7 +8941,7 @@
 						}, {
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -8963,7 +8963,7 @@
 						}, {
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -8985,7 +8985,7 @@
 						}, {
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -9007,7 +9007,7 @@
 						}, {
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -9029,7 +9029,7 @@
 						}, {
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -14562,7 +14562,7 @@
 				"icon": "car",
 				"categories": [{
 						"id": 9016,
-						"name": "Garage",
+						"name": "Parking Garage/Lot",
 						"icon": "parking-garage",
 						"attributes": [{
 							"name": "Hours",
@@ -14719,7 +14719,7 @@
 						"attributes": [{
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -14737,7 +14737,7 @@
 						"attributes": [{
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -14755,7 +14755,7 @@
 						"attributes": [{
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -14773,7 +14773,7 @@
 						"attributes": [{
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -14791,7 +14791,7 @@
 						"attributes": [{
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -14809,7 +14809,7 @@
 						"attributes": [{
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -14827,7 +14827,7 @@
 						"attributes": [{
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -14845,7 +14845,7 @@
 						"attributes": [{
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -14863,7 +14863,7 @@
 						"attributes": [{
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
@@ -14881,7 +14881,7 @@
 						"attributes": [{
 							"name": "Phone",
 							"type": "string",
-							"required": true
+							"required": false
 						}, {
 							"name": "Website",
 							"type": "string",
