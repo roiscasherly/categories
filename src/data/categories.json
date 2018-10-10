@@ -11524,7 +11524,7 @@
 					},
 					{
 						"id": 7158,
-						"name": "Residential Building",
+						"name": "Named Residential Building",
 						"icon": "residential",
 						"attributes": [{
 							"name": "Phone",
