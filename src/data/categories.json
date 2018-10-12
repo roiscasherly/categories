@@ -273,6 +273,20 @@
 						}]
 					},
 					{
+						"id": 2013,
+						"name": "Historic Building",
+						"icon": "historical",
+						"attributes": [{
+							"name": "Hours",
+							"type": "object",
+							"required": false
+						}, {
+							"name": "Wheelchair Accessible",
+							"type": "boolean",
+							"required": true
+						}]
+					},
+					{
 						"id": 1023,
 						"name": "Historic Site",
 						"icon": "ruins",
@@ -1267,28 +1281,6 @@
 				"id": 2011,
 				"name": "Government Building",
 				"icon": "administrative",
-				"attributes": [{
-					"name": "Hours",
-					"type": "object",
-					"required": false
-				}, {
-					"name": "Phone",
-					"type": "string",
-					"required": false
-				}, {
-					"name": "Website",
-					"type": "string",
-					"required": false
-				}, {
-					"name": "Wheelchair Accessible",
-					"type": "boolean",
-					"required": true
-				}]
-			},
-			{
-				"id": 2013,
-				"name": "Historic Building",
-				"icon": "historical",
 				"attributes": [{
 					"name": "Hours",
 					"type": "object",
@@ -14327,15 +14319,7 @@
 				"name": "Vacant Storefront",
 				"icon": "closed",
 				"attributes": [{
-					"name": "Hours",
-					"type": "object",
-					"required": true
-				}, {
 					"name": "Phone",
-					"type": "string",
-					"required": false
-				}, {
-					"name": "Website",
 					"type": "string",
 					"required": false
 				}, {
