@@ -113,27 +113,3 @@ yarn build
 or
 npm run build
 ```
-
----------------
-
-# Project Technical Decisions
-
-## Plugins/Modules Used Within Package
-
-- [Rollup-plugin-json](https://github.com/rollup/rollup-plugin-json), which allows Rollup to import data from a JSON file.
-- [Rollup-plugin-node-resolve](https://github.com/rollup/rollup-plugin-node-resolve), which allows us to load third-party modules in node_modules.
-- [Rollup-plugin-commonjs](https://github.com/rollup/rollup-plugin-commonjs), which coverts CommonJS modules to ES6, which stops them from breaking Rollup.
-- [Babel](https://babeljs.io), which transpiles new features of JavaScript (ES6/ES2015 and so on) into ES5
-
-## Why Are We Using Rollup.js?
-
-- Represents the next generation of build tools in terms of its performance (build time), intermediate configuration (less complicated than webpack but more involved than Parcel), and optional but out-of-the-box features likes source maps, and not using a .babelrc.
-- Rich ecosystem of plugins for file loading/dev servers
-- Code splitting
-- Tree shaking (live code inclusion / dead code elimination)
-- esnext:main entry in package.json to import es2015+ (renamed to ‘module’)
-- Scope hoisting
-- Simple API
-- Since codebase is ES2015 modules and we're making something to be used by other people
-
-`Reference:` [Rollup v. Webpack v. Parcel by Adam Gerard](https://x-team.com/blog/rollup-webpack-parcel-comparison/)
