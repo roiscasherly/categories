@@ -11,7 +11,10 @@ describe("findById", () => {
 
   it("should return the correct object", () => {
     const id = 8016;
-    expect(findById(id).id).toBe(id);
+    const catObj = findById(id);
+    expect(catObj.id).toBe(id);
+    expect(Array.isArray(catObj.attributes)).toBe(true);
+    expect(findById(6105).attributes).toBe(undefined);
   });
 
   it("should return an empty object if not found", () => {

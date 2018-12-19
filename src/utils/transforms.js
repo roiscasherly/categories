@@ -7,7 +7,7 @@ const flattenArray = arr => {
     arr.forEach(obj => {
       arrOfObj.push(
         Object.keys(obj)
-          .filter(k => !Array.isArray(obj[k]))
+          .filter(k => k !== "categories")
           .reduce((prev, k) => {
             prev[k] = obj[k];
             return prev;
