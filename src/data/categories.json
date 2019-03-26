@@ -17929,30 +17929,6 @@
           }
         ]
       },
-
-      {
-        "id": 9047,
-        "name": "Building",
-        "icon": "building",
-        "categories": [
-          {
-            "id": 9048,
-            "name": "Elevator",
-            "icon": "elevator"
-          },
-          {
-            "id": 9049,
-            "name": "Entrance",
-            "icon": "entrance"
-          },
-          {
-            "id": 9050,
-            "name": "Escalator",
-            "icon": "elevator"
-          }
-        ]
-      },
-
       {
         "id": 9047,
         "name": "Building",
