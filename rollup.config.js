@@ -1,6 +1,6 @@
-import babel from "rollup-plugin-babel";
-import commonjs from "rollup-plugin-commonjs";
 import json from "rollup-plugin-json";
+import typescript from "rollup-plugin-typescript2";
+import commonjs from "rollup-plugin-commonjs";
 import resolve from "rollup-plugin-node-resolve";
 import { uglify } from "rollup-plugin-uglify";
 
@@ -9,7 +9,7 @@ import { uglify } from "rollup-plugin-uglify";
 const shouldMinify = !process.env.ROLLUP_WATCH;
 
 export default {
-  input: "src/index.js",
+  input: "src/index.ts",
   output: {
     file: "dist/bundle.js",
     format: "cjs"
@@ -21,11 +21,8 @@ export default {
       main: true,
       browser: true
     }),
+    typescript(),
     commonjs(),
-    babel({
-      exclude: "node_modules/**",
-      plugins: ["external-helpers"]
-    }),
     shouldMinify && uglify()
   ]
 };
