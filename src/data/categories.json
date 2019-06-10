@@ -3152,6 +3152,38 @@
         ]
       },
       {
+        "id": 3148,
+        "name": "Dinner Theater",
+        "icon": "restaurant",
+        "attributes": [
+          {
+            "name": "Hours",
+            "type": "object",
+            "required": true
+          },
+          {
+            "name": "Phone",
+            "type": "string",
+            "required": false
+          },
+          {
+            "name": "Website",
+            "type": "string",
+            "required": false
+          },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          },
+          {
+            "name": "Outdoor Seating",
+            "type": "boolean",
+            "required": true
+          }
+        ]
+      },
+      {
         "id": 3043,
         "name": "Donut Shop",
         "icon": "restaurant",
@@ -3858,6 +3890,38 @@
       {
         "id": 3065,
         "name": "Hawaiian",
+        "icon": "restaurant",
+        "attributes": [
+          {
+            "name": "Hours",
+            "type": "object",
+            "required": true
+          },
+          {
+            "name": "Phone",
+            "type": "string",
+            "required": false
+          },
+          {
+            "name": "Website",
+            "type": "string",
+            "required": false
+          },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          },
+          {
+            "name": "Outdoor Seating",
+            "type": "boolean",
+            "required": true
+          }
+        ]
+      },
+      {
+        "id": 3149,
+        "name": "Health Food",
         "icon": "restaurant",
         "attributes": [
           {
@@ -6521,6 +6585,33 @@
       {
         "id": 4001,
         "name": "Adult Education Center",
+        "icon": "school",
+        "attributes": [
+          {
+            "name": "Hours",
+            "type": "object",
+            "required": false
+          },
+          {
+            "name": "Phone",
+            "type": "string",
+            "required": false
+          },
+          {
+            "name": "Website",
+            "type": "string",
+            "required": false
+          },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          }
+        ]
+      },
+      {
+        "id": 4038,
+        "name": "Beauty School",
         "icon": "school",
         "attributes": [
           {
@@ -11478,6 +11569,28 @@
         "icon": "town_hall",
         "categories": [
           {
+            "id": 7186,
+            "name": "Catering",
+            "icon": "town_hall",
+            "attributes": [
+              {
+                "name": "Phone",
+                "type": "string",
+                "required": false
+              },
+              {
+                "name": "Website",
+                "type": "string",
+                "required": false
+              },
+              {
+                "name": "Wheelchair Accessible",
+                "type": "boolean",
+                "required": true
+              }
+            ]
+          },
+          {
             "id": 7057,
             "name": "Convention Center",
             "icon": "town_hall",
@@ -13806,6 +13919,28 @@
             ]
           },
           {
+            "id": 7187,
+            "name": "Convent",
+            "icon": "religion",
+            "attributes": [
+              {
+                "name": "Phone",
+                "type": "string",
+                "required": false
+              },
+              {
+                "name": "Website",
+                "type": "string",
+                "required": false
+              },
+              {
+                "name": "Wheelchair Accessible",
+                "type": "boolean",
+                "required": true
+              }
+            ]
+          },
+          {
             "id": 7147,
             "name": "Hindu Temple",
             "icon": "hindu",
@@ -14786,6 +14921,33 @@
       {
         "id": 8002,
         "name": "Antique Store",
+        "icon": "retail",
+        "attributes": [
+          {
+            "name": "Hours",
+            "type": "object",
+            "required": true
+          },
+          {
+            "name": "Phone",
+            "type": "string",
+            "required": false
+          },
+          {
+            "name": "Website",
+            "type": "string",
+            "required": false
+          },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          }
+        ]
+      },
+      {
+        "id": 8118,
+        "name": "Army Navy Store",
         "icon": "retail",
         "attributes": [
           {
