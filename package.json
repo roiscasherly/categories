@@ -1,6 +1,6 @@
 {
   "name": "@streetcredlabs/categories",
-  "version": "2.3.2",
+  "version": "3.0.0",
   "description": "JS utility wrapper for places category taxonomy",
   "repository": {
     "type": "git",
@@ -16,7 +16,8 @@
     "test": "tslint -p . && NODE_ENV=test jest",
     "test-watch": "NODE_ENV=test jest --watch",
     "start": "ROLLUP_WATCH=true rollup -c --watch",
-    "build": "rollup -c"
+    "build": "rollup -c",
+    "release": "./release.sh"
   },
   "lint-staged": {
     "*.ts": [

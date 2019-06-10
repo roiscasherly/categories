@@ -45,10 +45,11 @@ const category = findById(1);
 ```
 
 ### dump
+
 Returns the entire categories array.
 
 ```JavaScript
-import { dump } from '@streetcredlabs/categories';
+import { dump } from "@streetcredlabs/categories";
 const categories = dump();
 ```
 
@@ -64,7 +65,17 @@ const categories = dump();
 ]
 ```
 
--------------------
+### getCompleteness
+
+Determines how complete a place is based on our scoring system.
+
+```javascript
+import { getCompleteness } from '@streetcredlabs/categories';
+const place = funcThatGetsAStandardPlaceObj();
+console.log(getCompleteness(place)); // 0.75
+```
+
+---
 
 # Contributing to this project
 
@@ -80,36 +91,42 @@ git clone git@github.com:streetcredlabs/categories.git && cd categories
 
 ```bash
 yarn
-or
-npm i
 ```
 
 ### Run tests and watch for changes:
 
 ```bash
 yarn test-watch
-or
-npm run test-watch
 ```
 
 #### Run tests once:
+
 ```bash
 yarn test
-or
-npm run test
 ```
 
 ### Run build and watch for changes:
-```JavaScript
+
+```bash
 yarn start
-or
-npm run start
 ```
 
 #### Run build once:
 
-```JavaScript
+```bash
 yarn build
-or
-npm run build
 ```
+
+## Releasing
+
+Release a new version of this module based off the version in `package.json`. **Note** you will need to have publish access to the `streetcredlabs` npm account and be authenticated.
+
+```bash
+yarn release
+```
+
+The script does a few things:
+
+- Builds the `dist` version with `yarn build` (⚠️ _NOTE: This needs improvement. Right now, if this results in changes, they won't be committed and it could be weird_)
+- Creates a new git tag from the `package.json` version
+- Attempts to publish to npm with `npm publish`
