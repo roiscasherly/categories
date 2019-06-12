@@ -1,6 +1,5 @@
-import { findById } from '../';
-
 import { ICategory } from '../';
+import { findById } from '../';
 
 describe('findById', () => {
   it('should be a function', () => {
@@ -18,5 +17,38 @@ describe('findById', () => {
 
   it('should return undefined if not found', () => {
     expect(findById(99999999)).toEqual(undefined);
+  });
+
+  // We're ignoring below because while allowing only a number at compile time
+  // in this lib will fail, an end user can give whatever type they want to
+  // the function and it needs to handle that.
+  it('should return undefined it receives null id argument', () => {
+    // @ts-ignore
+    expect(findById(null)).toEqual(undefined);
+  });
+
+  it('should return undefined it receives a negative number id argument', () => {
+    // @ts-ignore
+    expect(findById(-666)).toEqual(undefined);
+  });
+
+  it('should return undefined it receives a string id argument', () => {
+    // @ts-ignore
+    expect(findById('dogs')).toEqual(undefined);
+  });
+
+  it('should return undefined it receives no id argument', () => {
+    // @ts-ignore
+    expect(findById()).toEqual(undefined);
+  });
+
+  it('should return undefined it receives an object as id argument', () => {
+    // @ts-ignore
+    expect(findById({})).toEqual(undefined);
+  });
+
+  it('should return undefined it receives an array as id argument', () => {
+    // @ts-ignore
+    expect(findById([])).toEqual(undefined);
   });
 });

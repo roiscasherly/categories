@@ -1,8 +1,6 @@
 import categories from './data/categories.json';
-
-import { byId } from './utils/transforms';
-
 import getCompletenessUtil from './utils/getCompleteness';
+import { byId } from './utils/transforms';
 
 const cats = categories as unknown;
 
@@ -48,12 +46,7 @@ export const dump = (): ICategory[] => {
 /**
  * find a single category by id
  */
-export const findById = (id: number): IFlattenedCategory => {
-  if (!id) {
-    throw Error();
-  }
-
-  return byId[id];
-};
+export const findById = (id: number): IFlattenedCategory | undefined =>
+  byId[id];
 
 export const getCompleteness = getCompletenessUtil;

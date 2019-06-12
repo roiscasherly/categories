@@ -30,6 +30,6 @@ export declare const dump: () => ICategory[];
 /**
  * find a single category by id
  */
-export declare const findById: (id: number) => IFlattenedCategory;
+export declare const findById: (id: number) => IFlattenedCategory | undefined;
 export declare const getCompleteness: (place: import("./utils/getCompleteness.js").IPlace) => number;
 export {};

@@ -1,11 +1,10 @@
+import { IDict, IFlattenedCategory } from '../';
+
 import camelCase from 'lodash.camelcase';
 import isEmpty from 'lodash.isempty';
 import isObjectLike from 'lodash.isobjectlike';
 import isString from 'lodash.isstring';
 import xor from 'lodash.xor';
-
-import { IDict, IFlattenedCategory } from '../';
-
 import { findById } from '../';
 
 export interface IPlaceAttributes {
@@ -77,10 +76,13 @@ export default (place: IPlace) => {
 
   // These are all the attributes the current category accepts. Whether
   // require or not.
+  // TODO: Determine how we want to compute completeness for Places without a
+  // category
   let categoryAttrs: string[] = [];
   if (place.categories && place.categories.length > 0) {
-    const firstCategory: IFlattenedCategory = findById(place.categories[0]);
-    if (firstCategory.attributes) {
+    const firstCategory = findById(place.categories[0]);
+
+    if (firstCategory && firstCategory.attributes) {
       categoryAttrs = firstCategory.attributes.map(a => camelCase(a.name));
     }
   }
