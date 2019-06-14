@@ -1,6 +1,6 @@
 {
   "name": "@streetcredlabs/categories",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "JS utility wrapper for places category taxonomy",
   "repository": {
     "type": "git",
