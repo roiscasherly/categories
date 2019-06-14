@@ -11183,7 +11183,7 @@
           {
             "id": 7040,
             "name": "Cleaning & Sanitation",
-            "icon": "barhardware",
+            "icon": "hardware",
             "attributes": [
               {
                 "name": "Phone",
@@ -11249,7 +11249,7 @@
           {
             "id": 7043,
             "name": "Equipment Rental",
-            "icon": "barhardware",
+            "icon": "hardware",
             "attributes": [
               {
                 "name": "Phone",
@@ -11293,7 +11293,7 @@
           {
             "id": 7045,
             "name": "Landfill",
-            "icon": "barhardware",
+            "icon": "hardware",
             "attributes": [
               {
                 "name": "Phone",
@@ -11315,7 +11315,7 @@
           {
             "id": 7046,
             "name": "Landscaper",
-            "icon": "barhardware",
+            "icon": "hardware",
             "attributes": [
               {
                 "name": "Phone",
@@ -11337,7 +11337,7 @@
           {
             "id": 7047,
             "name": "Locksmith",
-            "icon": "barhardware",
+            "icon": "hardware",
             "attributes": [
               {
                 "name": "Phone",
@@ -11381,7 +11381,7 @@
           {
             "id": 7049,
             "name": "Pest Control",
-            "icon": "barhardware",
+            "icon": "hardware",
             "attributes": [
               {
                 "name": "Phone",
@@ -12739,7 +12739,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -12766,7 +12766,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -12820,7 +12820,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -12847,7 +12847,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -12874,7 +12874,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -12901,7 +12901,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -12928,7 +12928,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -13009,7 +13009,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -13036,7 +13036,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -13063,7 +13063,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -13090,7 +13090,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -13117,7 +13117,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -13144,7 +13144,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -13171,7 +13171,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -13198,7 +13198,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -13252,7 +13252,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -13279,7 +13279,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -13306,7 +13306,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -13333,7 +13333,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -13360,7 +13360,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -13414,7 +13414,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -13441,7 +13441,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -13468,7 +13468,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -13495,7 +13495,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -13522,7 +13522,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -13549,7 +13549,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -13576,7 +13576,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -16501,12 +16501,12 @@
       {
         "id": 8034,
         "name": "Home & Garden",
-        "icon": "barhardware",
+        "icon": "hardware",
         "categories": [
           {
             "id": 8107,
             "name": "Building Materials",
-            "icon": "barhardware",
+            "icon": "hardware",
             "attributes": [
               {
                 "name": "Hours",
@@ -16533,7 +16533,7 @@
           {
             "id": 8108,
             "name": "Carpets & Floor Coverings",
-            "icon": "barhardware",
+            "icon": "hardware",
             "attributes": [
               {
                 "name": "Hours",
@@ -16587,7 +16587,7 @@
           {
             "id": 8110,
             "name": "Hardware Store",
-            "icon": "barhardware",
+            "icon": "hardware",
             "attributes": [
               {
                 "name": "Hours",
