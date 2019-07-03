@@ -1808,6 +1808,22 @@
     "icon": "restaurant",
     "categories": [
       {
+        "id": 3173,
+        "name": "Acehnese",
+        "icon": "restaurant",
+        "attributes": [
+          { "name": "Hours", "type": "object", "required": true },
+          { "name": "Phone", "type": "string", "required": true },
+          { "name": "Website", "type": "string", "required": false },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          },
+          { "name": "Outdoor Seating", "type": "boolean", "required": true }
+        ]
+      },
+      {
         "id": 3001,
         "name": "Afghan",
         "icon": "restaurant",
@@ -1869,6 +1885,22 @@
             "type": "boolean",
             "required": true
           }
+        ]
+      },
+      {
+        "id": 3174,
+        "name": "Anhui",
+        "icon": "restaurant",
+        "attributes": [
+          { "name": "Hours", "type": "object", "required": true },
+          { "name": "Phone", "type": "string", "required": true },
+          { "name": "Website", "type": "string", "required": false },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          },
+          { "name": "Outdoor Seating", "type": "boolean", "required": true }
         ]
       },
       {
@@ -2096,6 +2128,22 @@
         ]
       },
       {
+        "id": 3150,
+        "name": "Balinese",
+        "icon": "restaurant",
+        "attributes": [
+          { "name": "Hours", "type": "object", "required": true },
+          { "name": "Phone", "type": "string", "required": true },
+          { "name": "Website", "type": "string", "required": false },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          },
+          { "name": "Outdoor Seating", "type": "boolean", "required": true }
+        ]
+      },
+      {
         "id": 3010,
         "name": "BBQ",
         "icon": "bbq",
@@ -2189,6 +2237,38 @@
             "type": "boolean",
             "required": true
           }
+        ]
+      },
+      {
+        "id": 3151,
+        "name": "Beijing",
+        "icon": "restaurant",
+        "attributes": [
+          { "name": "Hours", "type": "object", "required": true },
+          { "name": "Phone", "type": "string", "required": true },
+          { "name": "Website", "type": "string", "required": false },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          },
+          { "name": "Outdoor Seating", "type": "boolean", "required": true }
+        ]
+      },
+      {
+        "id": 3152,
+        "name": "Betawinese",
+        "icon": "restaurant",
+        "attributes": [
+          { "name": "Hours", "type": "object", "required": true },
+          { "name": "Phone", "type": "string", "required": true },
+          { "name": "Website", "type": "string", "required": false },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          },
+          { "name": "Outdoor Seating", "type": "boolean", "required": true }
         ]
       },
       {
@@ -2800,6 +2880,22 @@
         ]
       },
       {
+        "id": 3153,
+        "name": "Cha Chaan Teng",
+        "icon": "restaurant",
+        "attributes": [
+          { "name": "Hours", "type": "object", "required": true },
+          { "name": "Phone", "type": "string", "required": true },
+          { "name": "Website", "type": "string", "required": false },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          },
+          { "name": "Outdoor Seating", "type": "boolean", "required": true }
+        ]
+      },
+      {
         "id": 3032,
         "name": "Chinese",
         "icon": "restaurant",
@@ -2829,6 +2925,22 @@
             "type": "boolean",
             "required": true
           }
+        ]
+      },
+      {
+        "id": 3154,
+        "name": "Chinese Breakfast",
+        "icon": "restaurant",
+        "attributes": [
+          { "name": "Hours", "type": "object", "required": true },
+          { "name": "Phone", "type": "string", "required": true },
+          { "name": "Website", "type": "string", "required": false },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          },
+          { "name": "Outdoor Seating", "type": "boolean", "required": true }
         ]
       },
       {
@@ -3181,6 +3293,22 @@
             "type": "boolean",
             "required": true
           }
+        ]
+      },
+      {
+        "id": 3155,
+        "name": "Dongbei",
+        "icon": "restaurant",
+        "attributes": [
+          { "name": "Hours", "type": "object", "required": true },
+          { "name": "Phone", "type": "string", "required": true },
+          { "name": "Website", "type": "string", "required": false },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          },
+          { "name": "Outdoor Seating", "type": "boolean", "required": true }
         ]
       },
       {
@@ -3728,6 +3856,22 @@
         ]
       },
       {
+        "id": 3156,
+        "name": "Fujian",
+        "icon": "restaurant",
+        "attributes": [
+          { "name": "Hours", "type": "object", "required": true },
+          { "name": "Phone", "type": "string", "required": true },
+          { "name": "Website", "type": "string", "required": false },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          },
+          { "name": "Outdoor Seating", "type": "boolean", "required": true }
+        ]
+      },
+      {
         "id": 3060,
         "name": "Gastropub",
         "icon": "restaurant",
@@ -3952,6 +4096,22 @@
         ]
       },
       {
+        "id": 3157,
+        "name": "Himalayan",
+        "icon": "restaurant",
+        "attributes": [
+          { "name": "Hours", "type": "object", "required": true },
+          { "name": "Phone", "type": "string", "required": true },
+          { "name": "Website", "type": "string", "required": false },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          },
+          { "name": "Outdoor Seating", "type": "boolean", "required": true }
+        ]
+      },
+      {
         "id": 3066,
         "name": "Hong Kong",
         "icon": "restaurant",
@@ -4045,6 +4205,38 @@
             "type": "boolean",
             "required": true
           }
+        ]
+      },
+      {
+        "id": 3158,
+        "name": "Huaiyang",
+        "icon": "restaurant",
+        "attributes": [
+          { "name": "Hours", "type": "object", "required": true },
+          { "name": "Phone", "type": "string", "required": true },
+          { "name": "Website", "type": "string", "required": false },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          },
+          { "name": "Outdoor Seating", "type": "boolean", "required": true }
+        ]
+      },
+      {
+        "id": 3159,
+        "name": "Hunan",
+        "icon": "restaurant",
+        "attributes": [
+          { "name": "Hours", "type": "object", "required": true },
+          { "name": "Phone", "type": "string", "required": true },
+          { "name": "Website", "type": "string", "required": false },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          },
+          { "name": "Outdoor Seating", "type": "boolean", "required": true }
         ]
       },
       {
@@ -4208,6 +4400,22 @@
         ]
       },
       {
+        "id": 3160,
+        "name": "Indonesian Meatballs",
+        "icon": "restaurant",
+        "attributes": [
+          { "name": "Hours", "type": "object", "required": true },
+          { "name": "Phone", "type": "string", "required": true },
+          { "name": "Website", "type": "string", "required": false },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          },
+          { "name": "Outdoor Seating", "type": "boolean", "required": true }
+        ]
+      },
+      {
         "id": 3074,
         "name": "Irish",
         "icon": "restaurant",
@@ -4336,6 +4544,22 @@
         ]
       },
       {
+        "id": 3161,
+        "name": "Javanese",
+        "icon": "restaurant",
+        "attributes": [
+          { "name": "Hours", "type": "object", "required": true },
+          { "name": "Phone", "type": "string", "required": true },
+          { "name": "Website", "type": "string", "required": false },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          },
+          { "name": "Outdoor Seating", "type": "boolean", "required": true }
+        ]
+      },
+      {
         "id": 3078,
         "name": "Jewish",
         "icon": "restaurant",
@@ -4365,6 +4589,22 @@
             "type": "boolean",
             "required": true
           }
+        ]
+      },
+      {
+        "id": 3162,
+        "name": "Jiangsu",
+        "icon": "restaurant",
+        "attributes": [
+          { "name": "Hours", "type": "object", "required": true },
+          { "name": "Phone", "type": "string", "required": true },
+          { "name": "Website", "type": "string", "required": false },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          },
+          { "name": "Outdoor Seating", "type": "boolean", "required": true }
         ]
       },
       {
@@ -4592,6 +4832,22 @@
         ]
       },
       {
+        "id": 3163,
+        "name": "Macanese",
+        "icon": "restaurant",
+        "attributes": [
+          { "name": "Hours", "type": "object", "required": true },
+          { "name": "Phone", "type": "string", "required": true },
+          { "name": "Website", "type": "string", "required": false },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          },
+          { "name": "Outdoor Seating", "type": "boolean", "required": true }
+        ]
+      },
+      {
         "id": 3086,
         "name": "Malaysian",
         "icon": "restaurant",
@@ -4621,6 +4877,38 @@
             "type": "boolean",
             "required": true
           }
+        ]
+      },
+      {
+        "id": 3164,
+        "name": "Mamak",
+        "icon": "restaurant",
+        "attributes": [
+          { "name": "Hours", "type": "object", "required": true },
+          { "name": "Phone", "type": "string", "required": true },
+          { "name": "Website", "type": "string", "required": false },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          },
+          { "name": "Outdoor Seating", "type": "boolean", "required": true }
+        ]
+      },
+      {
+        "id": 3165,
+        "name": "Manadonese",
+        "icon": "restaurant",
+        "attributes": [
+          { "name": "Hours", "type": "object", "required": true },
+          { "name": "Phone", "type": "string", "required": true },
+          { "name": "Website", "type": "string", "required": false },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          },
+          { "name": "Outdoor Seating", "type": "boolean", "required": true }
         ]
       },
       {
@@ -4909,6 +5197,22 @@
             "type": "boolean",
             "required": true
           }
+        ]
+      },
+      {
+        "id": 3166,
+        "name": "Padangnese",
+        "icon": "restaurant",
+        "attributes": [
+          { "name": "Hours", "type": "object", "required": true },
+          { "name": "Phone", "type": "string", "required": true },
+          { "name": "Website", "type": "string", "required": false },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          },
+          { "name": "Outdoor Seating", "type": "boolean", "required": true }
         ]
       },
       {
@@ -5616,6 +5920,38 @@
         ]
       },
       {
+        "id": 3167,
+        "name": "Shandong",
+        "icon": "restaurant",
+        "attributes": [
+          { "name": "Hours", "type": "object", "required": true },
+          { "name": "Phone", "type": "string", "required": true },
+          { "name": "Website", "type": "string", "required": false },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          },
+          { "name": "Outdoor Seating", "type": "boolean", "required": true }
+        ]
+      },
+      {
+        "id": 3168,
+        "name": "Shanghai",
+        "icon": "restaurant",
+        "attributes": [
+          { "name": "Hours", "type": "object", "required": true },
+          { "name": "Phone", "type": "string", "required": true },
+          { "name": "Website", "type": "string", "required": false },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          },
+          { "name": "Outdoor Seating", "type": "boolean", "required": true }
+        ]
+      },
+      {
         "id": 3118,
         "name": "Slovak",
         "icon": "restaurant",
@@ -5709,6 +6045,22 @@
             "type": "boolean",
             "required": true
           }
+        ]
+      },
+      {
+        "id": 3169,
+        "name": "Som Tum",
+        "icon": "restaurant",
+        "attributes": [
+          { "name": "Hours", "type": "object", "required": true },
+          { "name": "Phone", "type": "string", "required": true },
+          { "name": "Website", "type": "string", "required": false },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          },
+          { "name": "Outdoor Seating", "type": "boolean", "required": true }
         ]
       },
       {
@@ -5901,6 +6253,22 @@
             "type": "boolean",
             "required": true
           }
+        ]
+      },
+      {
+        "id": 3170,
+        "name": "Sundanese",
+        "icon": "restaurant",
+        "attributes": [
+          { "name": "Hours", "type": "object", "required": true },
+          { "name": "Phone", "type": "string", "required": true },
+          { "name": "Website", "type": "string", "required": false },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          },
+          { "name": "Outdoor Seating", "type": "boolean", "required": true }
         ]
       },
       {
@@ -6573,6 +6941,38 @@
             "type": "boolean",
             "required": true
           }
+        ]
+      },
+      {
+        "id": 3171,
+        "name": "Yunnan",
+        "icon": "restaurant",
+        "attributes": [
+          { "name": "Hours", "type": "object", "required": true },
+          { "name": "Phone", "type": "string", "required": true },
+          { "name": "Website", "type": "string", "required": false },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          },
+          { "name": "Outdoor Seating", "type": "boolean", "required": true }
+        ]
+      },
+      {
+        "id": 3172,
+        "name": "Zhejiang",
+        "icon": "restaurant",
+        "attributes": [
+          { "name": "Hours", "type": "object", "required": true },
+          { "name": "Phone", "type": "string", "required": true },
+          { "name": "Website", "type": "string", "required": false },
+          {
+            "name": "Wheelchair Accessible",
+            "type": "boolean",
+            "required": true
+          },
+          { "name": "Outdoor Seating", "type": "boolean", "required": true }
         ]
       }
     ]
@@ -11693,7 +12093,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -11720,7 +12120,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -11747,7 +12147,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -11774,7 +12174,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -11801,7 +12201,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -11828,7 +12228,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -11882,7 +12282,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -11936,7 +12336,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -11963,7 +12363,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -11990,7 +12390,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -12017,7 +12417,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -12044,7 +12444,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -12071,7 +12471,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -12098,7 +12498,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -12125,7 +12525,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -12152,7 +12552,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -12179,7 +12579,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -12206,7 +12606,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -12233,7 +12633,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
@@ -12287,7 +12687,7 @@
               {
                 "name": "Hours",
                 "type": "object",
-                "required": true
+                "required": false
               },
               {
                 "name": "Phone",
