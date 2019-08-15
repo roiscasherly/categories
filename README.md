@@ -26,6 +26,10 @@ import { findById } from '@streetcredlabs/categories';
 
 ## API
 
+### Languages
+
+This TypeScript enum contains all available languages.
+
 ### findById
 
 This function allows the client to look up the category object by its id. Categories may be nested.
@@ -43,6 +47,14 @@ const category = findById(1);
   "categories": [ <category> ]
 }
 ```
+
+Call with `Languages[lang]` to get a certain category, with the name translated into the preferred language:
+
+```JavaScript
+findById(9049, 'fil')
+```
+
+returns `{ id: 9049, name: 'Pasukan', icon: 'entrance', attributes: undefined }`
 
 ### dump
 
@@ -64,6 +76,8 @@ const categories = dump();
   ...
 ]
 ```
+
+Call with `Languages[lang]` as a second argument to get translated data: `dump('fil')`
 
 ### getCompleteness
 
@@ -116,6 +130,10 @@ yarn start
 ```bash
 yarn build
 ```
+
+#### Generate translation files
+
+`yarn translations`
 
 ## Releasing
 

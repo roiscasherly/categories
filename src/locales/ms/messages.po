@@ -1,0 +1,3199 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2019-08-06 21:43-0400\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: ms\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/data/categories.ts:15598
+msgid "Accessories Store"
+msgstr "Kedai Aksesori "
+
+#: src/data/categories.ts:13136
+msgid "Accountant"
+msgstr "Akauntan"
+
+#: src/data/categories.ts:1812
+msgid "Acehnese"
+msgstr ""
+
+#: src/data/categories.ts:12090
+msgid "Acupuncturist"
+msgstr "Ahli akupunktur"
+
+#: src/data/categories.ts:11286
+msgid "Adult"
+msgstr "Orang dewasa"
+
+#: src/data/categories.ts:15140
+msgid "Adult Care"
+msgstr "Jagaan Dewasa"
+
+#: src/data/categories.ts:6987
+msgid "Adult Education Center"
+msgstr "Pusat Pendidikan Dewasa"
+
+#: src/data/categories.ts:15296
+msgid "Adult Shop"
+msgstr "Kedai Dewasa"
+
+#: src/data/categories.ts:13163
+msgid "Advertising Agency"
+msgstr "Agensi Iklan"
+
+#: src/data/categories.ts:12718
+msgid "Aerospace"
+msgstr "Aeroangkasa"
+
+#: src/data/categories.ts:1828
+msgid "Afghan"
+msgstr "Restoran Afghanistan"
+
+#: src/data/categories.ts:1860
+msgid "African"
+msgstr "Makanan Afrika"
+
+#: src/data/categories.ts:18257
+msgid "Air"
+msgstr "Melalui udara"
+
+#: src/data/categories.ts:18262
+msgid "Airport"
+msgstr "Lapangan terbang"
+
+#: src/data/categories.ts:18274
+msgid "Airport Gate"
+msgstr "Pintu Lapangan Terbang"
+
+#: src/data/categories.ts:18286
+msgid "Airport Lounge"
+msgstr "Bilik Istirehat Lapangan Terbang"
+
+#: src/data/categories.ts:18298
+msgid "Airport Service"
+msgstr "Perkhidmatan Lapangan Terbang"
+
+#: src/data/categories.ts:18310
+msgid "Airport Terminal"
+msgstr "Terminal Lapangan Terbang"
+
+#: src/data/categories.ts:18322
+msgid "Airport Tram"
+msgstr "Trem Lapangan Terbang"
+
+#: src/data/categories.ts:12117
+msgid "Alternative Medicine"
+msgstr "Ubat Alternatif"
+
+#: src/data/categories.ts:627
+msgid "Amphitheater"
+msgstr "Amfiteater"
+
+#: src/data/categories.ts:9
+msgid "Amusements"
+msgstr "Hiburan"
+
+#: src/data/categories.ts:1892
+msgid "Anhui"
+msgstr ""
+
+#: src/data/categories.ts:13190
+msgid "Animal Shelter"
+msgstr "Tempat Berteduh Haiwan"
+
+#: src/data/categories.ts:8539
+msgid "Animals"
+msgstr "Haiwan"
+
+#: src/data/categories.ts:15323
+msgid "Antique Store"
+msgstr "Kedai Antik"
+
+#: src/data/categories.ts:8544
+msgid "Aquarium"
+msgstr "Akuarium"
+
+#: src/data/categories.ts:8686
+msgid "Aquatic Farm"
+msgstr "Kebun Akuatik"
+
+#: src/data/categories.ts:14
+msgid "Arcade"
+msgstr "Arked"
+
+#: src/data/categories.ts:322
+msgid "Archaeological Site"
+msgstr "Tapak Arkeologi"
+
+#: src/data/categories.ts:13217
+msgid "Architect"
+msgstr "Arkitek"
+
+#: src/data/categories.ts:1908
+msgid "Arepa"
+msgstr "Arepa"
+
+#: src/data/categories.ts:1940
+msgid "Argentinian"
+msgstr "Restoran Argentina"
+
+#: src/data/categories.ts:15350
+msgid "Army Navy Store"
+msgstr "Kedai Tentera"
+
+#: src/data/categories.ts:13244
+msgid "Art & Design Studio"
+msgstr "Studio Seni & Reka Bentuk"
+
+#: src/data/categories.ts:271
+msgid "Art Gallery"
+msgstr "Balai Seni Lukis"
+
+#: src/data/categories.ts:485
+msgid "Art Museum"
+msgstr "Muzium Seni"
+
+#: src/data/categories.ts:13271
+msgid "Art Services"
+msgstr "Perkhidmatan Seni"
+
+#: src/data/categories.ts:13298
+msgid "Art Studio"
+msgstr "Studio Seni"
+
+#: src/data/categories.ts:15377
+msgid "Arts & Crafts Store"
+msgstr "Kedai Seni & Kraf"
+
+#: src/data/categories.ts:4
+msgid "Arts & Entertainment"
+msgstr "Seni & Hiburan"
+
+#: src/data/categories.ts:850
+msgid "Arts Center"
+msgstr "Pusat Seni"
+
+#: src/data/categories.ts:1972
+msgid "Asian"
+msgstr "Restoran Asia"
+
+#: src/data/categories.ts:14550
+msgid "Assisted Living"
+msgstr "Kemudahan Hidup Berbantu"
+
+#: src/data/categories.ts:14755
+msgid "Astrologer / Psychic"
+msgstr "Ahli nujum / Psikik"
+
+#: src/data/categories.ts:877
+msgid "Auditorium"
+msgstr "Auditorium"
+
+#: src/data/categories.ts:2004
+msgid "Australian"
+msgstr "Restoran Australia"
+
+#: src/data/categories.ts:2036
+msgid "Austrian"
+msgstr "Restoran Austria"
+
+#: src/data/categories.ts:1073
+msgid "Auto Racetrack"
+msgstr "Balapan Lumba Kereta"
+
+#: src/data/categories.ts:10976
+msgid "Automobile Dealership"
+msgstr "Peniaga Kereta"
+
+#: src/data/categories.ts:11003
+msgid "Automobile Rental"
+msgstr "Sewaan Kereta"
+
+#: src/data/categories.ts:11030
+msgid "Automobile Repair"
+msgstr "Pembaikan Kereta"
+
+#: src/data/categories.ts:10971
+#: src/data/categories.ts:18372
+msgid "Automotive"
+msgstr "Automotif"
+
+#: src/data/categories.ts:15404
+msgid "Automotive Supplies"
+msgstr "Bekalan Kereta"
+
+#: src/data/categories.ts:8571
+msgid "Aviary"
+msgstr "Lau burung"
+
+#: src/data/categories.ts:2148
+msgid "BBQ"
+msgstr "BBQ"
+
+#: src/data/categories.ts:15625
+msgid "Baby Store"
+msgstr "Kedai Bayi"
+
+#: src/data/categories.ts:10071
+msgid "Badminton Court"
+msgstr "Gelanggang Badminton"
+
+#: src/data/categories.ts:2068
+msgid "Bagels"
+msgstr "Bagel"
+
+#: src/data/categories.ts:18334
+msgid "Baggage Claim"
+msgstr "Tuntutan Bagasi"
+
+#: src/data/categories.ts:2100
+#: src/data/categories.ts:16280
+msgid "Bakery"
+msgstr "Bakeri"
+
+#: src/data/categories.ts:2132
+msgid "Balinese"
+msgstr ""
+
+#: src/data/categories.ts:654
+msgid "Bandstand"
+msgstr "Pentas pancaragam"
+
+#: src/data/categories.ts:12967
+msgid "Bank"
+msgstr "Bank"
+
+#: src/data/categories.ts:7732
+msgid "Bar"
+msgstr "Bar"
+
+#: src/data/categories.ts:9523
+msgid "Barbecue"
+msgstr "Barbeku "
+
+#: src/data/categories.ts:11313
+msgid "Barber"
+msgstr "Tukang gunting rambut"
+
+#: src/data/categories.ts:10098
+msgid "Baseball Field"
+msgstr "Padang Besbol"
+
+#: src/data/categories.ts:1095
+msgid "Baseball Stadium"
+msgstr "Stadium Besbol"
+
+#: src/data/categories.ts:10125
+msgid "Basketball Court"
+msgstr "Gelanggang Bola Keranjang"
+
+#: src/data/categories.ts:1117
+msgid "Basketball Stadium"
+msgstr "Stadium Bola Keranjang"
+
+#: src/data/categories.ts:11206
+msgid "Bath House"
+msgstr "Rumah Mandi"
+
+#: src/data/categories.ts:11201
+msgid "Bathing"
+msgstr "Mandi"
+
+#: src/data/categories.ts:9535
+msgid "Bathing Area"
+msgstr "Kawasan Mandi"
+
+#: src/data/categories.ts:9420
+msgid "Battlefield"
+msgstr "Medan pertempuran "
+
+#: src/data/categories.ts:9547
+msgid "Beach"
+msgstr "Pantai"
+
+#: src/data/categories.ts:7764
+msgid "Beach Bar"
+msgstr "Bar Pantai"
+
+#: src/data/categories.ts:15431
+msgid "Beauty & Cosmetics"
+msgstr "Persolekan & Kosmetik"
+
+#: src/data/categories.ts:11281
+msgid "Beauty & Spa"
+msgstr "Persolekan & Spa"
+
+#: src/data/categories.ts:11340
+msgid "Beauty Salon"
+msgstr "Kedai Solek"
+
+#: src/data/categories.ts:7014
+msgid "Beauty School"
+msgstr "Sekolah Persolekan"
+
+#: src/data/categories.ts:18581
+msgid "Bed & Breakfast"
+msgstr "Penginapan & Sarapan"
+
+#: src/data/categories.ts:7796
+msgid "Beer Bar"
+msgstr "Bar Bir"
+
+#: src/data/categories.ts:7828
+msgid "Beer Garden"
+msgstr "Taman Bir"
+
+#: src/data/categories.ts:16307
+msgid "Beer Store"
+msgstr "Kedai Bir"
+
+#: src/data/categories.ts:2244
+msgid "Beijing"
+msgstr ""
+
+#: src/data/categories.ts:2180
+msgid "Belarusian"
+msgstr "Restoran Belarus"
+
+#: src/data/categories.ts:2212
+msgid "Belgian"
+msgstr "Restoran Belgium"
+
+#: src/data/categories.ts:2260
+msgid "Betawinese"
+msgstr ""
+
+#: src/data/categories.ts:18462
+msgid "Bicycle"
+msgstr "Basikal"
+
+#: src/data/categories.ts:14782
+msgid "Bicycle Repair"
+msgstr "Membaiki Basikal"
+
+#: src/data/categories.ts:15458
+msgid "Bicycle Store"
+msgstr "Kedai Basikal"
+
+#: src/data/categories.ts:15485
+msgid "Big Box Store"
+msgstr "Kedai Kotak Besar"
+
+#: src/data/categories.ts:18467
+msgid "Bike Rental"
+msgstr "Penyewaan Basikal"
+
+#: src/data/categories.ts:18489
+msgid "Bike Share Station"
+msgstr "Stesen Kongsi Basikal"
+
+#: src/data/categories.ts:9559
+msgid "Bike Trail"
+msgstr "Denai Basikal"
+
+#: src/data/categories.ts:2276
+msgid "Bistro"
+msgstr "Bistro"
+
+#: src/data/categories.ts:18603
+msgid "Boarding House"
+msgstr "Rumah Penginapan"
+
+#: src/data/categories.ts:9571
+msgid "Boat Charter"
+msgstr "Penyewaan Kapal "
+
+#: src/data/categories.ts:9598
+msgid "Boat Ramp"
+msgstr "Kawasan Gerak Bot"
+
+#: src/data/categories.ts:9610
+msgid "Boat Rental"
+msgstr "Sewaan Bot"
+
+#: src/data/categories.ts:11057
+msgid "Boat Sales"
+msgstr "Jualan Bot"
+
+#: src/data/categories.ts:2308
+msgid "Bodega"
+msgstr "Rumah stor"
+
+#: src/data/categories.ts:15512
+msgid "Bookstore"
+msgstr "Kedai buku"
+
+#: src/data/categories.ts:2340
+msgid "Bosnian"
+msgstr "Restoran Bosnia"
+
+#: src/data/categories.ts:9432
+msgid "Botanical Garden"
+msgstr "Taman Botani"
+
+#: src/data/categories.ts:15652
+msgid "Boutique"
+msgstr "Butik"
+
+#: src/data/categories.ts:10152
+msgid "Bowling Alley"
+msgstr "Lorong Boling"
+
+#: src/data/categories.ts:10179
+msgid "Boxing Gym"
+msgstr "Gim Tinju"
+
+#: src/data/categories.ts:2372
+msgid "Brazilian"
+msgstr "Restoran Brazil"
+
+#: src/data/categories.ts:2404
+msgid "Breakfast"
+msgstr "Sarapan pagi"
+
+#: src/data/categories.ts:7860
+msgid "Brewery"
+msgstr "Kilang bir"
+
+#: src/data/categories.ts:2436
+msgid "Brewpub"
+msgstr "Pub bru"
+
+#: src/data/categories.ts:15679
+msgid "Bridal Store"
+msgstr "Kedai Pengantin"
+
+#: src/data/categories.ts:8909
+msgid "Bridge"
+msgstr "Jambatan"
+
+#: src/data/categories.ts:2468
+msgid "British"
+msgstr "Restoran British"
+
+#: src/data/categories.ts:2500
+msgid "Bubble Tea"
+msgstr "Teh Buih"
+
+#: src/data/categories.ts:14257
+msgid "Buddhist Temple"
+msgstr "Tokong Buddha"
+
+#: src/data/categories.ts:2532
+msgid "Buffet"
+msgstr "Bufet"
+
+#: src/data/categories.ts:13325
+#: src/data/categories.ts:18496
+msgid "Building"
+msgstr "Bangunan"
+
+#: src/data/categories.ts:11558
+msgid "Building & Trades"
+msgstr "Pembinaan & Pertukangan"
+
+#: src/data/categories.ts:16908
+msgid "Building Materials"
+msgstr "Bahan Bangunan"
+
+#: src/data/categories.ts:2564
+msgid "Bulgarian"
+msgstr "Restoran Bulgaria"
+
+#: src/data/categories.ts:1139
+msgid "Bull Ring"
+msgstr "Gelanggang Lembu"
+
+#: src/data/categories.ts:2596
+msgid "Burgers"
+msgstr "Burger"
+
+#: src/data/categories.ts:2628
+msgid "Burmese"
+msgstr "Restoran Burma"
+
+#: src/data/categories.ts:2660
+msgid "Burritos"
+msgstr "Burito"
+
+#: src/data/categories.ts:18808
+msgid "Bus Station"
+msgstr "Stesen Bas"
+
+#: src/data/categories.ts:18820
+msgid "Bus Stop"
+msgstr "Perhentian Bas"
+
+#: src/data/categories.ts:13352
+msgid "Business Center"
+msgstr "Pusat Perniagaan"
+
+#: src/data/categories.ts:16334
+msgid "Butcher Shop"
+msgstr "Kedai daging"
+
+#: src/data/categories.ts:18832
+msgid "Cable Car Station"
+msgstr "Stesen Kereta Kabel"
+
+#: src/data/categories.ts:2692
+msgid "Cafe"
+msgstr "Kafe"
+
+#: src/data/categories.ts:2724
+msgid "Cafeteria"
+msgstr "Kafetaria "
+
+#: src/data/categories.ts:2756
+msgid "Cajun & Creole"
+msgstr "Cajun & Creole"
+
+#: src/data/categories.ts:2788
+msgid "Cambodian"
+msgstr "Restoran Cambodia"
+
+#: src/data/categories.ts:15539
+msgid "Camera Store"
+msgstr "Kedai Kamera"
+
+#: src/data/categories.ts:9622
+#: src/data/categories.ts:18625
+msgid "Campground"
+msgstr "Kawasan khemah"
+
+#: src/data/categories.ts:16361
+msgid "Candy Store"
+msgstr "Kedai Gula-gula"
+
+#: src/data/categories.ts:2820
+msgid "Cantonese"
+msgstr "Restoran Kantonis"
+
+#: src/data/categories.ts:8921
+msgid "Canyon"
+msgstr "Ngarai"
+
+#: src/data/categories.ts:1324
+msgid "Capitol Building"
+msgstr "Bangunan Kapitol"
+
+#: src/data/categories.ts:11084
+msgid "Car Wash"
+msgstr "Mencuci Kereta "
+
+#: src/data/categories.ts:2852
+msgid "Caribbean"
+msgstr "Restoran Caribbean"
+
+#: src/data/categories.ts:41
+msgid "Carousel"
+msgstr "Karusel"
+
+#: src/data/categories.ts:11563
+msgid "Carpenter"
+msgstr "Tukang kayu"
+
+#: src/data/categories.ts:16935
+msgid "Carpets & Floor Coverings"
+msgstr "Permaidani & Penutup Lantai"
+
+#: src/data/categories.ts:63
+msgid "Casino"
+msgstr "Kasino"
+
+#: src/data/categories.ts:8933
+msgid "Castle"
+msgstr "Istana"
+
+#: src/data/categories.ts:15566
+msgid "Catalog Store"
+msgstr "Kedai Katalog"
+
+#: src/data/categories.ts:11973
+msgid "Catering"
+msgstr "Katering"
+
+#: src/data/categories.ts:8945
+msgid "Cave"
+msgstr "Gua"
+
+#: src/data/categories.ts:8957
+msgid "Cemetery"
+msgstr "Perkuburan"
+
+#: src/data/categories.ts:2884
+msgid "Cha Chaan Teng"
+msgstr ""
+
+#: src/data/categories.ts:18647
+msgid "Chalets"
+msgstr "Chalet"
+
+#: src/data/categories.ts:7892
+msgid "Champagne Bar"
+msgstr "Bar Champagne"
+
+#: src/data/categories.ts:12994
+msgid "Check Cashing"
+msgstr "Menunaikan Cek"
+
+#: src/data/categories.ts:16388
+msgid "Cheese Shop"
+msgstr "Kedai Keju"
+
+#: src/data/categories.ts:90
+msgid "Chess"
+msgstr "Catur"
+
+#: src/data/categories.ts:15167
+msgid "Child Care"
+msgstr "Asuhan Kanak-kanak"
+
+#: src/data/categories.ts:15706
+msgid "Children's Clothing Store"
+msgstr "Kedai Pakaian Kanak-kanak"
+
+#: src/data/categories.ts:2900
+msgid "Chinese"
+msgstr "Restoran Cina"
+
+#: src/data/categories.ts:2932
+msgid "Chinese Breakfast"
+msgstr ""
+
+#: src/data/categories.ts:12144
+msgid "Chiropractor"
+msgstr "Kiropraktor"
+
+#: src/data/categories.ts:16415
+msgid "Chocolate Shop"
+msgstr "Kedai Coklat"
+
+#: src/data/categories.ts:14279
+msgid "Church"
+msgstr "Gereja"
+
+#: src/data/categories.ts:904
+msgid "Circus"
+msgstr "Sarkas"
+
+#: src/data/categories.ts:1351
+msgid "City Hall"
+msgstr "Dewan Bandar Raya"
+
+#: src/data/categories.ts:9444
+msgid "City Park"
+msgstr "Taman Bandar"
+
+#: src/data/categories.ts:8969
+msgid "City Walls"
+msgstr "Tembok Bandar"
+
+#: src/data/categories.ts:1319
+msgid "Civic"
+msgstr "Sivik"
+
+#: src/data/categories.ts:1378
+msgid "Civic Center"
+msgstr "Pusat Sivik"
+
+#: src/data/categories.ts:11585
+msgid "Cleaning & Sanitation"
+msgstr "Pembersihan & Sanitasi"
+
+#: src/data/categories.ts:8981
+msgid "Cliff"
+msgstr "Cenuram"
+
+#: src/data/categories.ts:10206
+msgid "Climbing Gym"
+msgstr "Gim Mendaki"
+
+#: src/data/categories.ts:12171
+msgid "Clinic"
+msgstr "Klinik"
+
+#: src/data/categories.ts:15593
+msgid "Clothing"
+msgstr "Pakaian"
+
+#: src/data/categories.ts:7924
+msgid "Cocktail Bar"
+msgstr "Bar Koktel"
+
+#: src/data/categories.ts:2948
+msgid "Coffee Shop"
+msgstr "Kedai Kopi"
+
+#: src/data/categories.ts:7041
+msgid "College"
+msgstr "Kolej"
+
+#: src/data/categories.ts:7058
+msgid "College Academic Building"
+msgstr "Bangunan Akademik Kolej"
+
+#: src/data/categories.ts:7070
+msgid "College Administrative Building"
+msgstr "Bangunan Pentadbiran Kolej"
+
+#: src/data/categories.ts:7082
+msgid "College Bookstore"
+msgstr "Kedai Buku Kolej"
+
+#: src/data/categories.ts:7109
+msgid "College Cafeteria"
+msgstr "Kafeteria Kolej"
+
+#: src/data/categories.ts:14572
+msgid "College Dormitory / Residence Hall"
+msgstr "Asrama Kolej / Dewan Kediaman"
+
+#: src/data/categories.ts:7136
+msgid "College Gym"
+msgstr "Gim Kolej"
+
+#: src/data/categories.ts:7148
+msgid "College Library"
+msgstr "Perpustakaan Kolej"
+
+#: src/data/categories.ts:7165
+msgid "College Quad"
+msgstr "Kuad Kolej"
+
+#: src/data/categories.ts:7170
+msgid "College Rec Center"
+msgstr "Pusat Rekreasi Kolej"
+
+#: src/data/categories.ts:7182
+msgid "College Theater"
+msgstr "Teater Kolej"
+
+#: src/data/categories.ts:2980
+msgid "Colombian"
+msgstr "Restoran Colombia"
+
+#: src/data/categories.ts:931
+msgid "Comedy Club"
+msgstr "Kelab Komedi"
+
+#: src/data/categories.ts:15870
+msgid "Comic Books"
+msgstr "Buku Komik"
+
+#: src/data/categories.ts:11851
+msgid "Communications"
+msgstr "Komunikasi"
+
+#: src/data/categories.ts:14034
+msgid "Community Association"
+msgstr "Persatuan Komuniti"
+
+#: src/data/categories.ts:1405
+msgid "Community Center"
+msgstr "Pusat Komuniti"
+
+#: src/data/categories.ts:7204
+msgid "Community College"
+msgstr "Kolej Komuniti"
+
+#: src/data/categories.ts:13379
+msgid "Computer Services"
+msgstr "Perkhidmatan Komputer"
+
+#: src/data/categories.ts:15897
+msgid "Computers & Home Electronics"
+msgstr "Komputer & Elektronik Rumah"
+
+#: src/data/categories.ts:681
+msgid "Concert Hall"
+msgstr "Dewan Konsert"
+
+#: src/data/categories.ts:14301
+msgid "Confucian Temple"
+msgstr "Tokong Confucius"
+
+#: src/data/categories.ts:11607
+msgid "Construction Company"
+msgstr "Syarikat Pembinaan"
+
+#: src/data/categories.ts:1432
+msgid "Consulate / Embassy"
+msgstr "Konsulat/ Duta"
+
+#: src/data/categories.ts:16442
+msgid "Convenience Store"
+msgstr "Kedai mudah beli"
+
+#: src/data/categories.ts:14323
+msgid "Convent"
+msgstr "Biara"
+
+#: src/data/categories.ts:11995
+msgid "Convention Center"
+msgstr "Pusat Konvensyen"
+
+#: src/data/categories.ts:7221
+msgid "Cooking School"
+msgstr "Sekolah Memasak"
+
+#: src/data/categories.ts:15924
+msgid "Cosmetics Shop"
+msgstr "Kedai Kosmetik"
+
+#: src/data/categories.ts:15951
+msgid "Costume Shop"
+msgstr "Kedai Kostum"
+
+#: src/data/categories.ts:1459
+msgid "Court House"
+msgstr "Bangunan Mahkamah"
+
+#: src/data/categories.ts:13406
+msgid "Coworking Space"
+msgstr "Ruang Bekerja"
+
+#: src/data/categories.ts:15978
+msgid "Craft Store"
+msgstr "Kedai Kraf"
+
+#: src/data/categories.ts:13021
+msgid "Credit Union"
+msgstr "Kesatuan Kredit"
+
+#: src/data/categories.ts:3012
+msgid "Creperie"
+msgstr "Creperie"
+
+#: src/data/categories.ts:10233
+msgid "Cricket"
+msgstr "Kriket"
+
+#: src/data/categories.ts:3044
+msgid "Cuban"
+msgstr "Restoran Cuba"
+
+#: src/data/categories.ts:1481
+msgid "Cultural Center"
+msgstr "Pusat Budaya"
+
+#: src/data/categories.ts:3076
+msgid "Cupcake Shop"
+msgstr "Kedai Kek Cawan"
+
+#: src/data/categories.ts:13048
+msgid "Currency Exchange"
+msgstr "Pertukaran Mata Wang"
+
+#: src/data/categories.ts:1508
+msgid "Customs House"
+msgstr "Pejabat Kastam"
+
+#: src/data/categories.ts:10260
+msgid "Cycle Studio"
+msgstr "Studio Berbasikal"
+
+#: src/data/categories.ts:3108
+msgid "Czech"
+msgstr "Restoran Czech"
+
+#: src/data/categories.ts:8713
+msgid "Dairy Farm"
+msgstr "Kebun Tenusu"
+
+#: src/data/categories.ts:16469
+msgid "Dairy Store"
+msgstr "Kedai Tenusu"
+
+#: src/data/categories.ts:8993
+msgid "Dam"
+msgstr "Empangan"
+
+#: src/data/categories.ts:958
+msgid "Dance"
+msgstr "Menari"
+
+#: src/data/categories.ts:102
+msgid "Dance Hall"
+msgstr "Dewan Tari-menari"
+
+#: src/data/categories.ts:7248
+msgid "Dance Studio"
+msgstr "Studio Tarian"
+
+#: src/data/categories.ts:11367
+msgid "Day Spa"
+msgstr "Spa Siang Hari"
+
+#: src/data/categories.ts:3140
+msgid "Deli"
+msgstr "Deli"
+
+#: src/data/categories.ts:12198
+msgid "Dentist"
+msgstr "Doktor Gigi"
+
+#: src/data/categories.ts:16005
+msgid "Department Store"
+msgstr "Kedai serbaneka"
+
+#: src/data/categories.ts:1535
+msgid "Department of Motor Vehicles"
+msgstr "Jabatan Kenderaan Bermotor"
+
+#: src/data/categories.ts:3172
+msgid "Dessert Shop"
+msgstr "Kedai Pencuci Mulut"
+
+#: src/data/categories.ts:13433
+msgid "Detective & Security Services"
+msgstr "Perkhidmatan Mengesan & Keselamatan"
+
+#: src/data/categories.ts:10287
+msgid "Diet & Weight Loss"
+msgstr "Diet & Hilang Berat Badan"
+
+#: src/data/categories.ts:16032
+msgid "Dietary & Supplement Shop"
+msgstr "Kedai Pemakanan & Tambahan"
+
+#: src/data/categories.ts:9005
+msgid "Dike"
+msgstr "Daik"
+
+#: src/data/categories.ts:3204
+msgid "Dim Sum"
+msgstr "Dim Sum"
+
+#: src/data/categories.ts:3236
+msgid "Diner"
+msgstr "Gerabak makan minum"
+
+#: src/data/categories.ts:1807
+msgid "Dining"
+msgstr "Ruang makan"
+
+#: src/data/categories.ts:3268
+msgid "Dinner Theater"
+msgstr "Panggung Wayang Makan Malam"
+
+#: src/data/categories.ts:9634
+msgid "Disc Golf"
+msgstr "Golf Cakera"
+
+#: src/data/categories.ts:16059
+msgid "Discount & Variety Store"
+msgstr "Kedai Diskaun & Aneka "
+
+#: src/data/categories.ts:7956
+msgid "Distillery"
+msgstr "Kilang penyulingan"
+
+#: src/data/categories.ts:12740
+msgid "Distribution Center"
+msgstr "Pusat Pengagihan"
+
+#: src/data/categories.ts:7988
+msgid "Dive Bar"
+msgstr "Bar Tidak Senonoh"
+
+#: src/data/categories.ts:9646
+msgid "Dive Center"
+msgstr "Pusat Terjun"
+
+#: src/data/categories.ts:10314
+msgid "Diving Center"
+msgstr "Pusat Terjun"
+
+#: src/data/categories.ts:12225
+msgid "Doctor"
+msgstr "Doktor"
+
+#: src/data/categories.ts:9456
+msgid "Dog Park"
+msgstr "Taman Anjing"
+
+#: src/data/categories.ts:1161
+msgid "Dog Racetrack"
+msgstr "Balapan Lumba Anjing"
+
+#: src/data/categories.ts:3300
+msgid "Dongbei"
+msgstr ""
+
+#: src/data/categories.ts:3316
+msgid "Donut Shop"
+msgstr "Kedai Donut"
+
+#: src/data/categories.ts:3348
+msgid "Dosa"
+msgstr "Dosa"
+
+#: src/data/categories.ts:11233
+msgid "Drinking Water"
+msgstr "Minum Air"
+
+#: src/data/categories.ts:397
+msgid "Drive-in Theater"
+msgstr "Panggung Pandu masuk"
+
+#: src/data/categories.ts:7275
+msgid "Driving School"
+msgstr "Sekolah Memandu"
+
+#: src/data/categories.ts:14809
+msgid "Dry Cleaner"
+msgstr "Kedai Cucian Kering"
+
+#: src/data/categories.ts:3380
+msgid "Dumpling"
+msgstr "Ladu"
+
+#: src/data/categories.ts:9017
+msgid "Dunes"
+msgstr "Gumuk "
+
+#: src/data/categories.ts:3412
+msgid "Dutch"
+msgstr "Restoran Belanda"
+
+#: src/data/categories.ts:16086
+msgid "Duty Free Shop"
+msgstr "Kedai Bebas Cukai"
+
+#: src/data/categories.ts:18346
+msgid "Duty-free Shop"
+msgstr "Kedai Bebas Cukai"
+
+#: src/data/categories.ts:11106
+msgid "EV Charging Station"
+msgstr "Stesen Mengecas EV"
+
+#: src/data/categories.ts:3444
+msgid "Eastern European"
+msgstr "Restoran Eropah Timur"
+
+#: src/data/categories.ts:6982
+msgid "Education"
+msgstr "Pendidikan"
+
+#: src/data/categories.ts:11629
+msgid "Electrician"
+msgstr "Juruelektrik"
+
+#: src/data/categories.ts:16113
+msgid "Electronics Store"
+msgstr "Kedai Elektronik"
+
+#: src/data/categories.ts:7302
+msgid "Elementary School"
+msgstr "Sekolah Rendah"
+
+#: src/data/categories.ts:18501
+msgid "Elevator"
+msgstr "Lif"
+
+#: src/data/categories.ts:15194
+msgid "Emergency Phone"
+msgstr "Telefon Kecemasan"
+
+#: src/data/categories.ts:12252
+msgid "Emergency Room"
+msgstr "Bilik Kecemasan"
+
+#: src/data/categories.ts:15206
+msgid "Emergency Shelter"
+msgstr "Tempat Berlindung Kecemasan"
+
+#: src/data/categories.ts:3476
+msgid "Empanada"
+msgstr "Empanada"
+
+#: src/data/categories.ts:13460
+msgid "Employment Agencies"
+msgstr "Agensi Pekerjaan"
+
+#: src/data/categories.ts:15233
+msgid "Employment Agency"
+msgstr "Agensi Pekerjaan"
+
+#: src/data/categories.ts:13487
+msgid "Engineering"
+msgstr "Kejuruteraan"
+
+#: src/data/categories.ts:13514
+msgid "Entertainment Service"
+msgstr "Perkhidmatan Hiburan"
+
+#: src/data/categories.ts:18506
+msgid "Entrance"
+msgstr "Jalan masuk"
+
+#: src/data/categories.ts:11651
+msgid "Equipment Rental"
+msgstr "Sewaan Peralatan"
+
+#: src/data/categories.ts:512
+msgid "Erotic Museum"
+msgstr "Muzium Erotik"
+
+#: src/data/categories.ts:18511
+msgid "Escalator"
+msgstr "Eskalator"
+
+#: src/data/categories.ts:3508
+msgid "Ethiopian"
+msgstr "Restoran Ethiopia"
+
+#: src/data/categories.ts:12017
+msgid "Event Space"
+msgstr "Ruang Acara"
+
+#: src/data/categories.ts:16140
+msgid "Event Tickets"
+msgstr "Tiket Acara"
+
+#: src/data/categories.ts:11968
+msgid "Events"
+msgstr "Acara"
+
+#: src/data/categories.ts:12039
+msgid "Exhibition Hall"
+msgstr "Dewan Pameran"
+
+#: src/data/categories.ts:16167
+msgid "Fabric Store"
+msgstr "Kedai Kain"
+
+#: src/data/categories.ts:12762
+msgid "Factory"
+msgstr "Kilang"
+
+#: src/data/categories.ts:3540
+msgid "Falafel"
+msgstr "Falafel"
+
+#: src/data/categories.ts:8740
+msgid "Farm"
+msgstr "Kebun"
+
+#: src/data/categories.ts:16496
+msgid "Farmers Market"
+msgstr "Pasar Tani"
+
+#: src/data/categories.ts:8681
+msgid "Farming"
+msgstr "Perladangan "
+
+#: src/data/categories.ts:3572
+msgid "Fast Food"
+msgstr "Makanan Segera"
+
+#: src/data/categories.ts:18523
+msgid "Ferry Terminal"
+msgstr "Terminal Feri"
+
+#: src/data/categories.ts:985
+msgid "Festival"
+msgstr "Pesta"
+
+#: src/data/categories.ts:3604
+msgid "Filipino"
+msgstr "Restoran Filipina"
+
+#: src/data/categories.ts:11856
+msgid "Film & Video Production"
+msgstr "Pengeluaran Filem & Video"
+
+#: src/data/categories.ts:13075
+msgid "Financial Services"
+msgstr "Perkhidmatan Kewangan"
+
+#: src/data/categories.ts:266
+msgid "Fine Arts"
+msgstr "Seni Halus"
+
+#: src/data/categories.ts:1562
+msgid "Fire Station"
+msgstr "Balai Bomba"
+
+#: src/data/categories.ts:9029
+msgid "Firepit"
+msgstr "Lubang bakar"
+
+#: src/data/categories.ts:3636
+msgid "Fish & Chips"
+msgstr "Ikan & Kentang Goreng "
+
+#: src/data/categories.ts:16523
+msgid "Fish Market"
+msgstr "Pasar Ikan"
+
+#: src/data/categories.ts:9658
+msgid "Fishing"
+msgstr "Memancing ikan"
+
+#: src/data/categories.ts:16194
+msgid "Fishing Supply"
+msgstr "Bekalan Perikanan"
+
+#: src/data/categories.ts:10341
+msgid "Fitness Center"
+msgstr "Pusat Kecergasan"
+
+#: src/data/categories.ts:16221
+msgid "Flea Market"
+msgstr "Pasar Lambak"
+
+#: src/data/categories.ts:7324
+msgid "Flight School"
+msgstr "Sekolah Penerbangan"
+
+#: src/data/categories.ts:16248
+msgid "Florist"
+msgstr "Kedai bunga"
+
+#: src/data/categories.ts:3668
+msgid "Fondue"
+msgstr "Fondue"
+
+#: src/data/categories.ts:16275
+msgid "Food & Beverage"
+msgstr "Makanan & Minuman"
+
+#: src/data/categories.ts:3700
+msgid "Food Court"
+msgstr "Gerai Makanan"
+
+#: src/data/categories.ts:1183
+msgid "Football Stadium"
+msgstr "Stadium Bola Sepak"
+
+#: src/data/categories.ts:9468
+msgid "Forest"
+msgstr "Hutan"
+
+#: src/data/categories.ts:9041
+msgid "Fortress"
+msgstr "Kubu"
+
+#: src/data/categories.ts:14061
+msgid "Foundation"
+msgstr "Yayasan"
+
+#: src/data/categories.ts:9053
+msgid "Fountain"
+msgstr "Air pancut"
+
+#: src/data/categories.ts:16795
+msgid "Frame Shop"
+msgstr "Kedai Bingkai"
+
+#: src/data/categories.ts:14594
+msgid "Fraternity House"
+msgstr "Rumah Frateniti"
+
+#: src/data/categories.ts:3732
+msgid "French"
+msgstr "Restoran Perancis"
+
+#: src/data/categories.ts:3764
+msgid "Fried Chicken"
+msgstr "Ayam Goreng"
+
+#: src/data/categories.ts:3796
+msgid "Friterie"
+msgstr "Goreng"
+
+#: src/data/categories.ts:3828
+msgid "Frozen Yogurt"
+msgstr "Yogurt Sejuk"
+
+#: src/data/categories.ts:16550
+msgid "Fruits & Vegetables"
+msgstr "Buah-buahan & Sayur-sayuran"
+
+#: src/data/categories.ts:3860
+msgid "Fujian"
+msgstr ""
+
+#: src/data/categories.ts:13541
+msgid "Funeral Home"
+msgstr "Rumah Pengebumian"
+
+#: src/data/categories.ts:14836
+msgid "Gaming Cafe"
+msgstr "Kafe Permainan"
+
+#: src/data/categories.ts:9670
+msgid "Garden"
+msgstr "Taman"
+
+#: src/data/categories.ts:16962
+msgid "Garden Center"
+msgstr "Pusat Taman"
+
+#: src/data/categories.ts:11123
+msgid "Gas Station"
+msgstr "Stesen minyak"
+
+#: src/data/categories.ts:3876
+msgid "Gastropub"
+msgstr "Gastropub"
+
+#: src/data/categories.ts:9065
+msgid "Gate"
+msgstr "Pintu gerbang"
+
+#: src/data/categories.ts:8020
+msgid "Gay Bar"
+msgstr "Bar Lelaki Homoseksual"
+
+#: src/data/categories.ts:15733
+msgid "General Clothing Store"
+msgstr "Kedai Pakaian Am"
+
+#: src/data/categories.ts:3908
+msgid "German"
+msgstr "Restoran Jerman"
+
+#: src/data/categories.ts:16822
+msgid "Gifts & Souvenirs"
+msgstr "Hadiah & Cenderamata "
+
+#: src/data/categories.ts:9077
+msgid "Glacier"
+msgstr "Glasier"
+
+#: src/data/categories.ts:3940
+msgid "Gluten-free"
+msgstr "Bebas gluten"
+
+#: src/data/categories.ts:129
+msgid "Go Karts"
+msgstr "Go-kart"
+
+#: src/data/categories.ts:10368
+msgid "Golf Course"
+msgstr "Padang Golf"
+
+#: src/data/categories.ts:10395
+msgid "Golf Driving Range"
+msgstr "Lapangan Sasar Golf"
+
+#: src/data/categories.ts:16577
+msgid "Gourmet Shop"
+msgstr "Kedai Gourmet"
+
+#: src/data/categories.ts:1567
+msgid "Government Building"
+msgstr "Bangunan Kerajaan"
+
+#: src/data/categories.ts:7351
+msgid "Graduate School"
+msgstr "Sekolah Siswazah"
+
+#: src/data/categories.ts:3972
+msgid "Greek"
+msgstr "Restoran Greek"
+
+#: src/data/categories.ts:16604
+msgid "Grocery"
+msgstr "Runcit"
+
+#: src/data/categories.ts:18669
+msgid "Guest House"
+msgstr "Rumah Tamu"
+
+#: src/data/categories.ts:9682
+msgid "Gun Range"
+msgstr "Padang Tembak"
+
+#: src/data/categories.ts:16849
+msgid "Gun Shop"
+msgstr "Kedai Senjata"
+
+#: src/data/categories.ts:10422
+msgid "Gym"
+msgstr "Gim"
+
+#: src/data/categories.ts:10449
+msgid "Gymnastics Studio"
+msgstr "Studio Gimnastik"
+
+#: src/data/categories.ts:11673
+msgid "HVAC Company"
+msgstr "Syarikat HVAC"
+
+#: src/data/categories.ts:13568
+msgid "Hacker Space"
+msgstr "Ruang Penggodam"
+
+#: src/data/categories.ts:4004
+msgid "Halal"
+msgstr "Halal"
+
+#: src/data/categories.ts:16989
+msgid "Hardware Store"
+msgstr "Kedai Perkakasan"
+
+#: src/data/categories.ts:4036
+msgid "Hawaiian"
+msgstr "Restoran Hawaii"
+
+#: src/data/categories.ts:12085
+msgid "Health"
+msgstr "Kesihatan"
+
+#: src/data/categories.ts:4068
+msgid "Health Food"
+msgstr "Makanan Sihat"
+
+#: src/data/categories.ts:16631
+msgid "Health Food Store"
+msgstr "Kedai Makanan Kesihatan"
+
+#: src/data/categories.ts:18358
+msgid "Heliport"
+msgstr "Lapangan helikopter"
+
+#: src/data/categories.ts:16658
+msgid "Herbs & Spices"
+msgstr "Herba & Rempah"
+
+#: src/data/categories.ts:7368
+msgid "High School"
+msgstr "Sekolah Tinggi"
+
+#: src/data/categories.ts:4100
+msgid "Himalayan"
+msgstr ""
+
+#: src/data/categories.ts:14345
+msgid "Hindu Temple"
+msgstr "Tokong Hindu"
+
+#: src/data/categories.ts:317
+msgid "Historic"
+msgstr "Bersejarah"
+
+#: src/data/categories.ts:339
+msgid "Historic Building"
+msgstr "Bangunan Bersejarah"
+
+#: src/data/categories.ts:356
+msgid "Historic Site"
+msgstr "Tempat Bersejarah"
+
+#: src/data/categories.ts:539
+msgid "History Museum"
+msgstr "Muzium Sejarah"
+
+#: src/data/categories.ts:16876
+msgid "Hobby Store"
+msgstr "Kedai Hobi"
+
+#: src/data/categories.ts:1205
+msgid "Hockey Arena"
+msgstr "Gelanggang Hoki"
+
+#: src/data/categories.ts:10476
+msgid "Hockey Field"
+msgstr "Padang Hoki"
+
+#: src/data/categories.ts:16903
+msgid "Home & Garden"
+msgstr "Taman Rumah"
+
+#: src/data/categories.ts:17016
+msgid "Home Furnishings"
+msgstr "Hiasan Rumah"
+
+#: src/data/categories.ts:4116
+msgid "Hong Kong"
+msgstr "Restoran Hong Kong"
+
+#: src/data/categories.ts:8052
+msgid "Hookah Bar"
+msgstr "Bar Hukah"
+
+#: src/data/categories.ts:1227
+msgid "Horse Racetrack"
+msgstr "Balapan Lumba Kuda"
+
+#: src/data/categories.ts:12279
+msgid "Hospice"
+msgstr "Hospis"
+
+#: src/data/categories.ts:12306
+msgid "Hospital"
+msgstr "Hospital"
+
+#: src/data/categories.ts:18691
+msgid "Hostel"
+msgstr "Asrama"
+
+#: src/data/categories.ts:4148
+msgid "Hot Dog"
+msgstr "Hot Dog"
+
+#: src/data/categories.ts:4180
+msgid "Hot Pot"
+msgstr "Periuk Panas"
+
+#: src/data/categories.ts:9089
+msgid "Hot Spring"
+msgstr "Mata air panas"
+
+#: src/data/categories.ts:18713
+msgid "Hotel"
+msgstr "Hotel"
+
+#: src/data/categories.ts:8084
+msgid "Hotel Bar"
+msgstr "Bar Hotel"
+
+#: src/data/categories.ts:17043
+msgid "Household Appliances"
+msgstr "Alatan Rumah"
+
+#: src/data/categories.ts:14616
+msgid "Housing Project"
+msgstr "Projek Perumahan"
+
+#: src/data/categories.ts:4212
+msgid "Huaiyang"
+msgstr ""
+
+#: src/data/categories.ts:4228
+msgid "Hunan"
+msgstr ""
+
+#: src/data/categories.ts:4244
+msgid "Hungarian"
+msgstr "Restoran Hungary"
+
+#: src/data/categories.ts:4276
+msgid "Ice Cream"
+msgstr "Ais Krim"
+
+#: src/data/categories.ts:10503
+msgid "Ice Skating Rink"
+msgstr "Gelanggang bermain kasut roda"
+
+#: src/data/categories.ts:4308
+msgid "Indian"
+msgstr "Restoran India"
+
+#: src/data/categories.ts:4340
+msgid "Indian Sweets"
+msgstr "Gula-gula India"
+
+#: src/data/categories.ts:4372
+msgid "Indonesian"
+msgstr "Restoran Indonesia"
+
+#: src/data/categories.ts:4404
+msgid "Indonesian Meatballs"
+msgstr ""
+
+#: src/data/categories.ts:1249
+msgid "Indoor Arena"
+msgstr "Gelanggang Dalam Bangunan"
+
+#: src/data/categories.ts:12713
+msgid "Industrial"
+msgstr "Industri"
+
+#: src/data/categories.ts:12784
+msgid "Industrial Estate"
+msgstr "Kawasan Perindustrian"
+
+#: src/data/categories.ts:13595
+msgid "Insurance Agent"
+msgstr "Ejen Insurans"
+
+#: src/data/categories.ts:13622
+msgid "Internet Cafe"
+msgstr "Kafe Internet"
+
+#: src/data/categories.ts:13102
+msgid "Investment Brokerage"
+msgstr "Pembrokeran Pelaburan"
+
+#: src/data/categories.ts:4420
+msgid "Irish"
+msgstr "Restoran Ireland"
+
+#: src/data/categories.ts:4452
+msgid "Israeli"
+msgstr "Restoran Israel"
+
+#: src/data/categories.ts:4484
+msgid "Italian"
+msgstr "Restoran Itali"
+
+#: src/data/categories.ts:4516
+msgid "Japanese"
+msgstr "Restoran Jepun"
+
+#: src/data/categories.ts:4548
+msgid "Javanese"
+msgstr ""
+
+#: src/data/categories.ts:708
+msgid "Jazz & Blues"
+msgstr "Jazz & Blues"
+
+#: src/data/categories.ts:9101
+msgid "Jetty"
+msgstr "Jeti"
+
+#: src/data/categories.ts:17153
+msgid "Jewelry Store"
+msgstr "Kedai Barang Kemas"
+
+#: src/data/categories.ts:4564
+msgid "Jewish"
+msgstr "Restoran Yahudi"
+
+#: src/data/categories.ts:4596
+msgid "Jiangsu"
+msgstr ""
+
+#: src/data/categories.ts:15260
+msgid "Job Training"
+msgstr "Latihan Pekerjaan"
+
+#: src/data/categories.ts:4612
+msgid "Juice Bar"
+msgstr "Bar Jus"
+
+#: src/data/categories.ts:8116
+msgid "Karaoke"
+msgstr "Karaoke"
+
+#: src/data/categories.ts:4644
+msgid "Kebab"
+msgstr "Kebab"
+
+#: src/data/categories.ts:7390
+msgid "Kindergarten"
+msgstr "Tadika"
+
+#: src/data/categories.ts:14367
+msgid "Kingdom Hall"
+msgstr "Dewan Kerajaan"
+
+#: src/data/categories.ts:17070
+msgid "Kitchen Supply"
+msgstr "Bekalan Dapur"
+
+#: src/data/categories.ts:17180
+msgid "Knitting Store"
+msgstr "Kedai Sulam"
+
+#: src/data/categories.ts:4676
+msgid "Korean"
+msgstr "Restoran Korea"
+
+#: src/data/categories.ts:4708
+msgid "Korean Barbecue"
+msgstr "Barbeku Korea"
+
+#: src/data/categories.ts:14088
+msgid "Labor Organization"
+msgstr "Organisasi Buruh"
+
+#: src/data/categories.ts:12806
+msgid "Laboratory"
+msgstr "Makmal"
+
+#: src/data/categories.ts:9113
+msgid "Lagoon"
+msgstr "Lagun"
+
+#: src/data/categories.ts:9125
+msgid "Lake"
+msgstr "Tasik"
+
+#: src/data/categories.ts:11695
+msgid "Landfill"
+msgstr "Kambus tanah"
+
+#: src/data/categories.ts:8904
+msgid "Landmark"
+msgstr "Tanda tempat"
+
+#: src/data/categories.ts:11717
+msgid "Landscaper"
+msgstr "Tukang landskap"
+
+#: src/data/categories.ts:7412
+msgid "Language School"
+msgstr "Sekolah Bahasa"
+
+#: src/data/categories.ts:9694
+msgid "Laser Tag"
+msgstr "Tanda Laser"
+
+#: src/data/categories.ts:4740
+msgid "Latin American"
+msgstr "Restoran Amerika Latin"
+
+#: src/data/categories.ts:14863
+msgid "Laundromat"
+msgstr "Kedai dobi layan diri"
+
+#: src/data/categories.ts:7439
+msgid "Law School"
+msgstr "Sekolah Undang-undang"
+
+#: src/data/categories.ts:13649
+msgid "Lawyer & Legal Services"
+msgstr "Perkhidmatan Guaman & Undang-undang"
+
+#: src/data/categories.ts:17207
+msgid "Leather Goods"
+msgstr "Barang-barang Kulit"
+
+#: src/data/categories.ts:4772
+msgid "Lebanese"
+msgstr "Restoran Lubnan"
+
+#: src/data/categories.ts:1594
+msgid "Library"
+msgstr "Perpustakaan"
+
+#: src/data/categories.ts:18844
+msgid "Light Rail Station"
+msgstr "Stesen Rel Ringan"
+
+#: src/data/categories.ts:9137
+msgid "Lighthouse"
+msgstr "Rumah api"
+
+#: src/data/categories.ts:17097
+msgid "Lighting Store"
+msgstr "Kedai Cahaya"
+
+#: src/data/categories.ts:15760
+msgid "Lingerie Shop"
+msgstr "Kedai Pakaian Dalam"
+
+#: src/data/categories.ts:16685
+msgid "Liquor Store"
+msgstr "Kedai Arak"
+
+#: src/data/categories.ts:8767
+msgid "Livestock Farm"
+msgstr "Kebun Ternakan"
+
+#: src/data/categories.ts:11739
+#: src/data/categories.ts:14890
+msgid "Locksmith"
+msgstr "Tukang kunci"
+
+#: src/data/categories.ts:18394
+msgid "Lot"
+msgstr "Lot"
+
+#: src/data/categories.ts:14917
+msgid "Lottery Store"
+msgstr "Kedai Loteri"
+
+#: src/data/categories.ts:8148
+msgid "Lounge"
+msgstr "Bilik istirehat"
+
+#: src/data/categories.ts:17234
+msgid "Luggage Store"
+msgstr "Kedai Bagasi"
+
+#: src/data/categories.ts:4804
+msgid "Mac & Cheese"
+msgstr "Mac & Keju"
+
+#: src/data/categories.ts:4836
+msgid "Macanese"
+msgstr ""
+
+#: src/data/categories.ts:4852
+msgid "Malaysian"
+msgstr "Restoran Malaysia"
+
+#: src/data/categories.ts:4884
+msgid "Mamak"
+msgstr ""
+
+#: src/data/categories.ts:4900
+msgid "Manadonese"
+msgstr ""
+
+#: src/data/categories.ts:13676
+msgid "Management & Consulting"
+msgstr "Pengurusan & Perundingan"
+
+#: src/data/categories.ts:12333
+msgid "Marijuana Dispensary"
+msgstr "Dispensari Ganja"
+
+#: src/data/categories.ts:9721
+msgid "Marina"
+msgstr "Marina"
+
+#: src/data/categories.ts:18518
+msgid "Marine"
+msgstr "Angkatan Tentera Marin"
+
+#: src/data/categories.ts:17261
+msgid "Marketplace"
+msgstr "Pasaran"
+
+#: src/data/categories.ts:10530
+msgid "Martial Arts"
+msgstr "Seni mempertahankan diri"
+
+#: src/data/categories.ts:11394
+msgid "Massage"
+msgstr "Urut"
+
+#: src/data/categories.ts:12360
+msgid "Maternity Clinic"
+msgstr "Klinik Perbidanan"
+
+#: src/data/categories.ts:17288
+msgid "Mattress Store"
+msgstr "Kedai Tilam"
+
+#: src/data/categories.ts:9733
+msgid "Maze"
+msgstr "Pagar sesat"
+
+#: src/data/categories.ts:12387
+msgid "Medical Center"
+msgstr "Pusat Perubatan"
+
+#: src/data/categories.ts:12414
+msgid "Medical Lab"
+msgstr "Makmal Perubatan"
+
+#: src/data/categories.ts:7456
+msgid "Medical School"
+msgstr "Sekolah Perubatan "
+
+#: src/data/categories.ts:17315
+msgid "Medical Supply Store"
+msgstr "Kedai Bekalan Perubatan"
+
+#: src/data/categories.ts:4916
+msgid "Mediterranean"
+msgstr "Restoran Mediterranean"
+
+#: src/data/categories.ts:14115
+msgid "Membership Organization"
+msgstr "Organisasi Keahlian"
+
+#: src/data/categories.ts:9149
+msgid "Memorial"
+msgstr "Peringatan"
+
+#: src/data/categories.ts:15787
+msgid "Men's Clothing Store"
+msgstr "Kedai Pakaian Lelaki"
+
+#: src/data/categories.ts:4948
+msgid "Mexican"
+msgstr "Restoran Mexico"
+
+#: src/data/categories.ts:4980
+msgid "Middle Eastern"
+msgstr "Restoran Timur Tengah"
+
+#: src/data/categories.ts:7473
+msgid "Middle School"
+msgstr "Sekolah Menengah"
+
+#: src/data/categories.ts:12441
+msgid "Midwife"
+msgstr "Bidan"
+
+#: src/data/categories.ts:1621
+msgid "Military Base"
+msgstr "Pangkalan Tentera"
+
+#: src/data/categories.ts:9750
+msgid "Miniature Golf"
+msgstr "Golf Miniatur"
+
+#: src/data/categories.ts:12828
+msgid "Mining & Drilling"
+msgstr "Pelombongan & Penggerudian"
+
+#: src/data/categories.ts:14389
+msgid "Mission"
+msgstr "Misi"
+
+#: src/data/categories.ts:17124
+msgid "Mobile Homes"
+msgstr "Rumah bergerak"
+
+#: src/data/categories.ts:17342
+msgid "Mobile Phones"
+msgstr "Telefon Mudah Alih"
+
+#: src/data/categories.ts:5012
+msgid "Modern European"
+msgstr "Restoran Eropah Moden"
+
+#: src/data/categories.ts:5044
+msgid "Molecular Gastronomy"
+msgstr "Gastronomi Molekul"
+
+#: src/data/categories.ts:14411
+msgid "Monastery"
+msgstr "Biara"
+
+#: src/data/categories.ts:12962
+msgid "Money"
+msgstr "Wang"
+
+#: src/data/categories.ts:5076
+msgid "Mongolian"
+msgstr "Restoran Mongolia"
+
+#: src/data/categories.ts:9161
+msgid "Monument"
+msgstr "Monumen"
+
+#: src/data/categories.ts:5108
+msgid "Moroccan"
+msgstr "Restoran Morocco"
+
+#: src/data/categories.ts:14433
+msgid "Mosque"
+msgstr "Masjid"
+
+#: src/data/categories.ts:18735
+msgid "Motel"
+msgstr "Motel"
+
+#: src/data/categories.ts:11145
+msgid "Motorcycle Sales"
+msgstr "Jualan Motosikal"
+
+#: src/data/categories.ts:9173
+msgid "Mountain"
+msgstr "Gunung"
+
+#: src/data/categories.ts:424
+msgid "Movie Rental"
+msgstr "Sewaan Filem"
+
+#: src/data/categories.ts:451
+msgid "Movie Theater"
+msgstr "Panggung Wayang"
+
+#: src/data/categories.ts:392
+msgid "Movies"
+msgstr "Filem"
+
+#: src/data/categories.ts:480
+msgid "Museum"
+msgstr "Muzium"
+
+#: src/data/categories.ts:622
+msgid "Music"
+msgstr "Muzik"
+
+#: src/data/categories.ts:7495
+msgid "Music School"
+msgstr "Sekolah Muzik"
+
+#: src/data/categories.ts:17369
+msgid "Music Store"
+msgstr "Kedai Muzik"
+
+#: src/data/categories.ts:11421
+msgid "Nail Salon"
+msgstr "Kedai Kuku"
+
+#: src/data/categories.ts:14638
+msgid "Named Residential Building"
+msgstr "Bangunan Kediaman Dinamakan"
+
+#: src/data/categories.ts:9480
+msgid "National Park"
+msgstr "Taman Negara"
+
+#: src/data/categories.ts:9492
+msgid "Nature Preserve"
+msgstr "Simpanan alam semula jadi"
+
+#: src/data/categories.ts:5140
+msgid "New American"
+msgstr "Restoran Amerika Baharu"
+
+#: src/data/categories.ts:11878
+msgid "Newspaper"
+msgstr "Surat khabar"
+
+#: src/data/categories.ts:17396
+msgid "Newsstand"
+msgstr "Gerai surat khabar"
+
+#: src/data/categories.ts:8180
+msgid "Nightclub"
+msgstr "Kelab malam"
+
+#: src/data/categories.ts:7727
+msgid "Nightlife"
+msgstr "Hiburan malam hari"
+
+#: src/data/categories.ts:13703
+msgid "Non-Profit"
+msgstr "Bukan untung"
+
+#: src/data/categories.ts:5172
+msgid "Noodles"
+msgstr "Mi"
+
+#: src/data/categories.ts:13730
+msgid "Notary"
+msgstr "Notari"
+
+#: src/data/categories.ts:9777
+msgid "Nude Beach"
+msgstr "Pantai Bogel"
+
+#: src/data/categories.ts:7522
+msgid "Nursery School"
+msgstr "Sekolah Bimbingan"
+
+#: src/data/categories.ts:12468
+msgid "Nursing Home"
+msgstr "Pusat Rawatan"
+
+#: src/data/categories.ts:12495
+msgid "Nutritionist"
+msgstr "Pakar pemakanan"
+
+#: src/data/categories.ts:13131
+msgid "Office"
+msgstr "Pejabat"
+
+#: src/data/categories.ts:17423
+msgid "Office Supply"
+msgstr "Bekalan pejabat"
+
+#: src/data/categories.ts:12850
+msgid "Oil Field"
+msgstr "Medan Minyak"
+
+#: src/data/categories.ts:735
+msgid "Opera"
+msgstr "Opera"
+
+#: src/data/categories.ts:17450
+msgid "Optical Goods"
+msgstr "Barangan Optik"
+
+#: src/data/categories.ts:12522
+msgid "Optometrist"
+msgstr "Optometris"
+
+#: src/data/categories.ts:8794
+msgid "Orchard"
+msgstr "Ladang"
+
+#: src/data/categories.ts:14029
+msgid "Organization"
+msgstr "Organisasi"
+
+#: src/data/categories.ts:17477
+msgid "Outdoor Supply"
+msgstr "Bekalan Luar"
+
+#: src/data/categories.ts:8534
+msgid "Outdoors & Recreation"
+msgstr "Rekreasi & Luar"
+
+#: src/data/categories.ts:17504
+msgid "Outlet Mall"
+msgstr "Kawasan membeli-belah Peruncit"
+
+#: src/data/categories.ts:17531
+msgid "Outlet Store"
+msgstr "Kedai Peruncit"
+
+#: src/data/categories.ts:8212
+msgid "Oxygen Bar"
+msgstr "Bar Oksigen"
+
+#: src/data/categories.ts:5204
+msgid "Padangnese"
+msgstr ""
+
+#: src/data/categories.ts:9185
+msgid "Pagoda"
+msgstr "Pagoda"
+
+#: src/data/categories.ts:10557
+msgid "Paintball Field"
+msgstr "Padang Bola Cat"
+
+#: src/data/categories.ts:11761
+msgid "Painting Company"
+msgstr "Syarikat Mengecat"
+
+#: src/data/categories.ts:5220
+msgid "Pakistani"
+msgstr "Restoran Pakistan"
+
+#: src/data/categories.ts:1626
+msgid "Palace"
+msgstr "Istana"
+
+#: src/data/categories.ts:5252
+msgid "Pancake House"
+msgstr "Rumah Penkek"
+
+#: src/data/categories.ts:18377
+msgid "Parking Garage/Lot"
+msgstr "Lot letak kereta"
+
+#: src/data/categories.ts:9415
+msgid "Parks"
+msgstr "Taman"
+
+#: src/data/categories.ts:17558
+msgid "Party Supplies"
+msgstr "Bekalan Majlis"
+
+#: src/data/categories.ts:5284
+msgid "Pastry Shop"
+msgstr "Kedai Pastri"
+
+#: src/data/categories.ts:17585
+msgid "Pawn Shop"
+msgstr "Kedai Gadai"
+
+#: src/data/categories.ts:5316
+msgid "Peking Duck"
+msgstr "Itik Peking"
+
+#: src/data/categories.ts:845
+#: src/data/categories.ts:1012
+msgid "Performing Arts"
+msgstr "Seni Pentas"
+
+#: src/data/categories.ts:5348
+msgid "Persian"
+msgstr "Restoran Parsi"
+
+#: src/data/categories.ts:5380
+msgid "Peruvian"
+msgstr "Restoran Peru"
+
+#: src/data/categories.ts:11783
+msgid "Pest Control"
+msgstr "Kawalan Perosak"
+
+#: src/data/categories.ts:14944
+msgid "Pet Services"
+msgstr "Perkhidmatan Haiwan Kesayangan"
+
+#: src/data/categories.ts:17612
+msgid "Pet Store"
+msgstr "Kedai Haiwan Kesayangan"
+
+#: src/data/categories.ts:8598
+msgid "Petting Zoo"
+msgstr "Zoo Haiwan Jinak"
+
+#: src/data/categories.ts:17639
+msgid "Pharmacy"
+msgstr "Farmasi"
+
+#: src/data/categories.ts:14971
+msgid "Photography Lab"
+msgstr "Makmal Fotografi"
+
+#: src/data/categories.ts:12549
+msgid "Physical Therapist"
+msgstr "Ahli terapi fizikal"
+
+#: src/data/categories.ts:762
+msgid "Piano Bar"
+msgstr "Bar Piano"
+
+#: src/data/categories.ts:9789
+msgid "Picnic Area"
+msgstr "Kawasan Berkelah"
+
+#: src/data/categories.ts:5412
+msgid "Pie Shop"
+msgstr "Kedai Pai"
+
+#: src/data/categories.ts:18550
+msgid "Pier"
+msgstr "Jeti"
+
+#: src/data/categories.ts:11448
+msgid "Piercing Parlor"
+msgstr "Parlur Penindikan "
+
+#: src/data/categories.ts:10584
+msgid "Pilates Studio"
+msgstr "Studio Pilates"
+
+#: src/data/categories.ts:5444
+msgid "Pizza"
+msgstr "Piza"
+
+#: src/data/categories.ts:566
+msgid "Planetarium"
+msgstr "Planetarium"
+
+#: src/data/categories.ts:8821
+msgid "Plant Nursery"
+msgstr "Tapak Semaian Tumbuhan"
+
+#: src/data/categories.ts:9801
+msgid "Playground"
+msgstr "Taman permainan"
+
+#: src/data/categories.ts:10611
+msgid "Playing Field"
+msgstr "Padang Bermain"
+
+#: src/data/categories.ts:9197
+msgid "Plaza"
+msgstr "Plaza"
+
+#: src/data/categories.ts:11805
+msgid "Plumber"
+msgstr "Tukang Paip"
+
+#: src/data/categories.ts:12576
+msgid "Podiatrist"
+msgstr "Doktor kaki"
+
+#: src/data/categories.ts:1643
+msgid "Police Station"
+msgstr "Balai Polis"
+
+#: src/data/categories.ts:5476
+msgid "Polish"
+msgstr "Restoran Poland"
+
+#: src/data/categories.ts:13757
+msgid "Political Office"
+msgstr "Pejabat Politik"
+
+#: src/data/categories.ts:14142
+msgid "Political Organization"
+msgstr "Organisasi Politik"
+
+#: src/data/categories.ts:156
+msgid "Pool Hall"
+msgstr "Dewan Biliard"
+
+#: src/data/categories.ts:17666
+msgid "Pop-Up Shop"
+msgstr "Kedai Runcit Sementara"
+
+#: src/data/categories.ts:16712
+msgid "Pork Store"
+msgstr "Kedai Daging Babi"
+
+#: src/data/categories.ts:14998
+msgid "Portrait Studio"
+msgstr "Studio Potret"
+
+#: src/data/categories.ts:5508
+msgid "Portuguese"
+msgstr "Restoran Portugis"
+
+#: src/data/categories.ts:1665
+msgid "Post Office"
+msgstr "Pejabat Pos"
+
+#: src/data/categories.ts:8848
+msgid "Poultry Farm"
+msgstr "Kebun Ayam Itik"
+
+#: src/data/categories.ts:5540
+msgid "Poutine"
+msgstr "Poutine"
+
+#: src/data/categories.ts:12872
+msgid "Power Plant"
+msgstr "Loji Kuasa"
+
+#: src/data/categories.ts:7544
+msgid "Preschool"
+msgstr "Prasekolah"
+
+#: src/data/categories.ts:13784
+msgid "Printing & Photocopies"
+msgstr "Pencetakan & Fotokopi"
+
+#: src/data/categories.ts:1692
+msgid "Prison"
+msgstr "Penjara"
+
+#: src/data/categories.ts:7566
+msgid "Private School"
+msgstr "Sekolah Swasta"
+
+#: src/data/categories.ts:14169
+msgid "Professional Association"
+msgstr "Persatuan Profesional"
+
+#: src/data/categories.ts:8244
+msgid "Pub"
+msgstr "Pub"
+
+#: src/data/categories.ts:298
+msgid "Public Art"
+msgstr "Citra Awam"
+
+#: src/data/categories.ts:1697
+msgid "Public Building"
+msgstr "Bangunan Awam"
+
+#: src/data/categories.ts:9209
+msgid "Quarry"
+msgstr "Kuari"
+
+#: src/data/categories.ts:9864
+msgid "RV Park"
+msgstr "Taman RV"
+
+#: src/data/categories.ts:11900
+msgid "Radio Station"
+msgstr "Stesen Radio"
+
+#: src/data/categories.ts:9813
+msgid "Rafting"
+msgstr "Merakit"
+
+#: src/data/categories.ts:5572
+msgid "Ramen"
+msgstr "Ramen"
+
+#: src/data/categories.ts:1724
+msgid "Ranger Station"
+msgstr "Balai Renjer"
+
+#: src/data/categories.ts:9221
+msgid "Rapids"
+msgstr "Jeram"
+
+#: src/data/categories.ts:13811
+msgid "Real Estate Agent"
+msgstr "Ejen Harta Tanah"
+
+#: src/data/categories.ts:17693
+msgid "Record Shop"
+msgstr "Kedai Rekod"
+
+#: src/data/categories.ts:11922
+msgid "Recording Studio"
+msgstr "Studio Rakaman"
+
+#: src/data/categories.ts:9518
+msgid "Recreation"
+msgstr "Rekreasi "
+
+#: src/data/categories.ts:9825
+msgid "Recreational Facility"
+msgstr "Kemudahan Rekreasi"
+
+#: src/data/categories.ts:11172
+msgid "Recreational Vehicle Sales"
+msgstr "Jualan Kenderaan Rekreasi"
+
+#: src/data/categories.ts:13838
+msgid "Recruiting Agency"
+msgstr "Agensi Pengambilan Kerja"
+
+#: src/data/categories.ts:12603
+msgid "Rehab Center"
+msgstr "Pusat Pemulihan"
+
+#: src/data/categories.ts:14252
+msgid "Religious"
+msgstr "Agama"
+
+#: src/data/categories.ts:14455
+msgid "Religious Center"
+msgstr "Pusat Agama"
+
+#: src/data/categories.ts:14196
+msgid "Religious Organization"
+msgstr "Organisasi Agama"
+
+#: src/data/categories.ts:7588
+msgid "Religious School"
+msgstr "Sekolah Agama"
+
+#: src/data/categories.ts:15025
+msgid "Repair Shop"
+msgstr "Kedai Membaiki"
+
+#: src/data/categories.ts:13865
+msgid "Research"
+msgstr "Penyelidikan"
+
+#: src/data/categories.ts:9233
+msgid "Reservoir"
+msgstr "Takungan"
+
+#: src/data/categories.ts:14545
+msgid "Residential"
+msgstr "Kediaman"
+
+#: src/data/categories.ts:14660
+msgid "Residential Development"
+msgstr "Pembangunan Kediaman"
+
+#: src/data/categories.ts:18757
+msgid "Resort"
+msgstr "Tempat peranginan"
+
+#: src/data/categories.ts:18576
+msgid "Rest"
+msgstr "Rehat"
+
+#: src/data/categories.ts:18411
+msgid "Rest Area"
+msgstr "Kawasan Rehat"
+
+#: src/data/categories.ts:11245
+msgid "Restrooms"
+msgstr "Bilik Air"
+
+#: src/data/categories.ts:14750
+msgid "Retail"
+msgstr "Runcit"
+
+#: src/data/categories.ts:14682
+msgid "Retirement Home"
+msgstr "Rumah Bersara"
+
+#: src/data/categories.ts:10638
+msgid "Rock Climbing"
+msgstr "Panjat Batu"
+
+#: src/data/categories.ts:789
+msgid "Rock Club"
+msgstr "Kelab Rock"
+
+#: src/data/categories.ts:183
+msgid "Roller Coaster"
+msgstr "Roller-coaster"
+
+#: src/data/categories.ts:9837
+msgid "Roller Skating Rink"
+msgstr "Gelanggang bermain kasut roda"
+
+#: src/data/categories.ts:5604
+msgid "Romanian"
+msgstr "Restoran Romania"
+
+#: src/data/categories.ts:10665
+msgid "Rugby League"
+msgstr "Liga Ragbi"
+
+#: src/data/categories.ts:373
+msgid "Ruins"
+msgstr "Reruntuhan"
+
+#: src/data/categories.ts:5636
+msgid "Russian"
+msgstr "Restoran Rusia"
+
+#: src/data/categories.ts:9876
+msgid "Sailing Club"
+msgstr "Kelab Belayar"
+
+#: src/data/categories.ts:8276
+msgid "Sake Bar"
+msgstr "Bar Sake "
+
+#: src/data/categories.ts:5668
+msgid "Salad Bar"
+msgstr "Bar Salad"
+
+#: src/data/categories.ts:5700
+msgid "Salvadoran"
+msgstr "Restoran Salvador"
+
+#: src/data/categories.ts:5732
+msgid "Sandwich Shop"
+msgstr "Kedai Sandwic"
+
+#: src/data/categories.ts:5764
+msgid "Satay"
+msgstr "Sate"
+
+#: src/data/categories.ts:11475
+msgid "Sauna / Steam Room"
+msgstr "Sauna / Bilik Wap"
+
+#: src/data/categories.ts:5796
+msgid "Scandinavian"
+msgstr "Restoran Scandinavia"
+
+#: src/data/categories.ts:9245
+msgid "Scenic View"
+msgstr "Pemandangan Indah"
+
+#: src/data/categories.ts:7610
+msgid "School"
+msgstr "Sekolah"
+
+#: src/data/categories.ts:593
+msgid "Science Museum"
+msgstr "Muzium Sains"
+
+#: src/data/categories.ts:5828
+msgid "Scottish"
+msgstr "Restoran Scotland"
+
+#: src/data/categories.ts:17720
+msgid "Scuba Diving"
+msgstr "Penyelaman Skuba "
+
+#: src/data/categories.ts:5860
+msgid "Seafood"
+msgstr "Makanan laut"
+
+#: src/data/categories.ts:18562
+msgid "Seaport"
+msgstr "Bandar pelabuhan"
+
+#: src/data/categories.ts:13892
+msgid "Secretarial Services"
+msgstr "Perkhidmatan Kesetiausahaan"
+
+#: src/data/categories.ts:10966
+msgid "Services"
+msgstr "Perkhidmatan"
+
+#: src/data/categories.ts:5892
+msgid "Shabu-Shabu"
+msgstr "Shabu-Shabu"
+
+#: src/data/categories.ts:5924
+msgid "Shandong"
+msgstr ""
+
+#: src/data/categories.ts:5940
+msgid "Shanghai"
+msgstr ""
+
+#: src/data/categories.ts:17747
+msgid "Shipping Store"
+msgstr "Kedai Pengiriman"
+
+#: src/data/categories.ts:15052
+msgid "Shoe Repair & Shine"
+msgstr "Membaiki & Menggilap Kasut"
+
+#: src/data/categories.ts:15814
+msgid "Shoe Store"
+msgstr "Kedai Kasut"
+
+#: src/data/categories.ts:15291
+msgid "Shopping"
+msgstr "Membeli-belah"
+
+#: src/data/categories.ts:17774
+msgid "Shopping Center"
+msgstr "Pusat Membeli-belah"
+
+#: src/data/categories.ts:17801
+msgid "Shopping Mall"
+msgstr "Medan Beli-belah"
+
+#: src/data/categories.ts:11262
+msgid "Shower"
+msgstr "Pancuran"
+
+#: src/data/categories.ts:14477
+msgid "Shrine"
+msgstr "Tempat keramat"
+
+#: src/data/categories.ts:10692
+msgid "Skate Park"
+msgstr "Taman Luncur"
+
+#: src/data/categories.ts:17828
+msgid "Skateboard Shop"
+msgstr "Kedai Papan Selaju"
+
+#: src/data/categories.ts:9983
+msgid "Ski Lift"
+msgstr "Lif Ski"
+
+#: src/data/categories.ts:9988
+msgid "Ski Rental"
+msgstr "Sewaan Ski"
+
+#: src/data/categories.ts:18779
+msgid "Ski Resort"
+msgstr "Tempat Peranginan Ski"
+
+#: src/data/categories.ts:10010
+msgid "Ski School"
+msgstr "Sekolah Ski"
+
+#: src/data/categories.ts:10032
+#: src/data/categories.ts:17855
+msgid "Ski Shop"
+msgstr "Kedai Ski"
+
+#: src/data/categories.ts:10059
+msgid "Ski Slope"
+msgstr "Cerun Ski"
+
+#: src/data/categories.ts:9903
+msgid "Skydiving"
+msgstr "Terjun udara"
+
+#: src/data/categories.ts:5956
+msgid "Slovak"
+msgstr "Restoran Slovak"
+
+#: src/data/categories.ts:17882
+msgid "Smoke / Vape Shop"
+msgstr "Kedai Rokok"
+
+#: src/data/categories.ts:5988
+msgid "Smoothies"
+msgstr "Minuman smoothie"
+
+#: src/data/categories.ts:6020
+msgid "Snack"
+msgstr "Snek"
+
+#: src/data/categories.ts:9978
+msgid "Snow"
+msgstr "Salji"
+
+#: src/data/categories.ts:10719
+msgid "Soccer Field"
+msgstr "Padang Bola Sepak"
+
+#: src/data/categories.ts:1271
+msgid "Soccer Stadium"
+msgstr "Stadium Bola Sepak"
+
+#: src/data/categories.ts:15135
+msgid "Social"
+msgstr "Sosial"
+
+#: src/data/categories.ts:14223
+msgid "Social Club"
+msgstr "Kelab Sosial"
+
+#: src/data/categories.ts:6052
+msgid "Som Tum"
+msgstr ""
+
+#: src/data/categories.ts:14704
+msgid "Sorority House"
+msgstr "Rumah Sororiti"
+
+#: src/data/categories.ts:6068
+msgid "Soup"
+msgstr "Sup"
+
+#: src/data/categories.ts:6100
+msgid "South American"
+msgstr "Restoran Amerika Selatan"
+
+#: src/data/categories.ts:6132
+msgid "Southern / Soul Food"
+msgstr "Makanan Selatan / Batin"
+
+#: src/data/categories.ts:17909
+msgid "Souvenir Store"
+msgstr "Kedai Cenderamata"
+
+#: src/data/categories.ts:6164
+msgid "Spanish"
+msgstr "Restoran Sepanyol"
+
+#: src/data/categories.ts:8308
+msgid "Speakeasy"
+msgstr "Tempat menjual minuman arak haram"
+
+#: src/data/categories.ts:17936
+msgid "Sporting Goods"
+msgstr "Barangan Sukan"
+
+#: src/data/categories.ts:1068
+#: src/data/categories.ts:10066
+msgid "Sports"
+msgstr "Sukan"
+
+#: src/data/categories.ts:8340
+msgid "Sports Bar"
+msgstr "Bar Sukan"
+
+#: src/data/categories.ts:10746
+msgid "Sports Center"
+msgstr "Pusat Sukan"
+
+#: src/data/categories.ts:10773
+msgid "Sports Club"
+msgstr "Kelab Sukan"
+
+#: src/data/categories.ts:9257
+msgid "Square"
+msgstr "Segiempat sama"
+
+#: src/data/categories.ts:10800
+msgid "Squash Court"
+msgstr "Gelanggang Squasy"
+
+#: src/data/categories.ts:6196
+msgid "Sri Lankan"
+msgstr "Restoran Sri Lanka"
+
+#: src/data/categories.ts:8625
+msgid "Stables"
+msgstr "Kandang kuda"
+
+#: src/data/categories.ts:1751
+msgid "State Office Building"
+msgstr "Bangunan Pejabat Negeri"
+
+#: src/data/categories.ts:17963
+msgid "Stationery & Office Supplies"
+msgstr "Bekalan Alat Tulis & Pejabat"
+
+#: src/data/categories.ts:6228
+msgid "Steak House"
+msgstr "Restoran Stik"
+
+#: src/data/categories.ts:11827
+msgid "Stonemason"
+msgstr "Tukang Batu"
+
+#: src/data/categories.ts:15079
+msgid "Storage"
+msgstr "Simpanan"
+
+#: src/data/categories.ts:8372
+msgid "Strip Club"
+msgstr "Kelab tarian bogel"
+
+#: src/data/categories.ts:7632
+msgid "Student Center"
+msgstr "Pusat Pelajar"
+
+#: src/data/categories.ts:18856
+msgid "Subway Station"
+msgstr "Stesen Kereta Api Bawah Tanah"
+
+#: src/data/categories.ts:9930
+msgid "Summer Camp"
+msgstr "Kem Musim Panas"
+
+#: src/data/categories.ts:6260
+msgid "Sundanese"
+msgstr ""
+
+#: src/data/categories.ts:16739
+msgid "Supermarket"
+msgstr "Pasar raya"
+
+#: src/data/categories.ts:17990
+msgid "Surf Shop"
+msgstr "Kedai Bermain Luncur Air"
+
+#: src/data/categories.ts:9952
+msgid "Surfing"
+msgstr "Peluncuran"
+
+#: src/data/categories.ts:13919
+msgid "Surveying"
+msgstr "Pensurveian"
+
+#: src/data/categories.ts:6276
+msgid "Sushi"
+msgstr "Sushi"
+
+#: src/data/categories.ts:7659
+msgid "Swim School"
+msgstr "Sekolah Renang"
+
+#: src/data/categories.ts:10827
+msgid "Swimming Pool"
+msgstr "Kolam Renang"
+
+#: src/data/categories.ts:6308
+msgid "Swiss"
+msgstr "Restoran Switzerland"
+
+#: src/data/categories.ts:816
+msgid "Symphony"
+msgstr "Simfoni"
+
+#: src/data/categories.ts:14499
+msgid "Synagogue"
+msgstr "Saumaah"
+
+#: src/data/categories.ts:6340
+msgid "Szechuan"
+msgstr "Makanan Szechuan"
+
+#: src/data/categories.ts:6372
+msgid "Tacos"
+msgstr "Tacos"
+
+#: src/data/categories.ts:15106
+msgid "Tailor"
+msgstr "Tukang jahit"
+
+#: src/data/categories.ts:6404
+msgid "Taiwanese"
+msgstr "Restoran Taiwan"
+
+#: src/data/categories.ts:11502
+msgid "Tanning Salon"
+msgstr "Kedai Samak"
+
+#: src/data/categories.ts:6436
+msgid "Tapas"
+msgstr "Tapas"
+
+#: src/data/categories.ts:6468
+msgid "Tatar"
+msgstr "Tatar"
+
+#: src/data/categories.ts:11529
+msgid "Tattoo Parlor"
+msgstr "Parlur Tatu"
+
+#: src/data/categories.ts:18868
+msgid "Taxi Stand"
+msgstr "Perhentian Teksi"
+
+#: src/data/categories.ts:6500
+msgid "Tea House"
+msgstr "Rumah Minum Teh"
+
+#: src/data/categories.ts:13946
+msgid "Tech Startup"
+msgstr "Permulaan Teknikal"
+
+#: src/data/categories.ts:9269
+msgid "Telescope"
+msgstr "Teleskop"
+
+#: src/data/categories.ts:11944
+msgid "Television Station"
+msgstr "Stesen Televisyen"
+
+#: src/data/categories.ts:14521
+msgid "Temple"
+msgstr "Tokong"
+
+#: src/data/categories.ts:10854
+msgid "Tennis Court"
+msgstr "Gelanggang Tenis"
+
+#: src/data/categories.ts:1293
+msgid "Tennis Stadium"
+msgstr "Stadium Tenis"
+
+#: src/data/categories.ts:13973
+msgid "Testing Lab"
+msgstr "Makmal Ujian"
+
+#: src/data/categories.ts:6532
+msgid "Tex-Mex"
+msgstr "Makanan Tex-Mex"
+
+#: src/data/categories.ts:6564
+msgid "Thai"
+msgstr "Restoran Thai"
+
+#: src/data/categories.ts:1039
+msgid "Theater"
+msgstr "Teater"
+
+#: src/data/categories.ts:6596
+msgid "Theme"
+msgstr "Tema"
+
+#: src/data/categories.ts:210
+msgid "Theme Park"
+msgstr "Taman Tema"
+
+#: src/data/categories.ts:12630
+msgid "Therapist"
+msgstr "Ahli terapi"
+
+#: src/data/categories.ts:18017
+msgid "Thrift Store"
+msgstr "Kedai Jimat"
+
+#: src/data/categories.ts:6628
+msgid "Tibetan"
+msgstr "Restoran Tibet"
+
+#: src/data/categories.ts:8404
+msgid "Tiki Bar"
+msgstr "Bar Tiki"
+
+#: src/data/categories.ts:18433
+msgid "Toll Booth"
+msgstr "Pondok Tol"
+
+#: src/data/categories.ts:9281
+msgid "Tour Provider"
+msgstr "Pembekal Lawatan"
+
+#: src/data/categories.ts:9293
+msgid "Tourist Attraction"
+msgstr "Tarikan Pelancong"
+
+#: src/data/categories.ts:9305
+msgid "Tourist Information"
+msgstr "Maklumat Pelancong"
+
+#: src/data/categories.ts:9317
+msgid "Tower"
+msgstr "Menara"
+
+#: src/data/categories.ts:9504
+msgid "Town Common"
+msgstr "Bandar Am"
+
+#: src/data/categories.ts:1778
+msgid "Town Hall"
+msgstr "Dewan Perbandaran"
+
+#: src/data/categories.ts:18044
+msgid "Toy and Game Store"
+msgstr "Kedai Mainan dan Permainan"
+
+#: src/data/categories.ts:10881
+msgid "Track"
+msgstr "Balapan"
+
+#: src/data/categories.ts:9964
+msgid "Trail Station"
+msgstr "Stesen Rintis"
+
+#: src/data/categories.ts:14726
+msgid "Trailer Park"
+msgstr "Taman Treler  "
+
+#: src/data/categories.ts:18880
+msgid "Train Station"
+msgstr "Stesen Kereta Api"
+
+#: src/data/categories.ts:18892
+msgid "Tram Stop"
+msgstr "Perhentian Trem"
+
+#: src/data/categories.ts:18803
+msgid "Transit"
+msgstr "Singgah"
+
+#: src/data/categories.ts:18252
+msgid "Travel"
+msgstr "Melancong"
+
+#: src/data/categories.ts:14000
+msgid "Travel Agent"
+msgstr "Ejen Pelancongan"
+
+#: src/data/categories.ts:6660
+#: src/data/categories.ts:18438
+msgid "Truck Stop"
+msgstr "Perhentian Trak"
+
+#: src/data/categories.ts:9329
+msgid "Tunnel"
+msgstr "Terowong"
+
+#: src/data/categories.ts:6692
+msgid "Turkish"
+msgstr "Restoran Turki"
+
+#: src/data/categories.ts:9341
+msgid "UNESCO World Heritage Site"
+msgstr "Tapak Warisan Dunia UNESCO"
+
+#: src/data/categories.ts:6724
+msgid "Ukrainian"
+msgstr "Restoran Ukraine"
+
+#: src/data/categories.ts:7686
+msgid "University"
+msgstr "Universiti"
+
+#: src/data/categories.ts:12657
+msgid "Urgent Care Center"
+msgstr "Pusat Rawatan Kecemasan"
+
+#: src/data/categories.ts:18071
+msgid "Used Merchandise"
+msgstr "Barangan Terpakai"
+
+#: src/data/categories.ts:18098
+msgid "Vacant Storefront"
+msgstr "Kedai kosong"
+
+#: src/data/categories.ts:6756
+msgid "Vegan"
+msgstr "Vegan"
+
+#: src/data/categories.ts:6788
+msgid "Vegetarian"
+msgstr "Vegetarian"
+
+#: src/data/categories.ts:6820
+msgid "Venezuelan"
+msgstr "Restoran Venezuela"
+
+#: src/data/categories.ts:12684
+msgid "Veterinarian"
+msgstr "Doktor haiwan"
+
+#: src/data/categories.ts:18115
+msgid "Video Game Store"
+msgstr "Kedai Permainan Video"
+
+#: src/data/categories.ts:18142
+msgid "Video Store"
+msgstr "Kedai Video"
+
+#: src/data/categories.ts:6852
+msgid "Vietnamese"
+msgstr "Restoran Vietnam"
+
+#: src/data/categories.ts:8875
+msgid "Vineyard"
+msgstr "Ladang anggur"
+
+#: src/data/categories.ts:7703
+msgid "Vocational School"
+msgstr "Sekolah Vokasional"
+
+#: src/data/categories.ts:9353
+msgid "Volcano"
+msgstr "Gunung berapi "
+
+#: src/data/categories.ts:10908
+msgid "Volleyball Court"
+msgstr "Gelanggang Bola Tampar"
+
+#: src/data/categories.ts:12894
+msgid "Warehouse"
+msgstr "Gudang"
+
+#: src/data/categories.ts:18169
+msgid "Warehouse Store"
+msgstr "Kedai Gudang"
+
+#: src/data/categories.ts:12916
+msgid "Waste / Recycling Facility"
+msgstr "Kemudahan Sisa / Kitar Semula"
+
+#: src/data/categories.ts:18196
+msgid "Watch Shop"
+msgstr "Kedai Jam"
+
+#: src/data/categories.ts:237
+msgid "Water Park"
+msgstr "Taman Air"
+
+#: src/data/categories.ts:9365
+msgid "Water Tower"
+msgstr "Menara Air"
+
+#: src/data/categories.ts:9377
+msgid "Waterfall"
+msgstr "Air terjun"
+
+#: src/data/categories.ts:12061
+msgid "Wedding Hall"
+msgstr "Dewan Perkahwinan"
+
+#: src/data/categories.ts:9389
+msgid "Well"
+msgstr "Perigi"
+
+#: src/data/categories.ts:9401
+msgid "Wharf"
+msgstr "Dermaga"
+
+#: src/data/categories.ts:8436
+msgid "Whisky Bar"
+msgstr "Bar Wiski"
+
+#: src/data/categories.ts:18223
+msgid "Wholesale Store"
+msgstr "Kedai Borong"
+
+#: src/data/categories.ts:12938
+msgid "Windmill"
+msgstr "Kincir angin"
+
+#: src/data/categories.ts:8468
+msgid "Wine Bar"
+msgstr "Bar Wain"
+
+#: src/data/categories.ts:16766
+msgid "Wine Shop"
+msgstr "Kedai Wain"
+
+#: src/data/categories.ts:8500
+msgid "Winery"
+msgstr "Kilang Wain"
+
+#: src/data/categories.ts:6884
+msgid "Wings"
+msgstr "Kepak Ayam"
+
+#: src/data/categories.ts:15841
+msgid "Women's Clothing Store"
+msgstr "Kedai Pakaian Wanita"
+
+#: src/data/categories.ts:6916
+msgid "Yakitori"
+msgstr "Yakitori"
+
+#: src/data/categories.ts:10935
+msgid "Yoga Studio"
+msgstr "Studio Yoga"
+
+#: src/data/categories.ts:6948
+msgid "Yunnan"
+msgstr ""
+
+#: src/data/categories.ts:6964
+msgid "Zhejiang"
+msgstr ""
+
+#: src/data/categories.ts:8652
+msgid "Zoo"
+msgstr "Zoo"

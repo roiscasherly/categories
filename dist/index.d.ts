@@ -23,13 +23,23 @@ interface ICategoryAttribute {
     type: CategoryType;
     required: boolean;
 }
+export declare enum Languages {
+    en = "en",
+    fil = "fil",
+    id = "id",
+    ms = "ms",
+    th = "th",
+    vi = "vi",
+    'zh-Hans' = "zh-Hans"
+}
 /**
  * dump all categories
  */
-export declare const dump: () => ICategory[];
+export declare const dump: (language?: Languages) => ICategory[];
 /**
  * find a single category by id
  */
-export declare const findById: (id: number) => IFlattenedCategory | undefined;
-export declare const getCompleteness: (place: import("./utils/getCompleteness.js").IPlace) => number;
+export declare const findById: (catId: number, language?: Languages) => IFlattenedCategory | undefined;
+export declare const flatten: (cats: ICategory[]) => IFlattenedCategoriesById;
+export declare const getCompleteness: (place: import("./utils/getCompleteness").IPlace) => number;
 export {};

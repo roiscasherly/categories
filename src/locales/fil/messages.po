@@ -1,0 +1,3199 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2019-08-06 21:43-0400\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: fil\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/data/categories.ts:15598
+msgid "Accessories Store"
+msgstr "Tindahan ng mga Aksesorya"
+
+#: src/data/categories.ts:13136
+msgid "Accountant"
+msgstr "Accountant"
+
+#: src/data/categories.ts:1812
+msgid "Acehnese"
+msgstr ""
+
+#: src/data/categories.ts:12090
+msgid "Acupuncturist"
+msgstr "Acupuncturist"
+
+#: src/data/categories.ts:11286
+msgid "Adult"
+msgstr "Nasa Hustong Gulang"
+
+#: src/data/categories.ts:15140
+msgid "Adult Care"
+msgstr "Pangangalaga sa Nasa Hustong Gulang"
+
+#: src/data/categories.ts:6987
+msgid "Adult Education Center"
+msgstr "Sentro ng Edukasyon ng Nasa Hustong Gulang"
+
+#: src/data/categories.ts:15296
+msgid "Adult Shop"
+msgstr "Shop para sa Nasa Hustong Gulang"
+
+#: src/data/categories.ts:13163
+msgid "Advertising Agency"
+msgstr "Advertising Agency"
+
+#: src/data/categories.ts:12718
+msgid "Aerospace"
+msgstr "Aerospace"
+
+#: src/data/categories.ts:1828
+msgid "Afghan"
+msgstr "Afghan"
+
+#: src/data/categories.ts:1860
+msgid "African"
+msgstr "African"
+
+#: src/data/categories.ts:18257
+msgid "Air"
+msgstr "Air"
+
+#: src/data/categories.ts:18262
+msgid "Airport"
+msgstr "Paliparan"
+
+#: src/data/categories.ts:18274
+msgid "Airport Gate"
+msgstr "Gate ng Paliparan"
+
+#: src/data/categories.ts:18286
+msgid "Airport Lounge"
+msgstr "Lounge ng Paliparan"
+
+#: src/data/categories.ts:18298
+msgid "Airport Service"
+msgstr "Serbisyo ng Paliparan"
+
+#: src/data/categories.ts:18310
+msgid "Airport Terminal"
+msgstr "Terminal ng Paliparan"
+
+#: src/data/categories.ts:18322
+msgid "Airport Tram"
+msgstr "Tram ng Paliparan"
+
+#: src/data/categories.ts:12117
+msgid "Alternative Medicine"
+msgstr "Alternatibong Gamot"
+
+#: src/data/categories.ts:627
+msgid "Amphitheater"
+msgstr "Amphitheater"
+
+#: src/data/categories.ts:9
+msgid "Amusements"
+msgstr "Amusements"
+
+#: src/data/categories.ts:1892
+msgid "Anhui"
+msgstr ""
+
+#: src/data/categories.ts:13190
+msgid "Animal Shelter"
+msgstr "Silungan ng Hayop"
+
+#: src/data/categories.ts:8539
+msgid "Animals"
+msgstr "Animals"
+
+#: src/data/categories.ts:15323
+msgid "Antique Store"
+msgstr "Tindahan ng mga Antik na Kagamitan"
+
+#: src/data/categories.ts:8544
+msgid "Aquarium"
+msgstr "Aquarium"
+
+#: src/data/categories.ts:8686
+msgid "Aquatic Farm"
+msgstr "Aquatic Farm"
+
+#: src/data/categories.ts:14
+msgid "Arcade"
+msgstr "Arcade"
+
+#: src/data/categories.ts:322
+msgid "Archaeological Site"
+msgstr "Lugar ng Arkeolohiya"
+
+#: src/data/categories.ts:13217
+msgid "Architect"
+msgstr "Arkitekto"
+
+#: src/data/categories.ts:1908
+msgid "Arepa"
+msgstr "Arepa"
+
+#: src/data/categories.ts:1940
+msgid "Argentinian"
+msgstr "Argentinian"
+
+#: src/data/categories.ts:15350
+msgid "Army Navy Store"
+msgstr "Tindahan para sa Army Navy"
+
+#: src/data/categories.ts:13244
+msgid "Art & Design Studio"
+msgstr "Art & Design Studio"
+
+#: src/data/categories.ts:271
+msgid "Art Gallery"
+msgstr "Art Gallery"
+
+#: src/data/categories.ts:485
+msgid "Art Museum"
+msgstr "Art Museum"
+
+#: src/data/categories.ts:13271
+msgid "Art Services"
+msgstr "Art Services"
+
+#: src/data/categories.ts:13298
+msgid "Art Studio"
+msgstr "Art Studio"
+
+#: src/data/categories.ts:15377
+msgid "Arts & Crafts Store"
+msgstr "Arts & Crafts Store"
+
+#: src/data/categories.ts:4
+msgid "Arts & Entertainment"
+msgstr "Arts & Entertainment"
+
+#: src/data/categories.ts:850
+msgid "Arts Center"
+msgstr "Arts Center"
+
+#: src/data/categories.ts:1972
+msgid "Asian"
+msgstr "Asian"
+
+#: src/data/categories.ts:14550
+msgid "Assisted Living"
+msgstr "Ina-alalayang Pamumuhay"
+
+#: src/data/categories.ts:14755
+msgid "Astrologer / Psychic"
+msgstr "Astrologer / Manghuhula"
+
+#: src/data/categories.ts:877
+msgid "Auditorium"
+msgstr "Auditorium"
+
+#: src/data/categories.ts:2004
+msgid "Australian"
+msgstr "Australian"
+
+#: src/data/categories.ts:2036
+msgid "Austrian"
+msgstr "Austrian"
+
+#: src/data/categories.ts:1073
+msgid "Auto Racetrack"
+msgstr "Auto Racetrack"
+
+#: src/data/categories.ts:10976
+msgid "Automobile Dealership"
+msgstr "Pagbebenta ng Kotse"
+
+#: src/data/categories.ts:11003
+msgid "Automobile Rental"
+msgstr "Pagpapaupa ng Kotse"
+
+#: src/data/categories.ts:11030
+msgid "Automobile Repair"
+msgstr "Pagkumpuni ng Kotse"
+
+#: src/data/categories.ts:10971
+#: src/data/categories.ts:18372
+msgid "Automotive"
+msgstr "Automotive"
+
+#: src/data/categories.ts:15404
+msgid "Automotive Supplies"
+msgstr "Mga Suplay ng Kotse"
+
+#: src/data/categories.ts:8571
+msgid "Aviary"
+msgstr "Aviary"
+
+#: src/data/categories.ts:2148
+msgid "BBQ"
+msgstr "BBQ"
+
+#: src/data/categories.ts:15625
+msgid "Baby Store"
+msgstr "Tindahan para sa mga Sanggol"
+
+#: src/data/categories.ts:10071
+msgid "Badminton Court"
+msgstr "Badminton Court"
+
+#: src/data/categories.ts:2068
+msgid "Bagels"
+msgstr "Bagels"
+
+#: src/data/categories.ts:18334
+msgid "Baggage Claim"
+msgstr "Claim ng Bagahe"
+
+#: src/data/categories.ts:2100
+#: src/data/categories.ts:16280
+msgid "Bakery"
+msgstr "Panaderya"
+
+#: src/data/categories.ts:2132
+msgid "Balinese"
+msgstr ""
+
+#: src/data/categories.ts:654
+msgid "Bandstand"
+msgstr "Bandstand"
+
+#: src/data/categories.ts:12967
+msgid "Bank"
+msgstr "Bangko"
+
+#: src/data/categories.ts:7732
+msgid "Bar"
+msgstr "Bar"
+
+#: src/data/categories.ts:9523
+msgid "Barbecue"
+msgstr "Barbecue"
+
+#: src/data/categories.ts:11313
+msgid "Barber"
+msgstr "Barbeo"
+
+#: src/data/categories.ts:10098
+msgid "Baseball Field"
+msgstr "Baseball Field"
+
+#: src/data/categories.ts:1095
+msgid "Baseball Stadium"
+msgstr "Istadyum ng Baseball"
+
+#: src/data/categories.ts:10125
+msgid "Basketball Court"
+msgstr "Korte ng Basketball"
+
+#: src/data/categories.ts:1117
+msgid "Basketball Stadium"
+msgstr "Istadyum ng Basketball"
+
+#: src/data/categories.ts:11206
+msgid "Bath House"
+msgstr "Bath House"
+
+#: src/data/categories.ts:11201
+msgid "Bathing"
+msgstr "Bathing"
+
+#: src/data/categories.ts:9535
+msgid "Bathing Area"
+msgstr "Paliguang Lugar"
+
+#: src/data/categories.ts:9420
+msgid "Battlefield"
+msgstr "Lugar ng Digmaan"
+
+#: src/data/categories.ts:9547
+msgid "Beach"
+msgstr "Beach"
+
+#: src/data/categories.ts:7764
+msgid "Beach Bar"
+msgstr "Beach Bar"
+
+#: src/data/categories.ts:15431
+msgid "Beauty & Cosmetics"
+msgstr "Beauty & Cosmetics"
+
+#: src/data/categories.ts:11281
+msgid "Beauty & Spa"
+msgstr "Beauty & Spa"
+
+#: src/data/categories.ts:11340
+msgid "Beauty Salon"
+msgstr "Beauty SalonBeauty Salon"
+
+#: src/data/categories.ts:7014
+msgid "Beauty School"
+msgstr "Beauty School"
+
+#: src/data/categories.ts:18581
+msgid "Bed & Breakfast"
+msgstr "Bed & Breakfast"
+
+#: src/data/categories.ts:7796
+msgid "Beer Bar"
+msgstr "Beer Bar"
+
+#: src/data/categories.ts:7828
+msgid "Beer Garden"
+msgstr "Beer Garden"
+
+#: src/data/categories.ts:16307
+msgid "Beer Store"
+msgstr "Beer Store"
+
+#: src/data/categories.ts:2244
+msgid "Beijing"
+msgstr ""
+
+#: src/data/categories.ts:2180
+msgid "Belarusian"
+msgstr "Belarusian"
+
+#: src/data/categories.ts:2212
+msgid "Belgian"
+msgstr "Belgian"
+
+#: src/data/categories.ts:2260
+msgid "Betawinese"
+msgstr ""
+
+#: src/data/categories.ts:18462
+msgid "Bicycle"
+msgstr "Bisikleta"
+
+#: src/data/categories.ts:14782
+msgid "Bicycle Repair"
+msgstr "Pagkumpuni ng Bisikleta"
+
+#: src/data/categories.ts:15458
+msgid "Bicycle Store"
+msgstr "Tindahan ng Bisikleta"
+
+#: src/data/categories.ts:15485
+msgid "Big Box Store"
+msgstr "Big Box Store"
+
+#: src/data/categories.ts:18467
+msgid "Bike Rental"
+msgstr "Rental ng Bisikleta"
+
+#: src/data/categories.ts:18489
+msgid "Bike Share Station"
+msgstr "Bike Share Station"
+
+#: src/data/categories.ts:9559
+msgid "Bike Trail"
+msgstr "Daanan ng Bisikleta"
+
+#: src/data/categories.ts:2276
+msgid "Bistro"
+msgstr "Bistro"
+
+#: src/data/categories.ts:18603
+msgid "Boarding House"
+msgstr "Boarding House"
+
+#: src/data/categories.ts:9571
+msgid "Boat Charter"
+msgstr "Tsarter ng Bangka"
+
+#: src/data/categories.ts:9598
+msgid "Boat Ramp"
+msgstr "Ramp ng Bangka"
+
+#: src/data/categories.ts:9610
+msgid "Boat Rental"
+msgstr "Pangungupahan ng Bangka"
+
+#: src/data/categories.ts:11057
+msgid "Boat Sales"
+msgstr "Boat Sales"
+
+#: src/data/categories.ts:2308
+msgid "Bodega"
+msgstr "Bodega"
+
+#: src/data/categories.ts:15512
+msgid "Bookstore"
+msgstr "Bookstore"
+
+#: src/data/categories.ts:2340
+msgid "Bosnian"
+msgstr "Bosnian"
+
+#: src/data/categories.ts:9432
+msgid "Botanical Garden"
+msgstr "Botanikal na Harden"
+
+#: src/data/categories.ts:15652
+msgid "Boutique"
+msgstr "Boutique"
+
+#: src/data/categories.ts:10152
+msgid "Bowling Alley"
+msgstr "Bowling Alley"
+
+#: src/data/categories.ts:10179
+msgid "Boxing Gym"
+msgstr "Boxing Gym"
+
+#: src/data/categories.ts:2372
+msgid "Brazilian"
+msgstr "Brazilian"
+
+#: src/data/categories.ts:2404
+msgid "Breakfast"
+msgstr "Agahan"
+
+#: src/data/categories.ts:7860
+msgid "Brewery"
+msgstr "Brewery"
+
+#: src/data/categories.ts:2436
+msgid "Brewpub"
+msgstr "Brewpub"
+
+#: src/data/categories.ts:15679
+msgid "Bridal Store"
+msgstr "Tindahan para sa mga Ikakasal"
+
+#: src/data/categories.ts:8909
+msgid "Bridge"
+msgstr "Tulay"
+
+#: src/data/categories.ts:2468
+msgid "British"
+msgstr "British"
+
+#: src/data/categories.ts:2500
+msgid "Bubble Tea"
+msgstr "Bubble Tea"
+
+#: src/data/categories.ts:14257
+msgid "Buddhist Temple"
+msgstr "Templo ng Buddhist"
+
+#: src/data/categories.ts:2532
+msgid "Buffet"
+msgstr "Buffet"
+
+#: src/data/categories.ts:13325
+#: src/data/categories.ts:18496
+msgid "Building"
+msgstr "Gusali"
+
+#: src/data/categories.ts:11558
+msgid "Building & Trades"
+msgstr "Building & Trades"
+
+#: src/data/categories.ts:16908
+msgid "Building Materials"
+msgstr "Mga Materyales para sa Konstruksyon"
+
+#: src/data/categories.ts:2564
+msgid "Bulgarian"
+msgstr "Bulgarian"
+
+#: src/data/categories.ts:1139
+msgid "Bull Ring"
+msgstr "Bull Ring"
+
+#: src/data/categories.ts:2596
+msgid "Burgers"
+msgstr "Burgers"
+
+#: src/data/categories.ts:2628
+msgid "Burmese"
+msgstr "Burmese"
+
+#: src/data/categories.ts:2660
+msgid "Burritos"
+msgstr "Burritos"
+
+#: src/data/categories.ts:18808
+msgid "Bus Station"
+msgstr "Istasyon ng Bus"
+
+#: src/data/categories.ts:18820
+msgid "Bus Stop"
+msgstr "Bus Stop"
+
+#: src/data/categories.ts:13352
+msgid "Business Center"
+msgstr "Sentro ng Negosyo"
+
+#: src/data/categories.ts:16334
+msgid "Butcher Shop"
+msgstr "Butcher Shop"
+
+#: src/data/categories.ts:18832
+msgid "Cable Car Station"
+msgstr "Cable Car Station"
+
+#: src/data/categories.ts:2692
+msgid "Cafe"
+msgstr "Cafe"
+
+#: src/data/categories.ts:2724
+msgid "Cafeteria"
+msgstr "Kapetirya"
+
+#: src/data/categories.ts:2756
+msgid "Cajun & Creole"
+msgstr "Cajun & Creole"
+
+#: src/data/categories.ts:2788
+msgid "Cambodian"
+msgstr "Cambodian"
+
+#: src/data/categories.ts:15539
+msgid "Camera Store"
+msgstr "Camera Store"
+
+#: src/data/categories.ts:9622
+#: src/data/categories.ts:18625
+msgid "Campground"
+msgstr "Campground"
+
+#: src/data/categories.ts:16361
+msgid "Candy Store"
+msgstr "Candy Store"
+
+#: src/data/categories.ts:2820
+msgid "Cantonese"
+msgstr "Cantonese"
+
+#: src/data/categories.ts:8921
+msgid "Canyon"
+msgstr "Kanyon"
+
+#: src/data/categories.ts:1324
+msgid "Capitol Building"
+msgstr "Kapitolyo"
+
+#: src/data/categories.ts:11084
+msgid "Car Wash"
+msgstr "Car Wash"
+
+#: src/data/categories.ts:2852
+msgid "Caribbean"
+msgstr "Caribbean"
+
+#: src/data/categories.ts:41
+msgid "Carousel"
+msgstr "Carousel"
+
+#: src/data/categories.ts:11563
+msgid "Carpenter"
+msgstr "Karpentero"
+
+#: src/data/categories.ts:16935
+msgid "Carpets & Floor Coverings"
+msgstr "Mga Karpet at Takip ng Sahig"
+
+#: src/data/categories.ts:63
+msgid "Casino"
+msgstr "Casino"
+
+#: src/data/categories.ts:8933
+msgid "Castle"
+msgstr "Kastilyo"
+
+#: src/data/categories.ts:15566
+msgid "Catalog Store"
+msgstr "Catalog Store"
+
+#: src/data/categories.ts:11973
+msgid "Catering"
+msgstr "Catering"
+
+#: src/data/categories.ts:8945
+msgid "Cave"
+msgstr "Yungib"
+
+#: src/data/categories.ts:8957
+msgid "Cemetery"
+msgstr "Sementeryo"
+
+#: src/data/categories.ts:2884
+msgid "Cha Chaan Teng"
+msgstr ""
+
+#: src/data/categories.ts:18647
+msgid "Chalets"
+msgstr "Chalets"
+
+#: src/data/categories.ts:7892
+msgid "Champagne Bar"
+msgstr "Champagne Bar"
+
+#: src/data/categories.ts:12994
+msgid "Check Cashing"
+msgstr "Check Cashing"
+
+#: src/data/categories.ts:16388
+msgid "Cheese Shop"
+msgstr "Cheese Shop"
+
+#: src/data/categories.ts:90
+msgid "Chess"
+msgstr "Chess"
+
+#: src/data/categories.ts:15167
+msgid "Child Care"
+msgstr "Pangangalaga sa Bata"
+
+#: src/data/categories.ts:15706
+msgid "Children's Clothing Store"
+msgstr "Tindahan ng mga Pambatang Damit"
+
+#: src/data/categories.ts:2900
+msgid "Chinese"
+msgstr "Chinese"
+
+#: src/data/categories.ts:2932
+msgid "Chinese Breakfast"
+msgstr ""
+
+#: src/data/categories.ts:12144
+msgid "Chiropractor"
+msgstr "Chiropractor"
+
+#: src/data/categories.ts:16415
+msgid "Chocolate Shop"
+msgstr "Chocolate Shop"
+
+#: src/data/categories.ts:14279
+msgid "Church"
+msgstr "Simbahan"
+
+#: src/data/categories.ts:904
+msgid "Circus"
+msgstr "Circus"
+
+#: src/data/categories.ts:1351
+msgid "City Hall"
+msgstr "City Hall"
+
+#: src/data/categories.ts:9444
+msgid "City Park"
+msgstr "Parke ng Lungsod"
+
+#: src/data/categories.ts:8969
+msgid "City Walls"
+msgstr "City Walls"
+
+#: src/data/categories.ts:1319
+msgid "Civic"
+msgstr "Sibika"
+
+#: src/data/categories.ts:1378
+msgid "Civic Center"
+msgstr "Sentro Sibika"
+
+#: src/data/categories.ts:11585
+msgid "Cleaning & Sanitation"
+msgstr "Pglilinis at Sanitasyon"
+
+#: src/data/categories.ts:8981
+msgid "Cliff"
+msgstr "Talampas"
+
+#: src/data/categories.ts:10206
+msgid "Climbing Gym"
+msgstr "Climbing Gym"
+
+#: src/data/categories.ts:12171
+msgid "Clinic"
+msgstr "Klinika"
+
+#: src/data/categories.ts:15593
+msgid "Clothing"
+msgstr "Pananamit"
+
+#: src/data/categories.ts:7924
+msgid "Cocktail Bar"
+msgstr "Cocktail Bar"
+
+#: src/data/categories.ts:2948
+msgid "Coffee Shop"
+msgstr "Coffee Shop"
+
+#: src/data/categories.ts:7041
+msgid "College"
+msgstr "Kolehiyo"
+
+#: src/data/categories.ts:7058
+msgid "College Academic Building"
+msgstr "College Academic Building"
+
+#: src/data/categories.ts:7070
+msgid "College Administrative Building"
+msgstr "Pang-administratibong Gusali ng Kolehiyo"
+
+#: src/data/categories.ts:7082
+msgid "College Bookstore"
+msgstr "Bookstore ng Kolehiyo"
+
+#: src/data/categories.ts:7109
+msgid "College Cafeteria"
+msgstr "Kapetirya ng Kolehiyo"
+
+#: src/data/categories.ts:14572
+msgid "College Dormitory / Residence Hall"
+msgstr "Dormitoryo sa Kolehiyo / Residence Hall"
+
+#: src/data/categories.ts:7136
+msgid "College Gym"
+msgstr "Gym ng Kolehiyo"
+
+#: src/data/categories.ts:7148
+msgid "College Library"
+msgstr "Aklatan ng Kolehiyo"
+
+#: src/data/categories.ts:7165
+msgid "College Quad"
+msgstr "Quad ng Kolehiyo"
+
+#: src/data/categories.ts:7170
+msgid "College Rec Center"
+msgstr "Sentrong Panlibangan ng Kolehiyo"
+
+#: src/data/categories.ts:7182
+msgid "College Theater"
+msgstr "Teatro ng Kolehiyo"
+
+#: src/data/categories.ts:2980
+msgid "Colombian"
+msgstr "Colombian"
+
+#: src/data/categories.ts:931
+msgid "Comedy Club"
+msgstr "Comedy Club"
+
+#: src/data/categories.ts:15870
+msgid "Comic Books"
+msgstr "Komiks"
+
+#: src/data/categories.ts:11851
+msgid "Communications"
+msgstr "Mga Komunikasyon"
+
+#: src/data/categories.ts:14034
+msgid "Community Association"
+msgstr "Samahan ng Komunidad"
+
+#: src/data/categories.ts:1405
+msgid "Community Center"
+msgstr "Sentro ng Pamayanan"
+
+#: src/data/categories.ts:7204
+msgid "Community College"
+msgstr "Kolehiyo ng Komunidad"
+
+#: src/data/categories.ts:13379
+msgid "Computer Services"
+msgstr "Mga Serbisyo sa Computer"
+
+#: src/data/categories.ts:15897
+msgid "Computers & Home Electronics"
+msgstr "Computers & Home Electronics"
+
+#: src/data/categories.ts:681
+msgid "Concert Hall"
+msgstr "Concert Hall"
+
+#: src/data/categories.ts:14301
+msgid "Confucian Temple"
+msgstr "Templo ng Confucian"
+
+#: src/data/categories.ts:11607
+msgid "Construction Company"
+msgstr "Kumpanya ng Konstruksyon"
+
+#: src/data/categories.ts:1432
+msgid "Consulate / Embassy"
+msgstr "Konsulada / Embahada"
+
+#: src/data/categories.ts:16442
+msgid "Convenience Store"
+msgstr "Convenience Store"
+
+#: src/data/categories.ts:14323
+msgid "Convent"
+msgstr "Kumbento"
+
+#: src/data/categories.ts:11995
+msgid "Convention Center"
+msgstr "Convention Center"
+
+#: src/data/categories.ts:7221
+msgid "Cooking School"
+msgstr "Paaralan sa Pagluluto"
+
+#: src/data/categories.ts:15924
+msgid "Cosmetics Shop"
+msgstr "Cosmetics Shop"
+
+#: src/data/categories.ts:15951
+msgid "Costume Shop"
+msgstr "Costume Shop"
+
+#: src/data/categories.ts:1459
+msgid "Court House"
+msgstr "Court House"
+
+#: src/data/categories.ts:13406
+msgid "Coworking Space"
+msgstr "Coworking Space"
+
+#: src/data/categories.ts:15978
+msgid "Craft Store"
+msgstr "Craft Store"
+
+#: src/data/categories.ts:13021
+msgid "Credit Union"
+msgstr "Credit Union"
+
+#: src/data/categories.ts:3012
+msgid "Creperie"
+msgstr "Creperie"
+
+#: src/data/categories.ts:10233
+msgid "Cricket"
+msgstr "Cricket"
+
+#: src/data/categories.ts:3044
+msgid "Cuban"
+msgstr "Cuban"
+
+#: src/data/categories.ts:1481
+msgid "Cultural Center"
+msgstr "Sentro ng Kultura"
+
+#: src/data/categories.ts:3076
+msgid "Cupcake Shop"
+msgstr "Cupcake Shop"
+
+#: src/data/categories.ts:13048
+msgid "Currency Exchange"
+msgstr "Pagpapalitan ng Pera"
+
+#: src/data/categories.ts:1508
+msgid "Customs House"
+msgstr "Customs House"
+
+#: src/data/categories.ts:10260
+msgid "Cycle Studio"
+msgstr "Cycle Studio"
+
+#: src/data/categories.ts:3108
+msgid "Czech"
+msgstr "Czech"
+
+#: src/data/categories.ts:8713
+msgid "Dairy Farm"
+msgstr "Dairy Farm"
+
+#: src/data/categories.ts:16469
+msgid "Dairy Store"
+msgstr "Dairy Store"
+
+#: src/data/categories.ts:8993
+msgid "Dam"
+msgstr "Dam"
+
+#: src/data/categories.ts:958
+msgid "Dance"
+msgstr "Sayaw"
+
+#: src/data/categories.ts:102
+msgid "Dance Hall"
+msgstr "Dance Hall"
+
+#: src/data/categories.ts:7248
+msgid "Dance Studio"
+msgstr "Dance Studio"
+
+#: src/data/categories.ts:11367
+msgid "Day Spa"
+msgstr "Day Spa"
+
+#: src/data/categories.ts:3140
+msgid "Deli"
+msgstr "Deli"
+
+#: src/data/categories.ts:12198
+msgid "Dentist"
+msgstr "Dentista"
+
+#: src/data/categories.ts:16005
+msgid "Department Store"
+msgstr "Department Store"
+
+#: src/data/categories.ts:1535
+msgid "Department of Motor Vehicles"
+msgstr "Department of Motor Vehicles"
+
+#: src/data/categories.ts:3172
+msgid "Dessert Shop"
+msgstr "Dessert Shop"
+
+#: src/data/categories.ts:13433
+msgid "Detective & Security Services"
+msgstr "Mga Serbisyo ng Detective at Security "
+
+#: src/data/categories.ts:10287
+msgid "Diet & Weight Loss"
+msgstr "Diyeta at Pagbabawas ng Timbang"
+
+#: src/data/categories.ts:16032
+msgid "Dietary & Supplement Shop"
+msgstr "Dietary & Supplement Shop"
+
+#: src/data/categories.ts:9005
+msgid "Dike"
+msgstr "Dike"
+
+#: src/data/categories.ts:3204
+msgid "Dim Sum"
+msgstr "Dim Sum"
+
+#: src/data/categories.ts:3236
+msgid "Diner"
+msgstr "Diner"
+
+#: src/data/categories.ts:1807
+msgid "Dining"
+msgstr "Dining"
+
+#: src/data/categories.ts:3268
+msgid "Dinner Theater"
+msgstr "Teatro kung Saan Kasama sa Tiket ang Pagkain"
+
+#: src/data/categories.ts:9634
+msgid "Disc Golf"
+msgstr "Disc Golf"
+
+#: src/data/categories.ts:16059
+msgid "Discount & Variety Store"
+msgstr "Discount & Variety Store"
+
+#: src/data/categories.ts:7956
+msgid "Distillery"
+msgstr "Distillery"
+
+#: src/data/categories.ts:12740
+msgid "Distribution Center"
+msgstr "Sentro ng Distribusyon"
+
+#: src/data/categories.ts:7988
+msgid "Dive Bar"
+msgstr "Dive Bar"
+
+#: src/data/categories.ts:9646
+msgid "Dive Center"
+msgstr "Dive Center"
+
+#: src/data/categories.ts:10314
+msgid "Diving Center"
+msgstr "Diving Center"
+
+#: src/data/categories.ts:12225
+msgid "Doctor"
+msgstr "Doktor"
+
+#: src/data/categories.ts:9456
+msgid "Dog Park"
+msgstr "Parke ng Aso"
+
+#: src/data/categories.ts:1161
+msgid "Dog Racetrack"
+msgstr "Racetrack ng Aso"
+
+#: src/data/categories.ts:3300
+msgid "Dongbei"
+msgstr ""
+
+#: src/data/categories.ts:3316
+msgid "Donut Shop"
+msgstr "Donut Shop"
+
+#: src/data/categories.ts:3348
+msgid "Dosa"
+msgstr "Dosa"
+
+#: src/data/categories.ts:11233
+msgid "Drinking Water"
+msgstr "Inuming Tubig"
+
+#: src/data/categories.ts:397
+msgid "Drive-in Theater"
+msgstr "Drive-in Theater"
+
+#: src/data/categories.ts:7275
+msgid "Driving School"
+msgstr "Paaralan na Nagtuturo ng Pagmamaneho"
+
+#: src/data/categories.ts:14809
+msgid "Dry Cleaner"
+msgstr "Dry Cleaner"
+
+#: src/data/categories.ts:3380
+msgid "Dumpling"
+msgstr "Dumpling"
+
+#: src/data/categories.ts:9017
+msgid "Dunes"
+msgstr "Bundok ng buhangin"
+
+#: src/data/categories.ts:3412
+msgid "Dutch"
+msgstr "Dutch"
+
+#: src/data/categories.ts:16086
+msgid "Duty Free Shop"
+msgstr "Duty Free Shop"
+
+#: src/data/categories.ts:18346
+msgid "Duty-free Shop"
+msgstr "Duty-free Shop"
+
+#: src/data/categories.ts:11106
+msgid "EV Charging Station"
+msgstr "EV Charging Station"
+
+#: src/data/categories.ts:3444
+msgid "Eastern European"
+msgstr "Eastern European"
+
+#: src/data/categories.ts:6982
+msgid "Education"
+msgstr "Edukasyon"
+
+#: src/data/categories.ts:11629
+msgid "Electrician"
+msgstr "Elektrisyan"
+
+#: src/data/categories.ts:16113
+msgid "Electronics Store"
+msgstr "Electronics Store"
+
+#: src/data/categories.ts:7302
+msgid "Elementary School"
+msgstr "Paaralang Elementarya"
+
+#: src/data/categories.ts:18501
+msgid "Elevator"
+msgstr "Elevator"
+
+#: src/data/categories.ts:15194
+msgid "Emergency Phone"
+msgstr "Pang-emergency na Telepono"
+
+#: src/data/categories.ts:12252
+msgid "Emergency Room"
+msgstr "Emergency Room"
+
+#: src/data/categories.ts:15206
+msgid "Emergency Shelter"
+msgstr "Pang-emergency na Silungan"
+
+#: src/data/categories.ts:3476
+msgid "Empanada"
+msgstr "Empanada"
+
+#: src/data/categories.ts:13460
+msgid "Employment Agencies"
+msgstr "Mga Ahensya ng Pangengempleo"
+
+#: src/data/categories.ts:15233
+msgid "Employment Agency"
+msgstr "Ahensya ng Pangengempleo"
+
+#: src/data/categories.ts:13487
+msgid "Engineering"
+msgstr "Enhinyerya"
+
+#: src/data/categories.ts:13514
+msgid "Entertainment Service"
+msgstr "Serbisyo sa Pag-aaliw"
+
+#: src/data/categories.ts:18506
+msgid "Entrance"
+msgstr "Pasukan"
+
+#: src/data/categories.ts:11651
+msgid "Equipment Rental"
+msgstr "Pagpapaupa ng Equipmwnt"
+
+#: src/data/categories.ts:512
+msgid "Erotic Museum"
+msgstr "Erotic Museum"
+
+#: src/data/categories.ts:18511
+msgid "Escalator"
+msgstr "Escalator"
+
+#: src/data/categories.ts:3508
+msgid "Ethiopian"
+msgstr "Ethiopian"
+
+#: src/data/categories.ts:12017
+msgid "Event Space"
+msgstr "Espasyo ng Event"
+
+#: src/data/categories.ts:16140
+msgid "Event Tickets"
+msgstr "Mga Tiket ng Event"
+
+#: src/data/categories.ts:11968
+msgid "Events"
+msgstr "Mga Event"
+
+#: src/data/categories.ts:12039
+msgid "Exhibition Hall"
+msgstr "Exhibition Hall"
+
+#: src/data/categories.ts:16167
+msgid "Fabric Store"
+msgstr "Fabric Store"
+
+#: src/data/categories.ts:12762
+msgid "Factory"
+msgstr "Pagawaan"
+
+#: src/data/categories.ts:3540
+msgid "Falafel"
+msgstr "Falafel"
+
+#: src/data/categories.ts:8740
+msgid "Farm"
+msgstr "Farm"
+
+#: src/data/categories.ts:16496
+msgid "Farmers Market"
+msgstr "Palengke ng mga Magsasaka"
+
+#: src/data/categories.ts:8681
+msgid "Farming"
+msgstr "Pagsasaka"
+
+#: src/data/categories.ts:3572
+msgid "Fast Food"
+msgstr "Fast Food"
+
+#: src/data/categories.ts:18523
+msgid "Ferry Terminal"
+msgstr "Ferry Terminal"
+
+#: src/data/categories.ts:985
+msgid "Festival"
+msgstr "Festival"
+
+#: src/data/categories.ts:3604
+msgid "Filipino"
+msgstr "Filipino"
+
+#: src/data/categories.ts:11856
+msgid "Film & Video Production"
+msgstr "Produksyon ng Film at Video"
+
+#: src/data/categories.ts:13075
+msgid "Financial Services"
+msgstr "Mga Serbisyong Pinansyal"
+
+#: src/data/categories.ts:266
+msgid "Fine Arts"
+msgstr "Fine Arts"
+
+#: src/data/categories.ts:1562
+msgid "Fire Station"
+msgstr "Istasyon ng Bumbero"
+
+#: src/data/categories.ts:9029
+msgid "Firepit"
+msgstr "Hukay na Apuyan"
+
+#: src/data/categories.ts:3636
+msgid "Fish & Chips"
+msgstr "Isda at Chips"
+
+#: src/data/categories.ts:16523
+msgid "Fish Market"
+msgstr "Palengke ng Isda"
+
+#: src/data/categories.ts:9658
+msgid "Fishing"
+msgstr "Pangingisda"
+
+#: src/data/categories.ts:16194
+msgid "Fishing Supply"
+msgstr "Suplay sa Pangingisda"
+
+#: src/data/categories.ts:10341
+msgid "Fitness Center"
+msgstr "Fitness Center"
+
+#: src/data/categories.ts:16221
+msgid "Flea Market"
+msgstr "Tiangge"
+
+#: src/data/categories.ts:7324
+msgid "Flight School"
+msgstr "Flight School"
+
+#: src/data/categories.ts:16248
+msgid "Florist"
+msgstr "Magbubulaklak"
+
+#: src/data/categories.ts:3668
+msgid "Fondue"
+msgstr "Fondue"
+
+#: src/data/categories.ts:16275
+msgid "Food & Beverage"
+msgstr "Pagkain at Inumin"
+
+#: src/data/categories.ts:3700
+msgid "Food Court"
+msgstr "Food Court"
+
+#: src/data/categories.ts:1183
+msgid "Football Stadium"
+msgstr "Istadyum ng Football"
+
+#: src/data/categories.ts:9468
+msgid "Forest"
+msgstr "Kagubatan"
+
+#: src/data/categories.ts:9041
+msgid "Fortress"
+msgstr "Kuta"
+
+#: src/data/categories.ts:14061
+msgid "Foundation"
+msgstr "Pundasyon"
+
+#: src/data/categories.ts:9053
+msgid "Fountain"
+msgstr "Fountain"
+
+#: src/data/categories.ts:16795
+msgid "Frame Shop"
+msgstr "Frame Shop"
+
+#: src/data/categories.ts:14594
+msgid "Fraternity House"
+msgstr "Fraternity House"
+
+#: src/data/categories.ts:3732
+msgid "French"
+msgstr "French"
+
+#: src/data/categories.ts:3764
+msgid "Fried Chicken"
+msgstr "Pritong Manok"
+
+#: src/data/categories.ts:3796
+msgid "Friterie"
+msgstr "Friterie"
+
+#: src/data/categories.ts:3828
+msgid "Frozen Yogurt"
+msgstr "Frozen Yogurt"
+
+#: src/data/categories.ts:16550
+msgid "Fruits & Vegetables"
+msgstr "Mga Prutas at Gulay"
+
+#: src/data/categories.ts:3860
+msgid "Fujian"
+msgstr ""
+
+#: src/data/categories.ts:13541
+msgid "Funeral Home"
+msgstr "Punerarya"
+
+#: src/data/categories.ts:14836
+msgid "Gaming Cafe"
+msgstr "Gaming Cafe"
+
+#: src/data/categories.ts:9670
+msgid "Garden"
+msgstr "Harden"
+
+#: src/data/categories.ts:16962
+msgid "Garden Center"
+msgstr "Garden Center"
+
+#: src/data/categories.ts:11123
+msgid "Gas Station"
+msgstr "Gas Station"
+
+#: src/data/categories.ts:3876
+msgid "Gastropub"
+msgstr "Gastropub"
+
+#: src/data/categories.ts:9065
+msgid "Gate"
+msgstr "Gate"
+
+#: src/data/categories.ts:8020
+msgid "Gay Bar"
+msgstr "Gay Bar"
+
+#: src/data/categories.ts:15733
+msgid "General Clothing Store"
+msgstr "Tindahan ng Pangkalahatang Pananamit"
+
+#: src/data/categories.ts:3908
+msgid "German"
+msgstr "German"
+
+#: src/data/categories.ts:16822
+msgid "Gifts & Souvenirs"
+msgstr "Mga Regalo at Souvenir"
+
+#: src/data/categories.ts:9077
+msgid "Glacier"
+msgstr "Glacier"
+
+#: src/data/categories.ts:3940
+msgid "Gluten-free"
+msgstr "Walang gluten"
+
+#: src/data/categories.ts:129
+msgid "Go Karts"
+msgstr "Go Karts"
+
+#: src/data/categories.ts:10368
+msgid "Golf Course"
+msgstr "Golf Course"
+
+#: src/data/categories.ts:10395
+msgid "Golf Driving Range"
+msgstr "Golf Driving Range"
+
+#: src/data/categories.ts:16577
+msgid "Gourmet Shop"
+msgstr "Gourmet Shop"
+
+#: src/data/categories.ts:1567
+msgid "Government Building"
+msgstr "Gusali ng Pamahalaan"
+
+#: src/data/categories.ts:7351
+msgid "Graduate School"
+msgstr "Graduate School"
+
+#: src/data/categories.ts:3972
+msgid "Greek"
+msgstr "Greek"
+
+#: src/data/categories.ts:16604
+msgid "Grocery"
+msgstr "Grocery"
+
+#: src/data/categories.ts:18669
+msgid "Guest House"
+msgstr "Guest House"
+
+#: src/data/categories.ts:9682
+msgid "Gun Range"
+msgstr "Range ng Baril"
+
+#: src/data/categories.ts:16849
+msgid "Gun Shop"
+msgstr "Gun Shop"
+
+#: src/data/categories.ts:10422
+msgid "Gym"
+msgstr "Gym"
+
+#: src/data/categories.ts:10449
+msgid "Gymnastics Studio"
+msgstr "Gymnastics Studio"
+
+#: src/data/categories.ts:11673
+msgid "HVAC Company"
+msgstr "HVAC Company"
+
+#: src/data/categories.ts:13568
+msgid "Hacker Space"
+msgstr "Hacker Space"
+
+#: src/data/categories.ts:4004
+msgid "Halal"
+msgstr "Halal"
+
+#: src/data/categories.ts:16989
+msgid "Hardware Store"
+msgstr "Hardware Store"
+
+#: src/data/categories.ts:4036
+msgid "Hawaiian"
+msgstr "Hawaiian"
+
+#: src/data/categories.ts:12085
+msgid "Health"
+msgstr "Kalusugan"
+
+#: src/data/categories.ts:4068
+msgid "Health Food"
+msgstr "Nakalulusog na Pagkain"
+
+#: src/data/categories.ts:16631
+msgid "Health Food Store"
+msgstr "Tindahan ng Nakalulusog na Pagkain"
+
+#: src/data/categories.ts:18358
+msgid "Heliport"
+msgstr "Heliport"
+
+#: src/data/categories.ts:16658
+msgid "Herbs & Spices"
+msgstr "Mga Gugulayin at Pampalasa"
+
+#: src/data/categories.ts:7368
+msgid "High School"
+msgstr "High School"
+
+#: src/data/categories.ts:4100
+msgid "Himalayan"
+msgstr ""
+
+#: src/data/categories.ts:14345
+msgid "Hindu Temple"
+msgstr "Templo ng Hindu"
+
+#: src/data/categories.ts:317
+msgid "Historic"
+msgstr "Makasaysayan"
+
+#: src/data/categories.ts:339
+msgid "Historic Building"
+msgstr "Gusaling Makasaysayan"
+
+#: src/data/categories.ts:356
+msgid "Historic Site"
+msgstr "Lugar na Makasaysayan"
+
+#: src/data/categories.ts:539
+msgid "History Museum"
+msgstr "History Museum"
+
+#: src/data/categories.ts:16876
+msgid "Hobby Store"
+msgstr "Hobby Store"
+
+#: src/data/categories.ts:1205
+msgid "Hockey Arena"
+msgstr "Arena ng Hockey "
+
+#: src/data/categories.ts:10476
+msgid "Hockey Field"
+msgstr "Hockey Field"
+
+#: src/data/categories.ts:16903
+msgid "Home & Garden"
+msgstr "Tahanan at Harden"
+
+#: src/data/categories.ts:17016
+msgid "Home Furnishings"
+msgstr "Mga Muwebles at Palamuti ng Bahay"
+
+#: src/data/categories.ts:4116
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: src/data/categories.ts:8052
+msgid "Hookah Bar"
+msgstr "Hookah Bar"
+
+#: src/data/categories.ts:1227
+msgid "Horse Racetrack"
+msgstr "Horse Racetrack"
+
+#: src/data/categories.ts:12279
+msgid "Hospice"
+msgstr "Hospisyo"
+
+#: src/data/categories.ts:12306
+msgid "Hospital"
+msgstr "Ospital"
+
+#: src/data/categories.ts:18691
+msgid "Hostel"
+msgstr "Hostel"
+
+#: src/data/categories.ts:4148
+msgid "Hot Dog"
+msgstr "Hot Dog"
+
+#: src/data/categories.ts:4180
+msgid "Hot Pot"
+msgstr "Hot Pot"
+
+#: src/data/categories.ts:9089
+msgid "Hot Spring"
+msgstr "Mainit na Batis"
+
+#: src/data/categories.ts:18713
+msgid "Hotel"
+msgstr "Hotel"
+
+#: src/data/categories.ts:8084
+msgid "Hotel Bar"
+msgstr "Hotel Bar"
+
+#: src/data/categories.ts:17043
+msgid "Household Appliances"
+msgstr "Mga Appliance ng Bahay"
+
+#: src/data/categories.ts:14616
+msgid "Housing Project"
+msgstr "Proyekto ng Pabahay"
+
+#: src/data/categories.ts:4212
+msgid "Huaiyang"
+msgstr ""
+
+#: src/data/categories.ts:4228
+msgid "Hunan"
+msgstr ""
+
+#: src/data/categories.ts:4244
+msgid "Hungarian"
+msgstr "Hungarian"
+
+#: src/data/categories.ts:4276
+msgid "Ice Cream"
+msgstr "Sorbetes"
+
+#: src/data/categories.ts:10503
+msgid "Ice Skating Rink"
+msgstr "Ice Skating Rink"
+
+#: src/data/categories.ts:4308
+msgid "Indian"
+msgstr "Indian"
+
+#: src/data/categories.ts:4340
+msgid "Indian Sweets"
+msgstr "Indian Sweets"
+
+#: src/data/categories.ts:4372
+msgid "Indonesian"
+msgstr "Indonesian"
+
+#: src/data/categories.ts:4404
+msgid "Indonesian Meatballs"
+msgstr ""
+
+#: src/data/categories.ts:1249
+msgid "Indoor Arena"
+msgstr "Panloob na Arena"
+
+#: src/data/categories.ts:12713
+msgid "Industrial"
+msgstr "Industriyal"
+
+#: src/data/categories.ts:12784
+msgid "Industrial Estate"
+msgstr "Industrial Estate"
+
+#: src/data/categories.ts:13595
+msgid "Insurance Agent"
+msgstr "Insurance Agent"
+
+#: src/data/categories.ts:13622
+msgid "Internet Cafe"
+msgstr "Internet Cafe"
+
+#: src/data/categories.ts:13102
+msgid "Investment Brokerage"
+msgstr "Investment Brokerage"
+
+#: src/data/categories.ts:4420
+msgid "Irish"
+msgstr "Irish"
+
+#: src/data/categories.ts:4452
+msgid "Israeli"
+msgstr "Israeli"
+
+#: src/data/categories.ts:4484
+msgid "Italian"
+msgstr "Italian"
+
+#: src/data/categories.ts:4516
+msgid "Japanese"
+msgstr "Japanese"
+
+#: src/data/categories.ts:4548
+msgid "Javanese"
+msgstr ""
+
+#: src/data/categories.ts:708
+msgid "Jazz & Blues"
+msgstr "Jazz & Blues"
+
+#: src/data/categories.ts:9101
+msgid "Jetty"
+msgstr "Jetty"
+
+#: src/data/categories.ts:17153
+msgid "Jewelry Store"
+msgstr "Tindahan ng Alahas"
+
+#: src/data/categories.ts:4564
+msgid "Jewish"
+msgstr "Jewish"
+
+#: src/data/categories.ts:4596
+msgid "Jiangsu"
+msgstr ""
+
+#: src/data/categories.ts:15260
+msgid "Job Training"
+msgstr "Pagsasanay sa Trabaho"
+
+#: src/data/categories.ts:4612
+msgid "Juice Bar"
+msgstr "Juice Bar"
+
+#: src/data/categories.ts:8116
+msgid "Karaoke"
+msgstr "Karaoke"
+
+#: src/data/categories.ts:4644
+msgid "Kebab"
+msgstr "Kebab"
+
+#: src/data/categories.ts:7390
+msgid "Kindergarten"
+msgstr "Kindergarten"
+
+#: src/data/categories.ts:14367
+msgid "Kingdom Hall"
+msgstr "Kingdom Hall"
+
+#: src/data/categories.ts:17070
+msgid "Kitchen Supply"
+msgstr "Suplay para sa Kusina"
+
+#: src/data/categories.ts:17180
+msgid "Knitting Store"
+msgstr "Knitting Store"
+
+#: src/data/categories.ts:4676
+msgid "Korean"
+msgstr "Korean"
+
+#: src/data/categories.ts:4708
+msgid "Korean Barbecue"
+msgstr "Korean Barbecue"
+
+#: src/data/categories.ts:14088
+msgid "Labor Organization"
+msgstr "Organisasyon ng Paggawa"
+
+#: src/data/categories.ts:12806
+msgid "Laboratory"
+msgstr "Laboratoryo"
+
+#: src/data/categories.ts:9113
+msgid "Lagoon"
+msgstr "Lagoon"
+
+#: src/data/categories.ts:9125
+msgid "Lake"
+msgstr "Lawa"
+
+#: src/data/categories.ts:11695
+msgid "Landfill"
+msgstr "Landfill"
+
+#: src/data/categories.ts:8904
+msgid "Landmark"
+msgstr "Landmark"
+
+#: src/data/categories.ts:11717
+msgid "Landscaper"
+msgstr "Landscaper"
+
+#: src/data/categories.ts:7412
+msgid "Language School"
+msgstr "Language School"
+
+#: src/data/categories.ts:9694
+msgid "Laser Tag"
+msgstr "Laser Tag"
+
+#: src/data/categories.ts:4740
+msgid "Latin American"
+msgstr "Latin American"
+
+#: src/data/categories.ts:14863
+msgid "Laundromat"
+msgstr "Laundromat"
+
+#: src/data/categories.ts:7439
+msgid "Law School"
+msgstr "Law School"
+
+#: src/data/categories.ts:13649
+msgid "Lawyer & Legal Services"
+msgstr "Mga Serbisyo ng Abogado at Panlegal"
+
+#: src/data/categories.ts:17207
+msgid "Leather Goods"
+msgstr "Mga Panindang Gawa sa Katad"
+
+#: src/data/categories.ts:4772
+msgid "Lebanese"
+msgstr "Lebanese"
+
+#: src/data/categories.ts:1594
+msgid "Library"
+msgstr "Aklatan"
+
+#: src/data/categories.ts:18844
+msgid "Light Rail Station"
+msgstr "Light Rail Station"
+
+#: src/data/categories.ts:9137
+msgid "Lighthouse"
+msgstr "Lighthouse"
+
+#: src/data/categories.ts:17097
+msgid "Lighting Store"
+msgstr "Tindahan ng mga Ilaw"
+
+#: src/data/categories.ts:15760
+msgid "Lingerie Shop"
+msgstr "Lingerie Shop"
+
+#: src/data/categories.ts:16685
+msgid "Liquor Store"
+msgstr "Tindahan ng Alak"
+
+#: src/data/categories.ts:8767
+msgid "Livestock Farm"
+msgstr "Livestock Farm"
+
+#: src/data/categories.ts:11739
+#: src/data/categories.ts:14890
+msgid "Locksmith"
+msgstr "Panday"
+
+#: src/data/categories.ts:18394
+msgid "Lot"
+msgstr "Lote"
+
+#: src/data/categories.ts:14917
+msgid "Lottery Store"
+msgstr "Lottery Store"
+
+#: src/data/categories.ts:8148
+msgid "Lounge"
+msgstr "Lounge"
+
+#: src/data/categories.ts:17234
+msgid "Luggage Store"
+msgstr "Tindahan ng Maleta"
+
+#: src/data/categories.ts:4804
+msgid "Mac & Cheese"
+msgstr "Mac & Cheese"
+
+#: src/data/categories.ts:4836
+msgid "Macanese"
+msgstr ""
+
+#: src/data/categories.ts:4852
+msgid "Malaysian"
+msgstr "Malaysian"
+
+#: src/data/categories.ts:4884
+msgid "Mamak"
+msgstr ""
+
+#: src/data/categories.ts:4900
+msgid "Manadonese"
+msgstr ""
+
+#: src/data/categories.ts:13676
+msgid "Management & Consulting"
+msgstr "Management & Consulting"
+
+#: src/data/categories.ts:12333
+msgid "Marijuana Dispensary"
+msgstr "Dispensary ng Marijuana"
+
+#: src/data/categories.ts:9721
+msgid "Marina"
+msgstr "Marina"
+
+#: src/data/categories.ts:18518
+msgid "Marine"
+msgstr "Marine"
+
+#: src/data/categories.ts:17261
+msgid "Marketplace"
+msgstr "Palengke"
+
+#: src/data/categories.ts:10530
+msgid "Martial Arts"
+msgstr "Martial Arts"
+
+#: src/data/categories.ts:11394
+msgid "Massage"
+msgstr "Masahe"
+
+#: src/data/categories.ts:12360
+msgid "Maternity Clinic"
+msgstr "Maternity Clinic"
+
+#: src/data/categories.ts:17288
+msgid "Mattress Store"
+msgstr "Tindahan ng Matres"
+
+#: src/data/categories.ts:9733
+msgid "Maze"
+msgstr "Maze"
+
+#: src/data/categories.ts:12387
+msgid "Medical Center"
+msgstr "Medical Center"
+
+#: src/data/categories.ts:12414
+msgid "Medical Lab"
+msgstr "Medikal na Laboratoryo"
+
+#: src/data/categories.ts:7456
+msgid "Medical School"
+msgstr "Medical School"
+
+#: src/data/categories.ts:17315
+msgid "Medical Supply Store"
+msgstr "Tindahan ng Medikal na Suplay"
+
+#: src/data/categories.ts:4916
+msgid "Mediterranean"
+msgstr "Mediterranean"
+
+#: src/data/categories.ts:14115
+msgid "Membership Organization"
+msgstr "Organisasyon ng mga Miyembro"
+
+#: src/data/categories.ts:9149
+msgid "Memorial"
+msgstr "Memoryal"
+
+#: src/data/categories.ts:15787
+msgid "Men's Clothing Store"
+msgstr "Tindahan ng mga Panlalaking Damit"
+
+#: src/data/categories.ts:4948
+msgid "Mexican"
+msgstr "Mexican"
+
+#: src/data/categories.ts:4980
+msgid "Middle Eastern"
+msgstr "Middle Eastern"
+
+#: src/data/categories.ts:7473
+msgid "Middle School"
+msgstr "Middle School"
+
+#: src/data/categories.ts:12441
+msgid "Midwife"
+msgstr "Kumadrona"
+
+#: src/data/categories.ts:1621
+msgid "Military Base"
+msgstr "Base-Militar"
+
+#: src/data/categories.ts:9750
+msgid "Miniature Golf"
+msgstr "Maliit na Golf"
+
+#: src/data/categories.ts:12828
+msgid "Mining & Drilling"
+msgstr "Pagmimina at Drilling"
+
+#: src/data/categories.ts:14389
+msgid "Mission"
+msgstr "Misyon"
+
+#: src/data/categories.ts:17124
+msgid "Mobile Homes"
+msgstr "Mga Mobile Home"
+
+#: src/data/categories.ts:17342
+msgid "Mobile Phones"
+msgstr "Mga Mobile Phone"
+
+#: src/data/categories.ts:5012
+msgid "Modern European"
+msgstr "Modern European"
+
+#: src/data/categories.ts:5044
+msgid "Molecular Gastronomy"
+msgstr "Molecular Gastronomy"
+
+#: src/data/categories.ts:14411
+msgid "Monastery"
+msgstr "Monasteryo"
+
+#: src/data/categories.ts:12962
+msgid "Money"
+msgstr "Pera"
+
+#: src/data/categories.ts:5076
+msgid "Mongolian"
+msgstr "Mongolian"
+
+#: src/data/categories.ts:9161
+msgid "Monument"
+msgstr "Monumento"
+
+#: src/data/categories.ts:5108
+msgid "Moroccan"
+msgstr "Moroccan"
+
+#: src/data/categories.ts:14433
+msgid "Mosque"
+msgstr "Moske"
+
+#: src/data/categories.ts:18735
+msgid "Motel"
+msgstr "Motel"
+
+#: src/data/categories.ts:11145
+msgid "Motorcycle Sales"
+msgstr "Motorcycle Sales"
+
+#: src/data/categories.ts:9173
+msgid "Mountain"
+msgstr "Bundok"
+
+#: src/data/categories.ts:424
+msgid "Movie Rental"
+msgstr "Pag-arkila ng Palabas sa Pelikula"
+
+#: src/data/categories.ts:451
+msgid "Movie Theater"
+msgstr "Sinehan"
+
+#: src/data/categories.ts:392
+msgid "Movies"
+msgstr "Mga Pelikula"
+
+#: src/data/categories.ts:480
+msgid "Museum"
+msgstr "Museo"
+
+#: src/data/categories.ts:622
+msgid "Music"
+msgstr "Musika"
+
+#: src/data/categories.ts:7495
+msgid "Music School"
+msgstr "Music School"
+
+#: src/data/categories.ts:17369
+msgid "Music Store"
+msgstr "Music Store"
+
+#: src/data/categories.ts:11421
+msgid "Nail Salon"
+msgstr "Nail Salon"
+
+#: src/data/categories.ts:14638
+msgid "Named Residential Building"
+msgstr "Pinangalanang Residensyal na Gusali"
+
+#: src/data/categories.ts:9480
+msgid "National Park"
+msgstr "Pambansang Parke"
+
+#: src/data/categories.ts:9492
+msgid "Nature Preserve"
+msgstr "Pagpreserba ng Kalikasan"
+
+#: src/data/categories.ts:5140
+msgid "New American"
+msgstr "New American"
+
+#: src/data/categories.ts:11878
+msgid "Newspaper"
+msgstr "Pahayagan"
+
+#: src/data/categories.ts:17396
+msgid "Newsstand"
+msgstr "Newsstand"
+
+#: src/data/categories.ts:8180
+msgid "Nightclub"
+msgstr "Nightclub"
+
+#: src/data/categories.ts:7727
+msgid "Nightlife"
+msgstr "Nightlife"
+
+#: src/data/categories.ts:13703
+msgid "Non-Profit"
+msgstr "Non-Profit"
+
+#: src/data/categories.ts:5172
+msgid "Noodles"
+msgstr "Noodles"
+
+#: src/data/categories.ts:13730
+msgid "Notary"
+msgstr "Notaryo"
+
+#: src/data/categories.ts:9777
+msgid "Nude Beach"
+msgstr "Beach ng mga Naghuhubad"
+
+#: src/data/categories.ts:7522
+msgid "Nursery School"
+msgstr "Nursery School"
+
+#: src/data/categories.ts:12468
+msgid "Nursing Home"
+msgstr "Nursing Home"
+
+#: src/data/categories.ts:12495
+msgid "Nutritionist"
+msgstr "Nutritionist"
+
+#: src/data/categories.ts:13131
+msgid "Office"
+msgstr "Tanggapan"
+
+#: src/data/categories.ts:17423
+msgid "Office Supply"
+msgstr "Suplay para sa Tanggapan"
+
+#: src/data/categories.ts:12850
+msgid "Oil Field"
+msgstr "Oil Field"
+
+#: src/data/categories.ts:735
+msgid "Opera"
+msgstr "Opera"
+
+#: src/data/categories.ts:17450
+msgid "Optical Goods"
+msgstr "Mga Panindang para sa Mata"
+
+#: src/data/categories.ts:12522
+msgid "Optometrist"
+msgstr "Optometrist"
+
+#: src/data/categories.ts:8794
+msgid "Orchard"
+msgstr "Orchard"
+
+#: src/data/categories.ts:14029
+msgid "Organization"
+msgstr "Organisasyon"
+
+#: src/data/categories.ts:17477
+msgid "Outdoor Supply"
+msgstr "Suplay na Pang-outdoor"
+
+#: src/data/categories.ts:8534
+msgid "Outdoors & Recreation"
+msgstr "Outdoors & Recreation"
+
+#: src/data/categories.ts:17504
+msgid "Outlet Mall"
+msgstr "Outlet Mall"
+
+#: src/data/categories.ts:17531
+msgid "Outlet Store"
+msgstr "Outlet Store"
+
+#: src/data/categories.ts:8212
+msgid "Oxygen Bar"
+msgstr "Oxygen Bar"
+
+#: src/data/categories.ts:5204
+msgid "Padangnese"
+msgstr ""
+
+#: src/data/categories.ts:9185
+msgid "Pagoda"
+msgstr "Pagoda"
+
+#: src/data/categories.ts:10557
+msgid "Paintball Field"
+msgstr "Paintball Field"
+
+#: src/data/categories.ts:11761
+msgid "Painting Company"
+msgstr "Painting Company"
+
+#: src/data/categories.ts:5220
+msgid "Pakistani"
+msgstr "Pakistani"
+
+#: src/data/categories.ts:1626
+msgid "Palace"
+msgstr "Palasyo"
+
+#: src/data/categories.ts:5252
+msgid "Pancake House"
+msgstr "Pancake House"
+
+#: src/data/categories.ts:18377
+msgid "Parking Garage/Lot"
+msgstr "Parking Garage/Lote"
+
+#: src/data/categories.ts:9415
+msgid "Parks"
+msgstr "Mga Parke"
+
+#: src/data/categories.ts:17558
+msgid "Party Supplies"
+msgstr "Mga Suplay na Pang-party"
+
+#: src/data/categories.ts:5284
+msgid "Pastry Shop"
+msgstr "Pastry Shop"
+
+#: src/data/categories.ts:17585
+msgid "Pawn Shop"
+msgstr "Sanglaan"
+
+#: src/data/categories.ts:5316
+msgid "Peking Duck"
+msgstr "Peking Duck"
+
+#: src/data/categories.ts:845
+#: src/data/categories.ts:1012
+msgid "Performing Arts"
+msgstr "Performing Arts"
+
+#: src/data/categories.ts:5348
+msgid "Persian"
+msgstr "Persian"
+
+#: src/data/categories.ts:5380
+msgid "Peruvian"
+msgstr "Peruvian"
+
+#: src/data/categories.ts:11783
+msgid "Pest Control"
+msgstr "Pagkontrol sa Peste"
+
+#: src/data/categories.ts:14944
+msgid "Pet Services"
+msgstr "Mga Serbisyo sa Alagang Hayop"
+
+#: src/data/categories.ts:17612
+msgid "Pet Store"
+msgstr "Tindahan para sa Alagang Hayop"
+
+#: src/data/categories.ts:8598
+msgid "Petting Zoo"
+msgstr "Petting Zoo"
+
+#: src/data/categories.ts:17639
+msgid "Pharmacy"
+msgstr "Botika"
+
+#: src/data/categories.ts:14971
+msgid "Photography Lab"
+msgstr "Laboratoryo ng Potograpiya"
+
+#: src/data/categories.ts:12549
+msgid "Physical Therapist"
+msgstr "Physical Therapist"
+
+#: src/data/categories.ts:762
+msgid "Piano Bar"
+msgstr "Piano Bar"
+
+#: src/data/categories.ts:9789
+msgid "Picnic Area"
+msgstr "Lugar ng Piknik"
+
+#: src/data/categories.ts:5412
+msgid "Pie Shop"
+msgstr "Pie Shop"
+
+#: src/data/categories.ts:18550
+msgid "Pier"
+msgstr "Pier"
+
+#: src/data/categories.ts:11448
+msgid "Piercing Parlor"
+msgstr "Piercing Parlor"
+
+#: src/data/categories.ts:10584
+msgid "Pilates Studio"
+msgstr "Pilates Studio"
+
+#: src/data/categories.ts:5444
+msgid "Pizza"
+msgstr "Pizza"
+
+#: src/data/categories.ts:566
+msgid "Planetarium"
+msgstr "Planetarium"
+
+#: src/data/categories.ts:8821
+msgid "Plant Nursery"
+msgstr "Plant Nursery"
+
+#: src/data/categories.ts:9801
+msgid "Playground"
+msgstr "Palaruang Lugar"
+
+#: src/data/categories.ts:10611
+msgid "Playing Field"
+msgstr "Playing Field"
+
+#: src/data/categories.ts:9197
+msgid "Plaza"
+msgstr "Plaza"
+
+#: src/data/categories.ts:11805
+msgid "Plumber"
+msgstr "Plumber"
+
+#: src/data/categories.ts:12576
+msgid "Podiatrist"
+msgstr "Podiatrist"
+
+#: src/data/categories.ts:1643
+msgid "Police Station"
+msgstr "Istasyon ng Pulis"
+
+#: src/data/categories.ts:5476
+msgid "Polish"
+msgstr "Polish"
+
+#: src/data/categories.ts:13757
+msgid "Political Office"
+msgstr "Tanggapang Politikal"
+
+#: src/data/categories.ts:14142
+msgid "Political Organization"
+msgstr "Organisasyong Politikal"
+
+#: src/data/categories.ts:156
+msgid "Pool Hall"
+msgstr "Pool Hall"
+
+#: src/data/categories.ts:17666
+msgid "Pop-Up Shop"
+msgstr "Pop-Up Shop"
+
+#: src/data/categories.ts:16712
+msgid "Pork Store"
+msgstr "Tindahan ng Karneng Baboy"
+
+#: src/data/categories.ts:14998
+msgid "Portrait Studio"
+msgstr "Portrait Studio"
+
+#: src/data/categories.ts:5508
+msgid "Portuguese"
+msgstr "Portuguese"
+
+#: src/data/categories.ts:1665
+msgid "Post Office"
+msgstr "Post Office"
+
+#: src/data/categories.ts:8848
+msgid "Poultry Farm"
+msgstr "Poultry Farm"
+
+#: src/data/categories.ts:5540
+msgid "Poutine"
+msgstr "Poutine"
+
+#: src/data/categories.ts:12872
+msgid "Power Plant"
+msgstr "Planta ng Kuryente"
+
+#: src/data/categories.ts:7544
+msgid "Preschool"
+msgstr "Preschool"
+
+#: src/data/categories.ts:13784
+msgid "Printing & Photocopies"
+msgstr "Printing & Photocopies"
+
+#: src/data/categories.ts:1692
+msgid "Prison"
+msgstr "Kulungan"
+
+#: src/data/categories.ts:7566
+msgid "Private School"
+msgstr "Pribadong Paaralan"
+
+#: src/data/categories.ts:14169
+msgid "Professional Association"
+msgstr "Samahan ng mga Propesyonal"
+
+#: src/data/categories.ts:8244
+msgid "Pub"
+msgstr "Pub"
+
+#: src/data/categories.ts:298
+msgid "Public Art"
+msgstr "Public Art"
+
+#: src/data/categories.ts:1697
+msgid "Public Building"
+msgstr "Pampublikong Gusali"
+
+#: src/data/categories.ts:9209
+msgid "Quarry"
+msgstr "Quarry"
+
+#: src/data/categories.ts:9864
+msgid "RV Park"
+msgstr "RV Park"
+
+#: src/data/categories.ts:11900
+msgid "Radio Station"
+msgstr "Estasyon ng Radyo"
+
+#: src/data/categories.ts:9813
+msgid "Rafting"
+msgstr "Rafting"
+
+#: src/data/categories.ts:5572
+msgid "Ramen"
+msgstr "Ramen"
+
+#: src/data/categories.ts:1724
+msgid "Ranger Station"
+msgstr "Istasyon ng Ranger"
+
+#: src/data/categories.ts:9221
+msgid "Rapids"
+msgstr "Rapids"
+
+#: src/data/categories.ts:13811
+msgid "Real Estate Agent"
+msgstr "Real Estate Agent"
+
+#: src/data/categories.ts:17693
+msgid "Record Shop"
+msgstr "Record Shop"
+
+#: src/data/categories.ts:11922
+msgid "Recording Studio"
+msgstr "Recording Studio"
+
+#: src/data/categories.ts:9518
+msgid "Recreation"
+msgstr "Paglilibang"
+
+#: src/data/categories.ts:9825
+msgid "Recreational Facility"
+msgstr "Pasilidad na Panlibangan"
+
+#: src/data/categories.ts:11172
+msgid "Recreational Vehicle Sales"
+msgstr "Recreational Vehicle Sales"
+
+#: src/data/categories.ts:13838
+msgid "Recruiting Agency"
+msgstr "Recruiting Agency"
+
+#: src/data/categories.ts:12603
+msgid "Rehab Center"
+msgstr "Rehab Center"
+
+#: src/data/categories.ts:14252
+msgid "Religious"
+msgstr "Relihiyoso"
+
+#: src/data/categories.ts:14455
+msgid "Religious Center"
+msgstr "Sentrong Panrelihiyon"
+
+#: src/data/categories.ts:14196
+msgid "Religious Organization"
+msgstr "Organisasyong Panrelihiyon"
+
+#: src/data/categories.ts:7588
+msgid "Religious School"
+msgstr "Panrelihiyong Paaralan"
+
+#: src/data/categories.ts:15025
+msgid "Repair Shop"
+msgstr "Shop para sa Pagkukumpuni"
+
+#: src/data/categories.ts:13865
+msgid "Research"
+msgstr "Pananaliksik"
+
+#: src/data/categories.ts:9233
+msgid "Reservoir"
+msgstr "Reservoir"
+
+#: src/data/categories.ts:14545
+msgid "Residential"
+msgstr "Residensyal"
+
+#: src/data/categories.ts:14660
+msgid "Residential Development"
+msgstr "Pagdebelop ng Residensya"
+
+#: src/data/categories.ts:18757
+msgid "Resort"
+msgstr "Resort"
+
+#: src/data/categories.ts:18576
+msgid "Rest"
+msgstr "Pahinga"
+
+#: src/data/categories.ts:18411
+msgid "Rest Area"
+msgstr "Bahaging Pahingahan"
+
+#: src/data/categories.ts:11245
+msgid "Restrooms"
+msgstr "Mga Restroom"
+
+#: src/data/categories.ts:14750
+msgid "Retail"
+msgstr "Retail"
+
+#: src/data/categories.ts:14682
+msgid "Retirement Home"
+msgstr "Tahanan para sa Pagreretiro"
+
+#: src/data/categories.ts:10638
+msgid "Rock Climbing"
+msgstr "Rock Climbing"
+
+#: src/data/categories.ts:789
+msgid "Rock Club"
+msgstr "Rock Club"
+
+#: src/data/categories.ts:183
+msgid "Roller Coaster"
+msgstr "Roller Coaster"
+
+#: src/data/categories.ts:9837
+msgid "Roller Skating Rink"
+msgstr "Roller Skating Rink"
+
+#: src/data/categories.ts:5604
+msgid "Romanian"
+msgstr "Romanian"
+
+#: src/data/categories.ts:10665
+msgid "Rugby League"
+msgstr "Rugby League"
+
+#: src/data/categories.ts:373
+msgid "Ruins"
+msgstr "Mga Sira"
+
+#: src/data/categories.ts:5636
+msgid "Russian"
+msgstr "Russian"
+
+#: src/data/categories.ts:9876
+msgid "Sailing Club"
+msgstr "Sailing Club"
+
+#: src/data/categories.ts:8276
+msgid "Sake Bar"
+msgstr "Sake Bar"
+
+#: src/data/categories.ts:5668
+msgid "Salad Bar"
+msgstr "Salad Bar"
+
+#: src/data/categories.ts:5700
+msgid "Salvadoran"
+msgstr "Salvadoran"
+
+#: src/data/categories.ts:5732
+msgid "Sandwich Shop"
+msgstr "Sandwich Shop"
+
+#: src/data/categories.ts:5764
+msgid "Satay"
+msgstr "Satay"
+
+#: src/data/categories.ts:11475
+msgid "Sauna / Steam Room"
+msgstr "Sauna / Steam Room"
+
+#: src/data/categories.ts:5796
+msgid "Scandinavian"
+msgstr "Scandinavian"
+
+#: src/data/categories.ts:9245
+msgid "Scenic View"
+msgstr "Magandang Tanawin"
+
+#: src/data/categories.ts:7610
+msgid "School"
+msgstr "Paaralan"
+
+#: src/data/categories.ts:593
+msgid "Science Museum"
+msgstr "Science Museum"
+
+#: src/data/categories.ts:5828
+msgid "Scottish"
+msgstr "Scottish"
+
+#: src/data/categories.ts:17720
+msgid "Scuba Diving"
+msgstr "Scuba Diving"
+
+#: src/data/categories.ts:5860
+msgid "Seafood"
+msgstr "Pagkaing dagat"
+
+#: src/data/categories.ts:18562
+msgid "Seaport"
+msgstr "Daungan"
+
+#: src/data/categories.ts:13892
+msgid "Secretarial Services"
+msgstr "Mga Serbisyo ng Sekretarya"
+
+#: src/data/categories.ts:10966
+msgid "Services"
+msgstr "Mga Serbisyo"
+
+#: src/data/categories.ts:5892
+msgid "Shabu-Shabu"
+msgstr "Shabu-Shabu"
+
+#: src/data/categories.ts:5924
+msgid "Shandong"
+msgstr ""
+
+#: src/data/categories.ts:5940
+msgid "Shanghai"
+msgstr ""
+
+#: src/data/categories.ts:17747
+msgid "Shipping Store"
+msgstr "Shipping Store"
+
+#: src/data/categories.ts:15052
+msgid "Shoe Repair & Shine"
+msgstr "Pagkumpuni at Pagpapakintab ng Sapatos"
+
+#: src/data/categories.ts:15814
+msgid "Shoe Store"
+msgstr "Tindahan ng Sapatos"
+
+#: src/data/categories.ts:15291
+msgid "Shopping"
+msgstr "Pamimili"
+
+#: src/data/categories.ts:17774
+msgid "Shopping Center"
+msgstr "Shopping Center"
+
+#: src/data/categories.ts:17801
+msgid "Shopping Mall"
+msgstr "Shopping Mall"
+
+#: src/data/categories.ts:11262
+msgid "Shower"
+msgstr "Shower"
+
+#: src/data/categories.ts:14477
+msgid "Shrine"
+msgstr "Altar"
+
+#: src/data/categories.ts:10692
+msgid "Skate Park"
+msgstr "Skate Park"
+
+#: src/data/categories.ts:17828
+msgid "Skateboard Shop"
+msgstr "Skateboard Shop"
+
+#: src/data/categories.ts:9983
+msgid "Ski Lift"
+msgstr "Ski Lift"
+
+#: src/data/categories.ts:9988
+msgid "Ski Rental"
+msgstr "Ski Rental"
+
+#: src/data/categories.ts:18779
+msgid "Ski Resort"
+msgstr "Ski Resort"
+
+#: src/data/categories.ts:10010
+msgid "Ski School"
+msgstr "Ski School"
+
+#: src/data/categories.ts:10032
+#: src/data/categories.ts:17855
+msgid "Ski Shop"
+msgstr "Ski Shop"
+
+#: src/data/categories.ts:10059
+msgid "Ski Slope"
+msgstr "Ski Slope"
+
+#: src/data/categories.ts:9903
+msgid "Skydiving"
+msgstr "Skydiving"
+
+#: src/data/categories.ts:5956
+msgid "Slovak"
+msgstr "Slovak"
+
+#: src/data/categories.ts:17882
+msgid "Smoke / Vape Shop"
+msgstr "Smoke / Vape Shop"
+
+#: src/data/categories.ts:5988
+msgid "Smoothies"
+msgstr "Smoothies"
+
+#: src/data/categories.ts:6020
+msgid "Snack"
+msgstr "Snack"
+
+#: src/data/categories.ts:9978
+msgid "Snow"
+msgstr "Niyebe"
+
+#: src/data/categories.ts:10719
+msgid "Soccer Field"
+msgstr "Soccer Field"
+
+#: src/data/categories.ts:1271
+msgid "Soccer Stadium"
+msgstr "Estadyum ng Soccer"
+
+#: src/data/categories.ts:15135
+msgid "Social"
+msgstr "Social"
+
+#: src/data/categories.ts:14223
+msgid "Social Club"
+msgstr "Social Club"
+
+#: src/data/categories.ts:6052
+msgid "Som Tum"
+msgstr ""
+
+#: src/data/categories.ts:14704
+msgid "Sorority House"
+msgstr "Sorority House"
+
+#: src/data/categories.ts:6068
+msgid "Soup"
+msgstr "Soup"
+
+#: src/data/categories.ts:6100
+msgid "South American"
+msgstr "South American"
+
+#: src/data/categories.ts:6132
+msgid "Southern / Soul Food"
+msgstr "Southern / Soul Food"
+
+#: src/data/categories.ts:17909
+msgid "Souvenir Store"
+msgstr "Souvenir Store"
+
+#: src/data/categories.ts:6164
+msgid "Spanish"
+msgstr "Spanish"
+
+#: src/data/categories.ts:8308
+msgid "Speakeasy"
+msgstr "Speakeasy"
+
+#: src/data/categories.ts:17936
+msgid "Sporting Goods"
+msgstr "Mga Panindang Pang-isport"
+
+#: src/data/categories.ts:1068
+#: src/data/categories.ts:10066
+msgid "Sports"
+msgstr "Isport"
+
+#: src/data/categories.ts:8340
+msgid "Sports Bar"
+msgstr "Sports Bar"
+
+#: src/data/categories.ts:10746
+msgid "Sports Center"
+msgstr "Sports Center"
+
+#: src/data/categories.ts:10773
+msgid "Sports Club"
+msgstr "Sports Club"
+
+#: src/data/categories.ts:9257
+msgid "Square"
+msgstr "Square"
+
+#: src/data/categories.ts:10800
+msgid "Squash Court"
+msgstr "Squash Court"
+
+#: src/data/categories.ts:6196
+msgid "Sri Lankan"
+msgstr "Sri Lankan"
+
+#: src/data/categories.ts:8625
+msgid "Stables"
+msgstr "Stables"
+
+#: src/data/categories.ts:1751
+msgid "State Office Building"
+msgstr "Gusali na Tanggapan ng Estado"
+
+#: src/data/categories.ts:17963
+msgid "Stationery & Office Supplies"
+msgstr "Stationery & Office Supplies"
+
+#: src/data/categories.ts:6228
+msgid "Steak House"
+msgstr "Steak House"
+
+#: src/data/categories.ts:11827
+msgid "Stonemason"
+msgstr "Stonemason"
+
+#: src/data/categories.ts:15079
+msgid "Storage"
+msgstr "Imbakan"
+
+#: src/data/categories.ts:8372
+msgid "Strip Club"
+msgstr "Strip Club"
+
+#: src/data/categories.ts:7632
+msgid "Student Center"
+msgstr "Sentro ng Estudyante"
+
+#: src/data/categories.ts:18856
+msgid "Subway Station"
+msgstr "Subway Station"
+
+#: src/data/categories.ts:9930
+msgid "Summer Camp"
+msgstr "Summer Camp"
+
+#: src/data/categories.ts:6260
+msgid "Sundanese"
+msgstr ""
+
+#: src/data/categories.ts:16739
+msgid "Supermarket"
+msgstr "Supermarket"
+
+#: src/data/categories.ts:17990
+msgid "Surf Shop"
+msgstr "Surf Shop"
+
+#: src/data/categories.ts:9952
+msgid "Surfing"
+msgstr "Surfing"
+
+#: src/data/categories.ts:13919
+msgid "Surveying"
+msgstr "Surveying"
+
+#: src/data/categories.ts:6276
+msgid "Sushi"
+msgstr "Sushi"
+
+#: src/data/categories.ts:7659
+msgid "Swim School"
+msgstr "Paaralan na Nagtuturo ng Paglangoy"
+
+#: src/data/categories.ts:10827
+msgid "Swimming Pool"
+msgstr "Swimming Pool"
+
+#: src/data/categories.ts:6308
+msgid "Swiss"
+msgstr "Swiss"
+
+#: src/data/categories.ts:816
+msgid "Symphony"
+msgstr "Symphony"
+
+#: src/data/categories.ts:14499
+msgid "Synagogue"
+msgstr "Sinagoga"
+
+#: src/data/categories.ts:6340
+msgid "Szechuan"
+msgstr "Szechuan"
+
+#: src/data/categories.ts:6372
+msgid "Tacos"
+msgstr "Tacos"
+
+#: src/data/categories.ts:15106
+msgid "Tailor"
+msgstr "Sastre"
+
+#: src/data/categories.ts:6404
+msgid "Taiwanese"
+msgstr "Taiwanese"
+
+#: src/data/categories.ts:11502
+msgid "Tanning Salon"
+msgstr "Tanning Salon"
+
+#: src/data/categories.ts:6436
+msgid "Tapas"
+msgstr "Tapas"
+
+#: src/data/categories.ts:6468
+msgid "Tatar"
+msgstr "Tatar"
+
+#: src/data/categories.ts:11529
+msgid "Tattoo Parlor"
+msgstr "Tattoo Parlor"
+
+#: src/data/categories.ts:18868
+msgid "Taxi Stand"
+msgstr "Taxi Stand"
+
+#: src/data/categories.ts:6500
+msgid "Tea House"
+msgstr "Tea House"
+
+#: src/data/categories.ts:13946
+msgid "Tech Startup"
+msgstr "Tech Startup"
+
+#: src/data/categories.ts:9269
+msgid "Telescope"
+msgstr "Teleskopyo"
+
+#: src/data/categories.ts:11944
+msgid "Television Station"
+msgstr "Estaston ng Telebisyon"
+
+#: src/data/categories.ts:14521
+msgid "Temple"
+msgstr "Templo"
+
+#: src/data/categories.ts:10854
+msgid "Tennis Court"
+msgstr "Korte ng Tenis"
+
+#: src/data/categories.ts:1293
+msgid "Tennis Stadium"
+msgstr "Istadyum ng Tennis"
+
+#: src/data/categories.ts:13973
+msgid "Testing Lab"
+msgstr "Testing Lab"
+
+#: src/data/categories.ts:6532
+msgid "Tex-Mex"
+msgstr "Tex-Mex"
+
+#: src/data/categories.ts:6564
+msgid "Thai"
+msgstr "Thai"
+
+#: src/data/categories.ts:1039
+msgid "Theater"
+msgstr "Teatro"
+
+#: src/data/categories.ts:6596
+msgid "Theme"
+msgstr "Tema"
+
+#: src/data/categories.ts:210
+msgid "Theme Park"
+msgstr "Theme Park"
+
+#: src/data/categories.ts:12630
+msgid "Therapist"
+msgstr "Therapist"
+
+#: src/data/categories.ts:18017
+msgid "Thrift Store"
+msgstr "Thrift Store"
+
+#: src/data/categories.ts:6628
+msgid "Tibetan"
+msgstr "Tibetan"
+
+#: src/data/categories.ts:8404
+msgid "Tiki Bar"
+msgstr "Tiki Bar"
+
+#: src/data/categories.ts:18433
+msgid "Toll Booth"
+msgstr "Toll Booth"
+
+#: src/data/categories.ts:9281
+msgid "Tour Provider"
+msgstr "Tour Provider"
+
+#: src/data/categories.ts:9293
+msgid "Tourist Attraction"
+msgstr "Atraksyon ng Turista"
+
+#: src/data/categories.ts:9305
+msgid "Tourist Information"
+msgstr "Impormasyon ng Turista"
+
+#: src/data/categories.ts:9317
+msgid "Tower"
+msgstr "Tore"
+
+#: src/data/categories.ts:9504
+msgid "Town Common"
+msgstr "Komon sa Bayad"
+
+#: src/data/categories.ts:1778
+msgid "Town Hall"
+msgstr "Munisipyo"
+
+#: src/data/categories.ts:18044
+msgid "Toy and Game Store"
+msgstr "Tindahan ng Laruan at Game"
+
+#: src/data/categories.ts:10881
+msgid "Track"
+msgstr "Track"
+
+#: src/data/categories.ts:9964
+msgid "Trail Station"
+msgstr "Trail Station"
+
+#: src/data/categories.ts:14726
+msgid "Trailer Park"
+msgstr "Trailer Park"
+
+#: src/data/categories.ts:18880
+msgid "Train Station"
+msgstr "Istasyon ng Tren"
+
+#: src/data/categories.ts:18892
+msgid "Tram Stop"
+msgstr "Tram Stop"
+
+#: src/data/categories.ts:18803
+msgid "Transit"
+msgstr "Transit"
+
+#: src/data/categories.ts:18252
+msgid "Travel"
+msgstr "Biyahe"
+
+#: src/data/categories.ts:14000
+msgid "Travel Agent"
+msgstr "Travel Agent"
+
+#: src/data/categories.ts:6660
+#: src/data/categories.ts:18438
+msgid "Truck Stop"
+msgstr "Truck Stop"
+
+#: src/data/categories.ts:9329
+msgid "Tunnel"
+msgstr "Tunnel"
+
+#: src/data/categories.ts:6692
+msgid "Turkish"
+msgstr "Turkish"
+
+#: src/data/categories.ts:9341
+msgid "UNESCO World Heritage Site"
+msgstr "Pandaigdigang Heritage Site ng UNESCO "
+
+#: src/data/categories.ts:6724
+msgid "Ukrainian"
+msgstr "Ukrainian"
+
+#: src/data/categories.ts:7686
+msgid "University"
+msgstr "Unibersidad"
+
+#: src/data/categories.ts:12657
+msgid "Urgent Care Center"
+msgstr "Urgent Care Center"
+
+#: src/data/categories.ts:18071
+msgid "Used Merchandise"
+msgstr "Panindang Nagamit na"
+
+#: src/data/categories.ts:18098
+msgid "Vacant Storefront"
+msgstr "Bakanteng Harapan ng Tindahan"
+
+#: src/data/categories.ts:6756
+msgid "Vegan"
+msgstr "Vegan"
+
+#: src/data/categories.ts:6788
+msgid "Vegetarian"
+msgstr "Vegetarian"
+
+#: src/data/categories.ts:6820
+msgid "Venezuelan"
+msgstr "Venezuelan"
+
+#: src/data/categories.ts:12684
+msgid "Veterinarian"
+msgstr "Beterinaryo"
+
+#: src/data/categories.ts:18115
+msgid "Video Game Store"
+msgstr "Tindahan ng Video Game"
+
+#: src/data/categories.ts:18142
+msgid "Video Store"
+msgstr "Video Store"
+
+#: src/data/categories.ts:6852
+msgid "Vietnamese"
+msgstr "Vietnamese"
+
+#: src/data/categories.ts:8875
+msgid "Vineyard"
+msgstr "Vineyard"
+
+#: src/data/categories.ts:7703
+msgid "Vocational School"
+msgstr "Paaralang Bokasyonal"
+
+#: src/data/categories.ts:9353
+msgid "Volcano"
+msgstr "Bulkan"
+
+#: src/data/categories.ts:10908
+msgid "Volleyball Court"
+msgstr "Korte ng Volleyball "
+
+#: src/data/categories.ts:12894
+msgid "Warehouse"
+msgstr "Bodega"
+
+#: src/data/categories.ts:18169
+msgid "Warehouse Store"
+msgstr "Warehouse Store"
+
+#: src/data/categories.ts:12916
+msgid "Waste / Recycling Facility"
+msgstr "Pasilidad ng Basura / Pagre-recycle"
+
+#: src/data/categories.ts:18196
+msgid "Watch Shop"
+msgstr "Tindahan ng Orasan"
+
+#: src/data/categories.ts:237
+msgid "Water Park"
+msgstr "Water Park"
+
+#: src/data/categories.ts:9365
+msgid "Water Tower"
+msgstr "Tore ng Tubig"
+
+#: src/data/categories.ts:9377
+msgid "Waterfall"
+msgstr "Talon"
+
+#: src/data/categories.ts:12061
+msgid "Wedding Hall"
+msgstr "Wedding Hall"
+
+#: src/data/categories.ts:9389
+msgid "Well"
+msgstr "Balon"
+
+#: src/data/categories.ts:9401
+msgid "Wharf"
+msgstr "Wharf"
+
+#: src/data/categories.ts:8436
+msgid "Whisky Bar"
+msgstr "Whisky Bar"
+
+#: src/data/categories.ts:18223
+msgid "Wholesale Store"
+msgstr "Tindahan na Pang-wholesale"
+
+#: src/data/categories.ts:12938
+msgid "Windmill"
+msgstr "Windmill"
+
+#: src/data/categories.ts:8468
+msgid "Wine Bar"
+msgstr "Wine Bar"
+
+#: src/data/categories.ts:16766
+msgid "Wine Shop"
+msgstr "Wine Shop"
+
+#: src/data/categories.ts:8500
+msgid "Winery"
+msgstr "Winery"
+
+#: src/data/categories.ts:6884
+msgid "Wings"
+msgstr "Wings"
+
+#: src/data/categories.ts:15841
+msgid "Women's Clothing Store"
+msgstr "Tindahan ng Pananamit ng Babae"
+
+#: src/data/categories.ts:6916
+msgid "Yakitori"
+msgstr "Yakitori"
+
+#: src/data/categories.ts:10935
+msgid "Yoga Studio"
+msgstr "Yoga Studio"
+
+#: src/data/categories.ts:6948
+msgid "Yunnan"
+msgstr ""
+
+#: src/data/categories.ts:6964
+msgid "Zhejiang"
+msgstr ""
+
+#: src/data/categories.ts:8652
+msgid "Zoo"
+msgstr "Zoo"
