@@ -13,11 +13,11 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
-#: src/data/categories.ts:15598
+#: src/data/categories.ts:15998
 msgid "Accessories Store"
 msgstr "ร้านขายอุปกรณ์เสริม"
 
-#: src/data/categories.ts:13136
+#: src/data/categories.ts:13536
 msgid "Accountant"
 msgstr "นักบัญชี"
 
@@ -25,71 +25,71 @@ msgstr "นักบัญชี"
 msgid "Acehnese"
 msgstr ""
 
-#: src/data/categories.ts:12090
+#: src/data/categories.ts:12490
 msgid "Acupuncturist"
 msgstr "ฝังเข็ม"
 
-#: src/data/categories.ts:11286
+#: src/data/categories.ts:11686
 msgid "Adult"
 msgstr "ผู้ใหญ่"
 
-#: src/data/categories.ts:15140
+#: src/data/categories.ts:15540
 msgid "Adult Care"
 msgstr "การดูแลสำหรับผู้ใหญ่"
 
-#: src/data/categories.ts:6987
+#: src/data/categories.ts:7387
 msgid "Adult Education Center"
 msgstr "ศูนย์การศึกษาผู้ใหญ่"
 
-#: src/data/categories.ts:15296
+#: src/data/categories.ts:15696
 msgid "Adult Shop"
 msgstr "ร้านขายของสำหรับผู้ใหญ่"
 
-#: src/data/categories.ts:13163
+#: src/data/categories.ts:13563
 msgid "Advertising Agency"
 msgstr "บริษัทโฆษณา"
 
-#: src/data/categories.ts:12718
+#: src/data/categories.ts:13118
 msgid "Aerospace"
 msgstr "การบินและอวกาศ"
 
-#: src/data/categories.ts:1828
+#: src/data/categories.ts:1844
 msgid "Afghan"
 msgstr "อัฟกานิสถาน"
 
-#: src/data/categories.ts:1860
+#: src/data/categories.ts:1876
 msgid "African"
 msgstr "แอฟริกา"
 
-#: src/data/categories.ts:18257
+#: src/data/categories.ts:18657
 msgid "Air"
 msgstr "อุปกรณ์ใช้เดินทางบนเครื่องบิน"
 
-#: src/data/categories.ts:18262
+#: src/data/categories.ts:18662
 msgid "Airport"
 msgstr "สนามบิน"
 
-#: src/data/categories.ts:18274
+#: src/data/categories.ts:18674
 msgid "Airport Gate"
 msgstr "ประตูสนามบิน"
 
-#: src/data/categories.ts:18286
+#: src/data/categories.ts:18686
 msgid "Airport Lounge"
 msgstr "เลานจ์สนามบิน"
 
-#: src/data/categories.ts:18298
+#: src/data/categories.ts:18698
 msgid "Airport Service"
 msgstr "บริการของสนามบิน"
 
-#: src/data/categories.ts:18310
+#: src/data/categories.ts:18710
 msgid "Airport Terminal"
 msgstr "อาคารผู้โดยสารสนามบิน"
 
-#: src/data/categories.ts:18322
+#: src/data/categories.ts:18722
 msgid "Airport Tram"
 msgstr "รถรางในสนามบิน"
 
-#: src/data/categories.ts:12117
+#: src/data/categories.ts:12517
 msgid "Alternative Medicine"
 msgstr "ยาแผนโบราณ"
 
@@ -101,27 +101,27 @@ msgstr "โรงละครกลางแจ้ง"
 msgid "Amusements"
 msgstr "กิจกรรมสนุกๆ"
 
-#: src/data/categories.ts:1892
+#: src/data/categories.ts:1908
 msgid "Anhui"
 msgstr ""
 
-#: src/data/categories.ts:13190
+#: src/data/categories.ts:13590
 msgid "Animal Shelter"
 msgstr "สัตว์จรจัด"
 
-#: src/data/categories.ts:8539
+#: src/data/categories.ts:8939
 msgid "Animals"
 msgstr "สัตว์"
 
-#: src/data/categories.ts:15323
+#: src/data/categories.ts:15723
 msgid "Antique Store"
 msgstr "ร้านขายของโบราณ"
 
-#: src/data/categories.ts:8544
+#: src/data/categories.ts:8944
 msgid "Aquarium"
 msgstr "สวนน้ำ"
 
-#: src/data/categories.ts:8686
+#: src/data/categories.ts:9086
 msgid "Aquatic Farm"
 msgstr "ฟาร์มน้ำ"
 
@@ -133,23 +133,23 @@ msgstr "เกมตู้"
 msgid "Archaeological Site"
 msgstr "ย่านโบราณคดี"
 
-#: src/data/categories.ts:13217
+#: src/data/categories.ts:13617
 msgid "Architect"
 msgstr "สถาปนิก"
 
-#: src/data/categories.ts:1908
+#: src/data/categories.ts:1940
 msgid "Arepa"
 msgstr "อารีป้า"
 
-#: src/data/categories.ts:1940
+#: src/data/categories.ts:1972
 msgid "Argentinian"
 msgstr "อาร์เจนตินา"
 
-#: src/data/categories.ts:15350
+#: src/data/categories.ts:15750
 msgid "Army Navy Store"
 msgstr "ร้านขายอุปกรณ์ทหาร"
 
-#: src/data/categories.ts:13244
+#: src/data/categories.ts:13644
 msgid "Art & Design Studio"
 msgstr "สตูดิโอศิลปะและการออกแบบ"
 
@@ -161,15 +161,15 @@ msgstr "แกลอรี่งานศิลปะ"
 msgid "Art Museum"
 msgstr "พิพิธภัณฑ์ศิลปะ"
 
-#: src/data/categories.ts:13271
+#: src/data/categories.ts:13671
 msgid "Art Services"
 msgstr "บริการศิลปะ"
 
-#: src/data/categories.ts:13298
+#: src/data/categories.ts:13698
 msgid "Art Studio"
 msgstr "สตูดิโอศิลปะ"
 
-#: src/data/categories.ts:15377
+#: src/data/categories.ts:15777
 msgid "Arts & Crafts Store"
 msgstr "ร้านขายของศิลปะและงานฝีมือ"
 
@@ -181,15 +181,15 @@ msgstr "ศิลปะและความบันเทิง"
 msgid "Arts Center"
 msgstr "ศูนย์ศิลปะ"
 
-#: src/data/categories.ts:1972
+#: src/data/categories.ts:2004
 msgid "Asian"
 msgstr "เอเชีย"
 
-#: src/data/categories.ts:14550
+#: src/data/categories.ts:14950
 msgid "Assisted Living"
 msgstr "บ้านช่วยเหลือคนชรา"
 
-#: src/data/categories.ts:14755
+#: src/data/categories.ts:15155
 msgid "Astrologer / Psychic"
 msgstr "โหร / คนทรงผี"
 
@@ -197,11 +197,11 @@ msgstr "โหร / คนทรงผี"
 msgid "Auditorium"
 msgstr "หอประชุม"
 
-#: src/data/categories.ts:2004
+#: src/data/categories.ts:2036
 msgid "Australian"
 msgstr "ออสเตรเลีย"
 
-#: src/data/categories.ts:2036
+#: src/data/categories.ts:2068
 msgid "Austrian"
 msgstr "ออสเตรีย"
 
@@ -209,57 +209,57 @@ msgstr "ออสเตรีย"
 msgid "Auto Racetrack"
 msgstr "สนามแข่งรถ"
 
-#: src/data/categories.ts:10976
+#: src/data/categories.ts:11376
 msgid "Automobile Dealership"
 msgstr "ตัวแทนจำหน่ายรถยนต์"
 
-#: src/data/categories.ts:11003
+#: src/data/categories.ts:11403
 msgid "Automobile Rental"
 msgstr "เช่ารถยนต์"
 
-#: src/data/categories.ts:11030
+#: src/data/categories.ts:11430
 msgid "Automobile Repair"
 msgstr "อู่รถยนต์"
 
-#: src/data/categories.ts:10971
-#: src/data/categories.ts:18372
+#: src/data/categories.ts:11371
+#: src/data/categories.ts:18772
 msgid "Automotive"
 msgstr "รถยนต์"
 
-#: src/data/categories.ts:15404
+#: src/data/categories.ts:15804
 msgid "Automotive Supplies"
 msgstr "อะไล่ยานยนต์"
 
-#: src/data/categories.ts:8571
+#: src/data/categories.ts:8971
 msgid "Aviary"
 msgstr "สวนนก"
 
-#: src/data/categories.ts:2148
+#: src/data/categories.ts:2196
 msgid "BBQ"
 msgstr "บาร์บีคิว"
 
-#: src/data/categories.ts:15625
+#: src/data/categories.ts:16025
 msgid "Baby Store"
 msgstr "ร้านขายอุปกรณ์เด็กทารก"
 
-#: src/data/categories.ts:10071
+#: src/data/categories.ts:10471
 msgid "Badminton Court"
 msgstr "คอร์ตแบดมินตัน"
 
-#: src/data/categories.ts:2068
+#: src/data/categories.ts:2100
 msgid "Bagels"
 msgstr "เบเกิล"
 
-#: src/data/categories.ts:18334
+#: src/data/categories.ts:18734
 msgid "Baggage Claim"
 msgstr "รับกระเป๋าสัมภาระ"
 
-#: src/data/categories.ts:2100
-#: src/data/categories.ts:16280
+#: src/data/categories.ts:2132
+#: src/data/categories.ts:16680
 msgid "Bakery"
 msgstr "เบเกอรี่"
 
-#: src/data/categories.ts:2132
+#: src/data/categories.ts:2164
 msgid "Balinese"
 msgstr ""
 
@@ -267,23 +267,23 @@ msgstr ""
 msgid "Bandstand"
 msgstr "ศาลาดนตรี"
 
-#: src/data/categories.ts:12967
+#: src/data/categories.ts:13367
 msgid "Bank"
 msgstr "ธนาคาร"
 
-#: src/data/categories.ts:7732
+#: src/data/categories.ts:8132
 msgid "Bar"
 msgstr "บาร์"
 
-#: src/data/categories.ts:9523
+#: src/data/categories.ts:9923
 msgid "Barbecue"
 msgstr "บาร์บีคิว"
 
-#: src/data/categories.ts:11313
+#: src/data/categories.ts:11713
 msgid "Barber"
 msgstr "ตัดผม"
 
-#: src/data/categories.ts:10098
+#: src/data/categories.ts:10498
 msgid "Baseball Field"
 msgstr "สนามเบสบอล"
 
@@ -291,7 +291,7 @@ msgstr "สนามเบสบอล"
 msgid "Baseball Stadium"
 msgstr "สนามเบสบอล"
 
-#: src/data/categories.ts:10125
+#: src/data/categories.ts:10525
 msgid "Basketball Court"
 msgstr "สนามบาสเกตบอล"
 
@@ -299,212 +299,212 @@ msgstr "สนามบาสเกตบอล"
 msgid "Basketball Stadium"
 msgstr "สนามบาสเกตบอล"
 
-#: src/data/categories.ts:11206
+#: src/data/categories.ts:11606
 msgid "Bath House"
 msgstr "โรงอาบน้ำ"
 
-#: src/data/categories.ts:11201
+#: src/data/categories.ts:11601
 msgid "Bathing"
 msgstr "อาบแดด"
 
-#: src/data/categories.ts:9535
+#: src/data/categories.ts:9935
 msgid "Bathing Area"
 msgstr "อาบแดด"
 
-#: src/data/categories.ts:9420
+#: src/data/categories.ts:9820
 msgid "Battlefield"
 msgstr "สนามรบ"
 
-#: src/data/categories.ts:9547
+#: src/data/categories.ts:9947
 msgid "Beach"
 msgstr "ชายหาด"
 
-#: src/data/categories.ts:7764
+#: src/data/categories.ts:8164
 msgid "Beach Bar"
 msgstr "บาร์ริมหาด"
 
-#: src/data/categories.ts:15431
+#: src/data/categories.ts:15831
 msgid "Beauty & Cosmetics"
 msgstr "ความงามและเครื่องสำอาง"
 
-#: src/data/categories.ts:11281
+#: src/data/categories.ts:11681
 msgid "Beauty & Spa"
 msgstr "เสริมความงามและสปา"
 
-#: src/data/categories.ts:11340
+#: src/data/categories.ts:11740
 msgid "Beauty Salon"
 msgstr "เสริมสวย"
 
-#: src/data/categories.ts:7014
+#: src/data/categories.ts:7414
 msgid "Beauty School"
 msgstr "โรงเรียนเสริมสวย"
 
-#: src/data/categories.ts:18581
+#: src/data/categories.ts:18981
 msgid "Bed & Breakfast"
 msgstr "ที่พักพร้อมอาหารเช้า"
 
-#: src/data/categories.ts:7796
+#: src/data/categories.ts:8196
 msgid "Beer Bar"
 msgstr "บาร์เบียร์"
 
-#: src/data/categories.ts:7828
+#: src/data/categories.ts:8228
 msgid "Beer Garden"
 msgstr "ลานเบียร์"
 
-#: src/data/categories.ts:16307
+#: src/data/categories.ts:16707
 msgid "Beer Store"
 msgstr "ร้านขายเบียร์"
 
-#: src/data/categories.ts:2244
+#: src/data/categories.ts:2292
 msgid "Beijing"
 msgstr ""
 
-#: src/data/categories.ts:2180
+#: src/data/categories.ts:2228
 msgid "Belarusian"
 msgstr "เบลารุส"
 
-#: src/data/categories.ts:2212
+#: src/data/categories.ts:2260
 msgid "Belgian"
 msgstr "เบลเยียม"
 
-#: src/data/categories.ts:2260
+#: src/data/categories.ts:2324
 msgid "Betawinese"
 msgstr ""
 
-#: src/data/categories.ts:18462
+#: src/data/categories.ts:18862
 msgid "Bicycle"
 msgstr "จักรยาน"
 
-#: src/data/categories.ts:14782
+#: src/data/categories.ts:15182
 msgid "Bicycle Repair"
 msgstr "อู่ซ่อมรถจักรยาน"
 
-#: src/data/categories.ts:15458
+#: src/data/categories.ts:15858
 msgid "Bicycle Store"
 msgstr "ร้านจักรยาน"
 
-#: src/data/categories.ts:15485
+#: src/data/categories.ts:15885
 msgid "Big Box Store"
 msgstr "ห้างไฮเปอร์มาร์เก็ต"
 
-#: src/data/categories.ts:18467
+#: src/data/categories.ts:18867
 msgid "Bike Rental"
 msgstr "เช่าจักรยาน"
 
-#: src/data/categories.ts:18489
+#: src/data/categories.ts:18889
 msgid "Bike Share Station"
 msgstr "สถานีแชร์จักรยาน"
 
-#: src/data/categories.ts:9559
+#: src/data/categories.ts:9959
 msgid "Bike Trail"
 msgstr "เส้นทางจักรยาน"
 
-#: src/data/categories.ts:2276
+#: src/data/categories.ts:2356
 msgid "Bistro"
 msgstr "ร้านอาหารเล็กๆ"
 
-#: src/data/categories.ts:18603
+#: src/data/categories.ts:19003
 msgid "Boarding House"
 msgstr "บ้านเช่าที่พักพร้อมจัดอาหารให้ด้วย"
 
-#: src/data/categories.ts:9571
+#: src/data/categories.ts:9971
 msgid "Boat Charter"
 msgstr "ทัวร์เรือสำราญ"
 
-#: src/data/categories.ts:9598
+#: src/data/categories.ts:9998
 msgid "Boat Ramp"
 msgstr "เส้นทางเรือ"
 
-#: src/data/categories.ts:9610
+#: src/data/categories.ts:10010
 msgid "Boat Rental"
 msgstr "เช่าเรือ"
 
-#: src/data/categories.ts:11057
+#: src/data/categories.ts:11457
 msgid "Boat Sales"
 msgstr "จำหน่ายเรือ"
 
-#: src/data/categories.ts:2308
+#: src/data/categories.ts:2388
 msgid "Bodega"
 msgstr "ร้านขายของชำ"
 
-#: src/data/categories.ts:15512
+#: src/data/categories.ts:15912
 msgid "Bookstore"
 msgstr "ร้านหนังสือ"
 
-#: src/data/categories.ts:2340
+#: src/data/categories.ts:2420
 msgid "Bosnian"
 msgstr "บอสเนีย"
 
-#: src/data/categories.ts:9432
+#: src/data/categories.ts:9832
 msgid "Botanical Garden"
 msgstr "สวนพฤกษชาติ"
 
-#: src/data/categories.ts:15652
+#: src/data/categories.ts:16052
 msgid "Boutique"
 msgstr "ร้านขายเสื้อผ้าสตรี"
 
-#: src/data/categories.ts:10152
+#: src/data/categories.ts:10552
 msgid "Bowling Alley"
 msgstr "สนามโบว์ลิง"
 
-#: src/data/categories.ts:10179
+#: src/data/categories.ts:10579
 msgid "Boxing Gym"
 msgstr "ยิมมวย"
 
-#: src/data/categories.ts:2372
+#: src/data/categories.ts:2452
 msgid "Brazilian"
 msgstr "บราซิล"
 
-#: src/data/categories.ts:2404
+#: src/data/categories.ts:2484
 msgid "Breakfast"
 msgstr "อาหารเช้า"
 
-#: src/data/categories.ts:7860
+#: src/data/categories.ts:8260
 msgid "Brewery"
 msgstr "โรงเบียร์"
 
-#: src/data/categories.ts:2436
+#: src/data/categories.ts:2516
 msgid "Brewpub"
 msgstr "ผับเบียร์"
 
-#: src/data/categories.ts:15679
+#: src/data/categories.ts:16079
 msgid "Bridal Store"
 msgstr "ร้านขายของแต่งงาน"
 
-#: src/data/categories.ts:8909
+#: src/data/categories.ts:9309
 msgid "Bridge"
 msgstr "สะพาน"
 
-#: src/data/categories.ts:2468
+#: src/data/categories.ts:2548
 msgid "British"
 msgstr "อังกฤษ"
 
-#: src/data/categories.ts:2500
+#: src/data/categories.ts:2580
 msgid "Bubble Tea"
 msgstr "ชาไข่มุก"
 
-#: src/data/categories.ts:14257
+#: src/data/categories.ts:14657
 msgid "Buddhist Temple"
 msgstr "วัดพุทธ"
 
-#: src/data/categories.ts:2532
+#: src/data/categories.ts:2612
 msgid "Buffet"
 msgstr "บุฟเฟ่ต์"
 
-#: src/data/categories.ts:13325
-#: src/data/categories.ts:18496
+#: src/data/categories.ts:13725
+#: src/data/categories.ts:18896
 msgid "Building"
 msgstr "อาคาร"
 
-#: src/data/categories.ts:11558
+#: src/data/categories.ts:11958
 msgid "Building & Trades"
 msgstr "อาคารและการค้า"
 
-#: src/data/categories.ts:16908
+#: src/data/categories.ts:17308
 msgid "Building Materials"
 msgstr "อุปกรณ์อาคาร"
 
-#: src/data/categories.ts:2564
+#: src/data/categories.ts:2644
 msgid "Bulgarian"
 msgstr "บัลแกเรีย"
 
@@ -512,72 +512,72 @@ msgstr "บัลแกเรีย"
 msgid "Bull Ring"
 msgstr "สนามแข่งวัว"
 
-#: src/data/categories.ts:2596
+#: src/data/categories.ts:2676
 msgid "Burgers"
 msgstr "เบอร์เกอร์"
 
-#: src/data/categories.ts:2628
+#: src/data/categories.ts:2708
 msgid "Burmese"
 msgstr "พม่า"
 
-#: src/data/categories.ts:2660
+#: src/data/categories.ts:2740
 msgid "Burritos"
 msgstr "เบอร์ริโต"
 
-#: src/data/categories.ts:18808
+#: src/data/categories.ts:19208
 msgid "Bus Station"
 msgstr "สถานีรถประจำทาง"
 
-#: src/data/categories.ts:18820
+#: src/data/categories.ts:19220
 msgid "Bus Stop"
 msgstr "ป้ายรถประจำทาง"
 
-#: src/data/categories.ts:13352
+#: src/data/categories.ts:13752
 msgid "Business Center"
 msgstr "ศูนย์ธุรกิจ"
 
-#: src/data/categories.ts:16334
+#: src/data/categories.ts:16734
 msgid "Butcher Shop"
 msgstr "ร้านขายเนื้อ"
 
-#: src/data/categories.ts:18832
+#: src/data/categories.ts:19232
 msgid "Cable Car Station"
 msgstr "สถานีรถเคเบิล"
 
-#: src/data/categories.ts:2692
+#: src/data/categories.ts:2772
 msgid "Cafe"
 msgstr "คาเฟ่"
 
-#: src/data/categories.ts:2724
+#: src/data/categories.ts:2804
 msgid "Cafeteria"
 msgstr "โรงอาหาร"
 
-#: src/data/categories.ts:2756
+#: src/data/categories.ts:2836
 msgid "Cajun & Creole"
 msgstr "เคจุน และ ครีโอล"
 
-#: src/data/categories.ts:2788
+#: src/data/categories.ts:2868
 msgid "Cambodian"
 msgstr "เขมร"
 
-#: src/data/categories.ts:15539
+#: src/data/categories.ts:15939
 msgid "Camera Store"
 msgstr "ร้านกล้อง"
 
-#: src/data/categories.ts:9622
-#: src/data/categories.ts:18625
+#: src/data/categories.ts:10022
+#: src/data/categories.ts:19025
 msgid "Campground"
 msgstr "ลานกางเต้นท์"
 
-#: src/data/categories.ts:16361
+#: src/data/categories.ts:16761
 msgid "Candy Store"
 msgstr "ร้านขายลูกกวาด"
 
-#: src/data/categories.ts:2820
+#: src/data/categories.ts:2900
 msgid "Cantonese"
 msgstr "จีนกวางตุ้ง"
 
-#: src/data/categories.ts:8921
+#: src/data/categories.ts:9321
 msgid "Canyon"
 msgstr "ปืนใหญ่"
 
@@ -585,11 +585,11 @@ msgstr "ปืนใหญ่"
 msgid "Capitol Building"
 msgstr "ศาลากลาง"
 
-#: src/data/categories.ts:11084
+#: src/data/categories.ts:11484
 msgid "Car Wash"
 msgstr "ล้างรถ"
 
-#: src/data/categories.ts:2852
+#: src/data/categories.ts:2932
 msgid "Caribbean"
 msgstr "แคริบเบียน"
 
@@ -597,11 +597,11 @@ msgstr "แคริบเบียน"
 msgid "Carousel"
 msgstr "ม้าหมุน"
 
-#: src/data/categories.ts:11563
+#: src/data/categories.ts:11963
 msgid "Carpenter"
 msgstr "ช่างไม้"
 
-#: src/data/categories.ts:16935
+#: src/data/categories.ts:17335
 msgid "Carpets & Floor Coverings"
 msgstr "พรมและวัสดุพื้น"
 
@@ -609,43 +609,43 @@ msgstr "พรมและวัสดุพื้น"
 msgid "Casino"
 msgstr "คาสิโน"
 
-#: src/data/categories.ts:8933
+#: src/data/categories.ts:9333
 msgid "Castle"
 msgstr "ปราสาท"
 
-#: src/data/categories.ts:15566
+#: src/data/categories.ts:15966
 msgid "Catalog Store"
 msgstr "ร้านแค็ตตาล็อกหนังสือ"
 
-#: src/data/categories.ts:11973
+#: src/data/categories.ts:12373
 msgid "Catering"
 msgstr "การจัดเลี้ยง"
 
-#: src/data/categories.ts:8945
+#: src/data/categories.ts:9345
 msgid "Cave"
 msgstr "ถ้ำ"
 
-#: src/data/categories.ts:8957
+#: src/data/categories.ts:9357
 msgid "Cemetery"
 msgstr "สุสาน"
 
-#: src/data/categories.ts:2884
+#: src/data/categories.ts:2964
 msgid "Cha Chaan Teng"
 msgstr ""
 
-#: src/data/categories.ts:18647
+#: src/data/categories.ts:19047
 msgid "Chalets"
 msgstr "กระท่อมบนภูเขา"
 
-#: src/data/categories.ts:7892
+#: src/data/categories.ts:8292
 msgid "Champagne Bar"
 msgstr "บาร์เหล้าแชมเปญ"
 
-#: src/data/categories.ts:12994
+#: src/data/categories.ts:13394
 msgid "Check Cashing"
 msgstr "ขึ้นเช็ค"
 
-#: src/data/categories.ts:16388
+#: src/data/categories.ts:16788
 msgid "Cheese Shop"
 msgstr "ร้านขายชีส"
 
@@ -653,31 +653,31 @@ msgstr "ร้านขายชีส"
 msgid "Chess"
 msgstr "หมากรุก"
 
-#: src/data/categories.ts:15167
+#: src/data/categories.ts:15567
 msgid "Child Care"
 msgstr "การดูแลสำหรับเด็ก"
 
-#: src/data/categories.ts:15706
+#: src/data/categories.ts:16106
 msgid "Children's Clothing Store"
 msgstr "ร้านขายเสื้อผ้าเด็ก"
 
-#: src/data/categories.ts:2900
+#: src/data/categories.ts:2996
 msgid "Chinese"
 msgstr "จีน"
 
-#: src/data/categories.ts:2932
+#: src/data/categories.ts:3028
 msgid "Chinese Breakfast"
 msgstr ""
 
-#: src/data/categories.ts:12144
+#: src/data/categories.ts:12544
 msgid "Chiropractor"
 msgstr "หมอนวด"
 
-#: src/data/categories.ts:16415
+#: src/data/categories.ts:16815
 msgid "Chocolate Shop"
 msgstr "ร้านขายช็อคโกแลต"
 
-#: src/data/categories.ts:14279
+#: src/data/categories.ts:14679
 msgid "Church"
 msgstr "โบสถ์คริส"
 
@@ -689,11 +689,11 @@ msgstr "ละครสัตว์"
 msgid "City Hall"
 msgstr "ศาลากลางจังหวัด"
 
-#: src/data/categories.ts:9444
+#: src/data/categories.ts:9844
 msgid "City Park"
 msgstr "สวนสาธารณะของเมือง"
 
-#: src/data/categories.ts:8969
+#: src/data/categories.ts:9369
 msgid "City Walls"
 msgstr "กำแพงเมือง"
 
@@ -705,79 +705,79 @@ msgstr "เทศบาล"
 msgid "Civic Center"
 msgstr "ศูนย์เทศบาล"
 
-#: src/data/categories.ts:11585
+#: src/data/categories.ts:11985
 msgid "Cleaning & Sanitation"
 msgstr "ทำความสะอาด และ อนามัย"
 
-#: src/data/categories.ts:8981
+#: src/data/categories.ts:9381
 msgid "Cliff"
 msgstr "หน้าผา"
 
-#: src/data/categories.ts:10206
+#: src/data/categories.ts:10606
 msgid "Climbing Gym"
 msgstr "ยิมกีฬาปีนหน้าผา"
 
-#: src/data/categories.ts:12171
+#: src/data/categories.ts:12571
 msgid "Clinic"
 msgstr "คลินิก"
 
-#: src/data/categories.ts:15593
+#: src/data/categories.ts:15993
 msgid "Clothing"
 msgstr "เสื้อผ้า"
 
-#: src/data/categories.ts:7924
+#: src/data/categories.ts:8324
 msgid "Cocktail Bar"
 msgstr "บาร์ค็อกเทล"
 
-#: src/data/categories.ts:2948
+#: src/data/categories.ts:3060
 msgid "Coffee Shop"
 msgstr "ร้านกาแฟ"
 
-#: src/data/categories.ts:7041
+#: src/data/categories.ts:7441
 msgid "College"
 msgstr "วิทยาลัยปริญญาตรี"
 
-#: src/data/categories.ts:7058
+#: src/data/categories.ts:7458
 msgid "College Academic Building"
 msgstr "อาคารวิทยาลัยวิชาการ"
 
-#: src/data/categories.ts:7070
+#: src/data/categories.ts:7470
 msgid "College Administrative Building"
 msgstr "อาคารวิทยาลัยการจัดการ"
 
-#: src/data/categories.ts:7082
+#: src/data/categories.ts:7482
 msgid "College Bookstore"
 msgstr "ร้านหนังสือวิทยาลัย"
 
-#: src/data/categories.ts:7109
+#: src/data/categories.ts:7509
 msgid "College Cafeteria"
 msgstr "โรงอาหารวิทยาลัย"
 
-#: src/data/categories.ts:14572
+#: src/data/categories.ts:14972
 msgid "College Dormitory / Residence Hall"
 msgstr "หอพักมหาวิทยาลัย / หอพักนักศึกษา"
 
-#: src/data/categories.ts:7136
+#: src/data/categories.ts:7536
 msgid "College Gym"
 msgstr "ยิมวิทยาลัย"
 
-#: src/data/categories.ts:7148
+#: src/data/categories.ts:7548
 msgid "College Library"
 msgstr "ห้องสมุดวิทยาลัย"
 
-#: src/data/categories.ts:7165
+#: src/data/categories.ts:7565
 msgid "College Quad"
 msgstr "ลานวิทยาลัย"
 
-#: src/data/categories.ts:7170
+#: src/data/categories.ts:7570
 msgid "College Rec Center"
 msgstr "ศูนย์นันทนาการวิทยาลัย"
 
-#: src/data/categories.ts:7182
+#: src/data/categories.ts:7582
 msgid "College Theater"
 msgstr "โรงหนังวิทยาลัย"
 
-#: src/data/categories.ts:2980
+#: src/data/categories.ts:3092
 msgid "Colombian"
 msgstr "โคลัมเบีย"
 
@@ -785,15 +785,15 @@ msgstr "โคลัมเบีย"
 msgid "Comedy Club"
 msgstr "ร้านเล่นตลก"
 
-#: src/data/categories.ts:15870
+#: src/data/categories.ts:16270
 msgid "Comic Books"
 msgstr "ร้านการ์ตูน"
 
-#: src/data/categories.ts:11851
+#: src/data/categories.ts:12251
 msgid "Communications"
 msgstr "การสื่อสาร"
 
-#: src/data/categories.ts:14034
+#: src/data/categories.ts:14434
 msgid "Community Association"
 msgstr "สมาคมเพื่อชุมชน"
 
@@ -801,15 +801,15 @@ msgstr "สมาคมเพื่อชุมชน"
 msgid "Community Center"
 msgstr "ศูนย์ชุมชน"
 
-#: src/data/categories.ts:7204
+#: src/data/categories.ts:7604
 msgid "Community College"
 msgstr "สโมสรวิทยาลัย"
 
-#: src/data/categories.ts:13379
+#: src/data/categories.ts:13779
 msgid "Computer Services"
 msgstr "ซ่อมคอมพิวเตอร์"
 
-#: src/data/categories.ts:15897
+#: src/data/categories.ts:16297
 msgid "Computers & Home Electronics"
 msgstr "ร้านคอมพิวเตอร์และอุปกรณ์ไฟฟ้าในบ้าน"
 
@@ -817,11 +817,11 @@ msgstr "ร้านคอมพิวเตอร์และอุปกรณ
 msgid "Concert Hall"
 msgstr "คอนเสิร์ต"
 
-#: src/data/categories.ts:14301
+#: src/data/categories.ts:14701
 msgid "Confucian Temple"
 msgstr "วัดขงจื๊อ"
 
-#: src/data/categories.ts:11607
+#: src/data/categories.ts:12007
 msgid "Construction Company"
 msgstr "บริษัทรับเหมาก่อสร้าง"
 
@@ -829,27 +829,27 @@ msgstr "บริษัทรับเหมาก่อสร้าง"
 msgid "Consulate / Embassy"
 msgstr "สถานกงศุล / สถานเอกอัครราชทูต"
 
-#: src/data/categories.ts:16442
+#: src/data/categories.ts:16842
 msgid "Convenience Store"
 msgstr "ร้านสะดวกซื้อ"
 
-#: src/data/categories.ts:14323
+#: src/data/categories.ts:14723
 msgid "Convent"
 msgstr "ชมรมคริสเตียน"
 
-#: src/data/categories.ts:11995
+#: src/data/categories.ts:12395
 msgid "Convention Center"
 msgstr "ศูนย์ประชุม"
 
-#: src/data/categories.ts:7221
+#: src/data/categories.ts:7621
 msgid "Cooking School"
 msgstr "โรงเรียนสอนทำอาหาร"
 
-#: src/data/categories.ts:15924
+#: src/data/categories.ts:16324
 msgid "Cosmetics Shop"
 msgstr "ร้านเครื่องสำอาง"
 
-#: src/data/categories.ts:15951
+#: src/data/categories.ts:16351
 msgid "Costume Shop"
 msgstr "ร้านชุดคอสตูม"
 
@@ -857,27 +857,27 @@ msgstr "ร้านชุดคอสตูม"
 msgid "Court House"
 msgstr "ศาล"
 
-#: src/data/categories.ts:13406
+#: src/data/categories.ts:13806
 msgid "Coworking Space"
 msgstr "พื้นที่ทำงานร่วมกัน"
 
-#: src/data/categories.ts:15978
+#: src/data/categories.ts:16378
 msgid "Craft Store"
 msgstr "ร้านขายของงานฝีมือ"
 
-#: src/data/categories.ts:13021
+#: src/data/categories.ts:13421
 msgid "Credit Union"
 msgstr "เครดิตยูเนี่ยน"
 
-#: src/data/categories.ts:3012
+#: src/data/categories.ts:3124
 msgid "Creperie"
 msgstr "เครป"
 
-#: src/data/categories.ts:10233
+#: src/data/categories.ts:10633
 msgid "Cricket"
 msgstr "กีฬาคริกเก็ต"
 
-#: src/data/categories.ts:3044
+#: src/data/categories.ts:3156
 msgid "Cuban"
 msgstr "คิวบา"
 
@@ -885,11 +885,11 @@ msgstr "คิวบา"
 msgid "Cultural Center"
 msgstr "ศูนย์วัฒนธรรม"
 
-#: src/data/categories.ts:3076
+#: src/data/categories.ts:3188
 msgid "Cupcake Shop"
 msgstr "คัพเค้ก"
 
-#: src/data/categories.ts:13048
+#: src/data/categories.ts:13448
 msgid "Currency Exchange"
 msgstr "แลกเปลี่ยนสกุลเงิน"
 
@@ -897,23 +897,23 @@ msgstr "แลกเปลี่ยนสกุลเงิน"
 msgid "Customs House"
 msgstr "ด่านศุลกากร"
 
-#: src/data/categories.ts:10260
+#: src/data/categories.ts:10660
 msgid "Cycle Studio"
 msgstr "สตูดิโอปั่นจักรยาน"
 
-#: src/data/categories.ts:3108
+#: src/data/categories.ts:3220
 msgid "Czech"
 msgstr "เช็ค"
 
-#: src/data/categories.ts:8713
+#: src/data/categories.ts:9113
 msgid "Dairy Farm"
 msgstr "ฟาร์มนม"
 
-#: src/data/categories.ts:16469
+#: src/data/categories.ts:16869
 msgid "Dairy Store"
 msgstr "ร้านขายนม"
 
-#: src/data/categories.ts:8993
+#: src/data/categories.ts:9393
 msgid "Dam"
 msgstr "เขื่อน"
 
@@ -925,23 +925,23 @@ msgstr "เพลงแดนซ์"
 msgid "Dance Hall"
 msgstr "เต้นรำ"
 
-#: src/data/categories.ts:7248
+#: src/data/categories.ts:7648
 msgid "Dance Studio"
 msgstr "โรงเรียนสอนเต้น"
 
-#: src/data/categories.ts:11367
+#: src/data/categories.ts:11767
 msgid "Day Spa"
 msgstr "สปา"
 
-#: src/data/categories.ts:3140
+#: src/data/categories.ts:3252
 msgid "Deli"
 msgstr "ร้านอาหารสำเร็จรูป"
 
-#: src/data/categories.ts:12198
+#: src/data/categories.ts:12598
 msgid "Dentist"
 msgstr "ทำฟัน"
 
-#: src/data/categories.ts:16005
+#: src/data/categories.ts:16405
 msgid "Department Store"
 msgstr "ห้างสรรพสินค้า"
 
@@ -949,31 +949,31 @@ msgstr "ห้างสรรพสินค้า"
 msgid "Department of Motor Vehicles"
 msgstr "กรมยานยนต์"
 
-#: src/data/categories.ts:3172
+#: src/data/categories.ts:3284
 msgid "Dessert Shop"
 msgstr "ร้านขนม"
 
-#: src/data/categories.ts:13433
+#: src/data/categories.ts:13833
 msgid "Detective & Security Services"
 msgstr "บริการนักสืบและความปลอดภัย"
 
-#: src/data/categories.ts:10287
+#: src/data/categories.ts:10687
 msgid "Diet & Weight Loss"
 msgstr "ลดน้ำหนัก และ คุมอาหาร"
 
-#: src/data/categories.ts:16032
+#: src/data/categories.ts:16432
 msgid "Dietary & Supplement Shop"
 msgstr "อาหารคุมน้ำหนักและอาหารเสริม"
 
-#: src/data/categories.ts:9005
+#: src/data/categories.ts:9405
 msgid "Dike"
 msgstr "ฝาย"
 
-#: src/data/categories.ts:3204
+#: src/data/categories.ts:3316
 msgid "Dim Sum"
 msgstr "ติ่มซำ"
 
-#: src/data/categories.ts:3236
+#: src/data/categories.ts:3348
 msgid "Diner"
 msgstr "ร้านอาหารท้องถิ่น"
 
@@ -981,43 +981,43 @@ msgstr "ร้านอาหารท้องถิ่น"
 msgid "Dining"
 msgstr "อาหาร"
 
-#: src/data/categories.ts:3268
+#: src/data/categories.ts:3380
 msgid "Dinner Theater"
 msgstr "โรงละครดินเนอร์"
 
-#: src/data/categories.ts:9634
+#: src/data/categories.ts:10034
 msgid "Disc Golf"
 msgstr "กอล์ฟแผ่นจานดิสก์"
 
-#: src/data/categories.ts:16059
+#: src/data/categories.ts:16459
 msgid "Discount & Variety Store"
 msgstr "ลดราคาและขายของหลากหลาย"
 
-#: src/data/categories.ts:7956
+#: src/data/categories.ts:8356
 msgid "Distillery"
 msgstr "โรงต้มกลั่น"
 
-#: src/data/categories.ts:12740
+#: src/data/categories.ts:13140
 msgid "Distribution Center"
 msgstr "ศูนย์กลางกระจายสินค้า"
 
-#: src/data/categories.ts:7988
+#: src/data/categories.ts:8388
 msgid "Dive Bar"
 msgstr "บาร์ริมทาง"
 
-#: src/data/categories.ts:9646
+#: src/data/categories.ts:10046
 msgid "Dive Center"
 msgstr "ศูนย์ดำน้ำ"
 
-#: src/data/categories.ts:10314
+#: src/data/categories.ts:10714
 msgid "Diving Center"
 msgstr "ศูนย์ดำน้ำ"
 
-#: src/data/categories.ts:12225
+#: src/data/categories.ts:12625
 msgid "Doctor"
 msgstr "หมอ"
 
-#: src/data/categories.ts:9456
+#: src/data/categories.ts:9856
 msgid "Dog Park"
 msgstr "สวนสุนัข"
 
@@ -1025,19 +1025,19 @@ msgstr "สวนสุนัข"
 msgid "Dog Racetrack"
 msgstr "สนามแข่งสุนัข"
 
-#: src/data/categories.ts:3300
+#: src/data/categories.ts:3412
 msgid "Dongbei"
 msgstr ""
 
-#: src/data/categories.ts:3316
+#: src/data/categories.ts:3444
 msgid "Donut Shop"
 msgstr "ร้านโดนัท"
 
-#: src/data/categories.ts:3348
+#: src/data/categories.ts:3476
 msgid "Dosa"
 msgstr "โรตี"
 
-#: src/data/categories.ts:11233
+#: src/data/categories.ts:11633
 msgid "Drinking Water"
 msgstr "น้ำดื่ม"
 
@@ -1045,99 +1045,99 @@ msgstr "น้ำดื่ม"
 msgid "Drive-in Theater"
 msgstr "โรงหนังไดร์ฟอิน"
 
-#: src/data/categories.ts:7275
+#: src/data/categories.ts:7675
 msgid "Driving School"
 msgstr "โรงเรียนสอนขับรถ"
 
-#: src/data/categories.ts:14809
+#: src/data/categories.ts:15209
 msgid "Dry Cleaner"
 msgstr "ร้านซักแห้ง"
 
-#: src/data/categories.ts:3380
+#: src/data/categories.ts:3508
 msgid "Dumpling"
 msgstr "เกี๊ยว"
 
-#: src/data/categories.ts:9017
+#: src/data/categories.ts:9417
 msgid "Dunes"
 msgstr "เนินทราย"
 
-#: src/data/categories.ts:3412
+#: src/data/categories.ts:3540
 msgid "Dutch"
 msgstr "ฮอลแลนด์"
 
-#: src/data/categories.ts:16086
+#: src/data/categories.ts:16486
 msgid "Duty Free Shop"
 msgstr "ร้านปลอดภาษี"
 
-#: src/data/categories.ts:18346
+#: src/data/categories.ts:18746
 msgid "Duty-free Shop"
 msgstr "ร้านปลอดภาษี"
 
-#: src/data/categories.ts:11106
+#: src/data/categories.ts:11506
 msgid "EV Charging Station"
 msgstr "สถานีชาร์จรถ EV"
 
-#: src/data/categories.ts:3444
+#: src/data/categories.ts:3572
 msgid "Eastern European"
 msgstr "ยุโรปตะวันออก"
 
-#: src/data/categories.ts:6982
+#: src/data/categories.ts:7382
 msgid "Education"
 msgstr "การศึกษา"
 
-#: src/data/categories.ts:11629
+#: src/data/categories.ts:12029
 msgid "Electrician"
 msgstr "ช่างไฟฟ้า"
 
-#: src/data/categories.ts:16113
+#: src/data/categories.ts:16513
 msgid "Electronics Store"
 msgstr "ร้านอุปกรณ์อิเล็กทรอนิค"
 
-#: src/data/categories.ts:7302
+#: src/data/categories.ts:7702
 msgid "Elementary School"
 msgstr "โรงเรียนประถมศึกษา"
 
-#: src/data/categories.ts:18501
+#: src/data/categories.ts:18901
 msgid "Elevator"
 msgstr "ลิฟท์"
 
-#: src/data/categories.ts:15194
+#: src/data/categories.ts:15594
 msgid "Emergency Phone"
 msgstr "โทรศัพท์ฉุกเฉิน"
 
-#: src/data/categories.ts:12252
+#: src/data/categories.ts:12652
 msgid "Emergency Room"
 msgstr "ห้องฉุกเฉิน"
 
-#: src/data/categories.ts:15206
+#: src/data/categories.ts:15606
 msgid "Emergency Shelter"
 msgstr "ที่พักพิงฉุกเฉิน"
 
-#: src/data/categories.ts:3476
+#: src/data/categories.ts:3604
 msgid "Empanada"
 msgstr "พาย"
 
-#: src/data/categories.ts:13460
+#: src/data/categories.ts:13860
 msgid "Employment Agencies"
 msgstr "บริษัทจัดหางาน"
 
-#: src/data/categories.ts:15233
+#: src/data/categories.ts:15633
 msgid "Employment Agency"
 msgstr "ตัวแทนจัดหางาน"
 
-#: src/data/categories.ts:13487
+#: src/data/categories.ts:13887
 msgid "Engineering"
 msgstr "วิศวกรรม"
 
-#: src/data/categories.ts:13514
+#: src/data/categories.ts:13914
 msgid "Entertainment Service"
 msgstr "บริการความบันเทิง"
 
-#: src/data/categories.ts:18506
+#: src/data/categories.ts:18906
 msgid "Entrance"
 msgstr "ทางเข้า"
 
-#: src/data/categories.ts:11651
+#: src/data/categories.ts:12051
 msgid "Equipment Rental"
 msgstr "เช่าอุปกรณ์ช่าง"
 
@@ -1145,59 +1145,59 @@ msgstr "เช่าอุปกรณ์ช่าง"
 msgid "Erotic Museum"
 msgstr "พิพิธภัณฑ์อิโรติค"
 
-#: src/data/categories.ts:18511
+#: src/data/categories.ts:18911
 msgid "Escalator"
 msgstr "บันไดเลื่อน"
 
-#: src/data/categories.ts:3508
+#: src/data/categories.ts:3636
 msgid "Ethiopian"
 msgstr "เอธิโอเปีย"
 
-#: src/data/categories.ts:12017
+#: src/data/categories.ts:12417
 msgid "Event Space"
 msgstr "สถานที่จัดอีเว้นท์"
 
-#: src/data/categories.ts:16140
+#: src/data/categories.ts:16540
 msgid "Event Tickets"
 msgstr "ขายตั๋วงานต่างๆ"
 
-#: src/data/categories.ts:11968
+#: src/data/categories.ts:12368
 msgid "Events"
 msgstr "งานอีเว้นท์"
 
-#: src/data/categories.ts:12039
+#: src/data/categories.ts:12439
 msgid "Exhibition Hall"
 msgstr "ศูนย์แสดงงาน"
 
-#: src/data/categories.ts:16167
+#: src/data/categories.ts:16567
 msgid "Fabric Store"
 msgstr "ร้านขายผ้า"
 
-#: src/data/categories.ts:12762
+#: src/data/categories.ts:13162
 msgid "Factory"
 msgstr "โรงงาน"
 
-#: src/data/categories.ts:3540
+#: src/data/categories.ts:3668
 msgid "Falafel"
 msgstr "ฟาลาเฟล"
 
-#: src/data/categories.ts:8740
+#: src/data/categories.ts:9140
 msgid "Farm"
 msgstr "ฟาร์ม"
 
-#: src/data/categories.ts:16496
+#: src/data/categories.ts:16896
 msgid "Farmers Market"
 msgstr "ตลาดเกษตรกร"
 
-#: src/data/categories.ts:8681
+#: src/data/categories.ts:9081
 msgid "Farming"
 msgstr "ทำฟาร์ม"
 
-#: src/data/categories.ts:3572
+#: src/data/categories.ts:3700
 msgid "Fast Food"
 msgstr "ฟาสต์ฟู้ด"
 
-#: src/data/categories.ts:18523
+#: src/data/categories.ts:18923
 msgid "Ferry Terminal"
 msgstr "อาคารผู้โดยสารเรือ"
 
@@ -1205,15 +1205,15 @@ msgstr "อาคารผู้โดยสารเรือ"
 msgid "Festival"
 msgstr "งานเทศกาล"
 
-#: src/data/categories.ts:3604
+#: src/data/categories.ts:3732
 msgid "Filipino"
 msgstr "ฟิลิปปินส์"
 
-#: src/data/categories.ts:11856
+#: src/data/categories.ts:12256
 msgid "Film & Video Production"
 msgstr "โปรดักชันทำหนังและวีดีโอ"
 
-#: src/data/categories.ts:13075
+#: src/data/categories.ts:13475
 msgid "Financial Services"
 msgstr "บริการทางการเงิน"
 
@@ -1225,51 +1225,51 @@ msgstr "ศิลปะ"
 msgid "Fire Station"
 msgstr "สถานีดับเพลิง"
 
-#: src/data/categories.ts:9029
+#: src/data/categories.ts:9429
 msgid "Firepit"
 msgstr "กองไฟ"
 
-#: src/data/categories.ts:3636
+#: src/data/categories.ts:3764
 msgid "Fish & Chips"
 msgstr "ฟิชแอนด์ชิปส์"
 
-#: src/data/categories.ts:16523
+#: src/data/categories.ts:16923
 msgid "Fish Market"
 msgstr "ร้านขายปลา"
 
-#: src/data/categories.ts:9658
+#: src/data/categories.ts:10058
 msgid "Fishing"
 msgstr "ตกปลา"
 
-#: src/data/categories.ts:16194
+#: src/data/categories.ts:16594
 msgid "Fishing Supply"
 msgstr "ร้านขายอุปกรณ์ตกปลา"
 
-#: src/data/categories.ts:10341
+#: src/data/categories.ts:10741
 msgid "Fitness Center"
 msgstr "ฟิตเนส"
 
-#: src/data/categories.ts:16221
+#: src/data/categories.ts:16621
 msgid "Flea Market"
 msgstr "ตลาดของมือสอง"
 
-#: src/data/categories.ts:7324
+#: src/data/categories.ts:7724
 msgid "Flight School"
 msgstr "โรงเรียนการบิน"
 
-#: src/data/categories.ts:16248
+#: src/data/categories.ts:16648
 msgid "Florist"
 msgstr "ร้านดอกไม้"
 
-#: src/data/categories.ts:3668
+#: src/data/categories.ts:3796
 msgid "Fondue"
 msgstr "ช็อคโกแลตฟองดู"
 
-#: src/data/categories.ts:16275
+#: src/data/categories.ts:16675
 msgid "Food & Beverage"
 msgstr "ร้านอาหารและเครื่องดื่ม"
 
-#: src/data/categories.ts:3700
+#: src/data/categories.ts:3828
 msgid "Food Court"
 msgstr "ศูนย์อาหาร"
 
@@ -1277,103 +1277,103 @@ msgstr "ศูนย์อาหาร"
 msgid "Football Stadium"
 msgstr "สนามอเมริกันฟุตบอล"
 
-#: src/data/categories.ts:9468
+#: src/data/categories.ts:9868
 msgid "Forest"
 msgstr "ป่าไม้"
 
-#: src/data/categories.ts:9041
+#: src/data/categories.ts:9441
 msgid "Fortress"
 msgstr "ป้อมปราการ"
 
-#: src/data/categories.ts:14061
+#: src/data/categories.ts:14461
 msgid "Foundation"
 msgstr "มูลนิธิ"
 
-#: src/data/categories.ts:9053
+#: src/data/categories.ts:9453
 msgid "Fountain"
 msgstr "น้ำพุ"
 
-#: src/data/categories.ts:16795
+#: src/data/categories.ts:17195
 msgid "Frame Shop"
 msgstr "ร้านกรอบรูป"
 
-#: src/data/categories.ts:14594
+#: src/data/categories.ts:14994
 msgid "Fraternity House"
 msgstr "บ้านชมรมพี่น้องมหาวิทยาลัย"
 
-#: src/data/categories.ts:3732
+#: src/data/categories.ts:3860
 msgid "French"
 msgstr "ฝรั่งเศส"
 
-#: src/data/categories.ts:3764
+#: src/data/categories.ts:3892
 msgid "Fried Chicken"
 msgstr "ไก่ทอด"
 
-#: src/data/categories.ts:3796
+#: src/data/categories.ts:3924
 msgid "Friterie"
 msgstr "มันฝรั่งทอดเบลเยียม"
 
-#: src/data/categories.ts:3828
+#: src/data/categories.ts:3956
 msgid "Frozen Yogurt"
 msgstr "ไอศครีมโยเกิร์ต"
 
-#: src/data/categories.ts:16550
+#: src/data/categories.ts:16950
 msgid "Fruits & Vegetables"
 msgstr "ร้านขายผลไม้และผัก"
 
-#: src/data/categories.ts:3860
+#: src/data/categories.ts:3988
 msgid "Fujian"
 msgstr ""
 
-#: src/data/categories.ts:13541
+#: src/data/categories.ts:13941
 msgid "Funeral Home"
 msgstr "บ้านงานศพ"
 
-#: src/data/categories.ts:14836
+#: src/data/categories.ts:15236
 msgid "Gaming Cafe"
 msgstr "ร้านเกมส์"
 
-#: src/data/categories.ts:9670
+#: src/data/categories.ts:10070
 msgid "Garden"
 msgstr "สวน"
 
-#: src/data/categories.ts:16962
+#: src/data/categories.ts:17362
 msgid "Garden Center"
 msgstr "อุปกรณ์แต่งสวน"
 
-#: src/data/categories.ts:11123
+#: src/data/categories.ts:11523
 msgid "Gas Station"
 msgstr "ปั๊ม"
 
-#: src/data/categories.ts:3876
+#: src/data/categories.ts:4020
 msgid "Gastropub"
 msgstr "ร้านนั่งชิล"
 
-#: src/data/categories.ts:9065
+#: src/data/categories.ts:9465
 msgid "Gate"
 msgstr "ประตูเมือง"
 
-#: src/data/categories.ts:8020
+#: src/data/categories.ts:8420
 msgid "Gay Bar"
 msgstr "บาร์เกย์"
 
-#: src/data/categories.ts:15733
+#: src/data/categories.ts:16133
 msgid "General Clothing Store"
 msgstr "ร้านขายเสื้อผ้าทั่วไป"
 
-#: src/data/categories.ts:3908
+#: src/data/categories.ts:4052
 msgid "German"
 msgstr "เยอรมัน"
 
-#: src/data/categories.ts:16822
+#: src/data/categories.ts:17222
 msgid "Gifts & Souvenirs"
 msgstr "ของขวัญและของที่ระลึก"
 
-#: src/data/categories.ts:9077
+#: src/data/categories.ts:9477
 msgid "Glacier"
 msgstr "ธารน้ำแข็ง"
 
-#: src/data/categories.ts:3940
+#: src/data/categories.ts:4084
 msgid "Gluten-free"
 msgstr "กลูเตน-ฟรี"
 
@@ -1381,15 +1381,15 @@ msgstr "กลูเตน-ฟรี"
 msgid "Go Karts"
 msgstr "โกคาร์ท"
 
-#: src/data/categories.ts:10368
+#: src/data/categories.ts:10768
 msgid "Golf Course"
 msgstr "สนามกอล์ฟ"
 
-#: src/data/categories.ts:10395
+#: src/data/categories.ts:10795
 msgid "Golf Driving Range"
 msgstr "สนามไดร์ฟกอล์ฟ"
 
-#: src/data/categories.ts:16577
+#: src/data/categories.ts:16977
 msgid "Gourmet Shop"
 msgstr "ร้านของกินและดื่ม"
 
@@ -1397,87 +1397,87 @@ msgstr "ร้านของกินและดื่ม"
 msgid "Government Building"
 msgstr "อาคารรัฐบาล"
 
-#: src/data/categories.ts:7351
+#: src/data/categories.ts:7751
 msgid "Graduate School"
 msgstr "วิทยาลัยปริญญาโท"
 
-#: src/data/categories.ts:3972
+#: src/data/categories.ts:4116
 msgid "Greek"
 msgstr "กรีก"
 
-#: src/data/categories.ts:16604
+#: src/data/categories.ts:17004
 msgid "Grocery"
 msgstr "ร้านขายของชำ"
 
-#: src/data/categories.ts:18669
+#: src/data/categories.ts:19069
 msgid "Guest House"
 msgstr "เกสต์เฮ้าส์"
 
-#: src/data/categories.ts:9682
+#: src/data/categories.ts:10082
 msgid "Gun Range"
 msgstr "สนามยิงปืน"
 
-#: src/data/categories.ts:16849
+#: src/data/categories.ts:17249
 msgid "Gun Shop"
 msgstr "ร้านขายปืน"
 
-#: src/data/categories.ts:10422
+#: src/data/categories.ts:10822
 msgid "Gym"
 msgstr "ยิม"
 
-#: src/data/categories.ts:10449
+#: src/data/categories.ts:10849
 msgid "Gymnastics Studio"
 msgstr "ยิมนาสติก"
 
-#: src/data/categories.ts:11673
+#: src/data/categories.ts:12073
 msgid "HVAC Company"
 msgstr "ร้านแอร์"
 
-#: src/data/categories.ts:13568
+#: src/data/categories.ts:13968
 msgid "Hacker Space"
 msgstr "แฮกเกอร์สเปซ"
 
-#: src/data/categories.ts:4004
+#: src/data/categories.ts:4148
 msgid "Halal"
 msgstr "ฮาลาล"
 
-#: src/data/categories.ts:16989
+#: src/data/categories.ts:17389
 msgid "Hardware Store"
 msgstr "เครื่องมือช่าง"
 
-#: src/data/categories.ts:4036
+#: src/data/categories.ts:4180
 msgid "Hawaiian"
 msgstr "ฮาวาย"
 
-#: src/data/categories.ts:12085
+#: src/data/categories.ts:12485
 msgid "Health"
 msgstr "สุขภาพ"
 
-#: src/data/categories.ts:4068
+#: src/data/categories.ts:4212
 msgid "Health Food"
 msgstr "อาหารสุขภาพ"
 
-#: src/data/categories.ts:16631
+#: src/data/categories.ts:17031
 msgid "Health Food Store"
 msgstr "ร้านขายอาหารสุขภาพ"
 
-#: src/data/categories.ts:18358
+#: src/data/categories.ts:18758
 msgid "Heliport"
 msgstr "ลานจอดเฮลิคอปเตอร์"
 
-#: src/data/categories.ts:16658
+#: src/data/categories.ts:17058
 msgid "Herbs & Spices"
 msgstr "สมุนไพรและเครื่องเทศ"
 
-#: src/data/categories.ts:7368
+#: src/data/categories.ts:7768
 msgid "High School"
 msgstr "โรงเรียนมัธยม"
 
-#: src/data/categories.ts:4100
+#: src/data/categories.ts:4244
 msgid "Himalayan"
 msgstr ""
 
-#: src/data/categories.ts:14345
+#: src/data/categories.ts:14745
 msgid "Hindu Temple"
 msgstr "วัดฮินดู"
 
@@ -1497,7 +1497,7 @@ msgstr "ย่านประวัติศาสตร์"
 msgid "History Museum"
 msgstr "พิพิธภัณฑ์ประวัติศาสตร์"
 
-#: src/data/categories.ts:16876
+#: src/data/categories.ts:17276
 msgid "Hobby Store"
 msgstr "ร้านขายของงานอดิเรก"
 
@@ -1505,23 +1505,23 @@ msgstr "ร้านขายของงานอดิเรก"
 msgid "Hockey Arena"
 msgstr "สนามฮอกกี้"
 
-#: src/data/categories.ts:10476
+#: src/data/categories.ts:10876
 msgid "Hockey Field"
 msgstr "สนามฮอกกี้"
 
-#: src/data/categories.ts:16903
+#: src/data/categories.ts:17303
 msgid "Home & Garden"
 msgstr "บ้านและสวน"
 
-#: src/data/categories.ts:17016
+#: src/data/categories.ts:17416
 msgid "Home Furnishings"
 msgstr "เฟอร์นิเจอร์"
 
-#: src/data/categories.ts:4116
+#: src/data/categories.ts:4276
 msgid "Hong Kong"
 msgstr "ฮ่องกง"
 
-#: src/data/categories.ts:8052
+#: src/data/categories.ts:8452
 msgid "Hookah Bar"
 msgstr "บาร์สูบชิชา"
 
@@ -1529,79 +1529,79 @@ msgstr "บาร์สูบชิชา"
 msgid "Horse Racetrack"
 msgstr "สนามม้า"
 
-#: src/data/categories.ts:12279
+#: src/data/categories.ts:12679
 msgid "Hospice"
 msgstr "บ้านพักรับรองพระธุดงค์"
 
-#: src/data/categories.ts:12306
+#: src/data/categories.ts:12706
 msgid "Hospital"
 msgstr "โรงพยาบาล"
 
-#: src/data/categories.ts:18691
+#: src/data/categories.ts:19091
 msgid "Hostel"
 msgstr "โฮสเทล"
 
-#: src/data/categories.ts:4148
+#: src/data/categories.ts:4308
 msgid "Hot Dog"
 msgstr "ฮอตด็อก"
 
-#: src/data/categories.ts:4180
+#: src/data/categories.ts:4340
 msgid "Hot Pot"
 msgstr "ฮอทพอท"
 
-#: src/data/categories.ts:9089
+#: src/data/categories.ts:9489
 msgid "Hot Spring"
 msgstr "บ่อน้ำพุร้อน"
 
-#: src/data/categories.ts:18713
+#: src/data/categories.ts:19113
 msgid "Hotel"
 msgstr "โรงแรม"
 
-#: src/data/categories.ts:8084
+#: src/data/categories.ts:8484
 msgid "Hotel Bar"
 msgstr "บาร์โรงแรม"
 
-#: src/data/categories.ts:17043
+#: src/data/categories.ts:17443
 msgid "Household Appliances"
 msgstr "เครื่องใช้ในครัวเรือน"
 
-#: src/data/categories.ts:14616
+#: src/data/categories.ts:15016
 msgid "Housing Project"
 msgstr "โครงการบ้านจัดสรร"
 
-#: src/data/categories.ts:4212
+#: src/data/categories.ts:4372
 msgid "Huaiyang"
 msgstr ""
 
-#: src/data/categories.ts:4228
+#: src/data/categories.ts:4404
 msgid "Hunan"
 msgstr ""
 
-#: src/data/categories.ts:4244
+#: src/data/categories.ts:4436
 msgid "Hungarian"
 msgstr "ฮังการี"
 
-#: src/data/categories.ts:4276
+#: src/data/categories.ts:4468
 msgid "Ice Cream"
 msgstr "ไอศครีม"
 
-#: src/data/categories.ts:10503
+#: src/data/categories.ts:10903
 msgid "Ice Skating Rink"
 msgstr "ลานสเก็ตน้ำแข็ง"
 
-#: src/data/categories.ts:4308
+#: src/data/categories.ts:4500
 msgid "Indian"
 msgstr "อินเดีย"
 
-#: src/data/categories.ts:4340
+#: src/data/categories.ts:4532
 msgid "Indian Sweets"
 msgstr "ของหวานอินเดีย"
 
-#: src/data/categories.ts:4372
+#: src/data/categories.ts:4564
 msgid "Indonesian"
 msgstr "อินโดนีเซีย"
 
-#: src/data/categories.ts:4404
+#: src/data/categories.ts:4596
 msgid "Indonesian Meatballs"
 msgstr ""
 
@@ -1609,43 +1609,43 @@ msgstr ""
 msgid "Indoor Arena"
 msgstr "สนามกีฬาในร่ม"
 
-#: src/data/categories.ts:12713
+#: src/data/categories.ts:13113
 msgid "Industrial"
 msgstr "อุตสาหกรรม"
 
-#: src/data/categories.ts:12784
+#: src/data/categories.ts:13184
 msgid "Industrial Estate"
 msgstr "นิคมอุตสาหกรรม"
 
-#: src/data/categories.ts:13595
+#: src/data/categories.ts:13995
 msgid "Insurance Agent"
 msgstr "ตัวแทนประกัน"
 
-#: src/data/categories.ts:13622
+#: src/data/categories.ts:14022
 msgid "Internet Cafe"
 msgstr "ร้านอินเตอร์เน็ต"
 
-#: src/data/categories.ts:13102
+#: src/data/categories.ts:13502
 msgid "Investment Brokerage"
 msgstr "นายหน้าการลงทุน"
 
-#: src/data/categories.ts:4420
+#: src/data/categories.ts:4628
 msgid "Irish"
 msgstr "ไอร์แลนด์"
 
-#: src/data/categories.ts:4452
+#: src/data/categories.ts:4660
 msgid "Israeli"
 msgstr "อิสราเอล"
 
-#: src/data/categories.ts:4484
+#: src/data/categories.ts:4692
 msgid "Italian"
 msgstr "อิตาลี"
 
-#: src/data/categories.ts:4516
+#: src/data/categories.ts:4724
 msgid "Japanese"
 msgstr "ญี่ปุ่น"
 
-#: src/data/categories.ts:4548
+#: src/data/categories.ts:4756
 msgid "Javanese"
 msgstr ""
 
@@ -1653,119 +1653,119 @@ msgstr ""
 msgid "Jazz & Blues"
 msgstr "เพลงแจ๊ส และ เพลงบลูส์"
 
-#: src/data/categories.ts:9101
+#: src/data/categories.ts:9501
 msgid "Jetty"
 msgstr "เขื่อน"
 
-#: src/data/categories.ts:17153
+#: src/data/categories.ts:17553
 msgid "Jewelry Store"
 msgstr "ร้านขายจิวเวอรี่"
 
-#: src/data/categories.ts:4564
+#: src/data/categories.ts:4788
 msgid "Jewish"
 msgstr "ยิว"
 
-#: src/data/categories.ts:4596
+#: src/data/categories.ts:4820
 msgid "Jiangsu"
 msgstr ""
 
-#: src/data/categories.ts:15260
+#: src/data/categories.ts:15660
 msgid "Job Training"
 msgstr "งานฝึกอบรม"
 
-#: src/data/categories.ts:4612
+#: src/data/categories.ts:4852
 msgid "Juice Bar"
 msgstr "ร้านน้ำผลไม้"
 
-#: src/data/categories.ts:8116
+#: src/data/categories.ts:8516
 msgid "Karaoke"
 msgstr "คาราโอเกะ"
 
-#: src/data/categories.ts:4644
+#: src/data/categories.ts:4884
 msgid "Kebab"
 msgstr "เคบับ"
 
-#: src/data/categories.ts:7390
+#: src/data/categories.ts:7790
 msgid "Kindergarten"
 msgstr "โรงเรียนอนุบาล"
 
-#: src/data/categories.ts:14367
+#: src/data/categories.ts:14767
 msgid "Kingdom Hall"
 msgstr "หอประชุมราชอาณาจักร"
 
-#: src/data/categories.ts:17070
+#: src/data/categories.ts:17470
 msgid "Kitchen Supply"
 msgstr "อุปกรณ์เครื่องครัว"
 
-#: src/data/categories.ts:17180
+#: src/data/categories.ts:17580
 msgid "Knitting Store"
 msgstr "ร้านขายอุปกรณ์การถัก"
 
-#: src/data/categories.ts:4676
+#: src/data/categories.ts:4916
 msgid "Korean"
 msgstr "เกาหลี"
 
-#: src/data/categories.ts:4708
+#: src/data/categories.ts:4948
 msgid "Korean Barbecue"
 msgstr "บาร์บีคิวเกาหลี"
 
-#: src/data/categories.ts:14088
+#: src/data/categories.ts:14488
 msgid "Labor Organization"
 msgstr "องค์กรแรงงาน"
 
-#: src/data/categories.ts:12806
+#: src/data/categories.ts:13206
 msgid "Laboratory"
 msgstr "ห้องแล็บ"
 
-#: src/data/categories.ts:9113
+#: src/data/categories.ts:9513
 msgid "Lagoon"
 msgstr "บึง"
 
-#: src/data/categories.ts:9125
+#: src/data/categories.ts:9525
 msgid "Lake"
 msgstr "ทะเลสาบ"
 
-#: src/data/categories.ts:11695
+#: src/data/categories.ts:12095
 msgid "Landfill"
 msgstr "รับถมที่ดิน"
 
-#: src/data/categories.ts:8904
+#: src/data/categories.ts:9304
 msgid "Landmark"
 msgstr "สถานที่สำคัญ"
 
-#: src/data/categories.ts:11717
+#: src/data/categories.ts:12117
 msgid "Landscaper"
 msgstr "รับเกลี่ยที่ดิน"
 
-#: src/data/categories.ts:7412
+#: src/data/categories.ts:7812
 msgid "Language School"
 msgstr "โรงเรียนสอนภาษา"
 
-#: src/data/categories.ts:9694
+#: src/data/categories.ts:10094
 msgid "Laser Tag"
 msgstr "เลเซอร์แท็ก"
 
-#: src/data/categories.ts:4740
+#: src/data/categories.ts:4980
 msgid "Latin American"
 msgstr "ละตินอเมริกา"
 
-#: src/data/categories.ts:14863
+#: src/data/categories.ts:15263
 msgid "Laundromat"
 msgstr "ร้านเครื่องซักผ้าอัตโนมัติ"
 
-#: src/data/categories.ts:7439
+#: src/data/categories.ts:7839
 msgid "Law School"
 msgstr "โรงเรียนกฎหมาย"
 
-#: src/data/categories.ts:13649
+#: src/data/categories.ts:14049
 msgid "Lawyer & Legal Services"
 msgstr "ทนายความและบริการด้านกฎหมาย"
 
-#: src/data/categories.ts:17207
+#: src/data/categories.ts:17607
 msgid "Leather Goods"
 msgstr "ร้านขายสินค้าหนัง"
 
-#: src/data/categories.ts:4772
+#: src/data/categories.ts:5012
 msgid "Lebanese"
 msgstr "เลบานอน"
 
@@ -1773,156 +1773,156 @@ msgstr "เลบานอน"
 msgid "Library"
 msgstr "ห้องสมุด"
 
-#: src/data/categories.ts:18844
+#: src/data/categories.ts:19244
 msgid "Light Rail Station"
 msgstr "สถานีรถไฟรางเบา"
 
-#: src/data/categories.ts:9137
+#: src/data/categories.ts:9537
 msgid "Lighthouse"
 msgstr "ประภาคาร"
 
-#: src/data/categories.ts:17097
+#: src/data/categories.ts:17497
 msgid "Lighting Store"
 msgstr "ร้านโคมไฟ"
 
-#: src/data/categories.ts:15760
+#: src/data/categories.ts:16160
 msgid "Lingerie Shop"
 msgstr "ร้านชุดชั้นในสตรี"
 
-#: src/data/categories.ts:16685
+#: src/data/categories.ts:17085
 msgid "Liquor Store"
 msgstr "ร้านขายเหล้า"
 
-#: src/data/categories.ts:8767
+#: src/data/categories.ts:9167
 msgid "Livestock Farm"
 msgstr "ฟาร์มปศุสัตว์"
 
-#: src/data/categories.ts:11739
-#: src/data/categories.ts:14890
+#: src/data/categories.ts:12139
+#: src/data/categories.ts:15290
 msgid "Locksmith"
 msgstr "ช่างทำกุญแจ"
 
-#: src/data/categories.ts:18394
+#: src/data/categories.ts:18794
 msgid "Lot"
 msgstr "ที่จอดรถ"
 
-#: src/data/categories.ts:14917
+#: src/data/categories.ts:15317
 msgid "Lottery Store"
 msgstr "ร้านลอตเตอรี่"
 
-#: src/data/categories.ts:8148
+#: src/data/categories.ts:8548
 msgid "Lounge"
 msgstr "เพลงเลานจ์"
 
-#: src/data/categories.ts:17234
+#: src/data/categories.ts:17634
 msgid "Luggage Store"
 msgstr "ร้านขายกระเป๋า"
 
-#: src/data/categories.ts:4804
+#: src/data/categories.ts:5044
 msgid "Mac & Cheese"
 msgstr "แมคแอนด์ชีส"
 
-#: src/data/categories.ts:4836
+#: src/data/categories.ts:5076
 msgid "Macanese"
 msgstr ""
 
-#: src/data/categories.ts:4852
+#: src/data/categories.ts:5108
 msgid "Malaysian"
 msgstr "มาเลเซีย"
 
-#: src/data/categories.ts:4884
+#: src/data/categories.ts:5140
 msgid "Mamak"
 msgstr ""
 
-#: src/data/categories.ts:4900
+#: src/data/categories.ts:5172
 msgid "Manadonese"
 msgstr ""
 
-#: src/data/categories.ts:13676
+#: src/data/categories.ts:14076
 msgid "Management & Consulting"
 msgstr "การจัดการและที่ปรึกษา"
 
-#: src/data/categories.ts:12333
+#: src/data/categories.ts:12733
 msgid "Marijuana Dispensary"
 msgstr "ร้านขายกัญชาถูกกฎหมาย"
 
-#: src/data/categories.ts:9721
+#: src/data/categories.ts:10121
 msgid "Marina"
 msgstr "อู่เรือ"
 
-#: src/data/categories.ts:18518
+#: src/data/categories.ts:18918
 msgid "Marine"
 msgstr "เรือเดินทะเล"
 
-#: src/data/categories.ts:17261
+#: src/data/categories.ts:17661
 msgid "Marketplace"
 msgstr "ตลาดกลางแจ้ง"
 
-#: src/data/categories.ts:10530
+#: src/data/categories.ts:10930
 msgid "Martial Arts"
 msgstr "ศิลปะป้องกันตัว"
 
-#: src/data/categories.ts:11394
+#: src/data/categories.ts:11794
 msgid "Massage"
 msgstr "นวด"
 
-#: src/data/categories.ts:12360
+#: src/data/categories.ts:12760
 msgid "Maternity Clinic"
 msgstr "คลินิกคลอดบุตร"
 
-#: src/data/categories.ts:17288
+#: src/data/categories.ts:17688
 msgid "Mattress Store"
 msgstr "ร้านขายเครื่องนอน"
 
-#: src/data/categories.ts:9733
+#: src/data/categories.ts:10133
 msgid "Maze"
 msgstr "เขาวงกต"
 
-#: src/data/categories.ts:12387
+#: src/data/categories.ts:12787
 msgid "Medical Center"
 msgstr "ศูนย์การแพทย์"
 
-#: src/data/categories.ts:12414
+#: src/data/categories.ts:12814
 msgid "Medical Lab"
 msgstr "ห้องปฏิบัติการทางการแพทย์"
 
-#: src/data/categories.ts:7456
+#: src/data/categories.ts:7856
 msgid "Medical School"
 msgstr "โรงเรียนแพทย์"
 
-#: src/data/categories.ts:17315
+#: src/data/categories.ts:17715
 msgid "Medical Supply Store"
 msgstr "ร้านเวชภัณฑ์"
 
-#: src/data/categories.ts:4916
+#: src/data/categories.ts:5204
 msgid "Mediterranean"
 msgstr "เมดิเตอร์เรเนียน"
 
-#: src/data/categories.ts:14115
+#: src/data/categories.ts:14515
 msgid "Membership Organization"
 msgstr "องค์กรสมาชิก"
 
-#: src/data/categories.ts:9149
+#: src/data/categories.ts:9549
 msgid "Memorial"
 msgstr "อนุสรณ์สถาน"
 
-#: src/data/categories.ts:15787
+#: src/data/categories.ts:16187
 msgid "Men's Clothing Store"
 msgstr "ร้านเครื่องแต่งกายชาย"
 
-#: src/data/categories.ts:4948
+#: src/data/categories.ts:5236
 msgid "Mexican"
 msgstr "เม็กซิโก"
 
-#: src/data/categories.ts:4980
+#: src/data/categories.ts:5268
 msgid "Middle Eastern"
 msgstr "ตะวันออกกลาง"
 
-#: src/data/categories.ts:7473
+#: src/data/categories.ts:7873
 msgid "Middle School"
 msgstr "โรงเรียนมัธยมต้น"
 
-#: src/data/categories.ts:12441
+#: src/data/categories.ts:12841
 msgid "Midwife"
 msgstr "ผดุงครรภ์"
 
@@ -1930,67 +1930,67 @@ msgstr "ผดุงครรภ์"
 msgid "Military Base"
 msgstr "ฐานทัพทหาร"
 
-#: src/data/categories.ts:9750
+#: src/data/categories.ts:10150
 msgid "Miniature Golf"
 msgstr "สนามกอล์ฟจิ๋ว"
 
-#: src/data/categories.ts:12828
+#: src/data/categories.ts:13228
 msgid "Mining & Drilling"
 msgstr "เหมืองขุดเจาะ"
 
-#: src/data/categories.ts:14389
+#: src/data/categories.ts:14789
 msgid "Mission"
 msgstr "คณะผู้สอนศาสนา"
 
-#: src/data/categories.ts:17124
+#: src/data/categories.ts:17524
 msgid "Mobile Homes"
 msgstr "บ้านเคลื่อนที่"
 
-#: src/data/categories.ts:17342
+#: src/data/categories.ts:17742
 msgid "Mobile Phones"
 msgstr "ร้านมือถือ"
 
-#: src/data/categories.ts:5012
+#: src/data/categories.ts:5300
 msgid "Modern European"
 msgstr "ยุโรปสมัยใหม่"
 
-#: src/data/categories.ts:5044
+#: src/data/categories.ts:5332
 msgid "Molecular Gastronomy"
 msgstr "อาหารโมเลกุล"
 
-#: src/data/categories.ts:14411
+#: src/data/categories.ts:14811
 msgid "Monastery"
 msgstr "อาราม"
 
-#: src/data/categories.ts:12962
+#: src/data/categories.ts:13362
 msgid "Money"
 msgstr "เงินตรา"
 
-#: src/data/categories.ts:5076
+#: src/data/categories.ts:5364
 msgid "Mongolian"
 msgstr "มองโกเลีย"
 
-#: src/data/categories.ts:9161
+#: src/data/categories.ts:9561
 msgid "Monument"
 msgstr "อนุสาวรีย์"
 
-#: src/data/categories.ts:5108
+#: src/data/categories.ts:5396
 msgid "Moroccan"
 msgstr "โมร็อคโค"
 
-#: src/data/categories.ts:14433
+#: src/data/categories.ts:14833
 msgid "Mosque"
 msgstr "มัสยิด"
 
-#: src/data/categories.ts:18735
+#: src/data/categories.ts:19135
 msgid "Motel"
 msgstr "โมเทล"
 
-#: src/data/categories.ts:11145
+#: src/data/categories.ts:11545
 msgid "Motorcycle Sales"
 msgstr "จำหน่ายจักรยานยนต์"
 
-#: src/data/categories.ts:9173
+#: src/data/categories.ts:9573
 msgid "Mountain"
 msgstr "ภูเขา"
 
@@ -2014,87 +2014,87 @@ msgstr "พิพิธภัณฑ์"
 msgid "Music"
 msgstr "ดนตรี"
 
-#: src/data/categories.ts:7495
+#: src/data/categories.ts:7895
 msgid "Music School"
 msgstr "โรงเรียนสอนดนตรี"
 
-#: src/data/categories.ts:17369
+#: src/data/categories.ts:17769
 msgid "Music Store"
 msgstr "ร้านขายแผ่นเพลง"
 
-#: src/data/categories.ts:11421
+#: src/data/categories.ts:11821
 msgid "Nail Salon"
 msgstr "ทำเล็บ"
 
-#: src/data/categories.ts:14638
+#: src/data/categories.ts:15038
 msgid "Named Residential Building"
 msgstr "อาคารที่อยู่อาศัยตามชื่อ"
 
-#: src/data/categories.ts:9480
+#: src/data/categories.ts:9880
 msgid "National Park"
 msgstr "อุทยานแห่งชาติ"
 
-#: src/data/categories.ts:9492
+#: src/data/categories.ts:9892
 msgid "Nature Preserve"
 msgstr "ป่าสงวน"
 
-#: src/data/categories.ts:5140
+#: src/data/categories.ts:5428
 msgid "New American"
 msgstr "อเมริกันใหม่"
 
-#: src/data/categories.ts:11878
+#: src/data/categories.ts:12278
 msgid "Newspaper"
 msgstr "หนังสือพิมพ์"
 
-#: src/data/categories.ts:17396
+#: src/data/categories.ts:17796
 msgid "Newsstand"
 msgstr "แผงหนังสือ"
 
-#: src/data/categories.ts:8180
+#: src/data/categories.ts:8580
 msgid "Nightclub"
 msgstr "ไนท์คลับ"
 
-#: src/data/categories.ts:7727
+#: src/data/categories.ts:8127
 msgid "Nightlife"
 msgstr "ไนท์ไลฟ์"
 
-#: src/data/categories.ts:13703
+#: src/data/categories.ts:14103
 msgid "Non-Profit"
 msgstr "ไม่แสวงหาผลกำไร"
 
-#: src/data/categories.ts:5172
+#: src/data/categories.ts:5460
 msgid "Noodles"
 msgstr "ก๋วยเตี๋ยว"
 
-#: src/data/categories.ts:13730
+#: src/data/categories.ts:14130
 msgid "Notary"
 msgstr "ทนายความ"
 
-#: src/data/categories.ts:9777
+#: src/data/categories.ts:10177
 msgid "Nude Beach"
 msgstr "ชายหาดเปลือย"
 
-#: src/data/categories.ts:7522
+#: src/data/categories.ts:7922
 msgid "Nursery School"
 msgstr "โรงเรียนเตรียมอนุบาล"
 
-#: src/data/categories.ts:12468
+#: src/data/categories.ts:12868
 msgid "Nursing Home"
 msgstr "บ้านพักคนชรา"
 
-#: src/data/categories.ts:12495
+#: src/data/categories.ts:12895
 msgid "Nutritionist"
 msgstr "นักโภชนากร"
 
-#: src/data/categories.ts:13131
+#: src/data/categories.ts:13531
 msgid "Office"
 msgstr "สำนักงาน"
 
-#: src/data/categories.ts:17423
+#: src/data/categories.ts:17823
 msgid "Office Supply"
 msgstr "อุปกรณ์สำนักงาน"
 
-#: src/data/categories.ts:12850
+#: src/data/categories.ts:13250
 msgid "Oil Field"
 msgstr "ทุ่งน้ำมัน"
 
@@ -2102,59 +2102,59 @@ msgstr "ทุ่งน้ำมัน"
 msgid "Opera"
 msgstr "โอเปรา"
 
-#: src/data/categories.ts:17450
+#: src/data/categories.ts:17850
 msgid "Optical Goods"
 msgstr "อุปกรณ์เกี่ยวกับสายตา"
 
-#: src/data/categories.ts:12522
+#: src/data/categories.ts:12922
 msgid "Optometrist"
 msgstr "นักทัศนมาตรศาสตร์"
 
-#: src/data/categories.ts:8794
+#: src/data/categories.ts:9194
 msgid "Orchard"
 msgstr "สวนผลไม้"
 
-#: src/data/categories.ts:14029
+#: src/data/categories.ts:14429
 msgid "Organization"
 msgstr "องค์กร"
 
-#: src/data/categories.ts:17477
+#: src/data/categories.ts:17877
 msgid "Outdoor Supply"
 msgstr "อุปกรณ์กิจกรรมกลางแจ้ง"
 
-#: src/data/categories.ts:8534
+#: src/data/categories.ts:8934
 msgid "Outdoors & Recreation"
 msgstr "กิจกรรมกลางแจ้งและกิจกรรมพักผ่อนหย่อนใจ"
 
-#: src/data/categories.ts:17504
+#: src/data/categories.ts:17904
 msgid "Outlet Mall"
 msgstr "ห้างสรรพสินค้าเอ้าต์เลท"
 
-#: src/data/categories.ts:17531
+#: src/data/categories.ts:17931
 msgid "Outlet Store"
 msgstr "ร้านเอ้าต์เลท"
 
-#: src/data/categories.ts:8212
+#: src/data/categories.ts:8612
 msgid "Oxygen Bar"
 msgstr "บาร์ออกซิเจน"
 
-#: src/data/categories.ts:5204
+#: src/data/categories.ts:5492
 msgid "Padangnese"
 msgstr ""
 
-#: src/data/categories.ts:9185
+#: src/data/categories.ts:9585
 msgid "Pagoda"
 msgstr "เจดีย์"
 
-#: src/data/categories.ts:10557
+#: src/data/categories.ts:10957
 msgid "Paintball Field"
 msgstr "สนามเพ้นท์บอล"
 
-#: src/data/categories.ts:11761
+#: src/data/categories.ts:12161
 msgid "Painting Company"
 msgstr "บริษัททาสี"
 
-#: src/data/categories.ts:5220
+#: src/data/categories.ts:5524
 msgid "Pakistani"
 msgstr "ปากีสถาน"
 
@@ -2162,31 +2162,31 @@ msgstr "ปากีสถาน"
 msgid "Palace"
 msgstr "พระราชวัง"
 
-#: src/data/categories.ts:5252
+#: src/data/categories.ts:5556
 msgid "Pancake House"
 msgstr "แพนเค้ก"
 
-#: src/data/categories.ts:18377
+#: src/data/categories.ts:18777
 msgid "Parking Garage/Lot"
 msgstr "ที่จอดรถ"
 
-#: src/data/categories.ts:9415
+#: src/data/categories.ts:9815
 msgid "Parks"
 msgstr "สวน"
 
-#: src/data/categories.ts:17558
+#: src/data/categories.ts:17958
 msgid "Party Supplies"
 msgstr "อุปกรณ์จัดงานปาร์ตี้"
 
-#: src/data/categories.ts:5284
+#: src/data/categories.ts:5588
 msgid "Pastry Shop"
 msgstr "ขนมปิ้ง"
 
-#: src/data/categories.ts:17585
+#: src/data/categories.ts:17985
 msgid "Pawn Shop"
 msgstr "โรงรับจำนำ"
 
-#: src/data/categories.ts:5316
+#: src/data/categories.ts:5620
 msgid "Peking Duck"
 msgstr "เป็ดปักกิ่ง"
 
@@ -2195,39 +2195,39 @@ msgstr "เป็ดปักกิ่ง"
 msgid "Performing Arts"
 msgstr "ศิลปะการแสดง"
 
-#: src/data/categories.ts:5348
+#: src/data/categories.ts:5652
 msgid "Persian"
 msgstr "เปอร์เซีย"
 
-#: src/data/categories.ts:5380
+#: src/data/categories.ts:5684
 msgid "Peruvian"
 msgstr "เปรู"
 
-#: src/data/categories.ts:11783
+#: src/data/categories.ts:12183
 msgid "Pest Control"
 msgstr "การควบคุมศัตรูพืช"
 
-#: src/data/categories.ts:14944
+#: src/data/categories.ts:15344
 msgid "Pet Services"
 msgstr "บริการสัตว์เลี้ยง"
 
-#: src/data/categories.ts:17612
+#: src/data/categories.ts:18012
 msgid "Pet Store"
 msgstr "ร้านอุปกรณ์สัตว์เลี้ยง"
 
-#: src/data/categories.ts:8598
+#: src/data/categories.ts:8998
 msgid "Petting Zoo"
 msgstr "สวนสัตว์เปิด"
 
-#: src/data/categories.ts:17639
+#: src/data/categories.ts:18039
 msgid "Pharmacy"
 msgstr "ร้านขายยา"
 
-#: src/data/categories.ts:14971
+#: src/data/categories.ts:15371
 msgid "Photography Lab"
 msgstr "ห้องปฏิบัติการถ่ายภาพ"
 
-#: src/data/categories.ts:12549
+#: src/data/categories.ts:12949
 msgid "Physical Therapist"
 msgstr "กายภาพบำบัด"
 
@@ -2235,27 +2235,27 @@ msgstr "กายภาพบำบัด"
 msgid "Piano Bar"
 msgstr "ร้านบาร์เปียโน"
 
-#: src/data/categories.ts:9789
+#: src/data/categories.ts:10189
 msgid "Picnic Area"
 msgstr "สถานที่ปิกนิก"
 
-#: src/data/categories.ts:5412
+#: src/data/categories.ts:5716
 msgid "Pie Shop"
 msgstr "พาย"
 
-#: src/data/categories.ts:18550
+#: src/data/categories.ts:18950
 msgid "Pier"
 msgstr "ท่าเรือ"
 
-#: src/data/categories.ts:11448
+#: src/data/categories.ts:11848
 msgid "Piercing Parlor"
 msgstr "ร้านเจาะร่างกาย"
 
-#: src/data/categories.ts:10584
+#: src/data/categories.ts:10984
 msgid "Pilates Studio"
 msgstr "สตูดิโอออกกำลังกายแนวเพลาทิส"
 
-#: src/data/categories.ts:5444
+#: src/data/categories.ts:5748
 msgid "Pizza"
 msgstr "พิซซ่า"
 
@@ -2263,27 +2263,27 @@ msgstr "พิซซ่า"
 msgid "Planetarium"
 msgstr "ท้องฟ้าจำลอง"
 
-#: src/data/categories.ts:8821
+#: src/data/categories.ts:9221
 msgid "Plant Nursery"
 msgstr "แปลงต้นไม้"
 
-#: src/data/categories.ts:9801
+#: src/data/categories.ts:10201
 msgid "Playground"
 msgstr "สนามเด็กเล่น"
 
-#: src/data/categories.ts:10611
+#: src/data/categories.ts:11011
 msgid "Playing Field"
 msgstr "ที่เล่น"
 
-#: src/data/categories.ts:9197
+#: src/data/categories.ts:9597
 msgid "Plaza"
 msgstr "ลาน"
 
-#: src/data/categories.ts:11805
+#: src/data/categories.ts:12205
 msgid "Plumber"
 msgstr "ช่างประปา"
 
-#: src/data/categories.ts:12576
+#: src/data/categories.ts:12976
 msgid "Podiatrist"
 msgstr "หมอโรคเท้า"
 
@@ -2291,15 +2291,15 @@ msgstr "หมอโรคเท้า"
 msgid "Police Station"
 msgstr "สถานีตำรวจ"
 
-#: src/data/categories.ts:5476
+#: src/data/categories.ts:5780
 msgid "Polish"
 msgstr "โปแลนด์"
 
-#: src/data/categories.ts:13757
+#: src/data/categories.ts:14157
 msgid "Political Office"
 msgstr "สำนักงานการเมือง"
 
-#: src/data/categories.ts:14142
+#: src/data/categories.ts:14542
 msgid "Political Organization"
 msgstr "องค์กรทางการเมือง"
 
@@ -2307,19 +2307,19 @@ msgstr "องค์กรทางการเมือง"
 msgid "Pool Hall"
 msgstr "เล่นพูล"
 
-#: src/data/categories.ts:17666
+#: src/data/categories.ts:18066
 msgid "Pop-Up Shop"
 msgstr "ร้านค้าชั่วคราว"
 
-#: src/data/categories.ts:16712
+#: src/data/categories.ts:17112
 msgid "Pork Store"
 msgstr "ร้านขายหมู"
 
-#: src/data/categories.ts:14998
+#: src/data/categories.ts:15398
 msgid "Portrait Studio"
 msgstr "สตูดิโอถ่ายภาพบุคคล"
 
-#: src/data/categories.ts:5508
+#: src/data/categories.ts:5812
 msgid "Portuguese"
 msgstr "โปรตุเกส"
 
@@ -2327,23 +2327,23 @@ msgstr "โปรตุเกส"
 msgid "Post Office"
 msgstr "ไปรษณีย์"
 
-#: src/data/categories.ts:8848
+#: src/data/categories.ts:9248
 msgid "Poultry Farm"
 msgstr "ฟาร์มสัตว์ปีก"
 
-#: src/data/categories.ts:5540
+#: src/data/categories.ts:5844
 msgid "Poutine"
 msgstr "ปูติน"
 
-#: src/data/categories.ts:12872
+#: src/data/categories.ts:13272
 msgid "Power Plant"
 msgstr "โรงไฟฟ้า"
 
-#: src/data/categories.ts:7544
+#: src/data/categories.ts:7944
 msgid "Preschool"
 msgstr "โรงเรียนปฐมวัย"
 
-#: src/data/categories.ts:13784
+#: src/data/categories.ts:14184
 msgid "Printing & Photocopies"
 msgstr "ปริ้นท์งาน และ ถ่ายรูปติดบัตร"
 
@@ -2351,15 +2351,15 @@ msgstr "ปริ้นท์งาน และ ถ่ายรูปติด�
 msgid "Prison"
 msgstr "เรือนจำ"
 
-#: src/data/categories.ts:7566
+#: src/data/categories.ts:7966
 msgid "Private School"
 msgstr "โรงเรียนเอกชน"
 
-#: src/data/categories.ts:14169
+#: src/data/categories.ts:14569
 msgid "Professional Association"
 msgstr "สมาคมวิชาชีพ"
 
-#: src/data/categories.ts:8244
+#: src/data/categories.ts:8644
 msgid "Pub"
 msgstr "ผับ"
 
@@ -2371,23 +2371,23 @@ msgstr "ศิลปะในที่สาธารณะ"
 msgid "Public Building"
 msgstr "อาคารสาธารณะ"
 
-#: src/data/categories.ts:9209
+#: src/data/categories.ts:9609
 msgid "Quarry"
 msgstr "เหมืองหิน"
 
-#: src/data/categories.ts:9864
+#: src/data/categories.ts:10264
 msgid "RV Park"
 msgstr "สวนรถแคมป์ปิ้ง"
 
-#: src/data/categories.ts:11900
+#: src/data/categories.ts:12300
 msgid "Radio Station"
 msgstr "สถานีวิทยุ"
 
-#: src/data/categories.ts:9813
+#: src/data/categories.ts:10213
 msgid "Rafting"
 msgstr "ล่องแพ"
 
-#: src/data/categories.ts:5572
+#: src/data/categories.ts:5876
 msgid "Ramen"
 msgstr "ราเม็ง"
 
@@ -2395,103 +2395,103 @@ msgstr "ราเม็ง"
 msgid "Ranger Station"
 msgstr "สถานีตำรวจท้องถิ่น"
 
-#: src/data/categories.ts:9221
+#: src/data/categories.ts:9621
 msgid "Rapids"
 msgstr "น้ำเชี่ยว"
 
-#: src/data/categories.ts:13811
+#: src/data/categories.ts:14211
 msgid "Real Estate Agent"
 msgstr "ตัวแทนอสังหาริมทรัพย์"
 
-#: src/data/categories.ts:17693
+#: src/data/categories.ts:18093
 msgid "Record Shop"
 msgstr "ร้านขายแผ่นเสียง"
 
-#: src/data/categories.ts:11922
+#: src/data/categories.ts:12322
 msgid "Recording Studio"
 msgstr "สตูดิโอถ่ายหนัง"
 
-#: src/data/categories.ts:9518
+#: src/data/categories.ts:9918
 msgid "Recreation"
 msgstr "กิจกรรมพักผ่อนหย่อนใจ"
 
-#: src/data/categories.ts:9825
+#: src/data/categories.ts:10225
 msgid "Recreational Facility"
 msgstr "สิ่งอำนวยความสะดวกเพื่อนันทนาการ"
 
-#: src/data/categories.ts:11172
+#: src/data/categories.ts:11572
 msgid "Recreational Vehicle Sales"
 msgstr "จำหน่ายยานพาหนะเพื่อการพักผ่อนหย่อนใจ"
 
-#: src/data/categories.ts:13838
+#: src/data/categories.ts:14238
 msgid "Recruiting Agency"
 msgstr "บริษัทจัดหางานเอกชน"
 
-#: src/data/categories.ts:12603
+#: src/data/categories.ts:13003
 msgid "Rehab Center"
 msgstr "ศูนย์บำบัด"
 
-#: src/data/categories.ts:14252
+#: src/data/categories.ts:14652
 msgid "Religious"
 msgstr "ศาสนา"
 
-#: src/data/categories.ts:14455
+#: src/data/categories.ts:14855
 msgid "Religious Center"
 msgstr "ศูนย์ศาสนา"
 
-#: src/data/categories.ts:14196
+#: src/data/categories.ts:14596
 msgid "Religious Organization"
 msgstr "องค์กรทางศาสนา"
 
-#: src/data/categories.ts:7588
+#: src/data/categories.ts:7988
 msgid "Religious School"
 msgstr "โรงเรียนศาสนา"
 
-#: src/data/categories.ts:15025
+#: src/data/categories.ts:15425
 msgid "Repair Shop"
 msgstr "ร้านซ่อมสินค้า"
 
-#: src/data/categories.ts:13865
+#: src/data/categories.ts:14265
 msgid "Research"
 msgstr "การวิจัย"
 
-#: src/data/categories.ts:9233
+#: src/data/categories.ts:9633
 msgid "Reservoir"
 msgstr "อ่างเก็บน้ำ"
 
-#: src/data/categories.ts:14545
+#: src/data/categories.ts:14945
 msgid "Residential"
 msgstr "ที่อยู่อาศัย"
 
-#: src/data/categories.ts:14660
+#: src/data/categories.ts:15060
 msgid "Residential Development"
 msgstr "การพัฒนาที่อยู่อาศัย"
 
-#: src/data/categories.ts:18757
+#: src/data/categories.ts:19157
 msgid "Resort"
 msgstr "รีสอร์ท"
 
-#: src/data/categories.ts:18576
+#: src/data/categories.ts:18976
 msgid "Rest"
 msgstr "พักผ่อน"
 
-#: src/data/categories.ts:18411
+#: src/data/categories.ts:18811
 msgid "Rest Area"
 msgstr "พื้นที่พักผ่อน"
 
-#: src/data/categories.ts:11245
+#: src/data/categories.ts:11645
 msgid "Restrooms"
 msgstr "ห้องน้ำ"
 
-#: src/data/categories.ts:14750
+#: src/data/categories.ts:15150
 msgid "Retail"
 msgstr "ค้าปลีก"
 
-#: src/data/categories.ts:14682
+#: src/data/categories.ts:15082
 msgid "Retirement Home"
 msgstr "บ้านพักคนชรา"
 
-#: src/data/categories.ts:10638
+#: src/data/categories.ts:11038
 msgid "Rock Climbing"
 msgstr "ปีนเขา"
 
@@ -2503,15 +2503,15 @@ msgstr "ร้านดนตรีร็อค"
 msgid "Roller Coaster"
 msgstr "รถไฟเหาะ"
 
-#: src/data/categories.ts:9837
+#: src/data/categories.ts:10237
 msgid "Roller Skating Rink"
 msgstr "สนามโรลเลอร์สเก็ต"
 
-#: src/data/categories.ts:5604
+#: src/data/categories.ts:5908
 msgid "Romanian"
 msgstr "โรมาเนีย"
 
-#: src/data/categories.ts:10665
+#: src/data/categories.ts:11065
 msgid "Rugby League"
 msgstr "รักบี้ลีก"
 
@@ -2519,47 +2519,47 @@ msgstr "รักบี้ลีก"
 msgid "Ruins"
 msgstr "ซากปรักหักพัง"
 
-#: src/data/categories.ts:5636
+#: src/data/categories.ts:5940
 msgid "Russian"
 msgstr "รัสเซีย"
 
-#: src/data/categories.ts:9876
+#: src/data/categories.ts:10276
 msgid "Sailing Club"
 msgstr "สโมสรเรือใบ"
 
-#: src/data/categories.ts:8276
+#: src/data/categories.ts:8676
 msgid "Sake Bar"
 msgstr "บาร์เหล้าสาเก"
 
-#: src/data/categories.ts:5668
+#: src/data/categories.ts:5972
 msgid "Salad Bar"
 msgstr "สลัดบาร์"
 
-#: src/data/categories.ts:5700
+#: src/data/categories.ts:6004
 msgid "Salvadoran"
 msgstr "เอลซัลวาดอร์"
 
-#: src/data/categories.ts:5732
+#: src/data/categories.ts:6036
 msgid "Sandwich Shop"
 msgstr "ร้านแซนวิช"
 
-#: src/data/categories.ts:5764
+#: src/data/categories.ts:6068
 msgid "Satay"
 msgstr "สะเต๊ะ"
 
-#: src/data/categories.ts:11475
+#: src/data/categories.ts:11875
 msgid "Sauna / Steam Room"
 msgstr "ซาวน่า / อบไอน้ำ"
 
-#: src/data/categories.ts:5796
+#: src/data/categories.ts:6100
 msgid "Scandinavian"
 msgstr "สแกนดิเนเวีย"
 
-#: src/data/categories.ts:9245
+#: src/data/categories.ts:9645
 msgid "Scenic View"
 msgstr "จุดชมวิว"
 
-#: src/data/categories.ts:7610
+#: src/data/categories.ts:8010
 msgid "School"
 msgstr "โรงเรียน"
 
@@ -2567,132 +2567,132 @@ msgstr "โรงเรียน"
 msgid "Science Museum"
 msgstr "พิพิธภัณฑ์วิทยาศาสตร์"
 
-#: src/data/categories.ts:5828
+#: src/data/categories.ts:6132
 msgid "Scottish"
 msgstr "สกอตแลนด์"
 
-#: src/data/categories.ts:17720
+#: src/data/categories.ts:18120
 msgid "Scuba Diving"
 msgstr "อุปกรณ์ดำน้ำ"
 
-#: src/data/categories.ts:5860
+#: src/data/categories.ts:6164
 msgid "Seafood"
 msgstr "ซีฟู้ด"
 
-#: src/data/categories.ts:18562
+#: src/data/categories.ts:18962
 msgid "Seaport"
 msgstr "ท่าเรือเดินทะเล"
 
-#: src/data/categories.ts:13892
+#: src/data/categories.ts:14292
 msgid "Secretarial Services"
 msgstr "บริการเลขานุการ"
 
-#: src/data/categories.ts:10966
+#: src/data/categories.ts:11366
 msgid "Services"
 msgstr "บริการ"
 
-#: src/data/categories.ts:5892
+#: src/data/categories.ts:6196
 msgid "Shabu-Shabu"
 msgstr "ชาบู"
 
-#: src/data/categories.ts:5924
+#: src/data/categories.ts:6228
 msgid "Shandong"
 msgstr ""
 
-#: src/data/categories.ts:5940
+#: src/data/categories.ts:6260
 msgid "Shanghai"
 msgstr ""
 
-#: src/data/categories.ts:17747
+#: src/data/categories.ts:18147
 msgid "Shipping Store"
 msgstr "ร้านส่งของ"
 
-#: src/data/categories.ts:15052
+#: src/data/categories.ts:15452
 msgid "Shoe Repair & Shine"
 msgstr "ร้านซ่อมรองเท้า และ ขัดรองเท้า"
 
-#: src/data/categories.ts:15814
+#: src/data/categories.ts:16214
 msgid "Shoe Store"
 msgstr "ร้านรองเท้า"
 
-#: src/data/categories.ts:15291
+#: src/data/categories.ts:15691
 msgid "Shopping"
 msgstr "ช็อปปิ้ง"
 
-#: src/data/categories.ts:17774
+#: src/data/categories.ts:18174
 msgid "Shopping Center"
 msgstr "ศูนย์การค้า"
 
-#: src/data/categories.ts:17801
+#: src/data/categories.ts:18201
 msgid "Shopping Mall"
 msgstr "ห้างสรรพสินค้า"
 
-#: src/data/categories.ts:11262
+#: src/data/categories.ts:11662
 msgid "Shower"
 msgstr "ห้องอาบน้ำ"
 
-#: src/data/categories.ts:14477
+#: src/data/categories.ts:14877
 msgid "Shrine"
 msgstr "ศาลเจ้า"
 
-#: src/data/categories.ts:10692
+#: src/data/categories.ts:11092
 msgid "Skate Park"
 msgstr "สนามสเก็ต"
 
-#: src/data/categories.ts:17828
+#: src/data/categories.ts:18228
 msgid "Skateboard Shop"
 msgstr "ร้านสเก็ตบอร์ด"
 
-#: src/data/categories.ts:9983
+#: src/data/categories.ts:10383
 msgid "Ski Lift"
 msgstr "ลิฟท์สกี"
 
-#: src/data/categories.ts:9988
+#: src/data/categories.ts:10388
 msgid "Ski Rental"
 msgstr "เช่าเครื่องเล่นสกี"
 
-#: src/data/categories.ts:18779
+#: src/data/categories.ts:19179
 msgid "Ski Resort"
 msgstr "รีสอร์ทสกี"
 
-#: src/data/categories.ts:10010
+#: src/data/categories.ts:10410
 msgid "Ski School"
 msgstr "โรงเรียนสอนเล่นสกี"
 
-#: src/data/categories.ts:10032
-#: src/data/categories.ts:17855
+#: src/data/categories.ts:10432
+#: src/data/categories.ts:18255
 msgid "Ski Shop"
 msgstr "ร้านสกี"
 
-#: src/data/categories.ts:10059
+#: src/data/categories.ts:10459
 msgid "Ski Slope"
 msgstr "ทางลาดสกี"
 
-#: src/data/categories.ts:9903
+#: src/data/categories.ts:10303
 msgid "Skydiving"
 msgstr "กระโดดร่ม"
 
-#: src/data/categories.ts:5956
+#: src/data/categories.ts:6292
 msgid "Slovak"
 msgstr "สโลวาเกีย"
 
-#: src/data/categories.ts:17882
+#: src/data/categories.ts:18282
 msgid "Smoke / Vape Shop"
 msgstr "ร้านขายบุหรี่ / บุหรี่ไฟฟ้า"
 
-#: src/data/categories.ts:5988
+#: src/data/categories.ts:6324
 msgid "Smoothies"
 msgstr "สมูทตี้"
 
-#: src/data/categories.ts:6020
+#: src/data/categories.ts:6356
 msgid "Snack"
 msgstr "ของทานเล่น"
 
-#: src/data/categories.ts:9978
+#: src/data/categories.ts:10378
 msgid "Snow"
 msgstr "หิมะ"
 
-#: src/data/categories.ts:10719
+#: src/data/categories.ts:11119
 msgid "Soccer Field"
 msgstr "สนามฟุตบอล"
 
@@ -2700,80 +2700,80 @@ msgstr "สนามฟุตบอล"
 msgid "Soccer Stadium"
 msgstr "สนามฟุตบอล"
 
-#: src/data/categories.ts:15135
+#: src/data/categories.ts:15535
 msgid "Social"
 msgstr "เครือข่ายสังคม"
 
-#: src/data/categories.ts:14223
+#: src/data/categories.ts:14623
 msgid "Social Club"
 msgstr "สโมสรสังคม"
 
-#: src/data/categories.ts:6052
+#: src/data/categories.ts:6388
 msgid "Som Tum"
 msgstr ""
 
-#: src/data/categories.ts:14704
+#: src/data/categories.ts:15104
 msgid "Sorority House"
 msgstr "บ้านชมรมผู้หญิง"
 
-#: src/data/categories.ts:6068
+#: src/data/categories.ts:6420
 msgid "Soup"
 msgstr "ซุป"
 
-#: src/data/categories.ts:6100
+#: src/data/categories.ts:6452
 msgid "South American"
 msgstr "อเมริกาใต้"
 
-#: src/data/categories.ts:6132
+#: src/data/categories.ts:6484
 msgid "Southern / Soul Food"
 msgstr "อาหารอเมริกาภาคใต้ / แอฟริกัน-อเมริกัน"
 
-#: src/data/categories.ts:17909
+#: src/data/categories.ts:18309
 msgid "Souvenir Store"
 msgstr "ร้านขายของที่ระลึก"
 
-#: src/data/categories.ts:6164
+#: src/data/categories.ts:6516
 msgid "Spanish"
 msgstr "สเปน"
 
-#: src/data/categories.ts:8308
+#: src/data/categories.ts:8708
 msgid "Speakeasy"
 msgstr "ร้านขายเหล้าแบบผิดกฎหมาย"
 
-#: src/data/categories.ts:17936
+#: src/data/categories.ts:18336
 msgid "Sporting Goods"
 msgstr "ร้านขายอุปกรณ์กีฬา"
 
 #: src/data/categories.ts:1068
-#: src/data/categories.ts:10066
+#: src/data/categories.ts:10466
 msgid "Sports"
 msgstr "กีฬา"
 
-#: src/data/categories.ts:8340
+#: src/data/categories.ts:8740
 msgid "Sports Bar"
 msgstr "บาร์กีฬา"
 
-#: src/data/categories.ts:10746
+#: src/data/categories.ts:11146
 msgid "Sports Center"
 msgstr "ศูนย์กีฬา"
 
-#: src/data/categories.ts:10773
+#: src/data/categories.ts:11173
 msgid "Sports Club"
 msgstr "สโมสรกีฬา"
 
-#: src/data/categories.ts:9257
+#: src/data/categories.ts:9657
 msgid "Square"
 msgstr "จัตุรัส"
 
-#: src/data/categories.ts:10800
+#: src/data/categories.ts:11200
 msgid "Squash Court"
 msgstr "สนามสควอช"
 
-#: src/data/categories.ts:6196
+#: src/data/categories.ts:6548
 msgid "Sri Lankan"
 msgstr "ศรีลังกา"
 
-#: src/data/categories.ts:8625
+#: src/data/categories.ts:9025
 msgid "Stables"
 msgstr "โรงม้า"
 
@@ -2781,71 +2781,71 @@ msgstr "โรงม้า"
 msgid "State Office Building"
 msgstr "อาคารสำนักงานของรัฐ"
 
-#: src/data/categories.ts:17963
+#: src/data/categories.ts:18363
 msgid "Stationery & Office Supplies"
 msgstr "ร้านขายอุปกรณ์การเรียนและสำนักงาน"
 
-#: src/data/categories.ts:6228
+#: src/data/categories.ts:6580
 msgid "Steak House"
 msgstr "ร้านสเต็ก"
 
-#: src/data/categories.ts:11827
+#: src/data/categories.ts:12227
 msgid "Stonemason"
 msgstr "ช่างก่อหิน"
 
-#: src/data/categories.ts:15079
+#: src/data/categories.ts:15479
 msgid "Storage"
 msgstr "คลังจัดเก็บ"
 
-#: src/data/categories.ts:8372
+#: src/data/categories.ts:8772
 msgid "Strip Club"
 msgstr "สตริปคลับ"
 
-#: src/data/categories.ts:7632
+#: src/data/categories.ts:8032
 msgid "Student Center"
 msgstr "ศูนย์นักศึกษา"
 
-#: src/data/categories.ts:18856
+#: src/data/categories.ts:19256
 msgid "Subway Station"
 msgstr "สถานีรถไฟใต้ดิน"
 
-#: src/data/categories.ts:9930
+#: src/data/categories.ts:10330
 msgid "Summer Camp"
 msgstr "ค่ายฤดูร้อน"
 
-#: src/data/categories.ts:6260
+#: src/data/categories.ts:6612
 msgid "Sundanese"
 msgstr ""
 
-#: src/data/categories.ts:16739
+#: src/data/categories.ts:17139
 msgid "Supermarket"
 msgstr "ซุปเปอร์มาร์เก็ต"
 
-#: src/data/categories.ts:17990
+#: src/data/categories.ts:18390
 msgid "Surf Shop"
 msgstr "ร้านขายอุปกรณ์โต้คลื่น"
 
-#: src/data/categories.ts:9952
+#: src/data/categories.ts:10352
 msgid "Surfing"
 msgstr "โต้คลื่น"
 
-#: src/data/categories.ts:13919
+#: src/data/categories.ts:14319
 msgid "Surveying"
 msgstr "บริการทำเซอร์เวย์"
 
-#: src/data/categories.ts:6276
+#: src/data/categories.ts:6644
 msgid "Sushi"
 msgstr "ซูชิ"
 
-#: src/data/categories.ts:7659
+#: src/data/categories.ts:8059
 msgid "Swim School"
 msgstr "โรงเรียนสอนว่ายน้ำ"
 
-#: src/data/categories.ts:10827
+#: src/data/categories.ts:11227
 msgid "Swimming Pool"
 msgstr "สระว่ายน้ำ"
 
-#: src/data/categories.ts:6308
+#: src/data/categories.ts:6676
 msgid "Swiss"
 msgstr "สวิตเซอร์แลนด์"
 
@@ -2853,67 +2853,67 @@ msgstr "สวิตเซอร์แลนด์"
 msgid "Symphony"
 msgstr "ร้านซิมโฟนี"
 
-#: src/data/categories.ts:14499
+#: src/data/categories.ts:14899
 msgid "Synagogue"
 msgstr "โบสถ์ชาวยิว"
 
-#: src/data/categories.ts:6340
+#: src/data/categories.ts:6708
 msgid "Szechuan"
 msgstr "เสฉวน"
 
-#: src/data/categories.ts:6372
+#: src/data/categories.ts:6740
 msgid "Tacos"
 msgstr "ทาโก้"
 
-#: src/data/categories.ts:15106
+#: src/data/categories.ts:15506
 msgid "Tailor"
 msgstr "ตัดสูท"
 
-#: src/data/categories.ts:6404
+#: src/data/categories.ts:6772
 msgid "Taiwanese"
 msgstr "ไต้หวัน"
 
-#: src/data/categories.ts:11502
+#: src/data/categories.ts:11902
 msgid "Tanning Salon"
 msgstr "ทำผิวสีแทน"
 
-#: src/data/categories.ts:6436
+#: src/data/categories.ts:6804
 msgid "Tapas"
 msgstr "ทาปาส"
 
-#: src/data/categories.ts:6468
+#: src/data/categories.ts:6836
 msgid "Tatar"
 msgstr "ตาตาร์"
 
-#: src/data/categories.ts:11529
+#: src/data/categories.ts:11929
 msgid "Tattoo Parlor"
 msgstr "ร้านสัก"
 
-#: src/data/categories.ts:18868
+#: src/data/categories.ts:19268
 msgid "Taxi Stand"
 msgstr "ป้ายรอแท็กซี่"
 
-#: src/data/categories.ts:6500
+#: src/data/categories.ts:6868
 msgid "Tea House"
 msgstr "ร้านน้ำชา"
 
-#: src/data/categories.ts:13946
+#: src/data/categories.ts:14346
 msgid "Tech Startup"
 msgstr "เทค สตาร์ทอัพ"
 
-#: src/data/categories.ts:9269
+#: src/data/categories.ts:9669
 msgid "Telescope"
 msgstr "กล้องโทรทรรศน์"
 
-#: src/data/categories.ts:11944
+#: src/data/categories.ts:12344
 msgid "Television Station"
 msgstr "สถานีโทรทัศน์"
 
-#: src/data/categories.ts:14521
+#: src/data/categories.ts:14921
 msgid "Temple"
 msgstr "วัด"
 
-#: src/data/categories.ts:10854
+#: src/data/categories.ts:11254
 msgid "Tennis Court"
 msgstr "สนามเทนนิส"
 
@@ -2921,15 +2921,15 @@ msgstr "สนามเทนนิส"
 msgid "Tennis Stadium"
 msgstr "สนามเทนนิส"
 
-#: src/data/categories.ts:13973
+#: src/data/categories.ts:14373
 msgid "Testing Lab"
 msgstr "แล็บทดลอง"
 
-#: src/data/categories.ts:6532
+#: src/data/categories.ts:6900
 msgid "Tex-Mex"
 msgstr "เท็กเม็กซิกัน"
 
-#: src/data/categories.ts:6564
+#: src/data/categories.ts:6932
 msgid "Thai"
 msgstr "ไทย"
 
@@ -2937,7 +2937,7 @@ msgstr "ไทย"
 msgid "Theater"
 msgstr "โรงหนัง"
 
-#: src/data/categories.ts:6596
+#: src/data/categories.ts:6964
 msgid "Theme"
 msgstr "ธีม"
 
@@ -2945,43 +2945,43 @@ msgstr "ธีม"
 msgid "Theme Park"
 msgstr "สวนสนุก"
 
-#: src/data/categories.ts:12630
+#: src/data/categories.ts:13030
 msgid "Therapist"
 msgstr "นักบำบัดโรค"
 
-#: src/data/categories.ts:18017
+#: src/data/categories.ts:18417
 msgid "Thrift Store"
 msgstr "ร้านขายเสื้อผ้ามือสอง"
 
-#: src/data/categories.ts:6628
+#: src/data/categories.ts:6996
 msgid "Tibetan"
 msgstr "ธิเบต"
 
-#: src/data/categories.ts:8404
+#: src/data/categories.ts:8804
 msgid "Tiki Bar"
 msgstr "บาร์สไตล์ทิกิ"
 
-#: src/data/categories.ts:18433
+#: src/data/categories.ts:18833
 msgid "Toll Booth"
 msgstr "จุดเก็บค่าทางด่วน"
 
-#: src/data/categories.ts:9281
+#: src/data/categories.ts:9681
 msgid "Tour Provider"
 msgstr "ทัวร์ไกด์"
 
-#: src/data/categories.ts:9293
+#: src/data/categories.ts:9693
 msgid "Tourist Attraction"
 msgstr "สถานที่ท่องเที่ยว"
 
-#: src/data/categories.ts:9305
+#: src/data/categories.ts:9705
 msgid "Tourist Information"
 msgstr "ศูนย์ให้ข้อมูลนักท่องเที่ยว"
 
-#: src/data/categories.ts:9317
+#: src/data/categories.ts:9717
 msgid "Tower"
 msgstr "หอคอย"
 
-#: src/data/categories.ts:9504
+#: src/data/categories.ts:9904
 msgid "Town Common"
 msgstr "ที่รวมตัวของพลเมือง"
 
@@ -2989,136 +2989,136 @@ msgstr "ที่รวมตัวของพลเมือง"
 msgid "Town Hall"
 msgstr "ศาลากลางจังหวัด"
 
-#: src/data/categories.ts:18044
+#: src/data/categories.ts:18444
 msgid "Toy and Game Store"
 msgstr "ร้านขายของเล่นและเกมส์"
 
-#: src/data/categories.ts:10881
+#: src/data/categories.ts:11281
 msgid "Track"
 msgstr "สนามลู่วิ่ง"
 
-#: src/data/categories.ts:9964
+#: src/data/categories.ts:10364
 msgid "Trail Station"
 msgstr "เส้นทางเดินป่า"
 
-#: src/data/categories.ts:14726
+#: src/data/categories.ts:15126
 msgid "Trailer Park"
 msgstr "ที่จอดรถพ่วง"
 
-#: src/data/categories.ts:18880
+#: src/data/categories.ts:19280
 msgid "Train Station"
 msgstr "สถานีรถไฟ"
 
-#: src/data/categories.ts:18892
+#: src/data/categories.ts:19292
 msgid "Tram Stop"
 msgstr "ป้ายรถราง"
 
-#: src/data/categories.ts:18803
+#: src/data/categories.ts:19203
 msgid "Transit"
 msgstr "ต่อเครื่อง"
 
-#: src/data/categories.ts:18252
+#: src/data/categories.ts:18652
 msgid "Travel"
 msgstr "อุปกรณ์การเดินทาง"
 
-#: src/data/categories.ts:14000
+#: src/data/categories.ts:14400
 msgid "Travel Agent"
 msgstr "ทัวร์ท่องเที่ยว"
 
-#: src/data/categories.ts:6660
-#: src/data/categories.ts:18438
+#: src/data/categories.ts:7028
+#: src/data/categories.ts:18838
 msgid "Truck Stop"
 msgstr "จุดพักรถบรรทุก"
 
-#: src/data/categories.ts:9329
+#: src/data/categories.ts:9729
 msgid "Tunnel"
 msgstr "อุโมงค์"
 
-#: src/data/categories.ts:6692
+#: src/data/categories.ts:7060
 msgid "Turkish"
 msgstr "ตุรกี"
 
-#: src/data/categories.ts:9341
+#: src/data/categories.ts:9741
 msgid "UNESCO World Heritage Site"
 msgstr "สถานที่มรดกโลกที่ได้รับการคุ้มครองจากยูเนสโก"
 
-#: src/data/categories.ts:6724
+#: src/data/categories.ts:7092
 msgid "Ukrainian"
 msgstr "ยูเครน"
 
-#: src/data/categories.ts:7686
+#: src/data/categories.ts:8086
 msgid "University"
 msgstr "มหาวิทยาลัย"
 
-#: src/data/categories.ts:12657
+#: src/data/categories.ts:13057
 msgid "Urgent Care Center"
 msgstr "ศูนย์ดูแลเร่งด่วน"
 
-#: src/data/categories.ts:18071
+#: src/data/categories.ts:18471
 msgid "Used Merchandise"
 msgstr "ร้านขายสินค้ามือสอง"
 
-#: src/data/categories.ts:18098
+#: src/data/categories.ts:18498
 msgid "Vacant Storefront"
 msgstr "ร้านขายของปิดกิจการ"
 
-#: src/data/categories.ts:6756
+#: src/data/categories.ts:7124
 msgid "Vegan"
 msgstr "มังสวิรัติ"
 
-#: src/data/categories.ts:6788
+#: src/data/categories.ts:7156
 msgid "Vegetarian"
 msgstr "เจ"
 
-#: src/data/categories.ts:6820
+#: src/data/categories.ts:7188
 msgid "Venezuelan"
 msgstr "เวเนซูเอล่า"
 
-#: src/data/categories.ts:12684
+#: src/data/categories.ts:13084
 msgid "Veterinarian"
 msgstr "สัตวแพทย์"
 
-#: src/data/categories.ts:18115
+#: src/data/categories.ts:18515
 msgid "Video Game Store"
 msgstr "ร้านวีดีโอเกมส์"
 
-#: src/data/categories.ts:18142
+#: src/data/categories.ts:18542
 msgid "Video Store"
 msgstr "ร้านวีดีโอ"
 
-#: src/data/categories.ts:6852
+#: src/data/categories.ts:7220
 msgid "Vietnamese"
 msgstr "เวียดนาม"
 
-#: src/data/categories.ts:8875
+#: src/data/categories.ts:9275
 msgid "Vineyard"
 msgstr "ไร่องุ่น"
 
-#: src/data/categories.ts:7703
+#: src/data/categories.ts:8103
 msgid "Vocational School"
 msgstr "วิทยาลัยอาชีวศึกษา"
 
-#: src/data/categories.ts:9353
+#: src/data/categories.ts:9753
 msgid "Volcano"
 msgstr "ภูเขาไฟ"
 
-#: src/data/categories.ts:10908
+#: src/data/categories.ts:11308
 msgid "Volleyball Court"
 msgstr "สนามวอลเลย์บอล"
 
-#: src/data/categories.ts:12894
+#: src/data/categories.ts:13294
 msgid "Warehouse"
 msgstr "คลังสินค้า"
 
-#: src/data/categories.ts:18169
+#: src/data/categories.ts:18569
 msgid "Warehouse Store"
 msgstr "ร้านให้เช่าคลังสินค้า"
 
-#: src/data/categories.ts:12916
+#: src/data/categories.ts:13316
 msgid "Waste / Recycling Facility"
 msgstr "ศูนย์กำจัดขยะ / รีไซเคิล"
 
-#: src/data/categories.ts:18196
+#: src/data/categories.ts:18596
 msgid "Watch Shop"
 msgstr "ร้านนาฬิกา"
 
@@ -3126,74 +3126,74 @@ msgstr "ร้านนาฬิกา"
 msgid "Water Park"
 msgstr "สวนน้ำ"
 
-#: src/data/categories.ts:9365
+#: src/data/categories.ts:9765
 msgid "Water Tower"
 msgstr "อ่างเก็บน้ำ"
 
-#: src/data/categories.ts:9377
+#: src/data/categories.ts:9777
 msgid "Waterfall"
 msgstr "น้ำตก"
 
-#: src/data/categories.ts:12061
+#: src/data/categories.ts:12461
 msgid "Wedding Hall"
 msgstr "สถานที่จัดงานแต่งงาน"
 
-#: src/data/categories.ts:9389
+#: src/data/categories.ts:9789
 msgid "Well"
 msgstr "บ่อน้ำ"
 
-#: src/data/categories.ts:9401
+#: src/data/categories.ts:9801
 msgid "Wharf"
 msgstr "ท่าเรือ"
 
-#: src/data/categories.ts:8436
+#: src/data/categories.ts:8836
 msgid "Whisky Bar"
 msgstr "บาร์เหล้าวิสกี้"
 
-#: src/data/categories.ts:18223
+#: src/data/categories.ts:18623
 msgid "Wholesale Store"
 msgstr "ร้านขายส่ง"
 
-#: src/data/categories.ts:12938
+#: src/data/categories.ts:13338
 msgid "Windmill"
 msgstr "กังหันผลิตไฟฟ้า"
 
-#: src/data/categories.ts:8468
+#: src/data/categories.ts:8868
 msgid "Wine Bar"
 msgstr "บาร์ไวน์"
 
-#: src/data/categories.ts:16766
+#: src/data/categories.ts:17166
 msgid "Wine Shop"
 msgstr "ร้านไวน์"
 
-#: src/data/categories.ts:8500
+#: src/data/categories.ts:8900
 msgid "Winery"
 msgstr "ร้านขายไวน์"
 
-#: src/data/categories.ts:6884
+#: src/data/categories.ts:7252
 msgid "Wings"
 msgstr "ปีกไก่"
 
-#: src/data/categories.ts:15841
+#: src/data/categories.ts:16241
 msgid "Women's Clothing Store"
 msgstr "ร้านเครื่องแต่งกายหญิง"
 
-#: src/data/categories.ts:6916
+#: src/data/categories.ts:7284
 msgid "Yakitori"
 msgstr "ยากิโทริ"
 
-#: src/data/categories.ts:10935
+#: src/data/categories.ts:11335
 msgid "Yoga Studio"
 msgstr "สตูดิโอโยคะ"
 
-#: src/data/categories.ts:6948
+#: src/data/categories.ts:7316
 msgid "Yunnan"
 msgstr ""
 
-#: src/data/categories.ts:6964
+#: src/data/categories.ts:7348
 msgid "Zhejiang"
 msgstr ""
 
-#: src/data/categories.ts:8652
+#: src/data/categories.ts:9052
 msgid "Zoo"
 msgstr "สวนสัตว์"

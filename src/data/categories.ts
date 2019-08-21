@@ -1814,15 +1814,31 @@ export default (i18n: I18n) => [
         name: i18n._('Acehnese'),
         icon: 'restaurant',
         attributes: [
-          { name: 'Hours', type: 'object', required: true },
-          { name: 'Phone', type: 'string', required: true },
-          { name: 'Website', type: 'string', required: false },
+          {
+            name: 'Hours',
+            type: 'object',
+            required: true,
+          },
+          {
+            name: 'Phone',
+            type: 'string',
+            required: false,
+          },
+          {
+            name: 'Website',
+            type: 'string',
+            required: false,
+          },
           {
             name: 'Wheelchair Accessible',
             type: 'boolean',
             required: true,
           },
-          { name: 'Outdoor Seating', type: 'boolean', required: true },
+          {
+            name: 'Outdoor Seating',
+            type: 'boolean',
+            required: true,
+          },
         ],
       },
       {
@@ -1838,7 +1854,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -1870,7 +1886,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -1894,15 +1910,31 @@ export default (i18n: I18n) => [
         name: i18n._('Anhui'),
         icon: 'restaurant',
         attributes: [
-          { name: 'Hours', type: 'object', required: true },
-          { name: 'Phone', type: 'string', required: true },
-          { name: 'Website', type: 'string', required: false },
+          {
+            name: 'Hours',
+            type: 'object',
+            required: true,
+          },
+          {
+            name: 'Phone',
+            type: 'string',
+            required: false,
+          },
+          {
+            name: 'Website',
+            type: 'string',
+            required: false,
+          },
           {
             name: 'Wheelchair Accessible',
             type: 'boolean',
             required: true,
           },
-          { name: 'Outdoor Seating', type: 'boolean', required: true },
+          {
+            name: 'Outdoor Seating',
+            type: 'boolean',
+            required: true,
+          },
         ],
       },
       {
@@ -1918,7 +1950,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -1950,7 +1982,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -1982,7 +2014,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2014,7 +2046,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2046,7 +2078,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2078,7 +2110,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2110,7 +2142,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2134,15 +2166,31 @@ export default (i18n: I18n) => [
         name: i18n._('Balinese'),
         icon: 'restaurant',
         attributes: [
-          { name: 'Hours', type: 'object', required: true },
-          { name: 'Phone', type: 'string', required: true },
-          { name: 'Website', type: 'string', required: false },
+          {
+            name: 'Hours',
+            type: 'object',
+            required: true,
+          },
+          {
+            name: 'Phone',
+            type: 'string',
+            required: false,
+          },
+          {
+            name: 'Website',
+            type: 'string',
+            required: false,
+          },
           {
             name: 'Wheelchair Accessible',
             type: 'boolean',
             required: true,
           },
-          { name: 'Outdoor Seating', type: 'boolean', required: true },
+          {
+            name: 'Outdoor Seating',
+            type: 'boolean',
+            required: true,
+          },
         ],
       },
       {
@@ -2158,7 +2206,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2190,7 +2238,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2222,7 +2270,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2246,15 +2294,31 @@ export default (i18n: I18n) => [
         name: i18n._('Beijing'),
         icon: 'restaurant',
         attributes: [
-          { name: 'Hours', type: 'object', required: true },
-          { name: 'Phone', type: 'string', required: true },
-          { name: 'Website', type: 'string', required: false },
+          {
+            name: 'Hours',
+            type: 'object',
+            required: true,
+          },
+          {
+            name: 'Phone',
+            type: 'string',
+            required: false,
+          },
+          {
+            name: 'Website',
+            type: 'string',
+            required: false,
+          },
           {
             name: 'Wheelchair Accessible',
             type: 'boolean',
             required: true,
           },
-          { name: 'Outdoor Seating', type: 'boolean', required: true },
+          {
+            name: 'Outdoor Seating',
+            type: 'boolean',
+            required: true,
+          },
         ],
       },
       {
@@ -2262,15 +2326,31 @@ export default (i18n: I18n) => [
         name: i18n._('Betawinese'),
         icon: 'restaurant',
         attributes: [
-          { name: 'Hours', type: 'object', required: true },
-          { name: 'Phone', type: 'string', required: true },
-          { name: 'Website', type: 'string', required: false },
+          {
+            name: 'Hours',
+            type: 'object',
+            required: true,
+          },
+          {
+            name: 'Phone',
+            type: 'string',
+            required: false,
+          },
+          {
+            name: 'Website',
+            type: 'string',
+            required: false,
+          },
           {
             name: 'Wheelchair Accessible',
             type: 'boolean',
             required: true,
           },
-          { name: 'Outdoor Seating', type: 'boolean', required: true },
+          {
+            name: 'Outdoor Seating',
+            type: 'boolean',
+            required: true,
+          },
         ],
       },
       {
@@ -2286,7 +2366,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2318,7 +2398,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2350,7 +2430,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2382,7 +2462,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2414,7 +2494,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2446,7 +2526,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2478,7 +2558,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2510,7 +2590,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2542,7 +2622,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2574,7 +2654,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2606,7 +2686,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2638,7 +2718,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2670,7 +2750,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2702,7 +2782,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2734,7 +2814,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2766,7 +2846,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2798,7 +2878,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2830,7 +2910,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2862,7 +2942,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2886,15 +2966,31 @@ export default (i18n: I18n) => [
         name: i18n._('Cha Chaan Teng'),
         icon: 'restaurant',
         attributes: [
-          { name: 'Hours', type: 'object', required: true },
-          { name: 'Phone', type: 'string', required: true },
-          { name: 'Website', type: 'string', required: false },
+          {
+            name: 'Hours',
+            type: 'object',
+            required: true,
+          },
+          {
+            name: 'Phone',
+            type: 'string',
+            required: false,
+          },
+          {
+            name: 'Website',
+            type: 'string',
+            required: false,
+          },
           {
             name: 'Wheelchair Accessible',
             type: 'boolean',
             required: true,
           },
-          { name: 'Outdoor Seating', type: 'boolean', required: true },
+          {
+            name: 'Outdoor Seating',
+            type: 'boolean',
+            required: true,
+          },
         ],
       },
       {
@@ -2910,7 +3006,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2934,15 +3030,31 @@ export default (i18n: I18n) => [
         name: i18n._('Chinese Breakfast'),
         icon: 'restaurant',
         attributes: [
-          { name: 'Hours', type: 'object', required: true },
-          { name: 'Phone', type: 'string', required: true },
-          { name: 'Website', type: 'string', required: false },
+          {
+            name: 'Hours',
+            type: 'object',
+            required: true,
+          },
+          {
+            name: 'Phone',
+            type: 'string',
+            required: false,
+          },
+          {
+            name: 'Website',
+            type: 'string',
+            required: false,
+          },
           {
             name: 'Wheelchair Accessible',
             type: 'boolean',
             required: true,
           },
-          { name: 'Outdoor Seating', type: 'boolean', required: true },
+          {
+            name: 'Outdoor Seating',
+            type: 'boolean',
+            required: true,
+          },
         ],
       },
       {
@@ -2958,7 +3070,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -2990,7 +3102,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3022,7 +3134,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3054,7 +3166,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3086,7 +3198,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3118,7 +3230,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3150,7 +3262,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3182,7 +3294,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3214,7 +3326,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3246,7 +3358,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3278,7 +3390,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3302,15 +3414,31 @@ export default (i18n: I18n) => [
         name: i18n._('Dongbei'),
         icon: 'restaurant',
         attributes: [
-          { name: 'Hours', type: 'object', required: true },
-          { name: 'Phone', type: 'string', required: true },
-          { name: 'Website', type: 'string', required: false },
+          {
+            name: 'Hours',
+            type: 'object',
+            required: true,
+          },
+          {
+            name: 'Phone',
+            type: 'string',
+            required: false,
+          },
+          {
+            name: 'Website',
+            type: 'string',
+            required: false,
+          },
           {
             name: 'Wheelchair Accessible',
             type: 'boolean',
             required: true,
           },
-          { name: 'Outdoor Seating', type: 'boolean', required: true },
+          {
+            name: 'Outdoor Seating',
+            type: 'boolean',
+            required: true,
+          },
         ],
       },
       {
@@ -3326,7 +3454,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3358,7 +3486,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3390,7 +3518,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3422,7 +3550,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3454,7 +3582,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3486,7 +3614,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3518,7 +3646,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3550,7 +3678,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3582,7 +3710,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3614,7 +3742,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3646,7 +3774,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3678,7 +3806,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3710,7 +3838,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3742,7 +3870,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3774,7 +3902,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3806,7 +3934,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3838,7 +3966,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3862,15 +3990,31 @@ export default (i18n: I18n) => [
         name: i18n._('Fujian'),
         icon: 'restaurant',
         attributes: [
-          { name: 'Hours', type: 'object', required: true },
-          { name: 'Phone', type: 'string', required: true },
-          { name: 'Website', type: 'string', required: false },
+          {
+            name: 'Hours',
+            type: 'object',
+            required: true,
+          },
+          {
+            name: 'Phone',
+            type: 'string',
+            required: false,
+          },
+          {
+            name: 'Website',
+            type: 'string',
+            required: false,
+          },
           {
             name: 'Wheelchair Accessible',
             type: 'boolean',
             required: true,
           },
-          { name: 'Outdoor Seating', type: 'boolean', required: true },
+          {
+            name: 'Outdoor Seating',
+            type: 'boolean',
+            required: true,
+          },
         ],
       },
       {
@@ -3886,7 +4030,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3918,7 +4062,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3950,7 +4094,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -3982,7 +4126,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -4014,7 +4158,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -4046,7 +4190,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -4078,7 +4222,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -4102,15 +4246,31 @@ export default (i18n: I18n) => [
         name: i18n._('Himalayan'),
         icon: 'restaurant',
         attributes: [
-          { name: 'Hours', type: 'object', required: true },
-          { name: 'Phone', type: 'string', required: true },
-          { name: 'Website', type: 'string', required: false },
+          {
+            name: 'Hours',
+            type: 'object',
+            required: true,
+          },
+          {
+            name: 'Phone',
+            type: 'string',
+            required: false,
+          },
+          {
+            name: 'Website',
+            type: 'string',
+            required: false,
+          },
           {
             name: 'Wheelchair Accessible',
             type: 'boolean',
             required: true,
           },
-          { name: 'Outdoor Seating', type: 'boolean', required: true },
+          {
+            name: 'Outdoor Seating',
+            type: 'boolean',
+            required: true,
+          },
         ],
       },
       {
@@ -4126,7 +4286,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -4158,7 +4318,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -4190,7 +4350,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -4214,15 +4374,31 @@ export default (i18n: I18n) => [
         name: i18n._('Huaiyang'),
         icon: 'restaurant',
         attributes: [
-          { name: 'Hours', type: 'object', required: true },
-          { name: 'Phone', type: 'string', required: true },
-          { name: 'Website', type: 'string', required: false },
+          {
+            name: 'Hours',
+            type: 'object',
+            required: true,
+          },
+          {
+            name: 'Phone',
+            type: 'string',
+            required: false,
+          },
+          {
+            name: 'Website',
+            type: 'string',
+            required: false,
+          },
           {
             name: 'Wheelchair Accessible',
             type: 'boolean',
             required: true,
           },
-          { name: 'Outdoor Seating', type: 'boolean', required: true },
+          {
+            name: 'Outdoor Seating',
+            type: 'boolean',
+            required: true,
+          },
         ],
       },
       {
@@ -4230,15 +4406,31 @@ export default (i18n: I18n) => [
         name: i18n._('Hunan'),
         icon: 'restaurant',
         attributes: [
-          { name: 'Hours', type: 'object', required: true },
-          { name: 'Phone', type: 'string', required: true },
-          { name: 'Website', type: 'string', required: false },
+          {
+            name: 'Hours',
+            type: 'object',
+            required: true,
+          },
+          {
+            name: 'Phone',
+            type: 'string',
+            required: false,
+          },
+          {
+            name: 'Website',
+            type: 'string',
+            required: false,
+          },
           {
             name: 'Wheelchair Accessible',
             type: 'boolean',
             required: true,
           },
-          { name: 'Outdoor Seating', type: 'boolean', required: true },
+          {
+            name: 'Outdoor Seating',
+            type: 'boolean',
+            required: true,
+          },
         ],
       },
       {
@@ -4254,7 +4446,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -4286,7 +4478,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -4318,7 +4510,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -4350,7 +4542,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -4382,7 +4574,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -4406,15 +4598,31 @@ export default (i18n: I18n) => [
         name: i18n._('Indonesian Meatballs'),
         icon: 'restaurant',
         attributes: [
-          { name: 'Hours', type: 'object', required: true },
-          { name: 'Phone', type: 'string', required: true },
-          { name: 'Website', type: 'string', required: false },
+          {
+            name: 'Hours',
+            type: 'object',
+            required: true,
+          },
+          {
+            name: 'Phone',
+            type: 'string',
+            required: false,
+          },
+          {
+            name: 'Website',
+            type: 'string',
+            required: false,
+          },
           {
             name: 'Wheelchair Accessible',
             type: 'boolean',
             required: true,
           },
-          { name: 'Outdoor Seating', type: 'boolean', required: true },
+          {
+            name: 'Outdoor Seating',
+            type: 'boolean',
+            required: true,
+          },
         ],
       },
       {
@@ -4430,7 +4638,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -4462,7 +4670,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -4494,7 +4702,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -4526,7 +4734,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -4550,15 +4758,31 @@ export default (i18n: I18n) => [
         name: i18n._('Javanese'),
         icon: 'restaurant',
         attributes: [
-          { name: 'Hours', type: 'object', required: true },
-          { name: 'Phone', type: 'string', required: true },
-          { name: 'Website', type: 'string', required: false },
+          {
+            name: 'Hours',
+            type: 'object',
+            required: true,
+          },
+          {
+            name: 'Phone',
+            type: 'string',
+            required: false,
+          },
+          {
+            name: 'Website',
+            type: 'string',
+            required: false,
+          },
           {
             name: 'Wheelchair Accessible',
             type: 'boolean',
             required: true,
           },
-          { name: 'Outdoor Seating', type: 'boolean', required: true },
+          {
+            name: 'Outdoor Seating',
+            type: 'boolean',
+            required: true,
+          },
         ],
       },
       {
@@ -4574,7 +4798,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -4598,15 +4822,31 @@ export default (i18n: I18n) => [
         name: i18n._('Jiangsu'),
         icon: 'restaurant',
         attributes: [
-          { name: 'Hours', type: 'object', required: true },
-          { name: 'Phone', type: 'string', required: true },
-          { name: 'Website', type: 'string', required: false },
+          {
+            name: 'Hours',
+            type: 'object',
+            required: true,
+          },
+          {
+            name: 'Phone',
+            type: 'string',
+            required: false,
+          },
+          {
+            name: 'Website',
+            type: 'string',
+            required: false,
+          },
           {
             name: 'Wheelchair Accessible',
             type: 'boolean',
             required: true,
           },
-          { name: 'Outdoor Seating', type: 'boolean', required: true },
+          {
+            name: 'Outdoor Seating',
+            type: 'boolean',
+            required: true,
+          },
         ],
       },
       {
@@ -4622,7 +4862,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -4654,7 +4894,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -4686,7 +4926,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -4718,7 +4958,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -4750,7 +4990,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -4782,7 +5022,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -4814,7 +5054,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -4838,15 +5078,31 @@ export default (i18n: I18n) => [
         name: i18n._('Macanese'),
         icon: 'restaurant',
         attributes: [
-          { name: 'Hours', type: 'object', required: true },
-          { name: 'Phone', type: 'string', required: true },
-          { name: 'Website', type: 'string', required: false },
+          {
+            name: 'Hours',
+            type: 'object',
+            required: true,
+          },
+          {
+            name: 'Phone',
+            type: 'string',
+            required: false,
+          },
+          {
+            name: 'Website',
+            type: 'string',
+            required: false,
+          },
           {
             name: 'Wheelchair Accessible',
             type: 'boolean',
             required: true,
           },
-          { name: 'Outdoor Seating', type: 'boolean', required: true },
+          {
+            name: 'Outdoor Seating',
+            type: 'boolean',
+            required: true,
+          },
         ],
       },
       {
@@ -4862,7 +5118,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -4886,15 +5142,31 @@ export default (i18n: I18n) => [
         name: i18n._('Mamak'),
         icon: 'restaurant',
         attributes: [
-          { name: 'Hours', type: 'object', required: true },
-          { name: 'Phone', type: 'string', required: true },
-          { name: 'Website', type: 'string', required: false },
+          {
+            name: 'Hours',
+            type: 'object',
+            required: true,
+          },
+          {
+            name: 'Phone',
+            type: 'string',
+            required: false,
+          },
+          {
+            name: 'Website',
+            type: 'string',
+            required: false,
+          },
           {
             name: 'Wheelchair Accessible',
             type: 'boolean',
             required: true,
           },
-          { name: 'Outdoor Seating', type: 'boolean', required: true },
+          {
+            name: 'Outdoor Seating',
+            type: 'boolean',
+            required: true,
+          },
         ],
       },
       {
@@ -4902,15 +5174,31 @@ export default (i18n: I18n) => [
         name: i18n._('Manadonese'),
         icon: 'restaurant',
         attributes: [
-          { name: 'Hours', type: 'object', required: true },
-          { name: 'Phone', type: 'string', required: true },
-          { name: 'Website', type: 'string', required: false },
+          {
+            name: 'Hours',
+            type: 'object',
+            required: true,
+          },
+          {
+            name: 'Phone',
+            type: 'string',
+            required: false,
+          },
+          {
+            name: 'Website',
+            type: 'string',
+            required: false,
+          },
           {
             name: 'Wheelchair Accessible',
             type: 'boolean',
             required: true,
           },
-          { name: 'Outdoor Seating', type: 'boolean', required: true },
+          {
+            name: 'Outdoor Seating',
+            type: 'boolean',
+            required: true,
+          },
         ],
       },
       {
@@ -4926,7 +5214,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -4958,7 +5246,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -4990,7 +5278,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5022,7 +5310,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5054,7 +5342,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5086,7 +5374,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5118,7 +5406,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5150,7 +5438,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5182,7 +5470,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5206,15 +5494,31 @@ export default (i18n: I18n) => [
         name: i18n._('Padangnese'),
         icon: 'restaurant',
         attributes: [
-          { name: 'Hours', type: 'object', required: true },
-          { name: 'Phone', type: 'string', required: true },
-          { name: 'Website', type: 'string', required: false },
+          {
+            name: 'Hours',
+            type: 'object',
+            required: true,
+          },
+          {
+            name: 'Phone',
+            type: 'string',
+            required: false,
+          },
+          {
+            name: 'Website',
+            type: 'string',
+            required: false,
+          },
           {
             name: 'Wheelchair Accessible',
             type: 'boolean',
             required: true,
           },
-          { name: 'Outdoor Seating', type: 'boolean', required: true },
+          {
+            name: 'Outdoor Seating',
+            type: 'boolean',
+            required: true,
+          },
         ],
       },
       {
@@ -5230,7 +5534,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5262,7 +5566,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5294,7 +5598,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5326,7 +5630,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5358,7 +5662,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5390,7 +5694,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5422,7 +5726,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5454,7 +5758,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5486,7 +5790,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5518,7 +5822,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5550,7 +5854,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5582,7 +5886,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5614,7 +5918,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5646,7 +5950,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5678,7 +5982,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5710,7 +6014,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5742,7 +6046,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5774,7 +6078,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5806,7 +6110,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5838,7 +6142,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5870,7 +6174,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5902,7 +6206,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5926,15 +6230,31 @@ export default (i18n: I18n) => [
         name: i18n._('Shandong'),
         icon: 'restaurant',
         attributes: [
-          { name: 'Hours', type: 'object', required: true },
-          { name: 'Phone', type: 'string', required: true },
-          { name: 'Website', type: 'string', required: false },
+          {
+            name: 'Hours',
+            type: 'object',
+            required: true,
+          },
+          {
+            name: 'Phone',
+            type: 'string',
+            required: false,
+          },
+          {
+            name: 'Website',
+            type: 'string',
+            required: false,
+          },
           {
             name: 'Wheelchair Accessible',
             type: 'boolean',
             required: true,
           },
-          { name: 'Outdoor Seating', type: 'boolean', required: true },
+          {
+            name: 'Outdoor Seating',
+            type: 'boolean',
+            required: true,
+          },
         ],
       },
       {
@@ -5942,15 +6262,31 @@ export default (i18n: I18n) => [
         name: i18n._('Shanghai'),
         icon: 'restaurant',
         attributes: [
-          { name: 'Hours', type: 'object', required: true },
-          { name: 'Phone', type: 'string', required: true },
-          { name: 'Website', type: 'string', required: false },
+          {
+            name: 'Hours',
+            type: 'object',
+            required: true,
+          },
+          {
+            name: 'Phone',
+            type: 'string',
+            required: false,
+          },
+          {
+            name: 'Website',
+            type: 'string',
+            required: false,
+          },
           {
             name: 'Wheelchair Accessible',
             type: 'boolean',
             required: true,
           },
-          { name: 'Outdoor Seating', type: 'boolean', required: true },
+          {
+            name: 'Outdoor Seating',
+            type: 'boolean',
+            required: true,
+          },
         ],
       },
       {
@@ -5966,7 +6302,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -5998,7 +6334,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6030,7 +6366,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6054,15 +6390,31 @@ export default (i18n: I18n) => [
         name: i18n._('Som Tum'),
         icon: 'restaurant',
         attributes: [
-          { name: 'Hours', type: 'object', required: true },
-          { name: 'Phone', type: 'string', required: true },
-          { name: 'Website', type: 'string', required: false },
+          {
+            name: 'Hours',
+            type: 'object',
+            required: true,
+          },
+          {
+            name: 'Phone',
+            type: 'string',
+            required: false,
+          },
+          {
+            name: 'Website',
+            type: 'string',
+            required: false,
+          },
           {
             name: 'Wheelchair Accessible',
             type: 'boolean',
             required: true,
           },
-          { name: 'Outdoor Seating', type: 'boolean', required: true },
+          {
+            name: 'Outdoor Seating',
+            type: 'boolean',
+            required: true,
+          },
         ],
       },
       {
@@ -6078,7 +6430,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6110,7 +6462,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6142,7 +6494,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6174,7 +6526,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6206,7 +6558,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6238,7 +6590,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6262,15 +6614,31 @@ export default (i18n: I18n) => [
         name: i18n._('Sundanese'),
         icon: 'restaurant',
         attributes: [
-          { name: 'Hours', type: 'object', required: true },
-          { name: 'Phone', type: 'string', required: true },
-          { name: 'Website', type: 'string', required: false },
+          {
+            name: 'Hours',
+            type: 'object',
+            required: true,
+          },
+          {
+            name: 'Phone',
+            type: 'string',
+            required: false,
+          },
+          {
+            name: 'Website',
+            type: 'string',
+            required: false,
+          },
           {
             name: 'Wheelchair Accessible',
             type: 'boolean',
             required: true,
           },
-          { name: 'Outdoor Seating', type: 'boolean', required: true },
+          {
+            name: 'Outdoor Seating',
+            type: 'boolean',
+            required: true,
+          },
         ],
       },
       {
@@ -6286,7 +6654,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6318,7 +6686,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6350,7 +6718,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6382,7 +6750,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6414,7 +6782,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6446,7 +6814,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6478,7 +6846,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6510,7 +6878,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6542,7 +6910,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6574,7 +6942,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6606,7 +6974,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6638,7 +7006,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6670,7 +7038,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6702,7 +7070,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6734,7 +7102,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6766,7 +7134,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6798,7 +7166,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6830,7 +7198,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6862,7 +7230,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6894,7 +7262,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6926,7 +7294,7 @@ export default (i18n: I18n) => [
           {
             name: 'Phone',
             type: 'string',
-            required: true,
+            required: false,
           },
           {
             name: 'Website',
@@ -6950,15 +7318,31 @@ export default (i18n: I18n) => [
         name: i18n._('Yunnan'),
         icon: 'restaurant',
         attributes: [
-          { name: 'Hours', type: 'object', required: true },
-          { name: 'Phone', type: 'string', required: true },
-          { name: 'Website', type: 'string', required: false },
+          {
+            name: 'Hours',
+            type: 'object',
+            required: true,
+          },
+          {
+            name: 'Phone',
+            type: 'string',
+            required: false,
+          },
+          {
+            name: 'Website',
+            type: 'string',
+            required: false,
+          },
           {
             name: 'Wheelchair Accessible',
             type: 'boolean',
             required: true,
           },
-          { name: 'Outdoor Seating', type: 'boolean', required: true },
+          {
+            name: 'Outdoor Seating',
+            type: 'boolean',
+            required: true,
+          },
         ],
       },
       {
@@ -6966,15 +7350,31 @@ export default (i18n: I18n) => [
         name: i18n._('Zhejiang'),
         icon: 'restaurant',
         attributes: [
-          { name: 'Hours', type: 'object', required: true },
-          { name: 'Phone', type: 'string', required: true },
-          { name: 'Website', type: 'string', required: false },
+          {
+            name: 'Hours',
+            type: 'object',
+            required: true,
+          },
+          {
+            name: 'Phone',
+            type: 'string',
+            required: false,
+          },
+          {
+            name: 'Website',
+            type: 'string',
+            required: false,
+          },
           {
             name: 'Wheelchair Accessible',
             type: 'boolean',
             required: true,
           },
-          { name: 'Outdoor Seating', type: 'boolean', required: true },
+          {
+            name: 'Outdoor Seating',
+            type: 'boolean',
+            required: true,
+          },
         ],
       },
     ],

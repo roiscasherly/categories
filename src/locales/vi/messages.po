@@ -13,11 +13,11 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
-#: src/data/categories.ts:15598
+#: src/data/categories.ts:15998
 msgid "Accessories Store"
 msgstr "Cửa hàng Phụ kiện"
 
-#: src/data/categories.ts:13136
+#: src/data/categories.ts:13536
 msgid "Accountant"
 msgstr "Nhân viên kế toán"
 
@@ -25,71 +25,71 @@ msgstr "Nhân viên kế toán"
 msgid "Acehnese"
 msgstr ""
 
-#: src/data/categories.ts:12090
+#: src/data/categories.ts:12490
 msgid "Acupuncturist"
 msgstr "Bác sĩ Châm cứu"
 
-#: src/data/categories.ts:11286
+#: src/data/categories.ts:11686
 msgid "Adult"
 msgstr "Người lớn"
 
-#: src/data/categories.ts:15140
+#: src/data/categories.ts:15540
 msgid "Adult Care"
 msgstr "Chăm sóc Người lớn"
 
-#: src/data/categories.ts:6987
+#: src/data/categories.ts:7387
 msgid "Adult Education Center"
 msgstr "Trung tâm Giáo dục dành cho Người lớn"
 
-#: src/data/categories.ts:15296
+#: src/data/categories.ts:15696
 msgid "Adult Shop"
 msgstr "Cửa hàng dành cho Người lớn"
 
-#: src/data/categories.ts:13163
+#: src/data/categories.ts:13563
 msgid "Advertising Agency"
 msgstr "Công ty Quảng cáo"
 
-#: src/data/categories.ts:12718
+#: src/data/categories.ts:13118
 msgid "Aerospace"
 msgstr "Hàng không vũ trụ"
 
-#: src/data/categories.ts:1828
+#: src/data/categories.ts:1844
 msgid "Afghan"
 msgstr "Afghanistan"
 
-#: src/data/categories.ts:1860
+#: src/data/categories.ts:1876
 msgid "African"
 msgstr "Châu Phi"
 
-#: src/data/categories.ts:18257
+#: src/data/categories.ts:18657
 msgid "Air"
 msgstr "Hàng không"
 
-#: src/data/categories.ts:18262
+#: src/data/categories.ts:18662
 msgid "Airport"
 msgstr "Sân bay"
 
-#: src/data/categories.ts:18274
+#: src/data/categories.ts:18674
 msgid "Airport Gate"
 msgstr "Cổng Sân bay"
 
-#: src/data/categories.ts:18286
+#: src/data/categories.ts:18686
 msgid "Airport Lounge"
 msgstr "Phòng chờ Sân bay"
 
-#: src/data/categories.ts:18298
+#: src/data/categories.ts:18698
 msgid "Airport Service"
 msgstr "Dịch vụ Sân bay"
 
-#: src/data/categories.ts:18310
+#: src/data/categories.ts:18710
 msgid "Airport Terminal"
 msgstr "Nhà ga Sân bay"
 
-#: src/data/categories.ts:18322
+#: src/data/categories.ts:18722
 msgid "Airport Tram"
 msgstr "Xe điện Sân bay"
 
-#: src/data/categories.ts:12117
+#: src/data/categories.ts:12517
 msgid "Alternative Medicine"
 msgstr "Y học Thay thế"
 
@@ -101,27 +101,27 @@ msgstr "Nhà hát vòng tròn"
 msgid "Amusements"
 msgstr "Trò giải trí"
 
-#: src/data/categories.ts:1892
+#: src/data/categories.ts:1908
 msgid "Anhui"
 msgstr ""
 
-#: src/data/categories.ts:13190
+#: src/data/categories.ts:13590
 msgid "Animal Shelter"
 msgstr "Nơi bảo vệ Động vật"
 
-#: src/data/categories.ts:8539
+#: src/data/categories.ts:8939
 msgid "Animals"
 msgstr "Động vật"
 
-#: src/data/categories.ts:15323
+#: src/data/categories.ts:15723
 msgid "Antique Store"
 msgstr "Cửa hàng Đồ cổ"
 
-#: src/data/categories.ts:8544
+#: src/data/categories.ts:8944
 msgid "Aquarium"
 msgstr "Thủy cung"
 
-#: src/data/categories.ts:8686
+#: src/data/categories.ts:9086
 msgid "Aquatic Farm"
 msgstr "Trang trại Thủy sản"
 
@@ -133,23 +133,23 @@ msgstr "Mái vòm"
 msgid "Archaeological Site"
 msgstr "Di chỉ khảo cổ"
 
-#: src/data/categories.ts:13217
+#: src/data/categories.ts:13617
 msgid "Architect"
 msgstr "Kiến trúc sư"
 
-#: src/data/categories.ts:1908
+#: src/data/categories.ts:1940
 msgid "Arepa"
 msgstr "Bánh Arepa"
 
-#: src/data/categories.ts:1940
+#: src/data/categories.ts:1972
 msgid "Argentinian"
 msgstr "Argentina"
 
-#: src/data/categories.ts:15350
+#: src/data/categories.ts:15750
 msgid "Army Navy Store"
 msgstr "Cửa hàng bán Đồ dùng Hải quân"
 
-#: src/data/categories.ts:13244
+#: src/data/categories.ts:13644
 msgid "Art & Design Studio"
 msgstr "Phòng Nghệ thuật & Thiết kế"
 
@@ -161,15 +161,15 @@ msgstr "Phòng trưng bày Nghệ thuật"
 msgid "Art Museum"
 msgstr "Bảo tàng Nghệ thuật"
 
-#: src/data/categories.ts:13271
+#: src/data/categories.ts:13671
 msgid "Art Services"
 msgstr "Dịch vụ Nghệ thuật"
 
-#: src/data/categories.ts:13298
+#: src/data/categories.ts:13698
 msgid "Art Studio"
 msgstr "Phòng Nghệ thuật"
 
-#: src/data/categories.ts:15377
+#: src/data/categories.ts:15777
 msgid "Arts & Crafts Store"
 msgstr "Cửa hàng Thủ công mỹ nghệ"
 
@@ -181,15 +181,15 @@ msgstr "Nghệ thuật & Giải trí"
 msgid "Arts Center"
 msgstr "Trung tâm Nghệ thuật"
 
-#: src/data/categories.ts:1972
+#: src/data/categories.ts:2004
 msgid "Asian"
 msgstr "Châu Á"
 
-#: src/data/categories.ts:14550
+#: src/data/categories.ts:14950
 msgid "Assisted Living"
 msgstr "Cơ sở trợ giúp Sinh sống"
 
-#: src/data/categories.ts:14755
+#: src/data/categories.ts:15155
 msgid "Astrologer / Psychic"
 msgstr "Nhà chiêm tinh / Nhà ngoại cảm"
 
@@ -197,11 +197,11 @@ msgstr "Nhà chiêm tinh / Nhà ngoại cảm"
 msgid "Auditorium"
 msgstr "Thính phòng"
 
-#: src/data/categories.ts:2004
+#: src/data/categories.ts:2036
 msgid "Australian"
 msgstr "Australia"
 
-#: src/data/categories.ts:2036
+#: src/data/categories.ts:2068
 msgid "Austrian"
 msgstr "Áo"
 
@@ -209,57 +209,57 @@ msgstr "Áo"
 msgid "Auto Racetrack"
 msgstr "Đường đua Ô tô"
 
-#: src/data/categories.ts:10976
+#: src/data/categories.ts:11376
 msgid "Automobile Dealership"
 msgstr "Đại lý Ô tô"
 
-#: src/data/categories.ts:11003
+#: src/data/categories.ts:11403
 msgid "Automobile Rental"
 msgstr "Cho thuê Ô tô"
 
-#: src/data/categories.ts:11030
+#: src/data/categories.ts:11430
 msgid "Automobile Repair"
 msgstr "Sửa chữa ô tô"
 
-#: src/data/categories.ts:10971
-#: src/data/categories.ts:18372
+#: src/data/categories.ts:11371
+#: src/data/categories.ts:18772
 msgid "Automotive"
 msgstr "Ô tô"
 
-#: src/data/categories.ts:15404
+#: src/data/categories.ts:15804
 msgid "Automotive Supplies"
 msgstr "Vật tư Ô tô"
 
-#: src/data/categories.ts:8571
+#: src/data/categories.ts:8971
 msgid "Aviary"
 msgstr "Chuồng chim"
 
-#: src/data/categories.ts:2148
+#: src/data/categories.ts:2196
 msgid "BBQ"
 msgstr "BBQ"
 
-#: src/data/categories.ts:15625
+#: src/data/categories.ts:16025
 msgid "Baby Store"
 msgstr "Cửa hàng Trẻ em"
 
-#: src/data/categories.ts:10071
+#: src/data/categories.ts:10471
 msgid "Badminton Court"
 msgstr "Sân Cầu lông"
 
-#: src/data/categories.ts:2068
+#: src/data/categories.ts:2100
 msgid "Bagels"
 msgstr "Bánh mì vòng"
 
-#: src/data/categories.ts:18334
+#: src/data/categories.ts:18734
 msgid "Baggage Claim"
 msgstr "Nhận Hành lý"
 
-#: src/data/categories.ts:2100
-#: src/data/categories.ts:16280
+#: src/data/categories.ts:2132
+#: src/data/categories.ts:16680
 msgid "Bakery"
 msgstr "Hiệu bánh mì"
 
-#: src/data/categories.ts:2132
+#: src/data/categories.ts:2164
 msgid "Balinese"
 msgstr ""
 
@@ -267,23 +267,23 @@ msgstr ""
 msgid "Bandstand"
 msgstr "Bục giàn nhạc"
 
-#: src/data/categories.ts:12967
+#: src/data/categories.ts:13367
 msgid "Bank"
 msgstr "Ngân hàng"
 
-#: src/data/categories.ts:7732
+#: src/data/categories.ts:8132
 msgid "Bar"
 msgstr "Quán bar"
 
-#: src/data/categories.ts:9523
+#: src/data/categories.ts:9923
 msgid "Barbecue"
 msgstr "Tiệc nướng"
 
-#: src/data/categories.ts:11313
+#: src/data/categories.ts:11713
 msgid "Barber"
 msgstr "Tiệm cắt tóc"
 
-#: src/data/categories.ts:10098
+#: src/data/categories.ts:10498
 msgid "Baseball Field"
 msgstr "Sân Bóng chày"
 
@@ -291,7 +291,7 @@ msgstr "Sân Bóng chày"
 msgid "Baseball Stadium"
 msgstr "Sân vận động Bóng chày"
 
-#: src/data/categories.ts:10125
+#: src/data/categories.ts:10525
 msgid "Basketball Court"
 msgstr "Sân Bóng rổ"
 
@@ -299,212 +299,212 @@ msgstr "Sân Bóng rổ"
 msgid "Basketball Stadium"
 msgstr "Sân vận động Bóng rổ"
 
-#: src/data/categories.ts:11206
+#: src/data/categories.ts:11606
 msgid "Bath House"
 msgstr "Nhà tắm"
 
-#: src/data/categories.ts:11201
+#: src/data/categories.ts:11601
 msgid "Bathing"
 msgstr "Tắm"
 
-#: src/data/categories.ts:9535
+#: src/data/categories.ts:9935
 msgid "Bathing Area"
 msgstr "Khu vực Tắm"
 
-#: src/data/categories.ts:9420
+#: src/data/categories.ts:9820
 msgid "Battlefield"
 msgstr "Chiến trường"
 
-#: src/data/categories.ts:9547
+#: src/data/categories.ts:9947
 msgid "Beach"
 msgstr "Bãi biển"
 
-#: src/data/categories.ts:7764
+#: src/data/categories.ts:8164
 msgid "Beach Bar"
 msgstr "Quán bar gần biển"
 
-#: src/data/categories.ts:15431
+#: src/data/categories.ts:15831
 msgid "Beauty & Cosmetics"
 msgstr "Làm đẹp & Mỹ phẩm"
 
-#: src/data/categories.ts:11281
+#: src/data/categories.ts:11681
 msgid "Beauty & Spa"
 msgstr "Chăm sóc Sắc đẹp & Spa"
 
-#: src/data/categories.ts:11340
+#: src/data/categories.ts:11740
 msgid "Beauty Salon"
 msgstr "Thẩm mỹ viện"
 
-#: src/data/categories.ts:7014
+#: src/data/categories.ts:7414
 msgid "Beauty School"
 msgstr "Trường dạy Làm đẹp"
 
-#: src/data/categories.ts:18581
+#: src/data/categories.ts:18981
 msgid "Bed & Breakfast"
 msgstr "Giường ngủ & Bữa sáng"
 
-#: src/data/categories.ts:7796
+#: src/data/categories.ts:8196
 msgid "Beer Bar"
 msgstr "Quán bia"
 
-#: src/data/categories.ts:7828
+#: src/data/categories.ts:8228
 msgid "Beer Garden"
 msgstr "Quán bia Ngoài trời"
 
-#: src/data/categories.ts:16307
+#: src/data/categories.ts:16707
 msgid "Beer Store"
 msgstr "Cửa hàng Bia"
 
-#: src/data/categories.ts:2244
+#: src/data/categories.ts:2292
 msgid "Beijing"
 msgstr ""
 
-#: src/data/categories.ts:2180
+#: src/data/categories.ts:2228
 msgid "Belarusian"
 msgstr "Belarus"
 
-#: src/data/categories.ts:2212
+#: src/data/categories.ts:2260
 msgid "Belgian"
 msgstr "Bỉ"
 
-#: src/data/categories.ts:2260
+#: src/data/categories.ts:2324
 msgid "Betawinese"
 msgstr ""
 
-#: src/data/categories.ts:18462
+#: src/data/categories.ts:18862
 msgid "Bicycle"
 msgstr "Xe đạp"
 
-#: src/data/categories.ts:14782
+#: src/data/categories.ts:15182
 msgid "Bicycle Repair"
 msgstr "Sửa chữa Xe đạp"
 
-#: src/data/categories.ts:15458
+#: src/data/categories.ts:15858
 msgid "Bicycle Store"
 msgstr "Cửa hàng Xe đạp"
 
-#: src/data/categories.ts:15485
+#: src/data/categories.ts:15885
 msgid "Big Box Store"
 msgstr "Cửa hàng Lớn"
 
-#: src/data/categories.ts:18467
+#: src/data/categories.ts:18867
 msgid "Bike Rental"
 msgstr "Cho thuê Xe đạp"
 
-#: src/data/categories.ts:18489
+#: src/data/categories.ts:18889
 msgid "Bike Share Station"
 msgstr "Trạm chia sẻ xe đạp"
 
-#: src/data/categories.ts:9559
+#: src/data/categories.ts:9959
 msgid "Bike Trail"
 msgstr "Xe địa hình"
 
-#: src/data/categories.ts:2276
+#: src/data/categories.ts:2356
 msgid "Bistro"
 msgstr "Quán ăn nhỏ"
 
-#: src/data/categories.ts:18603
+#: src/data/categories.ts:19003
 msgid "Boarding House"
 msgstr "Nhà trọ"
 
-#: src/data/categories.ts:9571
+#: src/data/categories.ts:9971
 msgid "Boat Charter"
 msgstr "Thuê tàu"
 
-#: src/data/categories.ts:9598
+#: src/data/categories.ts:9998
 msgid "Boat Ramp"
 msgstr "Đường dốc Thuyền"
 
-#: src/data/categories.ts:9610
+#: src/data/categories.ts:10010
 msgid "Boat Rental"
 msgstr "Cho thuê Thuyền"
 
-#: src/data/categories.ts:11057
+#: src/data/categories.ts:11457
 msgid "Boat Sales"
 msgstr "Bán thuyền"
 
-#: src/data/categories.ts:2308
+#: src/data/categories.ts:2388
 msgid "Bodega"
 msgstr "Cửa hàng rượu vang"
 
-#: src/data/categories.ts:15512
+#: src/data/categories.ts:15912
 msgid "Bookstore"
 msgstr "Cửa hàng sách"
 
-#: src/data/categories.ts:2340
+#: src/data/categories.ts:2420
 msgid "Bosnian"
 msgstr "Bosnia"
 
-#: src/data/categories.ts:9432
+#: src/data/categories.ts:9832
 msgid "Botanical Garden"
 msgstr "Vườn bách thảo"
 
-#: src/data/categories.ts:15652
+#: src/data/categories.ts:16052
 msgid "Boutique"
 msgstr "Cửa hàng thời trang"
 
-#: src/data/categories.ts:10152
+#: src/data/categories.ts:10552
 msgid "Bowling Alley"
 msgstr "Sàn bowling"
 
-#: src/data/categories.ts:10179
+#: src/data/categories.ts:10579
 msgid "Boxing Gym"
 msgstr "Phòng tập Đấm bốc"
 
-#: src/data/categories.ts:2372
+#: src/data/categories.ts:2452
 msgid "Brazilian"
 msgstr "Braxin"
 
-#: src/data/categories.ts:2404
+#: src/data/categories.ts:2484
 msgid "Breakfast"
 msgstr "Bữa ăn sáng"
 
-#: src/data/categories.ts:7860
+#: src/data/categories.ts:8260
 msgid "Brewery"
 msgstr "Nhà máy bia"
 
-#: src/data/categories.ts:2436
+#: src/data/categories.ts:2516
 msgid "Brewpub"
 msgstr "Quán bia"
 
-#: src/data/categories.ts:15679
+#: src/data/categories.ts:16079
 msgid "Bridal Store"
 msgstr "Cửa hàng Áo cưới"
 
-#: src/data/categories.ts:8909
+#: src/data/categories.ts:9309
 msgid "Bridge"
 msgstr "Cầu"
 
-#: src/data/categories.ts:2468
+#: src/data/categories.ts:2548
 msgid "British"
 msgstr "Vương quốc Anh"
 
-#: src/data/categories.ts:2500
+#: src/data/categories.ts:2580
 msgid "Bubble Tea"
 msgstr "Trà sữa Trân Châu"
 
-#: src/data/categories.ts:14257
+#: src/data/categories.ts:14657
 msgid "Buddhist Temple"
 msgstr "Chùa Phật giáo"
 
-#: src/data/categories.ts:2532
+#: src/data/categories.ts:2612
 msgid "Buffet"
 msgstr "Tiệc đứng"
 
-#: src/data/categories.ts:13325
-#: src/data/categories.ts:18496
+#: src/data/categories.ts:13725
+#: src/data/categories.ts:18896
 msgid "Building"
 msgstr "Xây dựng"
 
-#: src/data/categories.ts:11558
+#: src/data/categories.ts:11958
 msgid "Building & Trades"
 msgstr "Xây dựng & Thương mại"
 
-#: src/data/categories.ts:16908
+#: src/data/categories.ts:17308
 msgid "Building Materials"
 msgstr "Vật liệu Xây dựng"
 
-#: src/data/categories.ts:2564
+#: src/data/categories.ts:2644
 msgid "Bulgarian"
 msgstr "Bun-ga-ri"
 
@@ -512,72 +512,72 @@ msgstr "Bun-ga-ri"
 msgid "Bull Ring"
 msgstr "Trường đấu bò"
 
-#: src/data/categories.ts:2596
+#: src/data/categories.ts:2676
 msgid "Burgers"
 msgstr "Bánh Hamburger"
 
-#: src/data/categories.ts:2628
+#: src/data/categories.ts:2708
 msgid "Burmese"
 msgstr "Miến Điện"
 
-#: src/data/categories.ts:2660
+#: src/data/categories.ts:2740
 msgid "Burritos"
 msgstr "Món bánh Burrito"
 
-#: src/data/categories.ts:18808
+#: src/data/categories.ts:19208
 msgid "Bus Station"
 msgstr "Bến Xe buýt"
 
-#: src/data/categories.ts:18820
+#: src/data/categories.ts:19220
 msgid "Bus Stop"
 msgstr "Trạm dừng xe buýt"
 
-#: src/data/categories.ts:13352
+#: src/data/categories.ts:13752
 msgid "Business Center"
 msgstr "Trung tâm Thương mại"
 
-#: src/data/categories.ts:16334
+#: src/data/categories.ts:16734
 msgid "Butcher Shop"
 msgstr "Cửa hàng Thịt"
 
-#: src/data/categories.ts:18832
+#: src/data/categories.ts:19232
 msgid "Cable Car Station"
 msgstr "Ga Cáp treo"
 
-#: src/data/categories.ts:2692
+#: src/data/categories.ts:2772
 msgid "Cafe"
 msgstr "Cà phê"
 
-#: src/data/categories.ts:2724
+#: src/data/categories.ts:2804
 msgid "Cafeteria"
 msgstr "Quán cà phê"
 
-#: src/data/categories.ts:2756
+#: src/data/categories.ts:2836
 msgid "Cajun & Creole"
 msgstr "Cajun & Creole"
 
-#: src/data/categories.ts:2788
+#: src/data/categories.ts:2868
 msgid "Cambodian"
 msgstr "Campuchia"
 
-#: src/data/categories.ts:15539
+#: src/data/categories.ts:15939
 msgid "Camera Store"
 msgstr "Cửa hàng Camera"
 
-#: src/data/categories.ts:9622
-#: src/data/categories.ts:18625
+#: src/data/categories.ts:10022
+#: src/data/categories.ts:19025
 msgid "Campground"
 msgstr "Khu cắm trại"
 
-#: src/data/categories.ts:16361
+#: src/data/categories.ts:16761
 msgid "Candy Store"
 msgstr "Cửa hàng Kẹo"
 
-#: src/data/categories.ts:2820
+#: src/data/categories.ts:2900
 msgid "Cantonese"
 msgstr "Quảng Đông"
 
-#: src/data/categories.ts:8921
+#: src/data/categories.ts:9321
 msgid "Canyon"
 msgstr "Hẻm núi"
 
@@ -585,11 +585,11 @@ msgstr "Hẻm núi"
 msgid "Capitol Building"
 msgstr "Trụ sở Quốc hội"
 
-#: src/data/categories.ts:11084
+#: src/data/categories.ts:11484
 msgid "Car Wash"
 msgstr "Rửa xe"
 
-#: src/data/categories.ts:2852
+#: src/data/categories.ts:2932
 msgid "Caribbean"
 msgstr "Caribe"
 
@@ -597,11 +597,11 @@ msgstr "Caribe"
 msgid "Carousel"
 msgstr "Trò kéo quân"
 
-#: src/data/categories.ts:11563
+#: src/data/categories.ts:11963
 msgid "Carpenter"
 msgstr "Thợ mộc"
 
-#: src/data/categories.ts:16935
+#: src/data/categories.ts:17335
 msgid "Carpets & Floor Coverings"
 msgstr "Thảm & Lớp phủ sàn"
 
@@ -609,43 +609,43 @@ msgstr "Thảm & Lớp phủ sàn"
 msgid "Casino"
 msgstr "Sòng bạc"
 
-#: src/data/categories.ts:8933
+#: src/data/categories.ts:9333
 msgid "Castle"
 msgstr "Lâu đài"
 
-#: src/data/categories.ts:15566
+#: src/data/categories.ts:15966
 msgid "Catalog Store"
 msgstr "Cửa hàng Catalog"
 
-#: src/data/categories.ts:11973
+#: src/data/categories.ts:12373
 msgid "Catering"
 msgstr "Phục vụ ăn uống"
 
-#: src/data/categories.ts:8945
+#: src/data/categories.ts:9345
 msgid "Cave"
 msgstr "Hang động"
 
-#: src/data/categories.ts:8957
+#: src/data/categories.ts:9357
 msgid "Cemetery"
 msgstr "Nghĩa trang"
 
-#: src/data/categories.ts:2884
+#: src/data/categories.ts:2964
 msgid "Cha Chaan Teng"
 msgstr ""
 
-#: src/data/categories.ts:18647
+#: src/data/categories.ts:19047
 msgid "Chalets"
 msgstr "Nhà gỗ"
 
-#: src/data/categories.ts:7892
+#: src/data/categories.ts:8292
 msgid "Champagne Bar"
 msgstr "Quầy bar phục vụ Rượu sâm banh"
 
-#: src/data/categories.ts:12994
+#: src/data/categories.ts:13394
 msgid "Check Cashing"
 msgstr "Thu đổi Ngân phiếu"
 
-#: src/data/categories.ts:16388
+#: src/data/categories.ts:16788
 msgid "Cheese Shop"
 msgstr "Cửa hàng Pho mát"
 
@@ -653,31 +653,31 @@ msgstr "Cửa hàng Pho mát"
 msgid "Chess"
 msgstr "Cờ vua"
 
-#: src/data/categories.ts:15167
+#: src/data/categories.ts:15567
 msgid "Child Care"
 msgstr "Chăm sóc Trẻ em"
 
-#: src/data/categories.ts:15706
+#: src/data/categories.ts:16106
 msgid "Children's Clothing Store"
 msgstr "Cửa hàng Quần áo Trẻ em"
 
-#: src/data/categories.ts:2900
+#: src/data/categories.ts:2996
 msgid "Chinese"
 msgstr "Trung Quốc"
 
-#: src/data/categories.ts:2932
+#: src/data/categories.ts:3028
 msgid "Chinese Breakfast"
 msgstr ""
 
-#: src/data/categories.ts:12144
+#: src/data/categories.ts:12544
 msgid "Chiropractor"
 msgstr "Bác sĩ chuyên chữa trị chấn thương"
 
-#: src/data/categories.ts:16415
+#: src/data/categories.ts:16815
 msgid "Chocolate Shop"
 msgstr "Cửa hàng Sô-cô-la"
 
-#: src/data/categories.ts:14279
+#: src/data/categories.ts:14679
 msgid "Church"
 msgstr "Nhà thờ"
 
@@ -689,11 +689,11 @@ msgstr "Rạp xiếc"
 msgid "City Hall"
 msgstr "Tòa Thị chính"
 
-#: src/data/categories.ts:9444
+#: src/data/categories.ts:9844
 msgid "City Park"
 msgstr "Công viên Thành phố"
 
-#: src/data/categories.ts:8969
+#: src/data/categories.ts:9369
 msgid "City Walls"
 msgstr "Tường bao quanh Thành phố"
 
@@ -705,79 +705,79 @@ msgstr "Hành chính"
 msgid "Civic Center"
 msgstr "Trung tâm Hành chính"
 
-#: src/data/categories.ts:11585
+#: src/data/categories.ts:11985
 msgid "Cleaning & Sanitation"
 msgstr "Dọn dẹp & Vệ sinh"
 
-#: src/data/categories.ts:8981
+#: src/data/categories.ts:9381
 msgid "Cliff"
 msgstr "Vách đá"
 
-#: src/data/categories.ts:10206
+#: src/data/categories.ts:10606
 msgid "Climbing Gym"
 msgstr "Phòng tập Leo núi"
 
-#: src/data/categories.ts:12171
+#: src/data/categories.ts:12571
 msgid "Clinic"
 msgstr "Phòng khám"
 
-#: src/data/categories.ts:15593
+#: src/data/categories.ts:15993
 msgid "Clothing"
 msgstr "Quần áo"
 
-#: src/data/categories.ts:7924
+#: src/data/categories.ts:8324
 msgid "Cocktail Bar"
 msgstr "Quán rượu Cốc tai"
 
-#: src/data/categories.ts:2948
+#: src/data/categories.ts:3060
 msgid "Coffee Shop"
 msgstr "Quán cà phê"
 
-#: src/data/categories.ts:7041
+#: src/data/categories.ts:7441
 msgid "College"
 msgstr "Cao đẳng"
 
-#: src/data/categories.ts:7058
+#: src/data/categories.ts:7458
 msgid "College Academic Building"
 msgstr "Tòa nhà Cao đẳng Học thuật"
 
-#: src/data/categories.ts:7070
+#: src/data/categories.ts:7470
 msgid "College Administrative Building"
 msgstr "Tòa nhà Cao đẳng Hành chính"
 
-#: src/data/categories.ts:7082
+#: src/data/categories.ts:7482
 msgid "College Bookstore"
 msgstr "Nhà sách Đại học"
 
-#: src/data/categories.ts:7109
+#: src/data/categories.ts:7509
 msgid "College Cafeteria"
 msgstr "Quán ăn Cao đẳng"
 
-#: src/data/categories.ts:14572
+#: src/data/categories.ts:14972
 msgid "College Dormitory / Residence Hall"
 msgstr "Nhà ở tập thể / Ký túc xá Đại học"
 
-#: src/data/categories.ts:7136
+#: src/data/categories.ts:7536
 msgid "College Gym"
 msgstr "Phòng Gym Cao đẳng"
 
-#: src/data/categories.ts:7148
+#: src/data/categories.ts:7548
 msgid "College Library"
 msgstr "Thư viện Cao đẳng"
 
-#: src/data/categories.ts:7165
+#: src/data/categories.ts:7565
 msgid "College Quad"
 msgstr "Sân trong Cao đẳng"
 
-#: src/data/categories.ts:7170
+#: src/data/categories.ts:7570
 msgid "College Rec Center"
 msgstr "Trung tâm giải trí trường cao đẳng"
 
-#: src/data/categories.ts:7182
+#: src/data/categories.ts:7582
 msgid "College Theater"
 msgstr "Nhà hát Đại học"
 
-#: src/data/categories.ts:2980
+#: src/data/categories.ts:3092
 msgid "Colombian"
 msgstr "Colombia"
 
@@ -785,15 +785,15 @@ msgstr "Colombia"
 msgid "Comedy Club"
 msgstr "Câu lạc bộ Hài kịch"
 
-#: src/data/categories.ts:15870
+#: src/data/categories.ts:16270
 msgid "Comic Books"
 msgstr "Truyện tranh"
 
-#: src/data/categories.ts:11851
+#: src/data/categories.ts:12251
 msgid "Communications"
 msgstr "Truyền thông"
 
-#: src/data/categories.ts:14034
+#: src/data/categories.ts:14434
 msgid "Community Association"
 msgstr "Hiệp hội Cộng đồng"
 
@@ -801,15 +801,15 @@ msgstr "Hiệp hội Cộng đồng"
 msgid "Community Center"
 msgstr "Trung tâm Cộng đồng"
 
-#: src/data/categories.ts:7204
+#: src/data/categories.ts:7604
 msgid "Community College"
 msgstr "Cao đẳng Cộng đồng"
 
-#: src/data/categories.ts:13379
+#: src/data/categories.ts:13779
 msgid "Computer Services"
 msgstr "Dịch vụ Máy tính"
 
-#: src/data/categories.ts:15897
+#: src/data/categories.ts:16297
 msgid "Computers & Home Electronics"
 msgstr "Máy vi tính & Điện tử gia dụng"
 
@@ -817,11 +817,11 @@ msgstr "Máy vi tính & Điện tử gia dụng"
 msgid "Concert Hall"
 msgstr "Phòng hòa nhạc"
 
-#: src/data/categories.ts:14301
+#: src/data/categories.ts:14701
 msgid "Confucian Temple"
 msgstr "Đền thờ Khổng Tử"
 
-#: src/data/categories.ts:11607
+#: src/data/categories.ts:12007
 msgid "Construction Company"
 msgstr "Công ty Xây dựng"
 
@@ -829,27 +829,27 @@ msgstr "Công ty Xây dựng"
 msgid "Consulate / Embassy"
 msgstr "Lãnh sự quán / Đại sứ quán"
 
-#: src/data/categories.ts:16442
+#: src/data/categories.ts:16842
 msgid "Convenience Store"
 msgstr "Cửa hàng Tiện lợi"
 
-#: src/data/categories.ts:14323
+#: src/data/categories.ts:14723
 msgid "Convent"
 msgstr "Nữ tu viện"
 
-#: src/data/categories.ts:11995
+#: src/data/categories.ts:12395
 msgid "Convention Center"
 msgstr "Trung tâm Hội nghị"
 
-#: src/data/categories.ts:7221
+#: src/data/categories.ts:7621
 msgid "Cooking School"
 msgstr "Trường Nấu ăn"
 
-#: src/data/categories.ts:15924
+#: src/data/categories.ts:16324
 msgid "Cosmetics Shop"
 msgstr "Cửa hàng Mỹ phẩm"
 
-#: src/data/categories.ts:15951
+#: src/data/categories.ts:16351
 msgid "Costume Shop"
 msgstr "Cửa hàng Trang phục"
 
@@ -857,27 +857,27 @@ msgstr "Cửa hàng Trang phục"
 msgid "Court House"
 msgstr "Trụ sở Tòa án"
 
-#: src/data/categories.ts:13406
+#: src/data/categories.ts:13806
 msgid "Coworking Space"
 msgstr "Không gian Làm việc chung"
 
-#: src/data/categories.ts:15978
+#: src/data/categories.ts:16378
 msgid "Craft Store"
 msgstr "Cửa hàng Đồ thủ công"
 
-#: src/data/categories.ts:13021
+#: src/data/categories.ts:13421
 msgid "Credit Union"
 msgstr "Hội tín dụng"
 
-#: src/data/categories.ts:3012
+#: src/data/categories.ts:3124
 msgid "Creperie"
 msgstr "Bánh kếp"
 
-#: src/data/categories.ts:10233
+#: src/data/categories.ts:10633
 msgid "Cricket"
 msgstr "Bóng gậy"
 
-#: src/data/categories.ts:3044
+#: src/data/categories.ts:3156
 msgid "Cuban"
 msgstr "Cuba"
 
@@ -885,11 +885,11 @@ msgstr "Cuba"
 msgid "Cultural Center"
 msgstr "Trung tâm Văn hóa"
 
-#: src/data/categories.ts:3076
+#: src/data/categories.ts:3188
 msgid "Cupcake Shop"
 msgstr "Cửa hàng Bánh nướng nhỏ"
 
-#: src/data/categories.ts:13048
+#: src/data/categories.ts:13448
 msgid "Currency Exchange"
 msgstr "Hối đoái"
 
@@ -897,23 +897,23 @@ msgstr "Hối đoái"
 msgid "Customs House"
 msgstr "Trụ sở Hải quan"
 
-#: src/data/categories.ts:10260
+#: src/data/categories.ts:10660
 msgid "Cycle Studio"
 msgstr "Phòng tập Đạp xe"
 
-#: src/data/categories.ts:3108
+#: src/data/categories.ts:3220
 msgid "Czech"
 msgstr "Séc"
 
-#: src/data/categories.ts:8713
+#: src/data/categories.ts:9113
 msgid "Dairy Farm"
 msgstr "Trại sản xuất Bơ sữa"
 
-#: src/data/categories.ts:16469
+#: src/data/categories.ts:16869
 msgid "Dairy Store"
 msgstr "Cửa hàng Bơ sữa"
 
-#: src/data/categories.ts:8993
+#: src/data/categories.ts:9393
 msgid "Dam"
 msgstr "Đập"
 
@@ -925,23 +925,23 @@ msgstr "Khiêu vũ"
 msgid "Dance Hall"
 msgstr "Vũ trường"
 
-#: src/data/categories.ts:7248
+#: src/data/categories.ts:7648
 msgid "Dance Studio"
 msgstr "Phòng nhảy"
 
-#: src/data/categories.ts:11367
+#: src/data/categories.ts:11767
 msgid "Day Spa"
 msgstr "Spa Ban ngày"
 
-#: src/data/categories.ts:3140
+#: src/data/categories.ts:3252
 msgid "Deli"
 msgstr "Deli"
 
-#: src/data/categories.ts:12198
+#: src/data/categories.ts:12598
 msgid "Dentist"
 msgstr "Nha sĩ"
 
-#: src/data/categories.ts:16005
+#: src/data/categories.ts:16405
 msgid "Department Store"
 msgstr "Cửa hàng Bách hoá"
 
@@ -949,31 +949,31 @@ msgstr "Cửa hàng Bách hoá"
 msgid "Department of Motor Vehicles"
 msgstr "Sở quản lý Cơ giới"
 
-#: src/data/categories.ts:3172
+#: src/data/categories.ts:3284
 msgid "Dessert Shop"
 msgstr "Cửa hàng Món tráng miệng"
 
-#: src/data/categories.ts:13433
+#: src/data/categories.ts:13833
 msgid "Detective & Security Services"
 msgstr "Dịch vụ Thám tử & Bảo vệ"
 
-#: src/data/categories.ts:10287
+#: src/data/categories.ts:10687
 msgid "Diet & Weight Loss"
 msgstr "Ăn kiêng & Giảm cân"
 
-#: src/data/categories.ts:16032
+#: src/data/categories.ts:16432
 msgid "Dietary & Supplement Shop"
 msgstr "Cửa hàng Thực phẩm & Thực phẩm bổ sung"
 
-#: src/data/categories.ts:9005
+#: src/data/categories.ts:9405
 msgid "Dike"
 msgstr "Đê"
 
-#: src/data/categories.ts:3204
+#: src/data/categories.ts:3316
 msgid "Dim Sum"
 msgstr "Điểm tâm"
 
-#: src/data/categories.ts:3236
+#: src/data/categories.ts:3348
 msgid "Diner"
 msgstr "Bữa tối"
 
@@ -981,43 +981,43 @@ msgstr "Bữa tối"
 msgid "Dining"
 msgstr "Ăn uống"
 
-#: src/data/categories.ts:3268
+#: src/data/categories.ts:3380
 msgid "Dinner Theater"
 msgstr "Nhà hát bao gồm Bữa tối"
 
-#: src/data/categories.ts:9634
+#: src/data/categories.ts:10034
 msgid "Disc Golf"
 msgstr "Thể thao Đĩa bay"
 
-#: src/data/categories.ts:16059
+#: src/data/categories.ts:16459
 msgid "Discount & Variety Store"
 msgstr "Cửa hàng bán hạ giá & Tiệm tạp hóa"
 
-#: src/data/categories.ts:7956
+#: src/data/categories.ts:8356
 msgid "Distillery"
 msgstr "Nhà máy rượu"
 
-#: src/data/categories.ts:12740
+#: src/data/categories.ts:13140
 msgid "Distribution Center"
 msgstr "Trung tâm Phân phối"
 
-#: src/data/categories.ts:7988
+#: src/data/categories.ts:8388
 msgid "Dive Bar"
 msgstr "Quán rượu Chui"
 
-#: src/data/categories.ts:9646
+#: src/data/categories.ts:10046
 msgid "Dive Center"
 msgstr "Trung tâm Lặn"
 
-#: src/data/categories.ts:10314
+#: src/data/categories.ts:10714
 msgid "Diving Center"
 msgstr "Trung tâm Lặn"
 
-#: src/data/categories.ts:12225
+#: src/data/categories.ts:12625
 msgid "Doctor"
 msgstr "Bác sĩ"
 
-#: src/data/categories.ts:9456
+#: src/data/categories.ts:9856
 msgid "Dog Park"
 msgstr "Công viên dành cho Chó"
 
@@ -1025,19 +1025,19 @@ msgstr "Công viên dành cho Chó"
 msgid "Dog Racetrack"
 msgstr "Đường đua Chó"
 
-#: src/data/categories.ts:3300
+#: src/data/categories.ts:3412
 msgid "Dongbei"
 msgstr ""
 
-#: src/data/categories.ts:3316
+#: src/data/categories.ts:3444
 msgid "Donut Shop"
 msgstr "Cửa hàng Bánh Donut"
 
-#: src/data/categories.ts:3348
+#: src/data/categories.ts:3476
 msgid "Dosa"
 msgstr "Bánh Dosa"
 
-#: src/data/categories.ts:11233
+#: src/data/categories.ts:11633
 msgid "Drinking Water"
 msgstr "Nước uống"
 
@@ -1045,99 +1045,99 @@ msgstr "Nước uống"
 msgid "Drive-in Theater"
 msgstr "Rạp hát ngoài trời"
 
-#: src/data/categories.ts:7275
+#: src/data/categories.ts:7675
 msgid "Driving School"
 msgstr "Trường dạy Lái xe"
 
-#: src/data/categories.ts:14809
+#: src/data/categories.ts:15209
 msgid "Dry Cleaner"
 msgstr "Giặt khô"
 
-#: src/data/categories.ts:3380
+#: src/data/categories.ts:3508
 msgid "Dumpling"
 msgstr "Bánh bao"
 
-#: src/data/categories.ts:9017
+#: src/data/categories.ts:9417
 msgid "Dunes"
 msgstr "Cồn cát"
 
-#: src/data/categories.ts:3412
+#: src/data/categories.ts:3540
 msgid "Dutch"
 msgstr "Hà Lan"
 
-#: src/data/categories.ts:16086
+#: src/data/categories.ts:16486
 msgid "Duty Free Shop"
 msgstr "Cửa hàng Miễn thuế"
 
-#: src/data/categories.ts:18346
+#: src/data/categories.ts:18746
 msgid "Duty-free Shop"
 msgstr "Cửa hàng Miễn thuế"
 
-#: src/data/categories.ts:11106
+#: src/data/categories.ts:11506
 msgid "EV Charging Station"
 msgstr "Trạm sạc EV"
 
-#: src/data/categories.ts:3444
+#: src/data/categories.ts:3572
 msgid "Eastern European"
 msgstr "Đông Âu"
 
-#: src/data/categories.ts:6982
+#: src/data/categories.ts:7382
 msgid "Education"
 msgstr "Giáo dục"
 
-#: src/data/categories.ts:11629
+#: src/data/categories.ts:12029
 msgid "Electrician"
 msgstr "Thợ điện"
 
-#: src/data/categories.ts:16113
+#: src/data/categories.ts:16513
 msgid "Electronics Store"
 msgstr "Cửa hàng Điện tử"
 
-#: src/data/categories.ts:7302
+#: src/data/categories.ts:7702
 msgid "Elementary School"
 msgstr "Trường Tiểu học"
 
-#: src/data/categories.ts:18501
+#: src/data/categories.ts:18901
 msgid "Elevator"
 msgstr "Thang máy"
 
-#: src/data/categories.ts:15194
+#: src/data/categories.ts:15594
 msgid "Emergency Phone"
 msgstr "Điện thoại Khẩn cấp"
 
-#: src/data/categories.ts:12252
+#: src/data/categories.ts:12652
 msgid "Emergency Room"
 msgstr "Phòng cấp cứu"
 
-#: src/data/categories.ts:15206
+#: src/data/categories.ts:15606
 msgid "Emergency Shelter"
 msgstr "Chỗ tạm trú Khẩn cấp"
 
-#: src/data/categories.ts:3476
+#: src/data/categories.ts:3604
 msgid "Empanada"
 msgstr "Bánh Empanada"
 
-#: src/data/categories.ts:13460
+#: src/data/categories.ts:13860
 msgid "Employment Agencies"
 msgstr "Trung tâm Tư vấn việc làm"
 
-#: src/data/categories.ts:15233
+#: src/data/categories.ts:15633
 msgid "Employment Agency"
 msgstr "Trung tâm Tư vấn việc làm"
 
-#: src/data/categories.ts:13487
+#: src/data/categories.ts:13887
 msgid "Engineering"
 msgstr "Kỹ thuật"
 
-#: src/data/categories.ts:13514
+#: src/data/categories.ts:13914
 msgid "Entertainment Service"
 msgstr "Dịch vụ Giải trí"
 
-#: src/data/categories.ts:18506
+#: src/data/categories.ts:18906
 msgid "Entrance"
 msgstr "Lối vào"
 
-#: src/data/categories.ts:11651
+#: src/data/categories.ts:12051
 msgid "Equipment Rental"
 msgstr "Thuê dụng cụ"
 
@@ -1145,59 +1145,59 @@ msgstr "Thuê dụng cụ"
 msgid "Erotic Museum"
 msgstr "Bảo tàng Tình ái"
 
-#: src/data/categories.ts:18511
+#: src/data/categories.ts:18911
 msgid "Escalator"
 msgstr "Thang cuốn"
 
-#: src/data/categories.ts:3508
+#: src/data/categories.ts:3636
 msgid "Ethiopian"
 msgstr "Ethiopia"
 
-#: src/data/categories.ts:12017
+#: src/data/categories.ts:12417
 msgid "Event Space"
 msgstr "Không gian Tổ chức sự kiện"
 
-#: src/data/categories.ts:16140
+#: src/data/categories.ts:16540
 msgid "Event Tickets"
 msgstr "Vé Sự kiện"
 
-#: src/data/categories.ts:11968
+#: src/data/categories.ts:12368
 msgid "Events"
 msgstr "Sự kiện"
 
-#: src/data/categories.ts:12039
+#: src/data/categories.ts:12439
 msgid "Exhibition Hall"
 msgstr "Phòng triển lãm"
 
-#: src/data/categories.ts:16167
+#: src/data/categories.ts:16567
 msgid "Fabric Store"
 msgstr "Cửa hàng Bán vải"
 
-#: src/data/categories.ts:12762
+#: src/data/categories.ts:13162
 msgid "Factory"
 msgstr "Nhà máy"
 
-#: src/data/categories.ts:3540
+#: src/data/categories.ts:3668
 msgid "Falafel"
 msgstr "Viên bột đậu rán"
 
-#: src/data/categories.ts:8740
+#: src/data/categories.ts:9140
 msgid "Farm"
 msgstr "Nông trại"
 
-#: src/data/categories.ts:16496
+#: src/data/categories.ts:16896
 msgid "Farmers Market"
 msgstr "Chợ Nông sản"
 
-#: src/data/categories.ts:8681
+#: src/data/categories.ts:9081
 msgid "Farming"
 msgstr "Nông trại"
 
-#: src/data/categories.ts:3572
+#: src/data/categories.ts:3700
 msgid "Fast Food"
 msgstr "Thức ăn Nhanh"
 
-#: src/data/categories.ts:18523
+#: src/data/categories.ts:18923
 msgid "Ferry Terminal"
 msgstr "Bến phà"
 
@@ -1205,15 +1205,15 @@ msgstr "Bến phà"
 msgid "Festival"
 msgstr "Lễ hội"
 
-#: src/data/categories.ts:3604
+#: src/data/categories.ts:3732
 msgid "Filipino"
 msgstr "Philippines"
 
-#: src/data/categories.ts:11856
+#: src/data/categories.ts:12256
 msgid "Film & Video Production"
 msgstr "Sản xuất Phim & Video"
 
-#: src/data/categories.ts:13075
+#: src/data/categories.ts:13475
 msgid "Financial Services"
 msgstr "Dịch vụ Tài chính"
 
@@ -1225,51 +1225,51 @@ msgstr "Mỹ thuật"
 msgid "Fire Station"
 msgstr "Trạm cứu hỏa"
 
-#: src/data/categories.ts:9029
+#: src/data/categories.ts:9429
 msgid "Firepit"
 msgstr "Hố đốt lửa trại"
 
-#: src/data/categories.ts:3636
+#: src/data/categories.ts:3764
 msgid "Fish & Chips"
 msgstr "Cá & Khoai tây chiên"
 
-#: src/data/categories.ts:16523
+#: src/data/categories.ts:16923
 msgid "Fish Market"
 msgstr "Chợ cá"
 
-#: src/data/categories.ts:9658
+#: src/data/categories.ts:10058
 msgid "Fishing"
 msgstr "Câu cá"
 
-#: src/data/categories.ts:16194
+#: src/data/categories.ts:16594
 msgid "Fishing Supply"
 msgstr "Dụng cụ Câu cá"
 
-#: src/data/categories.ts:10341
+#: src/data/categories.ts:10741
 msgid "Fitness Center"
 msgstr "Trung tâm Thể dục"
 
-#: src/data/categories.ts:16221
+#: src/data/categories.ts:16621
 msgid "Flea Market"
 msgstr "Chợ trời"
 
-#: src/data/categories.ts:7324
+#: src/data/categories.ts:7724
 msgid "Flight School"
 msgstr "Trường bay"
 
-#: src/data/categories.ts:16248
+#: src/data/categories.ts:16648
 msgid "Florist"
 msgstr "Người bán hoa"
 
-#: src/data/categories.ts:3668
+#: src/data/categories.ts:3796
 msgid "Fondue"
 msgstr "Lẩu pho mát"
 
-#: src/data/categories.ts:16275
+#: src/data/categories.ts:16675
 msgid "Food & Beverage"
 msgstr "Thực phẩm & Nước giải khát"
 
-#: src/data/categories.ts:3700
+#: src/data/categories.ts:3828
 msgid "Food Court"
 msgstr "Khu ăn uống"
 
@@ -1277,103 +1277,103 @@ msgstr "Khu ăn uống"
 msgid "Football Stadium"
 msgstr "Sân vận động Bóng đá"
 
-#: src/data/categories.ts:9468
+#: src/data/categories.ts:9868
 msgid "Forest"
 msgstr "Rừng"
 
-#: src/data/categories.ts:9041
+#: src/data/categories.ts:9441
 msgid "Fortress"
 msgstr "Pháo đài"
 
-#: src/data/categories.ts:14061
+#: src/data/categories.ts:14461
 msgid "Foundation"
 msgstr "Quỹ tài trợ"
 
-#: src/data/categories.ts:9053
+#: src/data/categories.ts:9453
 msgid "Fountain"
 msgstr "Nguồn nước"
 
-#: src/data/categories.ts:16795
+#: src/data/categories.ts:17195
 msgid "Frame Shop"
 msgstr "Cửa hàng bán Khung tranh"
 
-#: src/data/categories.ts:14594
+#: src/data/categories.ts:14994
 msgid "Fraternity House"
 msgstr "Ký túc xá Nam"
 
-#: src/data/categories.ts:3732
+#: src/data/categories.ts:3860
 msgid "French"
 msgstr "Pháp"
 
-#: src/data/categories.ts:3764
+#: src/data/categories.ts:3892
 msgid "Fried Chicken"
 msgstr "Gà rán"
 
-#: src/data/categories.ts:3796
+#: src/data/categories.ts:3924
 msgid "Friterie"
 msgstr "Quán bán khoai tây rán"
 
-#: src/data/categories.ts:3828
+#: src/data/categories.ts:3956
 msgid "Frozen Yogurt"
 msgstr "Kem sữa chua"
 
-#: src/data/categories.ts:16550
+#: src/data/categories.ts:16950
 msgid "Fruits & Vegetables"
 msgstr "Trái cây & Rau quả"
 
-#: src/data/categories.ts:3860
+#: src/data/categories.ts:3988
 msgid "Fujian"
 msgstr ""
 
-#: src/data/categories.ts:13541
+#: src/data/categories.ts:13941
 msgid "Funeral Home"
 msgstr "Nhà tang lễ"
 
-#: src/data/categories.ts:14836
+#: src/data/categories.ts:15236
 msgid "Gaming Cafe"
 msgstr "Quán cà phê Game"
 
-#: src/data/categories.ts:9670
+#: src/data/categories.ts:10070
 msgid "Garden"
 msgstr "Vườn"
 
-#: src/data/categories.ts:16962
+#: src/data/categories.ts:17362
 msgid "Garden Center"
 msgstr "Trung tâm kinh doanh Hạt giống"
 
-#: src/data/categories.ts:11123
+#: src/data/categories.ts:11523
 msgid "Gas Station"
 msgstr "Trạm xăng"
 
-#: src/data/categories.ts:3876
+#: src/data/categories.ts:4020
 msgid "Gastropub"
 msgstr "Quán rượu có bán đồ ăn"
 
-#: src/data/categories.ts:9065
+#: src/data/categories.ts:9465
 msgid "Gate"
 msgstr "Cổng"
 
-#: src/data/categories.ts:8020
+#: src/data/categories.ts:8420
 msgid "Gay Bar"
 msgstr "Quán bar Đồng tính"
 
-#: src/data/categories.ts:15733
+#: src/data/categories.ts:16133
 msgid "General Clothing Store"
 msgstr "Cửa hàng Quần áo Tổng hợp"
 
-#: src/data/categories.ts:3908
+#: src/data/categories.ts:4052
 msgid "German"
 msgstr "Đức"
 
-#: src/data/categories.ts:16822
+#: src/data/categories.ts:17222
 msgid "Gifts & Souvenirs"
 msgstr "Quà tặng & Đồ lưu niệm"
 
-#: src/data/categories.ts:9077
+#: src/data/categories.ts:9477
 msgid "Glacier"
 msgstr "Sông băng"
 
-#: src/data/categories.ts:3940
+#: src/data/categories.ts:4084
 msgid "Gluten-free"
 msgstr "Chế độ ăn không có gluten"
 
@@ -1381,15 +1381,15 @@ msgstr "Chế độ ăn không có gluten"
 msgid "Go Karts"
 msgstr "Xe Go Kart"
 
-#: src/data/categories.ts:10368
+#: src/data/categories.ts:10768
 msgid "Golf Course"
 msgstr "Sân golf"
 
-#: src/data/categories.ts:10395
+#: src/data/categories.ts:10795
 msgid "Golf Driving Range"
 msgstr "Sân tập gôn"
 
-#: src/data/categories.ts:16577
+#: src/data/categories.ts:16977
 msgid "Gourmet Shop"
 msgstr "Cửa hàng chuyên phục vụ những Người sành ăn"
 
@@ -1397,87 +1397,87 @@ msgstr "Cửa hàng chuyên phục vụ những Người sành ăn"
 msgid "Government Building"
 msgstr "Tòa nhà Chính phủ"
 
-#: src/data/categories.ts:7351
+#: src/data/categories.ts:7751
 msgid "Graduate School"
 msgstr "Trường Sau đại học"
 
-#: src/data/categories.ts:3972
+#: src/data/categories.ts:4116
 msgid "Greek"
 msgstr "Hy Lạp"
 
-#: src/data/categories.ts:16604
+#: src/data/categories.ts:17004
 msgid "Grocery"
 msgstr "Cửa hàng tạp hóa"
 
-#: src/data/categories.ts:18669
+#: src/data/categories.ts:19069
 msgid "Guest House"
 msgstr "Nhà khách"
 
-#: src/data/categories.ts:9682
+#: src/data/categories.ts:10082
 msgid "Gun Range"
 msgstr "Khu tập Súng"
 
-#: src/data/categories.ts:16849
+#: src/data/categories.ts:17249
 msgid "Gun Shop"
 msgstr "Cửa hàng Súng"
 
-#: src/data/categories.ts:10422
+#: src/data/categories.ts:10822
 msgid "Gym"
 msgstr "Phòng thể dục"
 
-#: src/data/categories.ts:10449
+#: src/data/categories.ts:10849
 msgid "Gymnastics Studio"
 msgstr "Phòng Thể dục dụng cụ"
 
-#: src/data/categories.ts:11673
+#: src/data/categories.ts:12073
 msgid "HVAC Company"
 msgstr "Công ty HVAC"
 
-#: src/data/categories.ts:13568
+#: src/data/categories.ts:13968
 msgid "Hacker Space"
 msgstr "Không gian Tin tặc"
 
-#: src/data/categories.ts:4004
+#: src/data/categories.ts:4148
 msgid "Halal"
 msgstr "Hợp pháp"
 
-#: src/data/categories.ts:16989
+#: src/data/categories.ts:17389
 msgid "Hardware Store"
 msgstr "Cửa hàng Ngũ kim"
 
-#: src/data/categories.ts:4036
+#: src/data/categories.ts:4180
 msgid "Hawaiian"
 msgstr "Hawaii"
 
-#: src/data/categories.ts:12085
+#: src/data/categories.ts:12485
 msgid "Health"
 msgstr "Sức khỏe"
 
-#: src/data/categories.ts:4068
+#: src/data/categories.ts:4212
 msgid "Health Food"
 msgstr "Thực phẩm tốt cho Sức khỏe"
 
-#: src/data/categories.ts:16631
+#: src/data/categories.ts:17031
 msgid "Health Food Store"
 msgstr "Cửa hàng Thực phẩm Tốt cho sức khỏe"
 
-#: src/data/categories.ts:18358
+#: src/data/categories.ts:18758
 msgid "Heliport"
 msgstr "Bãi đáp máy bay trực thăng"
 
-#: src/data/categories.ts:16658
+#: src/data/categories.ts:17058
 msgid "Herbs & Spices"
 msgstr "Thảo dược & Gia vị"
 
-#: src/data/categories.ts:7368
+#: src/data/categories.ts:7768
 msgid "High School"
 msgstr "Trung học"
 
-#: src/data/categories.ts:4100
+#: src/data/categories.ts:4244
 msgid "Himalayan"
 msgstr ""
 
-#: src/data/categories.ts:14345
+#: src/data/categories.ts:14745
 msgid "Hindu Temple"
 msgstr "Đền thờ Hindu"
 
@@ -1497,7 +1497,7 @@ msgstr "Di sản"
 msgid "History Museum"
 msgstr "Bảo tàng Lịch sử"
 
-#: src/data/categories.ts:16876
+#: src/data/categories.ts:17276
 msgid "Hobby Store"
 msgstr "Cửa hàng Sở thích"
 
@@ -1505,23 +1505,23 @@ msgstr "Cửa hàng Sở thích"
 msgid "Hockey Arena"
 msgstr "Đấu trường Khúc côn cầu"
 
-#: src/data/categories.ts:10476
+#: src/data/categories.ts:10876
 msgid "Hockey Field"
 msgstr "Sân Khúc côn cầu"
 
-#: src/data/categories.ts:16903
+#: src/data/categories.ts:17303
 msgid "Home & Garden"
 msgstr "Nhà & Vườn"
 
-#: src/data/categories.ts:17016
+#: src/data/categories.ts:17416
 msgid "Home Furnishings"
 msgstr "Đồ dùng Trong nhà"
 
-#: src/data/categories.ts:4116
+#: src/data/categories.ts:4276
 msgid "Hong Kong"
 msgstr "Hồng Kông"
 
-#: src/data/categories.ts:8052
+#: src/data/categories.ts:8452
 msgid "Hookah Bar"
 msgstr "Quán bar Hút shisha"
 
@@ -1529,79 +1529,79 @@ msgstr "Quán bar Hút shisha"
 msgid "Horse Racetrack"
 msgstr "Đường đua Ngựa"
 
-#: src/data/categories.ts:12279
+#: src/data/categories.ts:12679
 msgid "Hospice"
 msgstr "Chăm sóc cuối đời"
 
-#: src/data/categories.ts:12306
+#: src/data/categories.ts:12706
 msgid "Hospital"
 msgstr "Bệnh viện"
 
-#: src/data/categories.ts:18691
+#: src/data/categories.ts:19091
 msgid "Hostel"
 msgstr "Nhà tập thể"
 
-#: src/data/categories.ts:4148
+#: src/data/categories.ts:4308
 msgid "Hot Dog"
 msgstr "Xúc xích"
 
-#: src/data/categories.ts:4180
+#: src/data/categories.ts:4340
 msgid "Hot Pot"
 msgstr "Thịt hầm với khoai tây"
 
-#: src/data/categories.ts:9089
+#: src/data/categories.ts:9489
 msgid "Hot Spring"
 msgstr "Suối nước nóng"
 
-#: src/data/categories.ts:18713
+#: src/data/categories.ts:19113
 msgid "Hotel"
 msgstr "Khách sạn"
 
-#: src/data/categories.ts:8084
+#: src/data/categories.ts:8484
 msgid "Hotel Bar"
 msgstr "Quán bar kiểu Khách sạn"
 
-#: src/data/categories.ts:17043
+#: src/data/categories.ts:17443
 msgid "Household Appliances"
 msgstr "Thiết bị Gia dụng"
 
-#: src/data/categories.ts:14616
+#: src/data/categories.ts:15016
 msgid "Housing Project"
 msgstr "Dự án Nhà ở"
 
-#: src/data/categories.ts:4212
+#: src/data/categories.ts:4372
 msgid "Huaiyang"
 msgstr ""
 
-#: src/data/categories.ts:4228
+#: src/data/categories.ts:4404
 msgid "Hunan"
 msgstr ""
 
-#: src/data/categories.ts:4244
+#: src/data/categories.ts:4436
 msgid "Hungarian"
 msgstr "Hung-ga-ri"
 
-#: src/data/categories.ts:4276
+#: src/data/categories.ts:4468
 msgid "Ice Cream"
 msgstr "Kem"
 
-#: src/data/categories.ts:10503
+#: src/data/categories.ts:10903
 msgid "Ice Skating Rink"
 msgstr "Sân Trượt băng"
 
-#: src/data/categories.ts:4308
+#: src/data/categories.ts:4500
 msgid "Indian"
 msgstr "Ấn Độ"
 
-#: src/data/categories.ts:4340
+#: src/data/categories.ts:4532
 msgid "Indian Sweets"
 msgstr "Bánh ngọt Ấn Độ"
 
-#: src/data/categories.ts:4372
+#: src/data/categories.ts:4564
 msgid "Indonesian"
 msgstr "Indonesia"
 
-#: src/data/categories.ts:4404
+#: src/data/categories.ts:4596
 msgid "Indonesian Meatballs"
 msgstr ""
 
@@ -1609,43 +1609,43 @@ msgstr ""
 msgid "Indoor Arena"
 msgstr "Nhà thi đấu"
 
-#: src/data/categories.ts:12713
+#: src/data/categories.ts:13113
 msgid "Industrial"
 msgstr "Công nghiệp"
 
-#: src/data/categories.ts:12784
+#: src/data/categories.ts:13184
 msgid "Industrial Estate"
 msgstr "Khu công nghiệp"
 
-#: src/data/categories.ts:13595
+#: src/data/categories.ts:13995
 msgid "Insurance Agent"
 msgstr "Đại lý Bảo hiểm"
 
-#: src/data/categories.ts:13622
+#: src/data/categories.ts:14022
 msgid "Internet Cafe"
 msgstr "Cà phê có Internet"
 
-#: src/data/categories.ts:13102
+#: src/data/categories.ts:13502
 msgid "Investment Brokerage"
 msgstr "Môi giới Đầu tư"
 
-#: src/data/categories.ts:4420
+#: src/data/categories.ts:4628
 msgid "Irish"
 msgstr "Ai-len"
 
-#: src/data/categories.ts:4452
+#: src/data/categories.ts:4660
 msgid "Israeli"
 msgstr "Israel"
 
-#: src/data/categories.ts:4484
+#: src/data/categories.ts:4692
 msgid "Italian"
 msgstr "Italia"
 
-#: src/data/categories.ts:4516
+#: src/data/categories.ts:4724
 msgid "Japanese"
 msgstr "Nhật Bản"
 
-#: src/data/categories.ts:4548
+#: src/data/categories.ts:4756
 msgid "Javanese"
 msgstr ""
 
@@ -1653,119 +1653,119 @@ msgstr ""
 msgid "Jazz & Blues"
 msgstr "Nhạc Jazz & nhạc Blue"
 
-#: src/data/categories.ts:9101
+#: src/data/categories.ts:9501
 msgid "Jetty"
 msgstr "Cầu tàu"
 
-#: src/data/categories.ts:17153
+#: src/data/categories.ts:17553
 msgid "Jewelry Store"
 msgstr "Cửa hàng Nữ trang"
 
-#: src/data/categories.ts:4564
+#: src/data/categories.ts:4788
 msgid "Jewish"
 msgstr "Do Thái"
 
-#: src/data/categories.ts:4596
+#: src/data/categories.ts:4820
 msgid "Jiangsu"
 msgstr ""
 
-#: src/data/categories.ts:15260
+#: src/data/categories.ts:15660
 msgid "Job Training"
 msgstr "Đào tạo Nghề"
 
-#: src/data/categories.ts:4612
+#: src/data/categories.ts:4852
 msgid "Juice Bar"
 msgstr "Quán Nước trái cây"
 
-#: src/data/categories.ts:8116
+#: src/data/categories.ts:8516
 msgid "Karaoke"
 msgstr "Karaoke"
 
-#: src/data/categories.ts:4644
+#: src/data/categories.ts:4884
 msgid "Kebab"
 msgstr "Món Kebab"
 
-#: src/data/categories.ts:7390
+#: src/data/categories.ts:7790
 msgid "Kindergarten"
 msgstr "Trường Mẫu giáo"
 
-#: src/data/categories.ts:14367
+#: src/data/categories.ts:14767
 msgid "Kingdom Hall"
 msgstr "Phòng Nước Trời"
 
-#: src/data/categories.ts:17070
+#: src/data/categories.ts:17470
 msgid "Kitchen Supply"
 msgstr "Đồ dùng Nhà bếp"
 
-#: src/data/categories.ts:17180
+#: src/data/categories.ts:17580
 msgid "Knitting Store"
 msgstr "Cửa hàng bán Đồ len"
 
-#: src/data/categories.ts:4676
+#: src/data/categories.ts:4916
 msgid "Korean"
 msgstr "Hàn Quốc"
 
-#: src/data/categories.ts:4708
+#: src/data/categories.ts:4948
 msgid "Korean Barbecue"
 msgstr "Thịt nướng Hàn Quốc"
 
-#: src/data/categories.ts:14088
+#: src/data/categories.ts:14488
 msgid "Labor Organization"
 msgstr "Tổ chức Lao động"
 
-#: src/data/categories.ts:12806
+#: src/data/categories.ts:13206
 msgid "Laboratory"
 msgstr "Phòng thí nghiệm"
 
-#: src/data/categories.ts:9113
+#: src/data/categories.ts:9513
 msgid "Lagoon"
 msgstr "Đầm phá"
 
-#: src/data/categories.ts:9125
+#: src/data/categories.ts:9525
 msgid "Lake"
 msgstr "Hồ"
 
-#: src/data/categories.ts:11695
+#: src/data/categories.ts:12095
 msgid "Landfill"
 msgstr "Bãi thải"
 
-#: src/data/categories.ts:8904
+#: src/data/categories.ts:9304
 msgid "Landmark"
 msgstr "Cột mốc"
 
-#: src/data/categories.ts:11717
+#: src/data/categories.ts:12117
 msgid "Landscaper"
 msgstr "Người xây dựng vườn hoa và công viên"
 
-#: src/data/categories.ts:7412
+#: src/data/categories.ts:7812
 msgid "Language School"
 msgstr "Trường Ngôn ngữ"
 
-#: src/data/categories.ts:9694
+#: src/data/categories.ts:10094
 msgid "Laser Tag"
 msgstr "Bắn súng Laser"
 
-#: src/data/categories.ts:4740
+#: src/data/categories.ts:4980
 msgid "Latin American"
 msgstr "Mỹ Latinh"
 
-#: src/data/categories.ts:14863
+#: src/data/categories.ts:15263
 msgid "Laundromat"
 msgstr "Tiệm giặt ủi"
 
-#: src/data/categories.ts:7439
+#: src/data/categories.ts:7839
 msgid "Law School"
 msgstr "Trường Luật"
 
-#: src/data/categories.ts:13649
+#: src/data/categories.ts:14049
 msgid "Lawyer & Legal Services"
 msgstr "Dịch vụ Luật sư & Pháp lý"
 
-#: src/data/categories.ts:17207
+#: src/data/categories.ts:17607
 msgid "Leather Goods"
 msgstr "Hàng bằng da"
 
-#: src/data/categories.ts:4772
+#: src/data/categories.ts:5012
 msgid "Lebanese"
 msgstr "Li Băng"
 
@@ -1773,156 +1773,156 @@ msgstr "Li Băng"
 msgid "Library"
 msgstr "Thư viện"
 
-#: src/data/categories.ts:18844
+#: src/data/categories.ts:19244
 msgid "Light Rail Station"
 msgstr "Ga Đường sắt Hạng nhẹ"
 
-#: src/data/categories.ts:9137
+#: src/data/categories.ts:9537
 msgid "Lighthouse"
 msgstr "Ngọn hải đăng"
 
-#: src/data/categories.ts:17097
+#: src/data/categories.ts:17497
 msgid "Lighting Store"
 msgstr "Cửa hàng Đèn"
 
-#: src/data/categories.ts:15760
+#: src/data/categories.ts:16160
 msgid "Lingerie Shop"
 msgstr "Cửa hàng Đồ lót"
 
-#: src/data/categories.ts:16685
+#: src/data/categories.ts:17085
 msgid "Liquor Store"
 msgstr "Cửa hàng Rượu"
 
-#: src/data/categories.ts:8767
+#: src/data/categories.ts:9167
 msgid "Livestock Farm"
 msgstr "Trang trại Chăn nuôi"
 
-#: src/data/categories.ts:11739
-#: src/data/categories.ts:14890
+#: src/data/categories.ts:12139
+#: src/data/categories.ts:15290
 msgid "Locksmith"
 msgstr "Thợ khóa"
 
-#: src/data/categories.ts:18394
+#: src/data/categories.ts:18794
 msgid "Lot"
 msgstr "Lô"
 
-#: src/data/categories.ts:14917
+#: src/data/categories.ts:15317
 msgid "Lottery Store"
 msgstr "Cửa hàng Xổ số"
 
-#: src/data/categories.ts:8148
+#: src/data/categories.ts:8548
 msgid "Lounge"
 msgstr "Phòng chờ"
 
-#: src/data/categories.ts:17234
+#: src/data/categories.ts:17634
 msgid "Luggage Store"
 msgstr "Cửa hàng bán Hành lý"
 
-#: src/data/categories.ts:4804
+#: src/data/categories.ts:5044
 msgid "Mac & Cheese"
 msgstr "Mì ống & Pho mát"
 
-#: src/data/categories.ts:4836
+#: src/data/categories.ts:5076
 msgid "Macanese"
 msgstr ""
 
-#: src/data/categories.ts:4852
+#: src/data/categories.ts:5108
 msgid "Malaysian"
 msgstr "Malaysia"
 
-#: src/data/categories.ts:4884
+#: src/data/categories.ts:5140
 msgid "Mamak"
 msgstr ""
 
-#: src/data/categories.ts:4900
+#: src/data/categories.ts:5172
 msgid "Manadonese"
 msgstr ""
 
-#: src/data/categories.ts:13676
+#: src/data/categories.ts:14076
 msgid "Management & Consulting"
 msgstr "Quản lý & Tư vấn"
 
-#: src/data/categories.ts:12333
+#: src/data/categories.ts:12733
 msgid "Marijuana Dispensary"
 msgstr "Phòng pha chế Cần sa"
 
-#: src/data/categories.ts:9721
+#: src/data/categories.ts:10121
 msgid "Marina"
 msgstr "Bến Du thuyền"
 
-#: src/data/categories.ts:18518
+#: src/data/categories.ts:18918
 msgid "Marine"
 msgstr "Hàng hải"
 
-#: src/data/categories.ts:17261
+#: src/data/categories.ts:17661
 msgid "Marketplace"
 msgstr "Thị trường"
 
-#: src/data/categories.ts:10530
+#: src/data/categories.ts:10930
 msgid "Martial Arts"
 msgstr "Võ thuật"
 
-#: src/data/categories.ts:11394
+#: src/data/categories.ts:11794
 msgid "Massage"
 msgstr "Mát-xa"
 
-#: src/data/categories.ts:12360
+#: src/data/categories.ts:12760
 msgid "Maternity Clinic"
 msgstr "Phòng khám Phụ sản"
 
-#: src/data/categories.ts:17288
+#: src/data/categories.ts:17688
 msgid "Mattress Store"
 msgstr "Cửa hàng bán Đệm"
 
-#: src/data/categories.ts:9733
+#: src/data/categories.ts:10133
 msgid "Maze"
 msgstr "Mê cung"
 
-#: src/data/categories.ts:12387
+#: src/data/categories.ts:12787
 msgid "Medical Center"
 msgstr "Trung tâm Y tế"
 
-#: src/data/categories.ts:12414
+#: src/data/categories.ts:12814
 msgid "Medical Lab"
 msgstr "Phòng thí nghiệm Y tế"
 
-#: src/data/categories.ts:7456
+#: src/data/categories.ts:7856
 msgid "Medical School"
 msgstr "Trường Y"
 
-#: src/data/categories.ts:17315
+#: src/data/categories.ts:17715
 msgid "Medical Supply Store"
 msgstr "Cửa hàng Vật tư Y tế"
 
-#: src/data/categories.ts:4916
+#: src/data/categories.ts:5204
 msgid "Mediterranean"
 msgstr "Địa Trung Hải"
 
-#: src/data/categories.ts:14115
+#: src/data/categories.ts:14515
 msgid "Membership Organization"
 msgstr "Tổ chức Thành viên"
 
-#: src/data/categories.ts:9149
+#: src/data/categories.ts:9549
 msgid "Memorial"
 msgstr "Đài tưởng niệm"
 
-#: src/data/categories.ts:15787
+#: src/data/categories.ts:16187
 msgid "Men's Clothing Store"
 msgstr "Cửa hàng Quần áo Nam"
 
-#: src/data/categories.ts:4948
+#: src/data/categories.ts:5236
 msgid "Mexican"
 msgstr "Mexico"
 
-#: src/data/categories.ts:4980
+#: src/data/categories.ts:5268
 msgid "Middle Eastern"
 msgstr "Trung Đông"
 
-#: src/data/categories.ts:7473
+#: src/data/categories.ts:7873
 msgid "Middle School"
 msgstr "Trường Trung học Cơ sở"
 
-#: src/data/categories.ts:12441
+#: src/data/categories.ts:12841
 msgid "Midwife"
 msgstr "Nhân viên hộ sinh"
 
@@ -1930,67 +1930,67 @@ msgstr "Nhân viên hộ sinh"
 msgid "Military Base"
 msgstr "Căn cứ Quân sự"
 
-#: src/data/categories.ts:9750
+#: src/data/categories.ts:10150
 msgid "Miniature Golf"
 msgstr "Đấu golf Thu nhỏ"
 
-#: src/data/categories.ts:12828
+#: src/data/categories.ts:13228
 msgid "Mining & Drilling"
 msgstr "Khai thác & Khoan"
 
-#: src/data/categories.ts:14389
+#: src/data/categories.ts:14789
 msgid "Mission"
 msgstr "Sứ mệnh"
 
-#: src/data/categories.ts:17124
+#: src/data/categories.ts:17524
 msgid "Mobile Homes"
 msgstr "Nhà lưu động"
 
-#: src/data/categories.ts:17342
+#: src/data/categories.ts:17742
 msgid "Mobile Phones"
 msgstr "Điện thoại Di động"
 
-#: src/data/categories.ts:5012
+#: src/data/categories.ts:5300
 msgid "Modern European"
 msgstr "Châu Âu Hiện đại"
 
-#: src/data/categories.ts:5044
+#: src/data/categories.ts:5332
 msgid "Molecular Gastronomy"
 msgstr "Ẩm thực Phân tử"
 
-#: src/data/categories.ts:14411
+#: src/data/categories.ts:14811
 msgid "Monastery"
 msgstr "Tu viện"
 
-#: src/data/categories.ts:12962
+#: src/data/categories.ts:13362
 msgid "Money"
 msgstr "Tiền"
 
-#: src/data/categories.ts:5076
+#: src/data/categories.ts:5364
 msgid "Mongolian"
 msgstr "Mông Cổ"
 
-#: src/data/categories.ts:9161
+#: src/data/categories.ts:9561
 msgid "Monument"
 msgstr "Tượng đài"
 
-#: src/data/categories.ts:5108
+#: src/data/categories.ts:5396
 msgid "Moroccan"
 msgstr "Maroc"
 
-#: src/data/categories.ts:14433
+#: src/data/categories.ts:14833
 msgid "Mosque"
 msgstr "Nhà thờ Hồi giáo"
 
-#: src/data/categories.ts:18735
+#: src/data/categories.ts:19135
 msgid "Motel"
 msgstr "Nhà nghỉ"
 
-#: src/data/categories.ts:11145
+#: src/data/categories.ts:11545
 msgid "Motorcycle Sales"
 msgstr "Bán Xe máy"
 
-#: src/data/categories.ts:9173
+#: src/data/categories.ts:9573
 msgid "Mountain"
 msgstr "Dãy núi"
 
@@ -2014,87 +2014,87 @@ msgstr "Bảo tàng"
 msgid "Music"
 msgstr "Âm nhạc"
 
-#: src/data/categories.ts:7495
+#: src/data/categories.ts:7895
 msgid "Music School"
 msgstr "Trường Âm nhạc"
 
-#: src/data/categories.ts:17369
+#: src/data/categories.ts:17769
 msgid "Music Store"
 msgstr "Cửa hàng dụng cụ Âm nhạc"
 
-#: src/data/categories.ts:11421
+#: src/data/categories.ts:11821
 msgid "Nail Salon"
 msgstr "Tiệm làm móng"
 
-#: src/data/categories.ts:14638
+#: src/data/categories.ts:15038
 msgid "Named Residential Building"
 msgstr "Chung cư Được đặt tên"
 
-#: src/data/categories.ts:9480
+#: src/data/categories.ts:9880
 msgid "National Park"
 msgstr "Công viên Quốc gia"
 
-#: src/data/categories.ts:9492
+#: src/data/categories.ts:9892
 msgid "Nature Preserve"
 msgstr "Khu bảo tồn Thiên nhiên"
 
-#: src/data/categories.ts:5140
+#: src/data/categories.ts:5428
 msgid "New American"
 msgstr "New America"
 
-#: src/data/categories.ts:11878
+#: src/data/categories.ts:12278
 msgid "Newspaper"
 msgstr "Báo chí"
 
-#: src/data/categories.ts:17396
+#: src/data/categories.ts:17796
 msgid "Newsstand"
 msgstr "Quầy bán báo"
 
-#: src/data/categories.ts:8180
+#: src/data/categories.ts:8580
 msgid "Nightclub"
 msgstr "Hộp đêm"
 
-#: src/data/categories.ts:7727
+#: src/data/categories.ts:8127
 msgid "Nightlife"
 msgstr "Cuộc sống về đêm"
 
-#: src/data/categories.ts:13703
+#: src/data/categories.ts:14103
 msgid "Non-Profit"
 msgstr "Phi lợi nhuận"
 
-#: src/data/categories.ts:5172
+#: src/data/categories.ts:5460
 msgid "Noodles"
 msgstr "Bún"
 
-#: src/data/categories.ts:13730
+#: src/data/categories.ts:14130
 msgid "Notary"
 msgstr "Công chứng viên"
 
-#: src/data/categories.ts:9777
+#: src/data/categories.ts:10177
 msgid "Nude Beach"
 msgstr "Bãi biển Nude"
 
-#: src/data/categories.ts:7522
+#: src/data/categories.ts:7922
 msgid "Nursery School"
 msgstr "Trường Mầm non"
 
-#: src/data/categories.ts:12468
+#: src/data/categories.ts:12868
 msgid "Nursing Home"
 msgstr "Cơ sở Điều dưỡng"
 
-#: src/data/categories.ts:12495
+#: src/data/categories.ts:12895
 msgid "Nutritionist"
 msgstr "Chuyên gia dinh dưỡng"
 
-#: src/data/categories.ts:13131
+#: src/data/categories.ts:13531
 msgid "Office"
 msgstr "Văn phòng"
 
-#: src/data/categories.ts:17423
+#: src/data/categories.ts:17823
 msgid "Office Supply"
 msgstr "Văn phòng phẩm"
 
-#: src/data/categories.ts:12850
+#: src/data/categories.ts:13250
 msgid "Oil Field"
 msgstr "Mỏ Dầu hỏa"
 
@@ -2102,59 +2102,59 @@ msgstr "Mỏ Dầu hỏa"
 msgid "Opera"
 msgstr "Nhạc Opera"
 
-#: src/data/categories.ts:17450
+#: src/data/categories.ts:17850
 msgid "Optical Goods"
 msgstr "Hàng hóa Quang học"
 
-#: src/data/categories.ts:12522
+#: src/data/categories.ts:12922
 msgid "Optometrist"
 msgstr "Bác sĩ nhãn khoa"
 
-#: src/data/categories.ts:8794
+#: src/data/categories.ts:9194
 msgid "Orchard"
 msgstr "Vườn cây ăn quả"
 
-#: src/data/categories.ts:14029
+#: src/data/categories.ts:14429
 msgid "Organization"
 msgstr "Tổ chức"
 
-#: src/data/categories.ts:17477
+#: src/data/categories.ts:17877
 msgid "Outdoor Supply"
 msgstr "Đồ dùng Ngoài trời"
 
-#: src/data/categories.ts:8534
+#: src/data/categories.ts:8934
 msgid "Outdoors & Recreation"
 msgstr "Ngoài trời & Giải trí"
 
-#: src/data/categories.ts:17504
+#: src/data/categories.ts:17904
 msgid "Outlet Mall"
 msgstr "Khu bán Hàng tồn kho"
 
-#: src/data/categories.ts:17531
+#: src/data/categories.ts:17931
 msgid "Outlet Store"
 msgstr "Cửa hàng Tồn kho"
 
-#: src/data/categories.ts:8212
+#: src/data/categories.ts:8612
 msgid "Oxygen Bar"
 msgstr "Quán bar Oxy"
 
-#: src/data/categories.ts:5204
+#: src/data/categories.ts:5492
 msgid "Padangnese"
 msgstr ""
 
-#: src/data/categories.ts:9185
+#: src/data/categories.ts:9585
 msgid "Pagoda"
 msgstr "Chùa"
 
-#: src/data/categories.ts:10557
+#: src/data/categories.ts:10957
 msgid "Paintball Field"
 msgstr "Sân Bắn súng sơn"
 
-#: src/data/categories.ts:11761
+#: src/data/categories.ts:12161
 msgid "Painting Company"
 msgstr "Công ty Sơn"
 
-#: src/data/categories.ts:5220
+#: src/data/categories.ts:5524
 msgid "Pakistani"
 msgstr "Pakistan"
 
@@ -2162,31 +2162,31 @@ msgstr "Pakistan"
 msgid "Palace"
 msgstr "Cung điện"
 
-#: src/data/categories.ts:5252
+#: src/data/categories.ts:5556
 msgid "Pancake House"
 msgstr "Nhà Bánh kếp"
 
-#: src/data/categories.ts:18377
+#: src/data/categories.ts:18777
 msgid "Parking Garage/Lot"
 msgstr "Bãi/Sân Đỗ xe"
 
-#: src/data/categories.ts:9415
+#: src/data/categories.ts:9815
 msgid "Parks"
 msgstr "Công viên"
 
-#: src/data/categories.ts:17558
+#: src/data/categories.ts:17958
 msgid "Party Supplies"
 msgstr "Đồ dùng Sinh nhật"
 
-#: src/data/categories.ts:5284
+#: src/data/categories.ts:5588
 msgid "Pastry Shop"
 msgstr "Cửa hàng Bánh Pastry"
 
-#: src/data/categories.ts:17585
+#: src/data/categories.ts:17985
 msgid "Pawn Shop"
 msgstr "Tiệm cầm đồ"
 
-#: src/data/categories.ts:5316
+#: src/data/categories.ts:5620
 msgid "Peking Duck"
 msgstr "Vịt quay Bắc Kinh"
 
@@ -2195,39 +2195,39 @@ msgstr "Vịt quay Bắc Kinh"
 msgid "Performing Arts"
 msgstr "Nghệ thuật biểu diễn"
 
-#: src/data/categories.ts:5348
+#: src/data/categories.ts:5652
 msgid "Persian"
 msgstr "Iran"
 
-#: src/data/categories.ts:5380
+#: src/data/categories.ts:5684
 msgid "Peruvian"
 msgstr "Peru"
 
-#: src/data/categories.ts:11783
+#: src/data/categories.ts:12183
 msgid "Pest Control"
 msgstr "Kiểm soát Côn trùng"
 
-#: src/data/categories.ts:14944
+#: src/data/categories.ts:15344
 msgid "Pet Services"
 msgstr "Dịch vụ Thú cưng"
 
-#: src/data/categories.ts:17612
+#: src/data/categories.ts:18012
 msgid "Pet Store"
 msgstr "Cửa hàng Thú cưng"
 
-#: src/data/categories.ts:8598
+#: src/data/categories.ts:8998
 msgid "Petting Zoo"
 msgstr "Vườn thú nuôi"
 
-#: src/data/categories.ts:17639
+#: src/data/categories.ts:18039
 msgid "Pharmacy"
 msgstr "Hiệu thuốc"
 
-#: src/data/categories.ts:14971
+#: src/data/categories.ts:15371
 msgid "Photography Lab"
 msgstr "Phòng thí nghiệm Nhiếp ảnh"
 
-#: src/data/categories.ts:12549
+#: src/data/categories.ts:12949
 msgid "Physical Therapist"
 msgstr "Chuyên viên Vật lý trị liệu"
 
@@ -2235,27 +2235,27 @@ msgstr "Chuyên viên Vật lý trị liệu"
 msgid "Piano Bar"
 msgstr "Phòng trà nhạc piano"
 
-#: src/data/categories.ts:9789
+#: src/data/categories.ts:10189
 msgid "Picnic Area"
 msgstr "Khu dã ngoại"
 
-#: src/data/categories.ts:5412
+#: src/data/categories.ts:5716
 msgid "Pie Shop"
 msgstr "Cửa hàng Bánh"
 
-#: src/data/categories.ts:18550
+#: src/data/categories.ts:18950
 msgid "Pier"
 msgstr "Bến tàu"
 
-#: src/data/categories.ts:11448
+#: src/data/categories.ts:11848
 msgid "Piercing Parlor"
 msgstr "Xỏ khuyên"
 
-#: src/data/categories.ts:10584
+#: src/data/categories.ts:10984
 msgid "Pilates Studio"
 msgstr "Phòng tập Pilates"
 
-#: src/data/categories.ts:5444
+#: src/data/categories.ts:5748
 msgid "Pizza"
 msgstr "Pizza"
 
@@ -2263,27 +2263,27 @@ msgstr "Pizza"
 msgid "Planetarium"
 msgstr "Cung thiên văn"
 
-#: src/data/categories.ts:8821
+#: src/data/categories.ts:9221
 msgid "Plant Nursery"
 msgstr "Vườn ươm cây"
 
-#: src/data/categories.ts:9801
+#: src/data/categories.ts:10201
 msgid "Playground"
 msgstr "Sân chơi"
 
-#: src/data/categories.ts:10611
+#: src/data/categories.ts:11011
 msgid "Playing Field"
 msgstr "Sân thể thao"
 
-#: src/data/categories.ts:9197
+#: src/data/categories.ts:9597
 msgid "Plaza"
 msgstr "Trung tâm mua bán"
 
-#: src/data/categories.ts:11805
+#: src/data/categories.ts:12205
 msgid "Plumber"
 msgstr "Thợ ống nước"
 
-#: src/data/categories.ts:12576
+#: src/data/categories.ts:12976
 msgid "Podiatrist"
 msgstr "Bác sĩ chuyên về chân"
 
@@ -2291,15 +2291,15 @@ msgstr "Bác sĩ chuyên về chân"
 msgid "Police Station"
 msgstr "Sở Cảnh sát"
 
-#: src/data/categories.ts:5476
+#: src/data/categories.ts:5780
 msgid "Polish"
 msgstr "Ba Lan"
 
-#: src/data/categories.ts:13757
+#: src/data/categories.ts:14157
 msgid "Political Office"
 msgstr "Quan chức Chính phủ"
 
-#: src/data/categories.ts:14142
+#: src/data/categories.ts:14542
 msgid "Political Organization"
 msgstr "Tổ chức Chính trị"
 
@@ -2307,19 +2307,19 @@ msgstr "Tổ chức Chính trị"
 msgid "Pool Hall"
 msgstr "Phòng chơi bi-a"
 
-#: src/data/categories.ts:17666
+#: src/data/categories.ts:18066
 msgid "Pop-Up Shop"
 msgstr "Cửa hàng Pop up"
 
-#: src/data/categories.ts:16712
+#: src/data/categories.ts:17112
 msgid "Pork Store"
 msgstr "Cửa hàng Thịt lợn"
 
-#: src/data/categories.ts:14998
+#: src/data/categories.ts:15398
 msgid "Portrait Studio"
 msgstr "Studio Chân dung"
 
-#: src/data/categories.ts:5508
+#: src/data/categories.ts:5812
 msgid "Portuguese"
 msgstr "Bồ Đào Nha"
 
@@ -2327,23 +2327,23 @@ msgstr "Bồ Đào Nha"
 msgid "Post Office"
 msgstr "Bưu điện"
 
-#: src/data/categories.ts:8848
+#: src/data/categories.ts:9248
 msgid "Poultry Farm"
 msgstr "Trại chăn nuôi Gia cầm"
 
-#: src/data/categories.ts:5540
+#: src/data/categories.ts:5844
 msgid "Poutine"
 msgstr "Món Poutine"
 
-#: src/data/categories.ts:12872
+#: src/data/categories.ts:13272
 msgid "Power Plant"
 msgstr "Nhà máy điện"
 
-#: src/data/categories.ts:7544
+#: src/data/categories.ts:7944
 msgid "Preschool"
 msgstr "Trước tuổi đến trường"
 
-#: src/data/categories.ts:13784
+#: src/data/categories.ts:14184
 msgid "Printing & Photocopies"
 msgstr "In ấn & Phô tô"
 
@@ -2351,15 +2351,15 @@ msgstr "In ấn & Phô tô"
 msgid "Prison"
 msgstr "Nhà tù"
 
-#: src/data/categories.ts:7566
+#: src/data/categories.ts:7966
 msgid "Private School"
 msgstr "Trường Tư thục"
 
-#: src/data/categories.ts:14169
+#: src/data/categories.ts:14569
 msgid "Professional Association"
 msgstr "Hiệp hội Nghề nghiệp"
 
-#: src/data/categories.ts:8244
+#: src/data/categories.ts:8644
 msgid "Pub"
 msgstr "Quán rượu"
 
@@ -2371,23 +2371,23 @@ msgstr "Nghệ thuật công cộng"
 msgid "Public Building"
 msgstr "Nhà Công cộng"
 
-#: src/data/categories.ts:9209
+#: src/data/categories.ts:9609
 msgid "Quarry"
 msgstr "Mỏ đá"
 
-#: src/data/categories.ts:9864
+#: src/data/categories.ts:10264
 msgid "RV Park"
 msgstr "Công viên Nhà xe"
 
-#: src/data/categories.ts:11900
+#: src/data/categories.ts:12300
 msgid "Radio Station"
 msgstr "Trạm phát thanh"
 
-#: src/data/categories.ts:9813
+#: src/data/categories.ts:10213
 msgid "Rafting"
 msgstr "Chèo xuống vượt thác"
 
-#: src/data/categories.ts:5572
+#: src/data/categories.ts:5876
 msgid "Ramen"
 msgstr "Món Ramen"
 
@@ -2395,103 +2395,103 @@ msgstr "Món Ramen"
 msgid "Ranger Station"
 msgstr "Trạm Kiểm lâm"
 
-#: src/data/categories.ts:9221
+#: src/data/categories.ts:9621
 msgid "Rapids"
 msgstr "Thác ghềnh"
 
-#: src/data/categories.ts:13811
+#: src/data/categories.ts:14211
 msgid "Real Estate Agent"
 msgstr "Chuyên viên Địa ốc"
 
-#: src/data/categories.ts:17693
+#: src/data/categories.ts:18093
 msgid "Record Shop"
 msgstr "Cửa hàng Băng đĩa"
 
-#: src/data/categories.ts:11922
+#: src/data/categories.ts:12322
 msgid "Recording Studio"
 msgstr "Phòng thu âm"
 
-#: src/data/categories.ts:9518
+#: src/data/categories.ts:9918
 msgid "Recreation"
 msgstr "Giải trí"
 
-#: src/data/categories.ts:9825
+#: src/data/categories.ts:10225
 msgid "Recreational Facility"
 msgstr "Phương tiện vui chơi công cộng"
 
-#: src/data/categories.ts:11172
+#: src/data/categories.ts:11572
 msgid "Recreational Vehicle Sales"
 msgstr "Bán Xe dã ngoại"
 
-#: src/data/categories.ts:13838
+#: src/data/categories.ts:14238
 msgid "Recruiting Agency"
 msgstr "Đại lý Tuyển dụng"
 
-#: src/data/categories.ts:12603
+#: src/data/categories.ts:13003
 msgid "Rehab Center"
 msgstr "Trung tâm Phục hồi chức năng"
 
-#: src/data/categories.ts:14252
+#: src/data/categories.ts:14652
 msgid "Religious"
 msgstr "Tôn giáo"
 
-#: src/data/categories.ts:14455
+#: src/data/categories.ts:14855
 msgid "Religious Center"
 msgstr "Trung tâm Tôn giáo"
 
-#: src/data/categories.ts:14196
+#: src/data/categories.ts:14596
 msgid "Religious Organization"
 msgstr "Tổ chức Tôn giáo"
 
-#: src/data/categories.ts:7588
+#: src/data/categories.ts:7988
 msgid "Religious School"
 msgstr "Trường Tôn giáo"
 
-#: src/data/categories.ts:15025
+#: src/data/categories.ts:15425
 msgid "Repair Shop"
 msgstr "Hiệu sửa chữa"
 
-#: src/data/categories.ts:13865
+#: src/data/categories.ts:14265
 msgid "Research"
 msgstr "Nghiên cứu"
 
-#: src/data/categories.ts:9233
+#: src/data/categories.ts:9633
 msgid "Reservoir"
 msgstr "Hồ chứa"
 
-#: src/data/categories.ts:14545
+#: src/data/categories.ts:14945
 msgid "Residential"
 msgstr "Nhà ở"
 
-#: src/data/categories.ts:14660
+#: src/data/categories.ts:15060
 msgid "Residential Development"
 msgstr "Phát triển Khu dân cư"
 
-#: src/data/categories.ts:18757
+#: src/data/categories.ts:19157
 msgid "Resort"
 msgstr "Khu nghỉ dưỡng"
 
-#: src/data/categories.ts:18576
+#: src/data/categories.ts:18976
 msgid "Rest"
 msgstr "Nghỉ ngơi"
 
-#: src/data/categories.ts:18411
+#: src/data/categories.ts:18811
 msgid "Rest Area"
 msgstr "Bãi nghỉ"
 
-#: src/data/categories.ts:11245
+#: src/data/categories.ts:11645
 msgid "Restrooms"
 msgstr "Phòng vệ sinh"
 
-#: src/data/categories.ts:14750
+#: src/data/categories.ts:15150
 msgid "Retail"
 msgstr "Bán lẻ"
 
-#: src/data/categories.ts:14682
+#: src/data/categories.ts:15082
 msgid "Retirement Home"
 msgstr "Nhà dưỡng lão"
 
-#: src/data/categories.ts:10638
+#: src/data/categories.ts:11038
 msgid "Rock Climbing"
 msgstr "Leo núi Trong nhà"
 
@@ -2503,15 +2503,15 @@ msgstr "Câu lạc bộ nhạc Rock"
 msgid "Roller Coaster"
 msgstr "Tàu lượn siêu tốc"
 
-#: src/data/categories.ts:9837
+#: src/data/categories.ts:10237
 msgid "Roller Skating Rink"
 msgstr "Sân trượt patanh"
 
-#: src/data/categories.ts:5604
+#: src/data/categories.ts:5908
 msgid "Romanian"
 msgstr "Romani"
 
-#: src/data/categories.ts:10665
+#: src/data/categories.ts:11065
 msgid "Rugby League"
 msgstr "Giải Bóng bầu dục"
 
@@ -2519,47 +2519,47 @@ msgstr "Giải Bóng bầu dục"
 msgid "Ruins"
 msgstr "Tàn tích"
 
-#: src/data/categories.ts:5636
+#: src/data/categories.ts:5940
 msgid "Russian"
 msgstr "Nga"
 
-#: src/data/categories.ts:9876
+#: src/data/categories.ts:10276
 msgid "Sailing Club"
 msgstr "Câu lạc bộ Bơi thuyền"
 
-#: src/data/categories.ts:8276
+#: src/data/categories.ts:8676
 msgid "Sake Bar"
 msgstr "Quán bar Sake"
 
-#: src/data/categories.ts:5668
+#: src/data/categories.ts:5972
 msgid "Salad Bar"
 msgstr "Quầy Salad"
 
-#: src/data/categories.ts:5700
+#: src/data/categories.ts:6004
 msgid "Salvadoran"
 msgstr "El Salvado"
 
-#: src/data/categories.ts:5732
+#: src/data/categories.ts:6036
 msgid "Sandwich Shop"
 msgstr "Cửa hàng Sandwich"
 
-#: src/data/categories.ts:5764
+#: src/data/categories.ts:6068
 msgid "Satay"
 msgstr "Thịt nướng xâu"
 
-#: src/data/categories.ts:11475
+#: src/data/categories.ts:11875
 msgid "Sauna / Steam Room"
 msgstr "Phòng tắm hơi"
 
-#: src/data/categories.ts:5796
+#: src/data/categories.ts:6100
 msgid "Scandinavian"
 msgstr "Bán đảo Scandinavia"
 
-#: src/data/categories.ts:9245
+#: src/data/categories.ts:9645
 msgid "Scenic View"
 msgstr "Ngắm cảnh"
 
-#: src/data/categories.ts:7610
+#: src/data/categories.ts:8010
 msgid "School"
 msgstr "Trường học"
 
@@ -2567,132 +2567,132 @@ msgstr "Trường học"
 msgid "Science Museum"
 msgstr "Bảo tàng Khoa học"
 
-#: src/data/categories.ts:5828
+#: src/data/categories.ts:6132
 msgid "Scottish"
 msgstr "Scotland"
 
-#: src/data/categories.ts:17720
+#: src/data/categories.ts:18120
 msgid "Scuba Diving"
 msgstr "Lặn có Bình khí"
 
-#: src/data/categories.ts:5860
+#: src/data/categories.ts:6164
 msgid "Seafood"
 msgstr "Hải sản"
 
-#: src/data/categories.ts:18562
+#: src/data/categories.ts:18962
 msgid "Seaport"
 msgstr "Hải cảng"
 
-#: src/data/categories.ts:13892
+#: src/data/categories.ts:14292
 msgid "Secretarial Services"
 msgstr "Dịch vụ Thư ký"
 
-#: src/data/categories.ts:10966
+#: src/data/categories.ts:11366
 msgid "Services"
 msgstr "Dịch vụ"
 
-#: src/data/categories.ts:5892
+#: src/data/categories.ts:6196
 msgid "Shabu-Shabu"
 msgstr "Món Shabu-Shabu"
 
-#: src/data/categories.ts:5924
+#: src/data/categories.ts:6228
 msgid "Shandong"
 msgstr ""
 
-#: src/data/categories.ts:5940
+#: src/data/categories.ts:6260
 msgid "Shanghai"
 msgstr ""
 
-#: src/data/categories.ts:17747
+#: src/data/categories.ts:18147
 msgid "Shipping Store"
 msgstr "Cửa hàng Vận chuyển"
 
-#: src/data/categories.ts:15052
+#: src/data/categories.ts:15452
 msgid "Shoe Repair & Shine"
 msgstr "Sửa & Đánh bóng Giày"
 
-#: src/data/categories.ts:15814
+#: src/data/categories.ts:16214
 msgid "Shoe Store"
 msgstr "Cửa hàng Giày"
 
-#: src/data/categories.ts:15291
+#: src/data/categories.ts:15691
 msgid "Shopping"
 msgstr "Mua sắm"
 
-#: src/data/categories.ts:17774
+#: src/data/categories.ts:18174
 msgid "Shopping Center"
 msgstr "Trung tâm Mua sắm"
 
-#: src/data/categories.ts:17801
+#: src/data/categories.ts:18201
 msgid "Shopping Mall"
 msgstr "Trung tâm Thương mại"
 
-#: src/data/categories.ts:11262
+#: src/data/categories.ts:11662
 msgid "Shower"
 msgstr "Vòi hoa sen"
 
-#: src/data/categories.ts:14477
+#: src/data/categories.ts:14877
 msgid "Shrine"
 msgstr "Miếu thờ"
 
-#: src/data/categories.ts:10692
+#: src/data/categories.ts:11092
 msgid "Skate Park"
 msgstr "Công viên Trượt băng"
 
-#: src/data/categories.ts:17828
+#: src/data/categories.ts:18228
 msgid "Skateboard Shop"
 msgstr "Cửa hàng Ván trượt"
 
-#: src/data/categories.ts:9983
+#: src/data/categories.ts:10383
 msgid "Ski Lift"
 msgstr "Thang kéo Trượt tuyết"
 
-#: src/data/categories.ts:9988
+#: src/data/categories.ts:10388
 msgid "Ski Rental"
 msgstr "Cho thuê Đồ trượt tuyết"
 
-#: src/data/categories.ts:18779
+#: src/data/categories.ts:19179
 msgid "Ski Resort"
 msgstr "Khu trượt tuyết"
 
-#: src/data/categories.ts:10010
+#: src/data/categories.ts:10410
 msgid "Ski School"
 msgstr "Trường dạy Trượt tuyết"
 
-#: src/data/categories.ts:10032
-#: src/data/categories.ts:17855
+#: src/data/categories.ts:10432
+#: src/data/categories.ts:18255
 msgid "Ski Shop"
 msgstr "Cửa hàng bán Đồ trượt tuyết"
 
-#: src/data/categories.ts:10059
+#: src/data/categories.ts:10459
 msgid "Ski Slope"
 msgstr "Khu nghỉ dưỡng Trượt tuyết"
 
-#: src/data/categories.ts:9903
+#: src/data/categories.ts:10303
 msgid "Skydiving"
 msgstr "Nhảy dù"
 
-#: src/data/categories.ts:5956
+#: src/data/categories.ts:6292
 msgid "Slovak"
 msgstr "Slovakia"
 
-#: src/data/categories.ts:17882
+#: src/data/categories.ts:18282
 msgid "Smoke / Vape Shop"
 msgstr "Cửa hàng bán Dụng cụ hút thuốc / Thuốc lá điện tử"
 
-#: src/data/categories.ts:5988
+#: src/data/categories.ts:6324
 msgid "Smoothies"
 msgstr "Sinh tố"
 
-#: src/data/categories.ts:6020
+#: src/data/categories.ts:6356
 msgid "Snack"
 msgstr "Đồ ăn vặt"
 
-#: src/data/categories.ts:9978
+#: src/data/categories.ts:10378
 msgid "Snow"
 msgstr "Tuyết"
 
-#: src/data/categories.ts:10719
+#: src/data/categories.ts:11119
 msgid "Soccer Field"
 msgstr "Sân Bóng đá"
 
@@ -2700,80 +2700,80 @@ msgstr "Sân Bóng đá"
 msgid "Soccer Stadium"
 msgstr "Sân vận động Bóng đá"
 
-#: src/data/categories.ts:15135
+#: src/data/categories.ts:15535
 msgid "Social"
 msgstr "Xã hội"
 
-#: src/data/categories.ts:14223
+#: src/data/categories.ts:14623
 msgid "Social Club"
 msgstr "Câu lạc bộ Thân hữu"
 
-#: src/data/categories.ts:6052
+#: src/data/categories.ts:6388
 msgid "Som Tum"
 msgstr ""
 
-#: src/data/categories.ts:14704
+#: src/data/categories.ts:15104
 msgid "Sorority House"
 msgstr "Ký túc xá Nữ"
 
-#: src/data/categories.ts:6068
+#: src/data/categories.ts:6420
 msgid "Soup"
 msgstr "Súp"
 
-#: src/data/categories.ts:6100
+#: src/data/categories.ts:6452
 msgid "South American"
 msgstr "Nam Mỹ"
 
-#: src/data/categories.ts:6132
+#: src/data/categories.ts:6484
 msgid "Southern / Soul Food"
 msgstr "Ẩm thực Miền nam / Món ăn truyền thống của người Mỹ da đen"
 
-#: src/data/categories.ts:17909
+#: src/data/categories.ts:18309
 msgid "Souvenir Store"
 msgstr "Cửa hàng Lưu niệm"
 
-#: src/data/categories.ts:6164
+#: src/data/categories.ts:6516
 msgid "Spanish"
 msgstr "Tây Ban Nha"
 
-#: src/data/categories.ts:8308
+#: src/data/categories.ts:8708
 msgid "Speakeasy"
 msgstr "Quán bar Speakeasy"
 
-#: src/data/categories.ts:17936
+#: src/data/categories.ts:18336
 msgid "Sporting Goods"
 msgstr "Đồ thể thao"
 
 #: src/data/categories.ts:1068
-#: src/data/categories.ts:10066
+#: src/data/categories.ts:10466
 msgid "Sports"
 msgstr "Thể thao"
 
-#: src/data/categories.ts:8340
+#: src/data/categories.ts:8740
 msgid "Sports Bar"
 msgstr "Quán Bar Thể thao"
 
-#: src/data/categories.ts:10746
+#: src/data/categories.ts:11146
 msgid "Sports Center"
 msgstr "Trung tâm Thể thao"
 
-#: src/data/categories.ts:10773
+#: src/data/categories.ts:11173
 msgid "Sports Club"
 msgstr "Câu lạc bộ Thể thao"
 
-#: src/data/categories.ts:9257
+#: src/data/categories.ts:9657
 msgid "Square"
 msgstr "Quảng trường"
 
-#: src/data/categories.ts:10800
+#: src/data/categories.ts:11200
 msgid "Squash Court"
 msgstr "Sân chơi Bóng quần"
 
-#: src/data/categories.ts:6196
+#: src/data/categories.ts:6548
 msgid "Sri Lankan"
 msgstr "Sri Lanka"
 
-#: src/data/categories.ts:8625
+#: src/data/categories.ts:9025
 msgid "Stables"
 msgstr "Chuồng ngựa"
 
@@ -2781,71 +2781,71 @@ msgstr "Chuồng ngựa"
 msgid "State Office Building"
 msgstr "Tòa nhà Văn phòng Nhà nước"
 
-#: src/data/categories.ts:17963
+#: src/data/categories.ts:18363
 msgid "Stationery & Office Supplies"
 msgstr "Văn phòng phẩm"
 
-#: src/data/categories.ts:6228
+#: src/data/categories.ts:6580
 msgid "Steak House"
 msgstr "Tiệm chuyên phục vụ Thịt nướng"
 
-#: src/data/categories.ts:11827
+#: src/data/categories.ts:12227
 msgid "Stonemason"
 msgstr "Thợ đá"
 
-#: src/data/categories.ts:15079
+#: src/data/categories.ts:15479
 msgid "Storage"
 msgstr "Kho"
 
-#: src/data/categories.ts:8372
+#: src/data/categories.ts:8772
 msgid "Strip Club"
 msgstr "Câu lạc bộ Thoát y"
 
-#: src/data/categories.ts:7632
+#: src/data/categories.ts:8032
 msgid "Student Center"
 msgstr "Trung tâm Sinh viên"
 
-#: src/data/categories.ts:18856
+#: src/data/categories.ts:19256
 msgid "Subway Station"
 msgstr "Ga Tàu điện ngầm"
 
-#: src/data/categories.ts:9930
+#: src/data/categories.ts:10330
 msgid "Summer Camp"
 msgstr "Trại hè"
 
-#: src/data/categories.ts:6260
+#: src/data/categories.ts:6612
 msgid "Sundanese"
 msgstr ""
 
-#: src/data/categories.ts:16739
+#: src/data/categories.ts:17139
 msgid "Supermarket"
 msgstr "Siêu thị"
 
-#: src/data/categories.ts:17990
+#: src/data/categories.ts:18390
 msgid "Surf Shop"
 msgstr "Cửa hàng bán Dụng cụ lướt sóng"
 
-#: src/data/categories.ts:9952
+#: src/data/categories.ts:10352
 msgid "Surfing"
 msgstr "Lướt sóng"
 
-#: src/data/categories.ts:13919
+#: src/data/categories.ts:14319
 msgid "Surveying"
 msgstr "Khảo sát"
 
-#: src/data/categories.ts:6276
+#: src/data/categories.ts:6644
 msgid "Sushi"
 msgstr "Sushi"
 
-#: src/data/categories.ts:7659
+#: src/data/categories.ts:8059
 msgid "Swim School"
 msgstr "Trường dạy bơi"
 
-#: src/data/categories.ts:10827
+#: src/data/categories.ts:11227
 msgid "Swimming Pool"
 msgstr "Bể bơi"
 
-#: src/data/categories.ts:6308
+#: src/data/categories.ts:6676
 msgid "Swiss"
 msgstr "Thụy Sĩ"
 
@@ -2853,67 +2853,67 @@ msgstr "Thụy Sĩ"
 msgid "Symphony"
 msgstr "Bản nhạc giao hưởng"
 
-#: src/data/categories.ts:14499
+#: src/data/categories.ts:14899
 msgid "Synagogue"
 msgstr "Giáo đường Do Thái"
 
-#: src/data/categories.ts:6340
+#: src/data/categories.ts:6708
 msgid "Szechuan"
 msgstr "Tứ Xuyên"
 
-#: src/data/categories.ts:6372
+#: src/data/categories.ts:6740
 msgid "Tacos"
 msgstr "Bánh Taco"
 
-#: src/data/categories.ts:15106
+#: src/data/categories.ts:15506
 msgid "Tailor"
 msgstr "Thợ may"
 
-#: src/data/categories.ts:6404
+#: src/data/categories.ts:6772
 msgid "Taiwanese"
 msgstr "Đài Loan"
 
-#: src/data/categories.ts:11502
+#: src/data/categories.ts:11902
 msgid "Tanning Salon"
 msgstr "Phòng làm nâu da"
 
-#: src/data/categories.ts:6436
+#: src/data/categories.ts:6804
 msgid "Tapas"
 msgstr "Món Tapas"
 
-#: src/data/categories.ts:6468
+#: src/data/categories.ts:6836
 msgid "Tatar"
 msgstr "Tatar"
 
-#: src/data/categories.ts:11529
+#: src/data/categories.ts:11929
 msgid "Tattoo Parlor"
 msgstr "Tiệm xăm hình"
 
-#: src/data/categories.ts:18868
+#: src/data/categories.ts:19268
 msgid "Taxi Stand"
 msgstr "Bến đỗ xe Taxi"
 
-#: src/data/categories.ts:6500
+#: src/data/categories.ts:6868
 msgid "Tea House"
 msgstr "Phòng trà"
 
-#: src/data/categories.ts:13946
+#: src/data/categories.ts:14346
 msgid "Tech Startup"
 msgstr "Khởi nghiệp Công nghệ"
 
-#: src/data/categories.ts:9269
+#: src/data/categories.ts:9669
 msgid "Telescope"
 msgstr "Kính thiên văn"
 
-#: src/data/categories.ts:11944
+#: src/data/categories.ts:12344
 msgid "Television Station"
 msgstr "Đài truyền hình"
 
-#: src/data/categories.ts:14521
+#: src/data/categories.ts:14921
 msgid "Temple"
 msgstr "Đền"
 
-#: src/data/categories.ts:10854
+#: src/data/categories.ts:11254
 msgid "Tennis Court"
 msgstr "Sân chơi Quần vợt"
 
@@ -2921,15 +2921,15 @@ msgstr "Sân chơi Quần vợt"
 msgid "Tennis Stadium"
 msgstr "Sân vận động Quần vợt"
 
-#: src/data/categories.ts:13973
+#: src/data/categories.ts:14373
 msgid "Testing Lab"
 msgstr "Phòng thử nghiệm"
 
-#: src/data/categories.ts:6532
+#: src/data/categories.ts:6900
 msgid "Tex-Mex"
 msgstr "Ẩm thực Tex-Mex"
 
-#: src/data/categories.ts:6564
+#: src/data/categories.ts:6932
 msgid "Thai"
 msgstr "Thái Lan"
 
@@ -2937,7 +2937,7 @@ msgstr "Thái Lan"
 msgid "Theater"
 msgstr "Rạp hát"
 
-#: src/data/categories.ts:6596
+#: src/data/categories.ts:6964
 msgid "Theme"
 msgstr "Chủ đề"
 
@@ -2945,43 +2945,43 @@ msgstr "Chủ đề"
 msgid "Theme Park"
 msgstr "Công viên giải trí"
 
-#: src/data/categories.ts:12630
+#: src/data/categories.ts:13030
 msgid "Therapist"
 msgstr "Chuyên gia trị liệu"
 
-#: src/data/categories.ts:18017
+#: src/data/categories.ts:18417
 msgid "Thrift Store"
 msgstr "Cửa hàng Từ thiện"
 
-#: src/data/categories.ts:6628
+#: src/data/categories.ts:6996
 msgid "Tibetan"
 msgstr "Tây Tạng"
 
-#: src/data/categories.ts:8404
+#: src/data/categories.ts:8804
 msgid "Tiki Bar"
 msgstr "Tiki Bar"
 
-#: src/data/categories.ts:18433
+#: src/data/categories.ts:18833
 msgid "Toll Booth"
 msgstr "Trạm thu phí"
 
-#: src/data/categories.ts:9281
+#: src/data/categories.ts:9681
 msgid "Tour Provider"
 msgstr "Nhà cung cấp Tour"
 
-#: src/data/categories.ts:9293
+#: src/data/categories.ts:9693
 msgid "Tourist Attraction"
 msgstr "Điểm du lịch hấp dẫn"
 
-#: src/data/categories.ts:9305
+#: src/data/categories.ts:9705
 msgid "Tourist Information"
 msgstr "Thông tin Du lịch"
 
-#: src/data/categories.ts:9317
+#: src/data/categories.ts:9717
 msgid "Tower"
 msgstr "Tháp"
 
-#: src/data/categories.ts:9504
+#: src/data/categories.ts:9904
 msgid "Town Common"
 msgstr "Đất công của Thị trấn"
 
@@ -2989,136 +2989,136 @@ msgstr "Đất công của Thị trấn"
 msgid "Town Hall"
 msgstr "Tòa Thị chính"
 
-#: src/data/categories.ts:18044
+#: src/data/categories.ts:18444
 msgid "Toy and Game Store"
 msgstr "Cửa hàng Đồ chơi và Trò chơi"
 
-#: src/data/categories.ts:10881
+#: src/data/categories.ts:11281
 msgid "Track"
 msgstr "Đường chạy điền kinh"
 
-#: src/data/categories.ts:9964
+#: src/data/categories.ts:10364
 msgid "Trail Station"
 msgstr "Trạm dừng chân đường mòn"
 
-#: src/data/categories.ts:14726
+#: src/data/categories.ts:15126
 msgid "Trailer Park"
 msgstr "Bãi đỗ cho Nhà ở di động"
 
-#: src/data/categories.ts:18880
+#: src/data/categories.ts:19280
 msgid "Train Station"
 msgstr "Nhà ga"
 
-#: src/data/categories.ts:18892
+#: src/data/categories.ts:19292
 msgid "Tram Stop"
 msgstr "Bến dừng Xe điện"
 
-#: src/data/categories.ts:18803
+#: src/data/categories.ts:19203
 msgid "Transit"
 msgstr "Quá cảnh"
 
-#: src/data/categories.ts:18252
+#: src/data/categories.ts:18652
 msgid "Travel"
 msgstr "Du lịch"
 
-#: src/data/categories.ts:14000
+#: src/data/categories.ts:14400
 msgid "Travel Agent"
 msgstr "Đại lý Du lịch"
 
-#: src/data/categories.ts:6660
-#: src/data/categories.ts:18438
+#: src/data/categories.ts:7028
+#: src/data/categories.ts:18838
 msgid "Truck Stop"
 msgstr "Trạm nghỉ cho Xe tải"
 
-#: src/data/categories.ts:9329
+#: src/data/categories.ts:9729
 msgid "Tunnel"
 msgstr "Đường hầm"
 
-#: src/data/categories.ts:6692
+#: src/data/categories.ts:7060
 msgid "Turkish"
 msgstr "Thổ Nhĩ Kỳ"
 
-#: src/data/categories.ts:9341
+#: src/data/categories.ts:9741
 msgid "UNESCO World Heritage Site"
 msgstr "Di sản Thế giới được UNESCO Công nhận"
 
-#: src/data/categories.ts:6724
+#: src/data/categories.ts:7092
 msgid "Ukrainian"
 msgstr "Ucraina"
 
-#: src/data/categories.ts:7686
+#: src/data/categories.ts:8086
 msgid "University"
 msgstr "Đại học"
 
-#: src/data/categories.ts:12657
+#: src/data/categories.ts:13057
 msgid "Urgent Care Center"
 msgstr "Trung tâm Chăm sóc Khẩn cấp"
 
-#: src/data/categories.ts:18071
+#: src/data/categories.ts:18471
 msgid "Used Merchandise"
 msgstr "Hàng hóa Đã qua sử dụng"
 
-#: src/data/categories.ts:18098
+#: src/data/categories.ts:18498
 msgid "Vacant Storefront"
 msgstr "Mặt trước Cửa hàng trống"
 
-#: src/data/categories.ts:6756
+#: src/data/categories.ts:7124
 msgid "Vegan"
 msgstr "Người ăn chay trường"
 
-#: src/data/categories.ts:6788
+#: src/data/categories.ts:7156
 msgid "Vegetarian"
 msgstr "Người ăn chay"
 
-#: src/data/categories.ts:6820
+#: src/data/categories.ts:7188
 msgid "Venezuelan"
 msgstr "Venezuela"
 
-#: src/data/categories.ts:12684
+#: src/data/categories.ts:13084
 msgid "Veterinarian"
 msgstr "Bác sĩ thú y"
 
-#: src/data/categories.ts:18115
+#: src/data/categories.ts:18515
 msgid "Video Game Store"
 msgstr "Cửa hàng Trò chơi Điện tử"
 
-#: src/data/categories.ts:18142
+#: src/data/categories.ts:18542
 msgid "Video Store"
 msgstr "Cửa hàng Video"
 
-#: src/data/categories.ts:6852
+#: src/data/categories.ts:7220
 msgid "Vietnamese"
 msgstr "Việt Nam"
 
-#: src/data/categories.ts:8875
+#: src/data/categories.ts:9275
 msgid "Vineyard"
 msgstr "Vườn nho"
 
-#: src/data/categories.ts:7703
+#: src/data/categories.ts:8103
 msgid "Vocational School"
 msgstr "Trường dạy nghề"
 
-#: src/data/categories.ts:9353
+#: src/data/categories.ts:9753
 msgid "Volcano"
 msgstr "Núi lửa"
 
-#: src/data/categories.ts:10908
+#: src/data/categories.ts:11308
 msgid "Volleyball Court"
 msgstr "Sân Bóng chuyền"
 
-#: src/data/categories.ts:12894
+#: src/data/categories.ts:13294
 msgid "Warehouse"
 msgstr "Nhà kho"
 
-#: src/data/categories.ts:18169
+#: src/data/categories.ts:18569
 msgid "Warehouse Store"
 msgstr "Cửa hàng Kho"
 
-#: src/data/categories.ts:12916
+#: src/data/categories.ts:13316
 msgid "Waste / Recycling Facility"
 msgstr "Cơ sở xử lý Chất thải / Tái chế"
 
-#: src/data/categories.ts:18196
+#: src/data/categories.ts:18596
 msgid "Watch Shop"
 msgstr "Cửa hàng Đồng hồ"
 
@@ -3126,74 +3126,74 @@ msgstr "Cửa hàng Đồng hồ"
 msgid "Water Park"
 msgstr "Công viên nước"
 
-#: src/data/categories.ts:9365
+#: src/data/categories.ts:9765
 msgid "Water Tower"
 msgstr "Tháp nước"
 
-#: src/data/categories.ts:9377
+#: src/data/categories.ts:9777
 msgid "Waterfall"
 msgstr "Thác nước"
 
-#: src/data/categories.ts:12061
+#: src/data/categories.ts:12461
 msgid "Wedding Hall"
 msgstr "Hội trường Cưới"
 
-#: src/data/categories.ts:9389
+#: src/data/categories.ts:9789
 msgid "Well"
 msgstr "Giếng"
 
-#: src/data/categories.ts:9401
+#: src/data/categories.ts:9801
 msgid "Wharf"
 msgstr "Cầu tàu"
 
-#: src/data/categories.ts:8436
+#: src/data/categories.ts:8836
 msgid "Whisky Bar"
 msgstr "Quán bar phục vụ Rượu Whisky"
 
-#: src/data/categories.ts:18223
+#: src/data/categories.ts:18623
 msgid "Wholesale Store"
 msgstr "Cửa hàng Bán buôn"
 
-#: src/data/categories.ts:12938
+#: src/data/categories.ts:13338
 msgid "Windmill"
 msgstr "Cối xay gió"
 
-#: src/data/categories.ts:8468
+#: src/data/categories.ts:8868
 msgid "Wine Bar"
 msgstr "Quán rượu"
 
-#: src/data/categories.ts:16766
+#: src/data/categories.ts:17166
 msgid "Wine Shop"
 msgstr "Cửa hàng Rượu"
 
-#: src/data/categories.ts:8500
+#: src/data/categories.ts:8900
 msgid "Winery"
 msgstr "Nhà máy rượu vang"
 
-#: src/data/categories.ts:6884
+#: src/data/categories.ts:7252
 msgid "Wings"
 msgstr "Cánh gà"
 
-#: src/data/categories.ts:15841
+#: src/data/categories.ts:16241
 msgid "Women's Clothing Store"
 msgstr "Cửa hàng Quần áo Nữ"
 
-#: src/data/categories.ts:6916
+#: src/data/categories.ts:7284
 msgid "Yakitori"
 msgstr "Thịt gà xiên nướng"
 
-#: src/data/categories.ts:10935
+#: src/data/categories.ts:11335
 msgid "Yoga Studio"
 msgstr "Phòng tập Yoga"
 
-#: src/data/categories.ts:6948
+#: src/data/categories.ts:7316
 msgid "Yunnan"
 msgstr ""
 
-#: src/data/categories.ts:6964
+#: src/data/categories.ts:7348
 msgid "Zhejiang"
 msgstr ""
 
-#: src/data/categories.ts:8652
+#: src/data/categories.ts:9052
 msgid "Zoo"
 msgstr "Vườn thú"
