@@ -23,7 +23,7 @@ msgstr "Nhân viên kế toán"
 
 #: src/data/categories.ts:1812
 msgid "Acehnese"
-msgstr ""
+msgstr "Aceh"
 
 #: src/data/categories.ts:12490
 msgid "Acupuncturist"
@@ -103,7 +103,7 @@ msgstr "Trò giải trí"
 
 #: src/data/categories.ts:1908
 msgid "Anhui"
-msgstr ""
+msgstr "An Huy"
 
 #: src/data/categories.ts:13590
 msgid "Animal Shelter"
@@ -261,7 +261,7 @@ msgstr "Hiệu bánh mì"
 
 #: src/data/categories.ts:2164
 msgid "Balinese"
-msgstr ""
+msgstr "Bali"
 
 #: src/data/categories.ts:654
 msgid "Bandstand"
@@ -357,7 +357,7 @@ msgstr "Cửa hàng Bia"
 
 #: src/data/categories.ts:2292
 msgid "Beijing"
-msgstr ""
+msgstr "Bắc Kinh"
 
 #: src/data/categories.ts:2228
 msgid "Belarusian"
@@ -369,7 +369,7 @@ msgstr "Bỉ"
 
 #: src/data/categories.ts:2324
 msgid "Betawinese"
-msgstr ""
+msgstr "Betawi"
 
 #: src/data/categories.ts:18862
 msgid "Bicycle"
@@ -631,7 +631,7 @@ msgstr "Nghĩa trang"
 
 #: src/data/categories.ts:2964
 msgid "Cha Chaan Teng"
-msgstr ""
+msgstr "Cha Chaan Teng"
 
 #: src/data/categories.ts:19047
 msgid "Chalets"
@@ -667,7 +667,7 @@ msgstr "Trung Quốc"
 
 #: src/data/categories.ts:3028
 msgid "Chinese Breakfast"
-msgstr ""
+msgstr "Điểm tâm kiểu Trung Quốc"
 
 #: src/data/categories.ts:12544
 msgid "Chiropractor"
@@ -1027,7 +1027,7 @@ msgstr "Đường đua Chó"
 
 #: src/data/categories.ts:3412
 msgid "Dongbei"
-msgstr ""
+msgstr "Đông Bắc Trung Quốc"
 
 #: src/data/categories.ts:3444
 msgid "Donut Shop"
@@ -1323,7 +1323,7 @@ msgstr "Trái cây & Rau quả"
 
 #: src/data/categories.ts:3988
 msgid "Fujian"
-msgstr ""
+msgstr "Phúc Kiến"
 
 #: src/data/categories.ts:13941
 msgid "Funeral Home"
@@ -1475,7 +1475,7 @@ msgstr "Trung học"
 
 #: src/data/categories.ts:4244
 msgid "Himalayan"
-msgstr ""
+msgstr "Himalaya"
 
 #: src/data/categories.ts:14745
 msgid "Hindu Temple"
@@ -1571,11 +1571,11 @@ msgstr "Dự án Nhà ở"
 
 #: src/data/categories.ts:4372
 msgid "Huaiyang"
-msgstr ""
+msgstr "Hoài dương"
 
 #: src/data/categories.ts:4404
 msgid "Hunan"
-msgstr ""
+msgstr "Hồ Nam"
 
 #: src/data/categories.ts:4436
 msgid "Hungarian"
@@ -1603,7 +1603,7 @@ msgstr "Indonesia"
 
 #: src/data/categories.ts:4596
 msgid "Indonesian Meatballs"
-msgstr ""
+msgstr "Thịt viên Indonesia"
 
 #: src/data/categories.ts:1249
 msgid "Indoor Arena"
@@ -1647,7 +1647,7 @@ msgstr "Nhật Bản"
 
 #: src/data/categories.ts:4756
 msgid "Javanese"
-msgstr ""
+msgstr "Java"
 
 #: src/data/categories.ts:708
 msgid "Jazz & Blues"
@@ -1667,7 +1667,7 @@ msgstr "Do Thái"
 
 #: src/data/categories.ts:4820
 msgid "Jiangsu"
-msgstr ""
+msgstr "Giang Tô"
 
 #: src/data/categories.ts:15660
 msgid "Job Training"
@@ -1824,7 +1824,7 @@ msgstr "Mì ống & Pho mát"
 
 #: src/data/categories.ts:5076
 msgid "Macanese"
-msgstr ""
+msgstr "Macan"
 
 #: src/data/categories.ts:5108
 msgid "Malaysian"
@@ -1832,11 +1832,11 @@ msgstr "Malaysia"
 
 #: src/data/categories.ts:5140
 msgid "Mamak"
-msgstr ""
+msgstr "Mamak"
 
 #: src/data/categories.ts:5172
 msgid "Manadonese"
-msgstr ""
+msgstr "Manado"
 
 #: src/data/categories.ts:14076
 msgid "Management & Consulting"
@@ -2140,7 +2140,7 @@ msgstr "Quán bar Oxy"
 
 #: src/data/categories.ts:5492
 msgid "Padangnese"
-msgstr ""
+msgstr "Padang"
 
 #: src/data/categories.ts:9585
 msgid "Pagoda"
@@ -2597,11 +2597,11 @@ msgstr "Món Shabu-Shabu"
 
 #: src/data/categories.ts:6228
 msgid "Shandong"
-msgstr ""
+msgstr "Sơn Đông"
 
 #: src/data/categories.ts:6260
 msgid "Shanghai"
-msgstr ""
+msgstr "Thượng Hải"
 
 #: src/data/categories.ts:18147
 msgid "Shipping Store"
@@ -2710,7 +2710,7 @@ msgstr "Câu lạc bộ Thân hữu"
 
 #: src/data/categories.ts:6388
 msgid "Som Tum"
-msgstr ""
+msgstr "Gỏi đu đủ Thái"
 
 #: src/data/categories.ts:15104
 msgid "Sorority House"
@@ -2815,7 +2815,7 @@ msgstr "Trại hè"
 
 #: src/data/categories.ts:6612
 msgid "Sundanese"
-msgstr ""
+msgstr "Sunda"
 
 #: src/data/categories.ts:17139
 msgid "Supermarket"
@@ -3188,11 +3188,11 @@ msgstr "Phòng tập Yoga"
 
 #: src/data/categories.ts:7316
 msgid "Yunnan"
-msgstr ""
+msgstr "Vân Nam"
 
 #: src/data/categories.ts:7348
 msgid "Zhejiang"
-msgstr ""
+msgstr "Chiết Giang"
 
 #: src/data/categories.ts:9052
 msgid "Zoo"

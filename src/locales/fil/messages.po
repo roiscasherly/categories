@@ -23,7 +23,7 @@ msgstr "Accountant"
 
 #: src/data/categories.ts:1812
 msgid "Acehnese"
-msgstr ""
+msgstr "Acehnese"
 
 #: src/data/categories.ts:12490
 msgid "Acupuncturist"
@@ -103,7 +103,7 @@ msgstr "Amusements"
 
 #: src/data/categories.ts:1908
 msgid "Anhui"
-msgstr ""
+msgstr "Anhui"
 
 #: src/data/categories.ts:13590
 msgid "Animal Shelter"
@@ -261,7 +261,7 @@ msgstr "Panaderya"
 
 #: src/data/categories.ts:2164
 msgid "Balinese"
-msgstr ""
+msgstr "Balinese"
 
 #: src/data/categories.ts:654
 msgid "Bandstand"
@@ -357,7 +357,7 @@ msgstr "Beer Store"
 
 #: src/data/categories.ts:2292
 msgid "Beijing"
-msgstr ""
+msgstr "Beijing"
 
 #: src/data/categories.ts:2228
 msgid "Belarusian"
@@ -369,7 +369,7 @@ msgstr "Belgian"
 
 #: src/data/categories.ts:2324
 msgid "Betawinese"
-msgstr ""
+msgstr "Betawinese"
 
 #: src/data/categories.ts:18862
 msgid "Bicycle"
@@ -631,7 +631,7 @@ msgstr "Sementeryo"
 
 #: src/data/categories.ts:2964
 msgid "Cha Chaan Teng"
-msgstr ""
+msgstr "Cha Chaan Teng"
 
 #: src/data/categories.ts:19047
 msgid "Chalets"
@@ -667,7 +667,7 @@ msgstr "Chinese"
 
 #: src/data/categories.ts:3028
 msgid "Chinese Breakfast"
-msgstr ""
+msgstr "Agahan ng Chinese"
 
 #: src/data/categories.ts:12544
 msgid "Chiropractor"
@@ -1027,7 +1027,7 @@ msgstr "Racetrack ng Aso"
 
 #: src/data/categories.ts:3412
 msgid "Dongbei"
-msgstr ""
+msgstr "Dongbei"
 
 #: src/data/categories.ts:3444
 msgid "Donut Shop"
@@ -1323,7 +1323,7 @@ msgstr "Mga Prutas at Gulay"
 
 #: src/data/categories.ts:3988
 msgid "Fujian"
-msgstr ""
+msgstr "Fujian"
 
 #: src/data/categories.ts:13941
 msgid "Funeral Home"
@@ -1475,7 +1475,7 @@ msgstr "High School"
 
 #: src/data/categories.ts:4244
 msgid "Himalayan"
-msgstr ""
+msgstr "Himalayan"
 
 #: src/data/categories.ts:14745
 msgid "Hindu Temple"
@@ -1571,11 +1571,11 @@ msgstr "Proyekto ng Pabahay"
 
 #: src/data/categories.ts:4372
 msgid "Huaiyang"
-msgstr ""
+msgstr "Huaiyang"
 
 #: src/data/categories.ts:4404
 msgid "Hunan"
-msgstr ""
+msgstr "Hunan"
 
 #: src/data/categories.ts:4436
 msgid "Hungarian"
@@ -1603,7 +1603,7 @@ msgstr "Indonesian"
 
 #: src/data/categories.ts:4596
 msgid "Indonesian Meatballs"
-msgstr ""
+msgstr "Indonesian Meatballs"
 
 #: src/data/categories.ts:1249
 msgid "Indoor Arena"
@@ -1647,7 +1647,7 @@ msgstr "Japanese"
 
 #: src/data/categories.ts:4756
 msgid "Javanese"
-msgstr ""
+msgstr "Javanese"
 
 #: src/data/categories.ts:708
 msgid "Jazz & Blues"
@@ -1667,7 +1667,7 @@ msgstr "Jewish"
 
 #: src/data/categories.ts:4820
 msgid "Jiangsu"
-msgstr ""
+msgstr "Jiangsu"
 
 #: src/data/categories.ts:15660
 msgid "Job Training"
@@ -1824,7 +1824,7 @@ msgstr "Mac & Cheese"
 
 #: src/data/categories.ts:5076
 msgid "Macanese"
-msgstr ""
+msgstr "Macanese"
 
 #: src/data/categories.ts:5108
 msgid "Malaysian"
@@ -1832,11 +1832,11 @@ msgstr "Malaysian"
 
 #: src/data/categories.ts:5140
 msgid "Mamak"
-msgstr ""
+msgstr "Mamak"
 
 #: src/data/categories.ts:5172
 msgid "Manadonese"
-msgstr ""
+msgstr "Manadonese"
 
 #: src/data/categories.ts:14076
 msgid "Management & Consulting"
@@ -2140,7 +2140,7 @@ msgstr "Oxygen Bar"
 
 #: src/data/categories.ts:5492
 msgid "Padangnese"
-msgstr ""
+msgstr "Padangnese"
 
 #: src/data/categories.ts:9585
 msgid "Pagoda"
@@ -2597,11 +2597,11 @@ msgstr "Shabu-Shabu"
 
 #: src/data/categories.ts:6228
 msgid "Shandong"
-msgstr ""
+msgstr "Shandong"
 
 #: src/data/categories.ts:6260
 msgid "Shanghai"
-msgstr ""
+msgstr "Shanghai"
 
 #: src/data/categories.ts:18147
 msgid "Shipping Store"
@@ -2710,7 +2710,7 @@ msgstr "Social Club"
 
 #: src/data/categories.ts:6388
 msgid "Som Tum"
-msgstr ""
+msgstr "Som Tum"
 
 #: src/data/categories.ts:15104
 msgid "Sorority House"
@@ -2815,7 +2815,7 @@ msgstr "Summer Camp"
 
 #: src/data/categories.ts:6612
 msgid "Sundanese"
-msgstr ""
+msgstr "Sundanese"
 
 #: src/data/categories.ts:17139
 msgid "Supermarket"
@@ -3188,11 +3188,11 @@ msgstr "Yoga Studio"
 
 #: src/data/categories.ts:7316
 msgid "Yunnan"
-msgstr ""
+msgstr "Yunnan"
 
 #: src/data/categories.ts:7348
 msgid "Zhejiang"
-msgstr ""
+msgstr "Zhejiang"
 
 #: src/data/categories.ts:9052
 msgid "Zoo"

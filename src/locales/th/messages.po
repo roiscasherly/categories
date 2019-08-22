@@ -23,7 +23,7 @@ msgstr "นักบัญชี"
 
 #: src/data/categories.ts:1812
 msgid "Acehnese"
-msgstr ""
+msgstr "อะเจห์"
 
 #: src/data/categories.ts:12490
 msgid "Acupuncturist"
@@ -103,7 +103,7 @@ msgstr "กิจกรรมสนุกๆ"
 
 #: src/data/categories.ts:1908
 msgid "Anhui"
-msgstr ""
+msgstr "อานฮุย"
 
 #: src/data/categories.ts:13590
 msgid "Animal Shelter"
@@ -261,7 +261,7 @@ msgstr "เบเกอรี่"
 
 #: src/data/categories.ts:2164
 msgid "Balinese"
-msgstr ""
+msgstr "บาหลี"
 
 #: src/data/categories.ts:654
 msgid "Bandstand"
@@ -357,7 +357,7 @@ msgstr "ร้านขายเบียร์"
 
 #: src/data/categories.ts:2292
 msgid "Beijing"
-msgstr ""
+msgstr "ปักกิ่ง"
 
 #: src/data/categories.ts:2228
 msgid "Belarusian"
@@ -369,7 +369,7 @@ msgstr "เบลเยียม"
 
 #: src/data/categories.ts:2324
 msgid "Betawinese"
-msgstr ""
+msgstr "เบทาวี"
 
 #: src/data/categories.ts:18862
 msgid "Bicycle"
@@ -631,7 +631,7 @@ msgstr "สุสาน"
 
 #: src/data/categories.ts:2964
 msgid "Cha Chaan Teng"
-msgstr ""
+msgstr "ชาชังเตง"
 
 #: src/data/categories.ts:19047
 msgid "Chalets"
@@ -667,7 +667,7 @@ msgstr "จีน"
 
 #: src/data/categories.ts:3028
 msgid "Chinese Breakfast"
-msgstr ""
+msgstr "อาหารเช้าสไตล์จีน"
 
 #: src/data/categories.ts:12544
 msgid "Chiropractor"
@@ -1027,7 +1027,7 @@ msgstr "สนามแข่งสุนัข"
 
 #: src/data/categories.ts:3412
 msgid "Dongbei"
-msgstr ""
+msgstr "ตงเป่ย"
 
 #: src/data/categories.ts:3444
 msgid "Donut Shop"
@@ -1323,7 +1323,7 @@ msgstr "ร้านขายผลไม้และผัก"
 
 #: src/data/categories.ts:3988
 msgid "Fujian"
-msgstr ""
+msgstr "ฝูเจี้ยน"
 
 #: src/data/categories.ts:13941
 msgid "Funeral Home"
@@ -1475,7 +1475,7 @@ msgstr "โรงเรียนมัธยม"
 
 #: src/data/categories.ts:4244
 msgid "Himalayan"
-msgstr ""
+msgstr "หิมาลัย"
 
 #: src/data/categories.ts:14745
 msgid "Hindu Temple"
@@ -1571,11 +1571,11 @@ msgstr "โครงการบ้านจัดสรร"
 
 #: src/data/categories.ts:4372
 msgid "Huaiyang"
-msgstr ""
+msgstr "ฮ้วยยัง"
 
 #: src/data/categories.ts:4404
 msgid "Hunan"
-msgstr ""
+msgstr "หูหนาน"
 
 #: src/data/categories.ts:4436
 msgid "Hungarian"
@@ -1603,7 +1603,7 @@ msgstr "อินโดนีเซีย"
 
 #: src/data/categories.ts:4596
 msgid "Indonesian Meatballs"
-msgstr ""
+msgstr "ลูกชิ้นเนื้ออินโดนีเซีย"
 
 #: src/data/categories.ts:1249
 msgid "Indoor Arena"
@@ -1647,7 +1647,7 @@ msgstr "ญี่ปุ่น"
 
 #: src/data/categories.ts:4756
 msgid "Javanese"
-msgstr ""
+msgstr "ชวา"
 
 #: src/data/categories.ts:708
 msgid "Jazz & Blues"
@@ -1667,7 +1667,7 @@ msgstr "ยิว"
 
 #: src/data/categories.ts:4820
 msgid "Jiangsu"
-msgstr ""
+msgstr "เจียงซู"
 
 #: src/data/categories.ts:15660
 msgid "Job Training"
@@ -1824,7 +1824,7 @@ msgstr "แมคแอนด์ชีส"
 
 #: src/data/categories.ts:5076
 msgid "Macanese"
-msgstr ""
+msgstr "มาเก๊า"
 
 #: src/data/categories.ts:5108
 msgid "Malaysian"
@@ -1832,11 +1832,11 @@ msgstr "มาเลเซีย"
 
 #: src/data/categories.ts:5140
 msgid "Mamak"
-msgstr ""
+msgstr "มามัก"
 
 #: src/data/categories.ts:5172
 msgid "Manadonese"
-msgstr ""
+msgstr "มานาโด"
 
 #: src/data/categories.ts:14076
 msgid "Management & Consulting"
@@ -2140,7 +2140,7 @@ msgstr "บาร์ออกซิเจน"
 
 #: src/data/categories.ts:5492
 msgid "Padangnese"
-msgstr ""
+msgstr "พาแดง"
 
 #: src/data/categories.ts:9585
 msgid "Pagoda"
@@ -2597,11 +2597,11 @@ msgstr "ชาบู"
 
 #: src/data/categories.ts:6228
 msgid "Shandong"
-msgstr ""
+msgstr "ซานดง"
 
 #: src/data/categories.ts:6260
 msgid "Shanghai"
-msgstr ""
+msgstr "เซี่ยงไฮ้"
 
 #: src/data/categories.ts:18147
 msgid "Shipping Store"
@@ -2710,7 +2710,7 @@ msgstr "สโมสรสังคม"
 
 #: src/data/categories.ts:6388
 msgid "Som Tum"
-msgstr ""
+msgstr "ส้มตำ"
 
 #: src/data/categories.ts:15104
 msgid "Sorority House"
@@ -2815,7 +2815,7 @@ msgstr "ค่ายฤดูร้อน"
 
 #: src/data/categories.ts:6612
 msgid "Sundanese"
-msgstr ""
+msgstr "ซุนดา"
 
 #: src/data/categories.ts:17139
 msgid "Supermarket"
@@ -3188,11 +3188,11 @@ msgstr "สตูดิโอโยคะ"
 
 #: src/data/categories.ts:7316
 msgid "Yunnan"
-msgstr ""
+msgstr "ยูนนาน"
 
 #: src/data/categories.ts:7348
 msgid "Zhejiang"
-msgstr ""
+msgstr "เจ้อเจียง"
 
 #: src/data/categories.ts:9052
 msgid "Zoo"

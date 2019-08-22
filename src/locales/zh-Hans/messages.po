@@ -23,7 +23,7 @@ msgstr "会计"
 
 #: src/data/categories.ts:1812
 msgid "Acehnese"
-msgstr ""
+msgstr "亚齐餐"
 
 #: src/data/categories.ts:12490
 msgid "Acupuncturist"
@@ -103,7 +103,7 @@ msgstr "娱乐"
 
 #: src/data/categories.ts:1908
 msgid "Anhui"
-msgstr ""
+msgstr "安徽菜"
 
 #: src/data/categories.ts:13590
 msgid "Animal Shelter"
@@ -261,7 +261,7 @@ msgstr "面包店"
 
 #: src/data/categories.ts:2164
 msgid "Balinese"
-msgstr ""
+msgstr "巴厘餐"
 
 #: src/data/categories.ts:654
 msgid "Bandstand"
@@ -357,7 +357,7 @@ msgstr "啤酒店"
 
 #: src/data/categories.ts:2292
 msgid "Beijing"
-msgstr ""
+msgstr "北京菜"
 
 #: src/data/categories.ts:2228
 msgid "Belarusian"
@@ -369,7 +369,7 @@ msgstr "比利时餐"
 
 #: src/data/categories.ts:2324
 msgid "Betawinese"
-msgstr ""
+msgstr "巴达维餐"
 
 #: src/data/categories.ts:18862
 msgid "Bicycle"
@@ -631,7 +631,7 @@ msgstr "公墓"
 
 #: src/data/categories.ts:2964
 msgid "Cha Chaan Teng"
-msgstr ""
+msgstr "茶餐厅"
 
 #: src/data/categories.ts:19047
 msgid "Chalets"
@@ -667,7 +667,7 @@ msgstr "中餐"
 
 #: src/data/categories.ts:3028
 msgid "Chinese Breakfast"
-msgstr ""
+msgstr "中式早餐"
 
 #: src/data/categories.ts:12544
 msgid "Chiropractor"
@@ -1027,7 +1027,7 @@ msgstr "赛狗场"
 
 #: src/data/categories.ts:3412
 msgid "Dongbei"
-msgstr ""
+msgstr "东北菜"
 
 #: src/data/categories.ts:3444
 msgid "Donut Shop"
@@ -1323,7 +1323,7 @@ msgstr "水果和蔬菜"
 
 #: src/data/categories.ts:3988
 msgid "Fujian"
-msgstr ""
+msgstr "福建菜"
 
 #: src/data/categories.ts:13941
 msgid "Funeral Home"
@@ -1475,7 +1475,7 @@ msgstr "高中"
 
 #: src/data/categories.ts:4244
 msgid "Himalayan"
-msgstr ""
+msgstr "喜马拉雅餐"
 
 #: src/data/categories.ts:14745
 msgid "Hindu Temple"
@@ -1571,11 +1571,11 @@ msgstr "住房项目"
 
 #: src/data/categories.ts:4372
 msgid "Huaiyang"
-msgstr ""
+msgstr "淮阳菜"
 
 #: src/data/categories.ts:4404
 msgid "Hunan"
-msgstr ""
+msgstr "湖南菜"
 
 #: src/data/categories.ts:4436
 msgid "Hungarian"
@@ -1603,7 +1603,7 @@ msgstr "印度尼西亚餐"
 
 #: src/data/categories.ts:4596
 msgid "Indonesian Meatballs"
-msgstr ""
+msgstr "印尼肉丸"
 
 #: src/data/categories.ts:1249
 msgid "Indoor Arena"
@@ -1647,7 +1647,7 @@ msgstr "日本餐"
 
 #: src/data/categories.ts:4756
 msgid "Javanese"
-msgstr ""
+msgstr "爪哇餐"
 
 #: src/data/categories.ts:708
 msgid "Jazz & Blues"
@@ -1667,7 +1667,7 @@ msgstr "犹太餐"
 
 #: src/data/categories.ts:4820
 msgid "Jiangsu"
-msgstr ""
+msgstr "江苏菜"
 
 #: src/data/categories.ts:15660
 msgid "Job Training"
@@ -1824,7 +1824,7 @@ msgstr "通心粉和奶酪"
 
 #: src/data/categories.ts:5076
 msgid "Macanese"
-msgstr ""
+msgstr "澳门餐"
 
 #: src/data/categories.ts:5108
 msgid "Malaysian"
@@ -1832,11 +1832,11 @@ msgstr "马来西亚餐"
 
 #: src/data/categories.ts:5140
 msgid "Mamak"
-msgstr ""
+msgstr "马马克餐"
 
 #: src/data/categories.ts:5172
 msgid "Manadonese"
-msgstr ""
+msgstr "马娜多餐"
 
 #: src/data/categories.ts:14076
 msgid "Management & Consulting"
@@ -2140,7 +2140,7 @@ msgstr "氧吧"
 
 #: src/data/categories.ts:5492
 msgid "Padangnese"
-msgstr ""
+msgstr "巴东餐"
 
 #: src/data/categories.ts:9585
 msgid "Pagoda"
@@ -2597,11 +2597,11 @@ msgstr "涮肉"
 
 #: src/data/categories.ts:6228
 msgid "Shandong"
-msgstr ""
+msgstr "鲁菜"
 
 #: src/data/categories.ts:6260
 msgid "Shanghai"
-msgstr ""
+msgstr "上海菜"
 
 #: src/data/categories.ts:18147
 msgid "Shipping Store"
@@ -2710,7 +2710,7 @@ msgstr "社交俱乐部"
 
 #: src/data/categories.ts:6388
 msgid "Som Tum"
-msgstr ""
+msgstr "青木瓜沙拉"
 
 #: src/data/categories.ts:15104
 msgid "Sorority House"
@@ -2815,7 +2815,7 @@ msgstr "夏令营"
 
 #: src/data/categories.ts:6612
 msgid "Sundanese"
-msgstr ""
+msgstr "巽达餐"
 
 #: src/data/categories.ts:17139
 msgid "Supermarket"
@@ -3188,11 +3188,11 @@ msgstr "瑜伽馆"
 
 #: src/data/categories.ts:7316
 msgid "Yunnan"
-msgstr ""
+msgstr "云南菜"
 
 #: src/data/categories.ts:7348
 msgid "Zhejiang"
-msgstr ""
+msgstr "浙江菜"
 
 #: src/data/categories.ts:9052
 msgid "Zoo"
