@@ -26,9 +26,19 @@ import { findById } from '@streetcredlabs/categories';
 
 ## API
 
+The following top-level exports are available:
+
 ### Languages
 
 This TypeScript enum contains all available languages.
+
+```js
+> const cats = require('./dist/bundle')
+undefined
+> `The following languages are available: ${Object.keys(cats.Languages).join(', ')}`
+'The following languages are available: en, fil, id, ms, th, vi, zh-Hans'
+
+```
 
 ### findById
 
@@ -95,6 +105,73 @@ console.log(getCompleteness(place)); // 0.75
 
 Pull requests are warmly welcomed.
 
+## Translations
+
+This project uses [`lingui`](https://github.com/lingui/js-lingui/) to generate gettext-format `.po` files containing all of the category names.
+
+### Adding a new language
+
+As an example, here's how to add a translation for the language Ido, which uses the code `io`.
+
+The first step to add a new translation is to use `lingui` to add a new locale and extract existing strings:
+
+```
+yarn lingui add-locale io
+yarn lingui extract io
+```
+
+The first command will create a stub translation file in `src/locales/io/messages.po` and the second command will append all translatable strings into that file. Provide a translator with the `messages.po`, and have them fill in the `msgstr ""`s with translations of the preceeding `msgid "..."`s.
+
+Once all of the translations are done, transform the `po`-file into the Lingui format:
+
+```
+yarn lingui compile --typescript
+```
+
+Include the completed translation in the library by adding it to `src/index.ts`:
+
+```diff
+diff --git a/src/index.ts b/src/index.ts
+index e260261..7ad39f6 100644
+--- a/src/index.ts
++++ b/src/index.ts
+@@ -7,6 +7,7 @@ import ms from './locales/ms/messages';
+ import th from './locales/th/messages';
+ import vi from './locales/vi/messages';
+ import zhHans from './locales/zh-Hans/messages';
++import io from './locales/io/messages';
+
+ import categories from './data/categories';
+ import getCompletenessUtil from './utils/getCompleteness';
+@@ -20,6 +21,7 @@ const catalogs = {
+   th,
+   vi,
+   'zh-Hans': zhHans,
++  io,
+ };
+
+ // Some shared types
+```
+
+Finally, run `yarn build` and give it a test run:
+
+```js
+bc@bifurcaria:~/streetcred/categories$ node
+Welcome to Node.js v12.6.0.
+Type ".help" for more information.
+> const cats = require('./dist/bundle')
+undefined
+> cats.findById(9001, 'io')
+{ id: 9001, name: 'Aero', icon: 'airport', attributes: undefined }
+>
+```
+
+### Maintaining translations
+
+The `translations` package script is a shortcut for extracting and compiling translations. It should be used after categories are added or modified, or if existing translations' `po`-files have been updated.
+
+## Local development and testing
+
 ### Clone the repo
 
 ```bash
@@ -125,13 +202,13 @@ yarn test
 yarn start
 ```
 
-#### Run build once:
+### Run build once:
 
 ```bash
 yarn build
 ```
 
-#### Generate translation files
+### Generate translation files
 
 `yarn translations`
 
