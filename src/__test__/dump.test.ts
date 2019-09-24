@@ -10,7 +10,7 @@ const i18n = lingui.setupI18n({
   },
 });
 
-import { dump } from '../';
+import { dump, ICategory, sortCategories } from '../';
 
 describe('dump', () => {
   it('should be a function', () => {
@@ -18,6 +18,10 @@ describe('dump', () => {
   });
 
   it('should be the categories array', () => {
-    expect(dump()).toEqual(categories(i18n));
+    const cats = categories(i18n) as ICategory[];
+    const collator = new Intl.Collator('en');
+    const sortedCats = sortCategories(cats, collator);
+
+    expect(dump()).toEqual(sortedCats);
   });
 });

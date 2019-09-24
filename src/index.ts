@@ -67,7 +67,10 @@ export enum Languages {
 /**
  * dump all categories
  */
-export const dump = (language: Languages = Languages.en): ICategory[] => {
+export const dump = (
+  language: Languages = Languages.en,
+  sortAlphabetically: boolean = true
+): ICategory[] => {
   const i18n = lingui.setupI18n({
     language: Object.keys(catalogs).includes(language)
       ? language
@@ -76,6 +79,12 @@ export const dump = (language: Languages = Languages.en): ICategory[] => {
   });
 
   const cats = categories(i18n) as ICategory[];
+
+  if (sortAlphabetically) {
+    const collator = new Intl.Collator(language);
+    const sortedCats = sortCategories(cats, collator) as ICategory[];
+    return sortedCats;
+  }
 
   return cats;
 };
@@ -87,6 +96,27 @@ export const findById = (
   catId: number,
   language: Languages = Languages.en
 ): IFlattenedCategory | undefined => byId(dump(language))[catId];
+
+/**
+ * Sorts categories alphabetically based on category name in locale
+ */
+export const sortCategories = (
+  cats: ICategory[],
+  collator: Intl.Collator
+): ICategory[] => {
+  const sortedCategories = cats;
+  sortedCategories.sort((a, b) => collator.compare(a.name, b.name));
+
+  sortedCategories.forEach(category => {
+    const subcategories = category.categories;
+
+    if (subcategories && subcategories.length) {
+      sortCategories(subcategories, collator);
+    }
+  });
+
+  return sortedCategories;
+};
 
 export const flatten = byId;
 

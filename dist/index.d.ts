@@ -35,11 +35,15 @@ export declare enum Languages {
 /**
  * dump all categories
  */
-export declare const dump: (language?: Languages) => ICategory[];
+export declare const dump: (language?: Languages, sortAlphabetically?: boolean) => ICategory[];
 /**
  * find a single category by id
  */
 export declare const findById: (catId: number, language?: Languages) => IFlattenedCategory | undefined;
+/**
+ * Sorts categories alphabetically based on category name in locale
+ */
+export declare const sortCategories: (cats: ICategory[], collator: Intl.Collator) => ICategory[];
 export declare const flatten: (cats: ICategory[]) => IFlattenedCategoriesById;
 export declare const getCompleteness: (place: import("./utils/getCompleteness").IPlace) => number;
 export {};
