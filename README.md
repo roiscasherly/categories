@@ -68,6 +68,11 @@ returns `{ id: 9049, name: 'Pasukan', icon: 'entrance', attributes: undefined }`
 
 ### dump
 
+Parameters:
+
+* `language` (defaults to `en`): one of the available language codes found in the `Languages` enum
+* `sortAlphabetically` (defaults to `true`): whether or not to sort categories using a language-aware sorter
+
 Returns the entire categories array.
 
 ```JavaScript
@@ -88,6 +93,8 @@ const categories = dump();
 ```
 
 Call with `Languages[lang]` as a second argument to get translated data: `dump('fil')`
+
+
 
 ### getCompleteness
 
