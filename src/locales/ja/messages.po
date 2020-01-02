@@ -1,0 +1,3199 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2019-08-06 21:43-0400\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/data/categories.ts:15998
+msgid "Accessories Store"
+msgstr "アクセサリー販売店"
+
+#: src/data/categories.ts:13536
+msgid "Accountant"
+msgstr "会計士"
+
+#: src/data/categories.ts:1812
+msgid "Acehnese"
+msgstr "アチェ料理"
+
+#: src/data/categories.ts:12490
+msgid "Acupuncturist"
+msgstr "鍼師"
+
+#: src/data/categories.ts:11686
+msgid "Adult"
+msgstr "成人向け"
+
+#: src/data/categories.ts:15540
+msgid "Adult Care"
+msgstr "高齢者ケア"
+
+#: src/data/categories.ts:7387
+msgid "Adult Education Center"
+msgstr "成人教育センター"
+
+#: src/data/categories.ts:15696
+msgid "Adult Shop"
+msgstr "成人向け店舗"
+
+#: src/data/categories.ts:13563
+msgid "Advertising Agency"
+msgstr "広告代理店"
+
+#: src/data/categories.ts:13118
+msgid "Aerospace"
+msgstr "航空宇宙"
+
+#: src/data/categories.ts:1844
+msgid "Afghan"
+msgstr "アフガニスタン料理"
+
+#: src/data/categories.ts:1876
+msgid "African"
+msgstr "アフリカ料理"
+
+#: src/data/categories.ts:18657
+msgid "Air"
+msgstr "飛行機"
+
+#: src/data/categories.ts:18662
+msgid "Airport"
+msgstr "空港"
+
+#: src/data/categories.ts:18674
+msgid "Airport Gate"
+msgstr "空港ゲート"
+
+#: src/data/categories.ts:18686
+msgid "Airport Lounge"
+msgstr "空港ラウンジ"
+
+#: src/data/categories.ts:18698
+msgid "Airport Service"
+msgstr "空港サービス"
+
+#: src/data/categories.ts:18710
+msgid "Airport Terminal"
+msgstr "空港ターミナル"
+
+#: src/data/categories.ts:18722
+msgid "Airport Tram"
+msgstr "空港トラム"
+
+#: src/data/categories.ts:12517
+msgid "Alternative Medicine"
+msgstr "代替医療"
+
+#: src/data/categories.ts:627
+msgid "Amphitheater"
+msgstr "円形競技場"
+
+#: src/data/categories.ts:9
+msgid "Amusements"
+msgstr "娯楽"
+
+#: src/data/categories.ts:1908
+msgid "Anhui"
+msgstr "安徽料理"
+
+#: src/data/categories.ts:13590
+msgid "Animal Shelter"
+msgstr "動物保護施設"
+
+#: src/data/categories.ts:8939
+msgid "Animals"
+msgstr "動物"
+
+#: src/data/categories.ts:15723
+msgid "Antique Store"
+msgstr "骨とう品店"
+
+#: src/data/categories.ts:8944
+msgid "Aquarium"
+msgstr "水族館"
+
+#: src/data/categories.ts:9086
+msgid "Aquatic Farm"
+msgstr "水産養殖場"
+
+#: src/data/categories.ts:14
+msgid "Arcade"
+msgstr "ゲームセンター"
+
+#: src/data/categories.ts:322
+msgid "Archaeological Site"
+msgstr "考古学的な遺跡"
+
+#: src/data/categories.ts:13617
+msgid "Architect"
+msgstr "建築士"
+
+#: src/data/categories.ts:1940
+msgid "Arepa"
+msgstr "アレパ"
+
+#: src/data/categories.ts:1972
+msgid "Argentinian"
+msgstr "アルゼンチン料理"
+
+#: src/data/categories.ts:15750
+msgid "Army Navy Store"
+msgstr "陸海軍ストア"
+
+#: src/data/categories.ts:13644
+msgid "Art & Design Studio"
+msgstr "アートとデザインスタジオ"
+
+#: src/data/categories.ts:271
+msgid "Art Gallery"
+msgstr "画廊"
+
+#: src/data/categories.ts:485
+msgid "Art Museum"
+msgstr "芸術博物館"
+
+#: src/data/categories.ts:13671
+msgid "Art Services"
+msgstr "アートサービス"
+
+#: src/data/categories.ts:13698
+msgid "Art Studio"
+msgstr "アートスタジオ"
+
+#: src/data/categories.ts:15777
+msgid "Arts & Crafts Store"
+msgstr "アートと工芸品店"
+
+#: src/data/categories.ts:4
+msgid "Arts & Entertainment"
+msgstr "アートとエンターテインメント"
+
+#: src/data/categories.ts:850
+msgid "Arts Center"
+msgstr "芸術センター"
+
+#: src/data/categories.ts:2004
+msgid "Asian"
+msgstr "アジア料理"
+
+#: src/data/categories.ts:14950
+msgid "Assisted Living"
+msgstr "サービス付き高齢者向け住宅"
+
+#: src/data/categories.ts:15155
+msgid "Astrologer / Psychic"
+msgstr "占星術師／霊能者"
+
+#: src/data/categories.ts:877
+msgid "Auditorium"
+msgstr "公会堂"
+
+#: src/data/categories.ts:2036
+msgid "Australian"
+msgstr "オーストラリア料理"
+
+#: src/data/categories.ts:2068
+msgid "Austrian"
+msgstr "オーストリア料理"
+
+#: src/data/categories.ts:1073
+msgid "Auto Racetrack"
+msgstr "自動車レース場"
+
+#: src/data/categories.ts:11376
+msgid "Automobile Dealership"
+msgstr "自動車販売店"
+
+#: src/data/categories.ts:11403
+msgid "Automobile Rental"
+msgstr "レンタカー"
+
+#: src/data/categories.ts:11430
+msgid "Automobile Repair"
+msgstr "自動車修理工場"
+
+#: src/data/categories.ts:11371
+#: src/data/categories.ts:18772
+msgid "Automotive"
+msgstr "自動車"
+
+#: src/data/categories.ts:15804
+msgid "Automotive Supplies"
+msgstr "自動車用品店"
+
+#: src/data/categories.ts:8971
+msgid "Aviary"
+msgstr "鳥小屋"
+
+#: src/data/categories.ts:2196
+msgid "BBQ"
+msgstr "バーベキュー"
+
+#: src/data/categories.ts:16025
+msgid "Baby Store"
+msgstr "赤ちゃん用品店"
+
+#: src/data/categories.ts:10471
+msgid "Badminton Court"
+msgstr "バドミントンコート"
+
+#: src/data/categories.ts:2100
+msgid "Bagels"
+msgstr "ベーグル"
+
+#: src/data/categories.ts:18734
+msgid "Baggage Claim"
+msgstr "手荷物受取所"
+
+#: src/data/categories.ts:2132
+#: src/data/categories.ts:16680
+msgid "Bakery"
+msgstr "パン屋"
+
+#: src/data/categories.ts:2164
+msgid "Balinese"
+msgstr "バリ料理"
+
+#: src/data/categories.ts:654
+msgid "Bandstand"
+msgstr "野外ステージ"
+
+#: src/data/categories.ts:13367
+msgid "Bank"
+msgstr "銀行"
+
+#: src/data/categories.ts:8132
+msgid "Bar"
+msgstr "バー"
+
+#: src/data/categories.ts:9923
+msgid "Barbecue"
+msgstr "バーベキュー"
+
+#: src/data/categories.ts:11713
+msgid "Barber"
+msgstr "理髪店"
+
+#: src/data/categories.ts:10498
+msgid "Baseball Field"
+msgstr "野球場"
+
+#: src/data/categories.ts:1095
+msgid "Baseball Stadium"
+msgstr "野球スタジアム"
+
+#: src/data/categories.ts:10525
+msgid "Basketball Court"
+msgstr "バスケットボールコート"
+
+#: src/data/categories.ts:1117
+msgid "Basketball Stadium"
+msgstr "バスケットボールスタジアム"
+
+#: src/data/categories.ts:11606
+msgid "Bath House"
+msgstr "浴場"
+
+#: src/data/categories.ts:11601
+msgid "Bathing"
+msgstr "海水浴"
+
+#: src/data/categories.ts:9935
+msgid "Bathing Area"
+msgstr "水浴場"
+
+#: src/data/categories.ts:9820
+msgid "Battlefield"
+msgstr "戦場"
+
+#: src/data/categories.ts:9947
+msgid "Beach"
+msgstr "ビーチ"
+
+#: src/data/categories.ts:8164
+msgid "Beach Bar"
+msgstr "ビーチバー"
+
+#: src/data/categories.ts:15831
+msgid "Beauty & Cosmetics"
+msgstr "美容と化粧品"
+
+#: src/data/categories.ts:11681
+msgid "Beauty & Spa"
+msgstr "美容とスパ"
+
+#: src/data/categories.ts:11740
+msgid "Beauty Salon"
+msgstr "美容院"
+
+#: src/data/categories.ts:7414
+msgid "Beauty School"
+msgstr "美容学校"
+
+#: src/data/categories.ts:18981
+msgid "Bed & Breakfast"
+msgstr "朝食つきの宿泊施設（B＆B）"
+
+#: src/data/categories.ts:8196
+msgid "Beer Bar"
+msgstr "ビールバー"
+
+#: src/data/categories.ts:8228
+msgid "Beer Garden"
+msgstr "ビアガーデン"
+
+#: src/data/categories.ts:16707
+msgid "Beer Store"
+msgstr "ビール販売店"
+
+#: src/data/categories.ts:2292
+msgid "Beijing"
+msgstr "北京料理"
+
+#: src/data/categories.ts:2228
+msgid "Belarusian"
+msgstr "ベラルーシ料理"
+
+#: src/data/categories.ts:2260
+msgid "Belgian"
+msgstr "ベルギー料理"
+
+#: src/data/categories.ts:2324
+msgid "Betawinese"
+msgstr "バタビア料理"
+
+#: src/data/categories.ts:18862
+msgid "Bicycle"
+msgstr "自転車"
+
+#: src/data/categories.ts:15182
+msgid "Bicycle Repair"
+msgstr "自転車修理"
+
+#: src/data/categories.ts:15858
+msgid "Bicycle Store"
+msgstr "自転車屋"
+
+#: src/data/categories.ts:15885
+msgid "Big Box Store"
+msgstr "大規模小売店"
+
+#: src/data/categories.ts:18867
+msgid "Bike Rental"
+msgstr "バイクレンタル"
+
+#: src/data/categories.ts:18889
+msgid "Bike Share Station"
+msgstr "バイク共有ステーション"
+
+#: src/data/categories.ts:9959
+msgid "Bike Trail"
+msgstr "バイクトレイル"
+
+#: src/data/categories.ts:2356
+msgid "Bistro"
+msgstr "ビストロ"
+
+#: src/data/categories.ts:19003
+msgid "Boarding House"
+msgstr "寄宿舎"
+
+#: src/data/categories.ts:9971
+msgid "Boat Charter"
+msgstr "チャーター船"
+
+#: src/data/categories.ts:9998
+msgid "Boat Ramp"
+msgstr "船の進水路"
+
+#: src/data/categories.ts:10010
+msgid "Boat Rental"
+msgstr "船舶レンタル"
+
+#: src/data/categories.ts:11457
+msgid "Boat Sales"
+msgstr "船舶販売"
+
+#: src/data/categories.ts:2388
+msgid "Bodega"
+msgstr "ワイン倉庫／雑貨店"
+
+#: src/data/categories.ts:15912
+msgid "Bookstore"
+msgstr "本屋"
+
+#: src/data/categories.ts:2420
+msgid "Bosnian"
+msgstr "ボスニア料理"
+
+#: src/data/categories.ts:9832
+msgid "Botanical Garden"
+msgstr "植物園"
+
+#: src/data/categories.ts:16052
+msgid "Boutique"
+msgstr "ブティック"
+
+#: src/data/categories.ts:10552
+msgid "Bowling Alley"
+msgstr "ボーリング場"
+
+#: src/data/categories.ts:10579
+msgid "Boxing Gym"
+msgstr "ボクシングジム"
+
+#: src/data/categories.ts:2452
+msgid "Brazilian"
+msgstr "ブラジル料理"
+
+#: src/data/categories.ts:2484
+msgid "Breakfast"
+msgstr "朝食"
+
+#: src/data/categories.ts:8260
+msgid "Brewery"
+msgstr "ビール会社"
+
+#: src/data/categories.ts:2516
+msgid "Brewpub"
+msgstr "工場直営パブ"
+
+#: src/data/categories.ts:16079
+msgid "Bridal Store"
+msgstr "婚礼用品店"
+
+#: src/data/categories.ts:9309
+msgid "Bridge"
+msgstr "橋"
+
+#: src/data/categories.ts:2548
+msgid "British"
+msgstr "イギリス料理"
+
+#: src/data/categories.ts:2580
+msgid "Bubble Tea"
+msgstr "バブル・ティー"
+
+#: src/data/categories.ts:14657
+msgid "Buddhist Temple"
+msgstr "仏教寺院"
+
+#: src/data/categories.ts:2612
+msgid "Buffet"
+msgstr "バイキング／ビュッフェ"
+
+#: src/data/categories.ts:13725
+#: src/data/categories.ts:18896
+msgid "Building"
+msgstr "ビルディング"
+
+#: src/data/categories.ts:11958
+msgid "Building & Trades"
+msgstr "建物と産業"
+
+#: src/data/categories.ts:17308
+msgid "Building Materials"
+msgstr "建築資材"
+
+#: src/data/categories.ts:2644
+msgid "Bulgarian"
+msgstr "ブルガリア料理"
+
+#: src/data/categories.ts:1139
+msgid "Bull Ring"
+msgstr "闘牛場"
+
+#: src/data/categories.ts:2676
+msgid "Burgers"
+msgstr "バーガー"
+
+#: src/data/categories.ts:2708
+msgid "Burmese"
+msgstr "ビルマ料理"
+
+#: src/data/categories.ts:2740
+msgid "Burritos"
+msgstr "ブリトー"
+
+#: src/data/categories.ts:19208
+msgid "Bus Station"
+msgstr "バスターミナル"
+
+#: src/data/categories.ts:19220
+msgid "Bus Stop"
+msgstr "バス停"
+
+#: src/data/categories.ts:13752
+msgid "Business Center"
+msgstr "ビジネスセンター"
+
+#: src/data/categories.ts:16734
+msgid "Butcher Shop"
+msgstr "精肉店"
+
+#: src/data/categories.ts:19232
+msgid "Cable Car Station"
+msgstr "ケーブルカー駅"
+
+#: src/data/categories.ts:2772
+msgid "Cafe"
+msgstr "カフェ"
+
+#: src/data/categories.ts:2804
+msgid "Cafeteria"
+msgstr "カフェテリア"
+
+#: src/data/categories.ts:2836
+msgid "Cajun & Creole"
+msgstr "ケージャンとクレオール"
+
+#: src/data/categories.ts:2868
+msgid "Cambodian"
+msgstr "カンボジア料理"
+
+#: src/data/categories.ts:15939
+msgid "Camera Store"
+msgstr "カメラ屋"
+
+#: src/data/categories.ts:10022
+#: src/data/categories.ts:19025
+msgid "Campground"
+msgstr "キャンプ場"
+
+#: src/data/categories.ts:16761
+msgid "Candy Store"
+msgstr "キャンディー屋"
+
+#: src/data/categories.ts:2900
+msgid "Cantonese"
+msgstr "広東料理"
+
+#: src/data/categories.ts:9321
+msgid "Canyon"
+msgstr "渓谷"
+
+#: src/data/categories.ts:1324
+msgid "Capitol Building"
+msgstr "国会議事堂"
+
+#: src/data/categories.ts:11484
+msgid "Car Wash"
+msgstr "洗車場"
+
+#: src/data/categories.ts:2932
+msgid "Caribbean"
+msgstr "カリブ料理"
+
+#: src/data/categories.ts:41
+msgid "Carousel"
+msgstr "回転木馬"
+
+#: src/data/categories.ts:11963
+msgid "Carpenter"
+msgstr "大工"
+
+#: src/data/categories.ts:17335
+msgid "Carpets & Floor Coverings"
+msgstr "カーペットと床材"
+
+#: src/data/categories.ts:63
+msgid "Casino"
+msgstr "カジノ"
+
+#: src/data/categories.ts:9333
+msgid "Castle"
+msgstr "城"
+
+#: src/data/categories.ts:15966
+msgid "Catalog Store"
+msgstr "カタログ通販店"
+
+#: src/data/categories.ts:12373
+msgid "Catering"
+msgstr "ケータリング／出前"
+
+#: src/data/categories.ts:9345
+msgid "Cave"
+msgstr "洞くつ"
+
+#: src/data/categories.ts:9357
+msgid "Cemetery"
+msgstr "墓苑"
+
+#: src/data/categories.ts:2964
+msgid "Cha Chaan Teng"
+msgstr "広東風軽食店"
+
+#: src/data/categories.ts:19047
+msgid "Chalets"
+msgstr "シャレー（別荘）"
+
+#: src/data/categories.ts:8292
+msgid "Champagne Bar"
+msgstr "シャンペンバー"
+
+#: src/data/categories.ts:13394
+msgid "Check Cashing"
+msgstr "小切手の現金化"
+
+#: src/data/categories.ts:16788
+msgid "Cheese Shop"
+msgstr "チーズ販売店"
+
+#: src/data/categories.ts:90
+msgid "Chess"
+msgstr "チェス"
+
+#: src/data/categories.ts:15567
+msgid "Child Care"
+msgstr "チャイルドケア"
+
+#: src/data/categories.ts:16106
+msgid "Children's Clothing Store"
+msgstr "子供服販売店"
+
+#: src/data/categories.ts:2996
+msgid "Chinese"
+msgstr "中華料理"
+
+#: src/data/categories.ts:3028
+msgid "Chinese Breakfast"
+msgstr "中華風朝食"
+
+#: src/data/categories.ts:12544
+msgid "Chiropractor"
+msgstr "カイロプラクター"
+
+#: src/data/categories.ts:16815
+msgid "Chocolate Shop"
+msgstr "チョコレート販売店"
+
+#: src/data/categories.ts:14679
+msgid "Church"
+msgstr "教会"
+
+#: src/data/categories.ts:904
+msgid "Circus"
+msgstr "サーカス"
+
+#: src/data/categories.ts:1351
+msgid "City Hall"
+msgstr "市役所"
+
+#: src/data/categories.ts:9844
+msgid "City Park"
+msgstr "シティーパーク"
+
+#: src/data/categories.ts:9369
+msgid "City Walls"
+msgstr "市壁"
+
+#: src/data/categories.ts:1319
+msgid "Civic"
+msgstr "市民の"
+
+#: src/data/categories.ts:1378
+msgid "Civic Center"
+msgstr "市民センター"
+
+#: src/data/categories.ts:11985
+msgid "Cleaning & Sanitation"
+msgstr "清掃と公衆衛生"
+
+#: src/data/categories.ts:9381
+msgid "Cliff"
+msgstr "崖"
+
+#: src/data/categories.ts:10606
+msgid "Climbing Gym"
+msgstr "ボルダリングジム"
+
+#: src/data/categories.ts:12571
+msgid "Clinic"
+msgstr "診療所"
+
+#: src/data/categories.ts:15993
+msgid "Clothing"
+msgstr "衣料品"
+
+#: src/data/categories.ts:8324
+msgid "Cocktail Bar"
+msgstr "カクテルバー"
+
+#: src/data/categories.ts:3060
+msgid "Coffee Shop"
+msgstr "コーヒー店"
+
+#: src/data/categories.ts:7441
+msgid "College"
+msgstr "単科大学"
+
+#: src/data/categories.ts:7458
+msgid "College Academic Building"
+msgstr "大学研究施設"
+
+#: src/data/categories.ts:7470
+msgid "College Administrative Building"
+msgstr "大学本部施設"
+
+#: src/data/categories.ts:7482
+msgid "College Bookstore"
+msgstr "大学書店"
+
+#: src/data/categories.ts:7509
+msgid "College Cafeteria"
+msgstr "大学カフェテリア"
+
+#: src/data/categories.ts:14972
+msgid "College Dormitory / Residence Hall"
+msgstr "大学の寮／学生寮"
+
+#: src/data/categories.ts:7536
+msgid "College Gym"
+msgstr "大学体育館"
+
+#: src/data/categories.ts:7548
+msgid "College Library"
+msgstr "大学図書館"
+
+#: src/data/categories.ts:7565
+msgid "College Quad"
+msgstr "大学中庭"
+
+#: src/data/categories.ts:7570
+msgid "College Rec Center"
+msgstr "大学レクリエーションセンター"
+
+#: src/data/categories.ts:7582
+msgid "College Theater"
+msgstr "大学講義堂"
+
+#: src/data/categories.ts:3092
+msgid "Colombian"
+msgstr "コロンビア料理"
+
+#: src/data/categories.ts:931
+msgid "Comedy Club"
+msgstr "コメディクラブ"
+
+#: src/data/categories.ts:16270
+msgid "Comic Books"
+msgstr "マンガ"
+
+#: src/data/categories.ts:12251
+msgid "Communications"
+msgstr "コミュニケーション"
+
+#: src/data/categories.ts:14434
+msgid "Community Association"
+msgstr "地域自治会"
+
+#: src/data/categories.ts:1405
+msgid "Community Center"
+msgstr "コミュニティセンター"
+
+#: src/data/categories.ts:7604
+msgid "Community College"
+msgstr "コミュニティカレッジ"
+
+#: src/data/categories.ts:13779
+msgid "Computer Services"
+msgstr "コンピュータサービス"
+
+#: src/data/categories.ts:16297
+msgid "Computers & Home Electronics"
+msgstr "コンピュータと家電製品"
+
+#: src/data/categories.ts:681
+msgid "Concert Hall"
+msgstr "コンサートホール"
+
+#: src/data/categories.ts:14701
+msgid "Confucian Temple"
+msgstr "孔子廟"
+
+#: src/data/categories.ts:12007
+msgid "Construction Company"
+msgstr "建築会社"
+
+#: src/data/categories.ts:1432
+msgid "Consulate / Embassy"
+msgstr "領事館／大使館"
+
+#: src/data/categories.ts:16842
+msgid "Convenience Store"
+msgstr "コンビニエンス・ストア"
+
+#: src/data/categories.ts:14723
+msgid "Convent"
+msgstr "女子修道院"
+
+#: src/data/categories.ts:12395
+msgid "Convention Center"
+msgstr "コンベンションセンター"
+
+#: src/data/categories.ts:7621
+msgid "Cooking School"
+msgstr "クッキングスクール"
+
+#: src/data/categories.ts:16324
+msgid "Cosmetics Shop"
+msgstr "化粧品店"
+
+#: src/data/categories.ts:16351
+msgid "Costume Shop"
+msgstr "コスチューム店"
+
+#: src/data/categories.ts:1459
+msgid "Court House"
+msgstr "裁判所"
+
+#: src/data/categories.ts:13806
+msgid "Coworking Space"
+msgstr "コワーキングスペース"
+
+#: src/data/categories.ts:16378
+msgid "Craft Store"
+msgstr "工芸品店"
+
+#: src/data/categories.ts:13421
+msgid "Credit Union"
+msgstr "信用組合"
+
+#: src/data/categories.ts:3124
+msgid "Creperie"
+msgstr "クレープ屋"
+
+#: src/data/categories.ts:10633
+msgid "Cricket"
+msgstr "クリケット"
+
+#: src/data/categories.ts:3156
+msgid "Cuban"
+msgstr "キューバ料理"
+
+#: src/data/categories.ts:1481
+msgid "Cultural Center"
+msgstr "文化センター"
+
+#: src/data/categories.ts:3188
+msgid "Cupcake Shop"
+msgstr "ケーキ屋"
+
+#: src/data/categories.ts:13448
+msgid "Currency Exchange"
+msgstr "両替"
+
+#: src/data/categories.ts:1508
+msgid "Customs House"
+msgstr "税関"
+
+#: src/data/categories.ts:10660
+msgid "Cycle Studio"
+msgstr "サイクルスタジオ"
+
+#: src/data/categories.ts:3220
+msgid "Czech"
+msgstr "チェコ料理"
+
+#: src/data/categories.ts:9113
+msgid "Dairy Farm"
+msgstr "酪農場"
+
+#: src/data/categories.ts:16869
+msgid "Dairy Store"
+msgstr "乳製品販売店"
+
+#: src/data/categories.ts:9393
+msgid "Dam"
+msgstr "ダム"
+
+#: src/data/categories.ts:958
+msgid "Dance"
+msgstr "ダンス"
+
+#: src/data/categories.ts:102
+msgid "Dance Hall"
+msgstr "ダンスホール"
+
+#: src/data/categories.ts:7648
+msgid "Dance Studio"
+msgstr "ダンス・スタジオ"
+
+#: src/data/categories.ts:11767
+msgid "Day Spa"
+msgstr "デイ・スパ"
+
+#: src/data/categories.ts:3252
+msgid "Deli"
+msgstr "デリ"
+
+#: src/data/categories.ts:12598
+msgid "Dentist"
+msgstr "歯科医"
+
+#: src/data/categories.ts:16405
+msgid "Department Store"
+msgstr "デパート"
+
+#: src/data/categories.ts:1535
+msgid "Department of Motor Vehicles"
+msgstr "運転免許試験場／運輸局"
+
+#: src/data/categories.ts:3284
+msgid "Dessert Shop"
+msgstr "デザート屋"
+
+#: src/data/categories.ts:13833
+msgid "Detective & Security Services"
+msgstr "探偵とセキュリティサービス"
+
+#: src/data/categories.ts:10687
+msgid "Diet & Weight Loss"
+msgstr "ダイエットと減量"
+
+#: src/data/categories.ts:16432
+msgid "Dietary & Supplement Shop"
+msgstr "栄養と健康補助食品店"
+
+#: src/data/categories.ts:9405
+msgid "Dike"
+msgstr "堤防"
+
+#: src/data/categories.ts:3316
+msgid "Dim Sum"
+msgstr "点心"
+
+#: src/data/categories.ts:3348
+msgid "Diner"
+msgstr "ダイナー"
+
+#: src/data/categories.ts:1807
+msgid "Dining"
+msgstr "ダイニング"
+
+#: src/data/categories.ts:3380
+msgid "Dinner Theater"
+msgstr "ディナーシアター"
+
+#: src/data/categories.ts:10034
+msgid "Disc Golf"
+msgstr "ディスクゴルフ"
+
+#: src/data/categories.ts:16459
+msgid "Discount & Variety Store"
+msgstr "安売り店と雑貨店"
+
+#: src/data/categories.ts:8356
+msgid "Distillery"
+msgstr "蒸留酒製造所"
+
+#: src/data/categories.ts:13140
+msgid "Distribution Center"
+msgstr "流通センター"
+
+#: src/data/categories.ts:8388
+msgid "Dive Bar"
+msgstr "安酒場"
+
+#: src/data/categories.ts:10046
+msgid "Dive Center"
+msgstr "ダイビングセンター"
+
+#: src/data/categories.ts:10714
+msgid "Diving Center"
+msgstr "ダイビングセンター"
+
+#: src/data/categories.ts:12625
+msgid "Doctor"
+msgstr "医師"
+
+#: src/data/categories.ts:9856
+msgid "Dog Park"
+msgstr "ドッグパーク"
+
+#: src/data/categories.ts:1161
+msgid "Dog Racetrack"
+msgstr "ドッグレース場"
+
+#: src/data/categories.ts:3412
+msgid "Dongbei"
+msgstr "中国東北区料理"
+
+#: src/data/categories.ts:3444
+msgid "Donut Shop"
+msgstr "ドーナツ屋"
+
+#: src/data/categories.ts:3476
+msgid "Dosa"
+msgstr "ドーサ"
+
+#: src/data/categories.ts:11633
+msgid "Drinking Water"
+msgstr "飲料水"
+
+#: src/data/categories.ts:397
+msgid "Drive-in Theater"
+msgstr "ドライブインシアター"
+
+#: src/data/categories.ts:7675
+msgid "Driving School"
+msgstr "運転免許教習所"
+
+#: src/data/categories.ts:15209
+msgid "Dry Cleaner"
+msgstr "ドライクリーニング店"
+
+#: src/data/categories.ts:3508
+msgid "Dumpling"
+msgstr "ギョーザ／ダンプリング"
+
+#: src/data/categories.ts:9417
+msgid "Dunes"
+msgstr "砂丘"
+
+#: src/data/categories.ts:3540
+msgid "Dutch"
+msgstr "オランダ料理"
+
+#: src/data/categories.ts:16486
+msgid "Duty Free Shop"
+msgstr "免税店"
+
+#: src/data/categories.ts:18746
+msgid "Duty-free Shop"
+msgstr "免税店"
+
+#: src/data/categories.ts:11506
+msgid "EV Charging Station"
+msgstr "EV 充電スタンド"
+
+#: src/data/categories.ts:3572
+msgid "Eastern European"
+msgstr "東欧料理"
+
+#: src/data/categories.ts:7382
+msgid "Education"
+msgstr "教育関連"
+
+#: src/data/categories.ts:12029
+msgid "Electrician"
+msgstr "電気技師"
+
+#: src/data/categories.ts:16513
+msgid "Electronics Store"
+msgstr "家電用品店"
+
+#: src/data/categories.ts:7702
+msgid "Elementary School"
+msgstr "小学校"
+
+#: src/data/categories.ts:18901
+msgid "Elevator"
+msgstr "エレベーター"
+
+#: src/data/categories.ts:15594
+msgid "Emergency Phone"
+msgstr "緊急電話"
+
+#: src/data/categories.ts:12652
+msgid "Emergency Room"
+msgstr "緊急治療室"
+
+#: src/data/categories.ts:15606
+msgid "Emergency Shelter"
+msgstr "緊急避難所"
+
+#: src/data/categories.ts:3604
+msgid "Empanada"
+msgstr "エンパナーダ"
+
+#: src/data/categories.ts:13860
+msgid "Employment Agencies"
+msgstr "職業紹介所"
+
+#: src/data/categories.ts:15633
+msgid "Employment Agency"
+msgstr "職業紹介所"
+
+#: src/data/categories.ts:13887
+msgid "Engineering"
+msgstr "エンジニアリング"
+
+#: src/data/categories.ts:13914
+msgid "Entertainment Service"
+msgstr "エンターテインメントサービス"
+
+#: src/data/categories.ts:18906
+msgid "Entrance"
+msgstr "入口"
+
+#: src/data/categories.ts:12051
+msgid "Equipment Rental"
+msgstr "設備賃貸"
+
+#: src/data/categories.ts:512
+msgid "Erotic Museum"
+msgstr "エッチな博物館"
+
+#: src/data/categories.ts:18911
+msgid "Escalator"
+msgstr "エスカレーター"
+
+#: src/data/categories.ts:3636
+msgid "Ethiopian"
+msgstr "エチオピア料理"
+
+#: src/data/categories.ts:12417
+msgid "Event Space"
+msgstr "イベントスペース"
+
+#: src/data/categories.ts:16540
+msgid "Event Tickets"
+msgstr "イベントチケット"
+
+#: src/data/categories.ts:12368
+msgid "Events"
+msgstr "イベント"
+
+#: src/data/categories.ts:12439
+msgid "Exhibition Hall"
+msgstr "展示ホール"
+
+#: src/data/categories.ts:16567
+msgid "Fabric Store"
+msgstr "布地販売店"
+
+#: src/data/categories.ts:13162
+msgid "Factory"
+msgstr "工場"
+
+#: src/data/categories.ts:3668
+msgid "Falafel"
+msgstr "ファラフェル"
+
+#: src/data/categories.ts:9140
+msgid "Farm"
+msgstr "農場"
+
+#: src/data/categories.ts:16896
+msgid "Farmers Market"
+msgstr "農作物市場"
+
+#: src/data/categories.ts:9081
+msgid "Farming"
+msgstr "農業"
+
+#: src/data/categories.ts:3700
+msgid "Fast Food"
+msgstr "ファーストフード"
+
+#: src/data/categories.ts:18923
+msgid "Ferry Terminal"
+msgstr "フェリーターミナル"
+
+#: src/data/categories.ts:985
+msgid "Festival"
+msgstr "フェスティバル"
+
+#: src/data/categories.ts:3732
+msgid "Filipino"
+msgstr "フィリピン料理"
+
+#: src/data/categories.ts:12256
+msgid "Film & Video Production"
+msgstr "フィルム制作とビデオ制作"
+
+#: src/data/categories.ts:13475
+msgid "Financial Services"
+msgstr "金融サービス"
+
+#: src/data/categories.ts:266
+msgid "Fine Arts"
+msgstr "絵画"
+
+#: src/data/categories.ts:1562
+msgid "Fire Station"
+msgstr "消防署"
+
+#: src/data/categories.ts:9429
+msgid "Firepit"
+msgstr "囲炉裏"
+
+#: src/data/categories.ts:3764
+msgid "Fish & Chips"
+msgstr "フィッシュ＆チップス"
+
+#: src/data/categories.ts:16923
+msgid "Fish Market"
+msgstr "海産物市場"
+
+#: src/data/categories.ts:10058
+msgid "Fishing"
+msgstr "釣り"
+
+#: src/data/categories.ts:16594
+msgid "Fishing Supply"
+msgstr "釣り道具屋"
+
+#: src/data/categories.ts:10741
+msgid "Fitness Center"
+msgstr "フィットネスセンター"
+
+#: src/data/categories.ts:16621
+msgid "Flea Market"
+msgstr "蚤の市"
+
+#: src/data/categories.ts:7724
+msgid "Flight School"
+msgstr "航空学校"
+
+#: src/data/categories.ts:16648
+msgid "Florist"
+msgstr "花屋"
+
+#: src/data/categories.ts:3796
+msgid "Fondue"
+msgstr "フォンデュ"
+
+#: src/data/categories.ts:16675
+msgid "Food & Beverage"
+msgstr "食事と飲み物"
+
+#: src/data/categories.ts:3828
+msgid "Food Court"
+msgstr "フードコート"
+
+#: src/data/categories.ts:1183
+msgid "Football Stadium"
+msgstr "アメリカンフットボールスタジアム"
+
+#: src/data/categories.ts:9868
+msgid "Forest"
+msgstr "森"
+
+#: src/data/categories.ts:9441
+msgid "Fortress"
+msgstr "要塞"
+
+#: src/data/categories.ts:14461
+msgid "Foundation"
+msgstr "ファンデーション"
+
+#: src/data/categories.ts:9453
+msgid "Fountain"
+msgstr "噴水"
+
+#: src/data/categories.ts:17195
+msgid "Frame Shop"
+msgstr "額縁屋"
+
+#: src/data/categories.ts:14994
+msgid "Fraternity House"
+msgstr "大学の友愛会館"
+
+#: src/data/categories.ts:3860
+msgid "French"
+msgstr "フランス料理"
+
+#: src/data/categories.ts:3892
+msgid "Fried Chicken"
+msgstr "フライドチキン"
+
+#: src/data/categories.ts:3924
+msgid "Friterie"
+msgstr "ベルギー風フライドポテト"
+
+#: src/data/categories.ts:3956
+msgid "Frozen Yogurt"
+msgstr "フローズンヨーグルト"
+
+#: src/data/categories.ts:16950
+msgid "Fruits & Vegetables"
+msgstr "果物と野菜"
+
+#: src/data/categories.ts:3988
+msgid "Fujian"
+msgstr "福建料理"
+
+#: src/data/categories.ts:13941
+msgid "Funeral Home"
+msgstr "葬儀場"
+
+#: src/data/categories.ts:15236
+msgid "Gaming Cafe"
+msgstr "ゲームカフェ"
+
+#: src/data/categories.ts:10070
+msgid "Garden"
+msgstr "庭"
+
+#: src/data/categories.ts:17362
+msgid "Garden Center"
+msgstr "園芸用品店"
+
+#: src/data/categories.ts:11523
+msgid "Gas Station"
+msgstr "ガソリンスタンド"
+
+#: src/data/categories.ts:4020
+msgid "Gastropub"
+msgstr "ガストロパブ"
+
+#: src/data/categories.ts:9465
+msgid "Gate"
+msgstr "ゲート"
+
+#: src/data/categories.ts:8420
+msgid "Gay Bar"
+msgstr "ゲイバー"
+
+#: src/data/categories.ts:16133
+msgid "General Clothing Store"
+msgstr "一般衣料店"
+
+#: src/data/categories.ts:4052
+msgid "German"
+msgstr "ドイツ料理"
+
+#: src/data/categories.ts:17222
+msgid "Gifts & Souvenirs"
+msgstr "贈り物とお土産"
+
+#: src/data/categories.ts:9477
+msgid "Glacier"
+msgstr "氷河"
+
+#: src/data/categories.ts:4084
+msgid "Gluten-free"
+msgstr "グルテンフリー"
+
+#: src/data/categories.ts:129
+msgid "Go Karts"
+msgstr "ゴーカート"
+
+#: src/data/categories.ts:10768
+msgid "Golf Course"
+msgstr "ゴルフコース"
+
+#: src/data/categories.ts:10795
+msgid "Golf Driving Range"
+msgstr "ゴルフ打ちっぱなし"
+
+#: src/data/categories.ts:16977
+msgid "Gourmet Shop"
+msgstr "グルメ店"
+
+#: src/data/categories.ts:1567
+msgid "Government Building"
+msgstr "行政施設"
+
+#: src/data/categories.ts:7751
+msgid "Graduate School"
+msgstr "大学院"
+
+#: src/data/categories.ts:4116
+msgid "Greek"
+msgstr "ギリシャ料理"
+
+#: src/data/categories.ts:17004
+msgid "Grocery"
+msgstr "日用品"
+
+#: src/data/categories.ts:19069
+msgid "Guest House"
+msgstr "ゲストハウス"
+
+#: src/data/categories.ts:10082
+msgid "Gun Range"
+msgstr "銃射撃場"
+
+#: src/data/categories.ts:17249
+msgid "Gun Shop"
+msgstr "銃販売店"
+
+#: src/data/categories.ts:10822
+msgid "Gym"
+msgstr "スポーツジム"
+
+#: src/data/categories.ts:10849
+msgid "Gymnastics Studio"
+msgstr "体操スタジオ"
+
+#: src/data/categories.ts:12073
+msgid "HVAC Company"
+msgstr "空調会社"
+
+#: src/data/categories.ts:13968
+msgid "Hacker Space"
+msgstr "ハッカースペース"
+
+#: src/data/categories.ts:4148
+msgid "Halal"
+msgstr "ハラール"
+
+#: src/data/categories.ts:17389
+msgid "Hardware Store"
+msgstr "金物／工具店"
+
+#: src/data/categories.ts:4180
+msgid "Hawaiian"
+msgstr "ハワイ料理"
+
+#: src/data/categories.ts:12485
+msgid "Health"
+msgstr "健康"
+
+#: src/data/categories.ts:4212
+msgid "Health Food"
+msgstr "ヘルスフード（健康食品）"
+
+#: src/data/categories.ts:17031
+msgid "Health Food Store"
+msgstr "健康食品販売店"
+
+#: src/data/categories.ts:18758
+msgid "Heliport"
+msgstr "ヘリポート"
+
+#: src/data/categories.ts:17058
+msgid "Herbs & Spices"
+msgstr "ハーブとスパイス"
+
+#: src/data/categories.ts:7768
+msgid "High School"
+msgstr "高等学校"
+
+#: src/data/categories.ts:4244
+msgid "Himalayan"
+msgstr "ヒマラヤ料理"
+
+#: src/data/categories.ts:14745
+msgid "Hindu Temple"
+msgstr "ヒンドゥー教寺院"
+
+#: src/data/categories.ts:317
+msgid "Historic"
+msgstr "歴史的"
+
+#: src/data/categories.ts:339
+msgid "Historic Building"
+msgstr "歴史的建造物"
+
+#: src/data/categories.ts:356
+msgid "Historic Site"
+msgstr "史跡"
+
+#: src/data/categories.ts:539
+msgid "History Museum"
+msgstr "歴史博物館"
+
+#: src/data/categories.ts:17276
+msgid "Hobby Store"
+msgstr "模型／手芸材料店"
+
+#: src/data/categories.ts:1205
+msgid "Hockey Arena"
+msgstr "ホッケーアリーナ"
+
+#: src/data/categories.ts:10876
+msgid "Hockey Field"
+msgstr "ホッケーフィールド"
+
+#: src/data/categories.ts:17303
+msgid "Home & Garden"
+msgstr "日曜大工用品と庭用品"
+
+#: src/data/categories.ts:17416
+msgid "Home Furnishings"
+msgstr "家財道具"
+
+#: src/data/categories.ts:4276
+msgid "Hong Kong"
+msgstr "香港料理"
+
+#: src/data/categories.ts:8452
+msgid "Hookah Bar"
+msgstr "水パイプバー"
+
+#: src/data/categories.ts:1227
+msgid "Horse Racetrack"
+msgstr "競馬場"
+
+#: src/data/categories.ts:12679
+msgid "Hospice"
+msgstr "ホスピス"
+
+#: src/data/categories.ts:12706
+msgid "Hospital"
+msgstr "病院"
+
+#: src/data/categories.ts:19091
+msgid "Hostel"
+msgstr "ホステル"
+
+#: src/data/categories.ts:4308
+msgid "Hot Dog"
+msgstr "ホットドッグ"
+
+#: src/data/categories.ts:4340
+msgid "Hot Pot"
+msgstr "ホットポット"
+
+#: src/data/categories.ts:9489
+msgid "Hot Spring"
+msgstr "温泉"
+
+#: src/data/categories.ts:19113
+msgid "Hotel"
+msgstr "ホテル"
+
+#: src/data/categories.ts:8484
+msgid "Hotel Bar"
+msgstr "ホテルバー"
+
+#: src/data/categories.ts:17443
+msgid "Household Appliances"
+msgstr "家電機器"
+
+#: src/data/categories.ts:15016
+msgid "Housing Project"
+msgstr "公営住宅"
+
+#: src/data/categories.ts:4372
+msgid "Huaiyang"
+msgstr "海陽市料理"
+
+#: src/data/categories.ts:4404
+msgid "Hunan"
+msgstr "湖南料理"
+
+#: src/data/categories.ts:4436
+msgid "Hungarian"
+msgstr "ハンガリア料理"
+
+#: src/data/categories.ts:4468
+msgid "Ice Cream"
+msgstr "アイスクリーム"
+
+#: src/data/categories.ts:10903
+msgid "Ice Skating Rink"
+msgstr "アイス・スケートリンク"
+
+#: src/data/categories.ts:4500
+msgid "Indian"
+msgstr "インド料理"
+
+#: src/data/categories.ts:4532
+msgid "Indian Sweets"
+msgstr "インド風スイーツ"
+
+#: src/data/categories.ts:4564
+msgid "Indonesian"
+msgstr "インドネシア料理"
+
+#: src/data/categories.ts:4596
+msgid "Indonesian Meatballs"
+msgstr "インドネシア風ミートボール"
+
+#: src/data/categories.ts:1249
+msgid "Indoor Arena"
+msgstr "室内アリーナ"
+
+#: src/data/categories.ts:13113
+msgid "Industrial"
+msgstr "工業施設"
+
+#: src/data/categories.ts:13184
+msgid "Industrial Estate"
+msgstr "工業団地"
+
+#: src/data/categories.ts:13995
+msgid "Insurance Agent"
+msgstr "保険代理店"
+
+#: src/data/categories.ts:14022
+msgid "Internet Cafe"
+msgstr "インターネットカフェ"
+
+#: src/data/categories.ts:13502
+msgid "Investment Brokerage"
+msgstr "投資仲介"
+
+#: src/data/categories.ts:4628
+msgid "Irish"
+msgstr "アイルランド料理"
+
+#: src/data/categories.ts:4660
+msgid "Israeli"
+msgstr "イスラエル料理"
+
+#: src/data/categories.ts:4692
+msgid "Italian"
+msgstr "イタリア料理"
+
+#: src/data/categories.ts:4724
+msgid "Japanese"
+msgstr "日本料理"
+
+#: src/data/categories.ts:4756
+msgid "Javanese"
+msgstr "ジャワ料理"
+
+#: src/data/categories.ts:708
+msgid "Jazz & Blues"
+msgstr "ジャズとブルース"
+
+#: src/data/categories.ts:9501
+msgid "Jetty"
+msgstr "突堤"
+
+#: src/data/categories.ts:17553
+msgid "Jewelry Store"
+msgstr "宝石店"
+
+#: src/data/categories.ts:4788
+msgid "Jewish"
+msgstr "ユダヤ料理"
+
+#: src/data/categories.ts:4820
+msgid "Jiangsu"
+msgstr "江蘇料理"
+
+#: src/data/categories.ts:15660
+msgid "Job Training"
+msgstr "職業訓練所"
+
+#: src/data/categories.ts:4852
+msgid "Juice Bar"
+msgstr "ジュースバー"
+
+#: src/data/categories.ts:8516
+msgid "Karaoke"
+msgstr "カラオケ"
+
+#: src/data/categories.ts:4884
+msgid "Kebab"
+msgstr "ケバブ"
+
+#: src/data/categories.ts:7790
+msgid "Kindergarten"
+msgstr "幼稚園"
+
+#: src/data/categories.ts:14767
+msgid "Kingdom Hall"
+msgstr "王国会館"
+
+#: src/data/categories.ts:17470
+msgid "Kitchen Supply"
+msgstr "台所用品"
+
+#: src/data/categories.ts:17580
+msgid "Knitting Store"
+msgstr "編み物用品店"
+
+#: src/data/categories.ts:4916
+msgid "Korean"
+msgstr "韓国料理"
+
+#: src/data/categories.ts:4948
+msgid "Korean Barbecue"
+msgstr "焼肉"
+
+#: src/data/categories.ts:14488
+msgid "Labor Organization"
+msgstr "労働組織"
+
+#: src/data/categories.ts:13206
+msgid "Laboratory"
+msgstr "研究所"
+
+#: src/data/categories.ts:9513
+msgid "Lagoon"
+msgstr "ラグーン"
+
+#: src/data/categories.ts:9525
+msgid "Lake"
+msgstr "湖"
+
+#: src/data/categories.ts:12095
+msgid "Landfill"
+msgstr "埋め立て"
+
+#: src/data/categories.ts:9304
+msgid "Landmark"
+msgstr "ランドマーク"
+
+#: src/data/categories.ts:12117
+msgid "Landscaper"
+msgstr "庭師"
+
+#: src/data/categories.ts:7812
+msgid "Language School"
+msgstr "語学学校"
+
+#: src/data/categories.ts:10094
+msgid "Laser Tag"
+msgstr "レーザータグ"
+
+#: src/data/categories.ts:4980
+msgid "Latin American"
+msgstr "ラテンアメリカ料理"
+
+#: src/data/categories.ts:15263
+msgid "Laundromat"
+msgstr "コインランドリー"
+
+#: src/data/categories.ts:7839
+msgid "Law School"
+msgstr "法科大学院"
+
+#: src/data/categories.ts:14049
+msgid "Lawyer & Legal Services"
+msgstr "弁護士と法律サービス"
+
+#: src/data/categories.ts:17607
+msgid "Leather Goods"
+msgstr "皮革用品"
+
+#: src/data/categories.ts:5012
+msgid "Lebanese"
+msgstr "レバノン料理"
+
+#: src/data/categories.ts:1594
+msgid "Library"
+msgstr "図書館"
+
+#: src/data/categories.ts:19244
+msgid "Light Rail Station"
+msgstr "路面電車駅"
+
+#: src/data/categories.ts:9537
+msgid "Lighthouse"
+msgstr "灯台"
+
+#: src/data/categories.ts:17497
+msgid "Lighting Store"
+msgstr "照明店"
+
+#: src/data/categories.ts:16160
+msgid "Lingerie Shop"
+msgstr "下着販売店"
+
+#: src/data/categories.ts:17085
+msgid "Liquor Store"
+msgstr "酒屋"
+
+#: src/data/categories.ts:9167
+msgid "Livestock Farm"
+msgstr "畜産場"
+
+#: src/data/categories.ts:12139
+#: src/data/categories.ts:15290
+msgid "Locksmith"
+msgstr "鍵屋"
+
+#: src/data/categories.ts:18794
+msgid "Lot"
+msgstr "駐停車区域"
+
+#: src/data/categories.ts:15317
+msgid "Lottery Store"
+msgstr "宝くじ販売所"
+
+#: src/data/categories.ts:8548
+msgid "Lounge"
+msgstr "ラウンジ"
+
+#: src/data/categories.ts:17634
+msgid "Luggage Store"
+msgstr "カバン店"
+
+#: src/data/categories.ts:5044
+msgid "Mac & Cheese"
+msgstr "マカロニ・アンド・チーズ"
+
+#: src/data/categories.ts:5076
+msgid "Macanese"
+msgstr "マカオ料理"
+
+#: src/data/categories.ts:5108
+msgid "Malaysian"
+msgstr "マレーシア料理"
+
+#: src/data/categories.ts:5140
+msgid "Mamak"
+msgstr "マレー料理"
+
+#: src/data/categories.ts:5172
+msgid "Manadonese"
+msgstr "マナド料理"
+
+#: src/data/categories.ts:14076
+msgid "Management & Consulting"
+msgstr "経営管理とコンサルティング"
+
+#: src/data/categories.ts:12733
+msgid "Marijuana Dispensary"
+msgstr "マリファナ薬局"
+
+#: src/data/categories.ts:10121
+msgid "Marina"
+msgstr "マリーナ"
+
+#: src/data/categories.ts:18918
+msgid "Marine"
+msgstr "船舶"
+
+#: src/data/categories.ts:17661
+msgid "Marketplace"
+msgstr "市場"
+
+#: src/data/categories.ts:10930
+msgid "Martial Arts"
+msgstr "マーシャルアーツ"
+
+#: src/data/categories.ts:11794
+msgid "Massage"
+msgstr "マッサージ"
+
+#: src/data/categories.ts:12760
+msgid "Maternity Clinic"
+msgstr "妊産婦用診療所"
+
+#: src/data/categories.ts:17688
+msgid "Mattress Store"
+msgstr "マットレス販売店"
+
+#: src/data/categories.ts:10133
+msgid "Maze"
+msgstr "迷路"
+
+#: src/data/categories.ts:12787
+msgid "Medical Center"
+msgstr "医療センター"
+
+#: src/data/categories.ts:12814
+msgid "Medical Lab"
+msgstr "医学研究所"
+
+#: src/data/categories.ts:7856
+msgid "Medical School"
+msgstr "医科大学"
+
+#: src/data/categories.ts:17715
+msgid "Medical Supply Store"
+msgstr "医療用品店"
+
+#: src/data/categories.ts:5204
+msgid "Mediterranean"
+msgstr "地中海料理"
+
+#: src/data/categories.ts:14515
+msgid "Membership Organization"
+msgstr "会員組織"
+
+#: src/data/categories.ts:9549
+msgid "Memorial"
+msgstr "記念館"
+
+#: src/data/categories.ts:16187
+msgid "Men's Clothing Store"
+msgstr "男性服販売店"
+
+#: src/data/categories.ts:5236
+msgid "Mexican"
+msgstr "メキシコ料理"
+
+#: src/data/categories.ts:5268
+msgid "Middle Eastern"
+msgstr "中東料理"
+
+#: src/data/categories.ts:7873
+msgid "Middle School"
+msgstr "中学校"
+
+#: src/data/categories.ts:12841
+msgid "Midwife"
+msgstr "助産師"
+
+#: src/data/categories.ts:1621
+msgid "Military Base"
+msgstr "軍事基地"
+
+#: src/data/categories.ts:10150
+msgid "Miniature Golf"
+msgstr "ミニチュアゴルフ"
+
+#: src/data/categories.ts:13228
+msgid "Mining & Drilling"
+msgstr "鉱業と掘削"
+
+#: src/data/categories.ts:14789
+msgid "Mission"
+msgstr "布教"
+
+#: src/data/categories.ts:17524
+msgid "Mobile Homes"
+msgstr "トレーラーハウス"
+
+#: src/data/categories.ts:17742
+msgid "Mobile Phones"
+msgstr "携帯電話"
+
+#: src/data/categories.ts:5300
+msgid "Modern European"
+msgstr "現代風ヨーロッパ料理"
+
+#: src/data/categories.ts:5332
+msgid "Molecular Gastronomy"
+msgstr "分子料理法"
+
+#: src/data/categories.ts:14811
+msgid "Monastery"
+msgstr "男子修道院"
+
+#: src/data/categories.ts:13362
+msgid "Money"
+msgstr "お金"
+
+#: src/data/categories.ts:5364
+msgid "Mongolian"
+msgstr "モンゴル料理"
+
+#: src/data/categories.ts:9561
+msgid "Monument"
+msgstr "記念碑"
+
+#: src/data/categories.ts:5396
+msgid "Moroccan"
+msgstr "モロッコ料理"
+
+#: src/data/categories.ts:14833
+msgid "Mosque"
+msgstr "モスク"
+
+#: src/data/categories.ts:19135
+msgid "Motel"
+msgstr "モーテル"
+
+#: src/data/categories.ts:11545
+msgid "Motorcycle Sales"
+msgstr "オートバイ販売"
+
+#: src/data/categories.ts:9573
+msgid "Mountain"
+msgstr "山"
+
+#: src/data/categories.ts:424
+msgid "Movie Rental"
+msgstr "映画レンタル"
+
+#: src/data/categories.ts:451
+msgid "Movie Theater"
+msgstr "映画館"
+
+#: src/data/categories.ts:392
+msgid "Movies"
+msgstr "映画"
+
+#: src/data/categories.ts:480
+msgid "Museum"
+msgstr "博物館"
+
+#: src/data/categories.ts:622
+msgid "Music"
+msgstr "音楽"
+
+#: src/data/categories.ts:7895
+msgid "Music School"
+msgstr "音楽学校"
+
+#: src/data/categories.ts:17769
+msgid "Music Store"
+msgstr "楽器屋"
+
+#: src/data/categories.ts:11821
+msgid "Nail Salon"
+msgstr "ネイルサロン"
+
+#: src/data/categories.ts:15038
+msgid "Named Residential Building"
+msgstr "名前付き住居用ビル"
+
+#: src/data/categories.ts:9880
+msgid "National Park"
+msgstr "国立公園"
+
+#: src/data/categories.ts:9892
+msgid "Nature Preserve"
+msgstr "自然保護区域"
+
+#: src/data/categories.ts:5428
+msgid "New American"
+msgstr "ニューアメリカ料理"
+
+#: src/data/categories.ts:12278
+msgid "Newspaper"
+msgstr "新聞"
+
+#: src/data/categories.ts:17796
+msgid "Newsstand"
+msgstr "キオスク"
+
+#: src/data/categories.ts:8580
+msgid "Nightclub"
+msgstr "ナイトクラブ"
+
+#: src/data/categories.ts:8127
+msgid "Nightlife"
+msgstr "夜の娯楽"
+
+#: src/data/categories.ts:14103
+msgid "Non-Profit"
+msgstr "非営利団体"
+
+#: src/data/categories.ts:5460
+msgid "Noodles"
+msgstr "麺類"
+
+#: src/data/categories.ts:14130
+msgid "Notary"
+msgstr "公証人"
+
+#: src/data/categories.ts:10177
+msgid "Nude Beach"
+msgstr "ヌードビーチ"
+
+#: src/data/categories.ts:7922
+msgid "Nursery School"
+msgstr "保育園"
+
+#: src/data/categories.ts:12868
+msgid "Nursing Home"
+msgstr "老人ホーム"
+
+#: src/data/categories.ts:12895
+msgid "Nutritionist"
+msgstr "栄養士"
+
+#: src/data/categories.ts:13531
+msgid "Office"
+msgstr "オフィス"
+
+#: src/data/categories.ts:17823
+msgid "Office Supply"
+msgstr "事務用品"
+
+#: src/data/categories.ts:13250
+msgid "Oil Field"
+msgstr "油田"
+
+#: src/data/categories.ts:735
+msgid "Opera"
+msgstr "オペラ"
+
+#: src/data/categories.ts:17850
+msgid "Optical Goods"
+msgstr "眼鏡屋"
+
+#: src/data/categories.ts:12922
+msgid "Optometrist"
+msgstr "検眼医"
+
+#: src/data/categories.ts:9194
+msgid "Orchard"
+msgstr "果樹園"
+
+#: src/data/categories.ts:14429
+msgid "Organization"
+msgstr "組織"
+
+#: src/data/categories.ts:17877
+msgid "Outdoor Supply"
+msgstr "アウトドア用品店"
+
+#: src/data/categories.ts:8934
+msgid "Outdoors & Recreation"
+msgstr "アウトドアとレクリエーション"
+
+#: src/data/categories.ts:17904
+msgid "Outlet Mall"
+msgstr "アウトレットモール"
+
+#: src/data/categories.ts:17931
+msgid "Outlet Store"
+msgstr "アウトレットストア"
+
+#: src/data/categories.ts:8612
+msgid "Oxygen Bar"
+msgstr "酸素バー"
+
+#: src/data/categories.ts:5492
+msgid "Padangnese"
+msgstr "パダンバイ料理"
+
+#: src/data/categories.ts:9585
+msgid "Pagoda"
+msgstr "寺院"
+
+#: src/data/categories.ts:10957
+msgid "Paintball Field"
+msgstr "ペイントボールフィールド"
+
+#: src/data/categories.ts:12161
+msgid "Painting Company"
+msgstr "塗装会社"
+
+#: src/data/categories.ts:5524
+msgid "Pakistani"
+msgstr "パキスタン料理"
+
+#: src/data/categories.ts:1626
+msgid "Palace"
+msgstr "宮殿"
+
+#: src/data/categories.ts:5556
+msgid "Pancake House"
+msgstr "パンケーキ屋"
+
+#: src/data/categories.ts:18777
+msgid "Parking Garage/Lot"
+msgstr "駐車場"
+
+#: src/data/categories.ts:9815
+msgid "Parks"
+msgstr "公園"
+
+#: src/data/categories.ts:17958
+msgid "Party Supplies"
+msgstr "パーティー用品"
+
+#: src/data/categories.ts:5588
+msgid "Pastry Shop"
+msgstr "洋菓子屋"
+
+#: src/data/categories.ts:17985
+msgid "Pawn Shop"
+msgstr "質屋"
+
+#: src/data/categories.ts:5620
+msgid "Peking Duck"
+msgstr "北京ダック"
+
+#: src/data/categories.ts:845
+#: src/data/categories.ts:1012
+msgid "Performing Arts"
+msgstr "舞台芸術"
+
+#: src/data/categories.ts:5652
+msgid "Persian"
+msgstr "ペルシャ料理"
+
+#: src/data/categories.ts:5684
+msgid "Peruvian"
+msgstr "ペルー料理"
+
+#: src/data/categories.ts:12183
+msgid "Pest Control"
+msgstr "害虫駆除"
+
+#: src/data/categories.ts:15344
+msgid "Pet Services"
+msgstr "ペットサービス"
+
+#: src/data/categories.ts:18012
+msgid "Pet Store"
+msgstr "ペットショップ"
+
+#: src/data/categories.ts:8998
+msgid "Petting Zoo"
+msgstr "ふれあい動物園"
+
+#: src/data/categories.ts:18039
+msgid "Pharmacy"
+msgstr "薬局"
+
+#: src/data/categories.ts:15371
+msgid "Photography Lab"
+msgstr "写真現像所"
+
+#: src/data/categories.ts:12949
+msgid "Physical Therapist"
+msgstr "理学療法士"
+
+#: src/data/categories.ts:762
+msgid "Piano Bar"
+msgstr "ピアノバー"
+
+#: src/data/categories.ts:10189
+msgid "Picnic Area"
+msgstr "ピクニックエリア"
+
+#: src/data/categories.ts:5716
+msgid "Pie Shop"
+msgstr "パイ屋"
+
+#: src/data/categories.ts:18950
+msgid "Pier"
+msgstr "ふ頭"
+
+#: src/data/categories.ts:11848
+msgid "Piercing Parlor"
+msgstr "ピアス店"
+
+#: src/data/categories.ts:10984
+msgid "Pilates Studio"
+msgstr "ピラティス・スタジオ"
+
+#: src/data/categories.ts:5748
+msgid "Pizza"
+msgstr "ピザ"
+
+#: src/data/categories.ts:566
+msgid "Planetarium"
+msgstr "プラネタリウム"
+
+#: src/data/categories.ts:9221
+msgid "Plant Nursery"
+msgstr "種苗店"
+
+#: src/data/categories.ts:10201
+msgid "Playground"
+msgstr "遊び場"
+
+#: src/data/categories.ts:11011
+msgid "Playing Field"
+msgstr "運動場"
+
+#: src/data/categories.ts:9597
+msgid "Plaza"
+msgstr "プラザ"
+
+#: src/data/categories.ts:12205
+msgid "Plumber"
+msgstr "配管工"
+
+#: src/data/categories.ts:12976
+msgid "Podiatrist"
+msgstr "足治療医"
+
+#: src/data/categories.ts:1643
+msgid "Police Station"
+msgstr "警察署"
+
+#: src/data/categories.ts:5780
+msgid "Polish"
+msgstr "ポーランド料理"
+
+#: src/data/categories.ts:14157
+msgid "Political Office"
+msgstr "公職"
+
+#: src/data/categories.ts:14542
+msgid "Political Organization"
+msgstr "政治組織"
+
+#: src/data/categories.ts:156
+msgid "Pool Hall"
+msgstr "ビリヤードホール"
+
+#: src/data/categories.ts:18066
+msgid "Pop-Up Shop"
+msgstr "臨時店舗"
+
+#: src/data/categories.ts:17112
+msgid "Pork Store"
+msgstr "豚肉販売店"
+
+#: src/data/categories.ts:15398
+msgid "Portrait Studio"
+msgstr "写真館"
+
+#: src/data/categories.ts:5812
+msgid "Portuguese"
+msgstr "ポルトガル料理"
+
+#: src/data/categories.ts:1665
+msgid "Post Office"
+msgstr "郵便局"
+
+#: src/data/categories.ts:9248
+msgid "Poultry Farm"
+msgstr "家禽農場"
+
+#: src/data/categories.ts:5844
+msgid "Poutine"
+msgstr "プーティン"
+
+#: src/data/categories.ts:13272
+msgid "Power Plant"
+msgstr "発電所"
+
+#: src/data/categories.ts:7944
+msgid "Preschool"
+msgstr "幼稚園、保育園"
+
+#: src/data/categories.ts:14184
+msgid "Printing & Photocopies"
+msgstr "印刷と写真現像"
+
+#: src/data/categories.ts:1692
+msgid "Prison"
+msgstr "刑務所"
+
+#: src/data/categories.ts:7966
+msgid "Private School"
+msgstr "私立学校"
+
+#: src/data/categories.ts:14569
+msgid "Professional Association"
+msgstr "職能団体"
+
+#: src/data/categories.ts:8644
+msgid "Pub"
+msgstr "パブ"
+
+#: src/data/categories.ts:298
+msgid "Public Art"
+msgstr "公衆芸術"
+
+#: src/data/categories.ts:1697
+msgid "Public Building"
+msgstr "公共施設"
+
+#: src/data/categories.ts:9609
+msgid "Quarry"
+msgstr "採石場"
+
+#: src/data/categories.ts:10264
+msgid "RV Park"
+msgstr "オートキャンプ場"
+
+#: src/data/categories.ts:12300
+msgid "Radio Station"
+msgstr "ラジオ局"
+
+#: src/data/categories.ts:10213
+msgid "Rafting"
+msgstr "ラフティング"
+
+#: src/data/categories.ts:5876
+msgid "Ramen"
+msgstr "ラーメン"
+
+#: src/data/categories.ts:1724
+msgid "Ranger Station"
+msgstr "レンジャー詰所"
+
+#: src/data/categories.ts:9621
+msgid "Rapids"
+msgstr "急流"
+
+#: src/data/categories.ts:14211
+msgid "Real Estate Agent"
+msgstr "不動業者"
+
+#: src/data/categories.ts:18093
+msgid "Record Shop"
+msgstr "レコード販売店"
+
+#: src/data/categories.ts:12322
+msgid "Recording Studio"
+msgstr "録音スタジオ"
+
+#: src/data/categories.ts:9918
+msgid "Recreation"
+msgstr "レクリエーション"
+
+#: src/data/categories.ts:10225
+msgid "Recreational Facility"
+msgstr "レクリエーション施設"
+
+#: src/data/categories.ts:11572
+msgid "Recreational Vehicle Sales"
+msgstr "RV 車販売"
+
+#: src/data/categories.ts:14238
+msgid "Recruiting Agency"
+msgstr "人材あっせん会社"
+
+#: src/data/categories.ts:13003
+msgid "Rehab Center"
+msgstr "リハビリセンター"
+
+#: src/data/categories.ts:14652
+msgid "Religious"
+msgstr "宗教的"
+
+#: src/data/categories.ts:14855
+msgid "Religious Center"
+msgstr "宗教センター"
+
+#: src/data/categories.ts:14596
+msgid "Religious Organization"
+msgstr "宗教団体"
+
+#: src/data/categories.ts:7988
+msgid "Religious School"
+msgstr "宗教系学校"
+
+#: src/data/categories.ts:15425
+msgid "Repair Shop"
+msgstr "修理屋"
+
+#: src/data/categories.ts:14265
+msgid "Research"
+msgstr "リサーチ"
+
+#: src/data/categories.ts:9633
+msgid "Reservoir"
+msgstr "貯水池"
+
+#: src/data/categories.ts:14945
+msgid "Residential"
+msgstr "住宅"
+
+#: src/data/categories.ts:15060
+msgid "Residential Development"
+msgstr "宅地造成"
+
+#: src/data/categories.ts:19157
+msgid "Resort"
+msgstr "リゾート"
+
+#: src/data/categories.ts:18976
+msgid "Rest"
+msgstr "休息"
+
+#: src/data/categories.ts:18811
+msgid "Rest Area"
+msgstr "高速道路サービスエリア"
+
+#: src/data/categories.ts:11645
+msgid "Restrooms"
+msgstr "化粧室"
+
+#: src/data/categories.ts:15150
+msgid "Retail"
+msgstr "小売店"
+
+#: src/data/categories.ts:15082
+msgid "Retirement Home"
+msgstr "老人ホーム"
+
+#: src/data/categories.ts:11038
+msgid "Rock Climbing"
+msgstr "ロック・クライミング"
+
+#: src/data/categories.ts:789
+msgid "Rock Club"
+msgstr "ロッククラブ"
+
+#: src/data/categories.ts:183
+msgid "Roller Coaster"
+msgstr "ジェットコースター"
+
+#: src/data/categories.ts:10237
+msgid "Roller Skating Rink"
+msgstr "ローラースケートリンク"
+
+#: src/data/categories.ts:5908
+msgid "Romanian"
+msgstr "ルーマニア料理"
+
+#: src/data/categories.ts:11065
+msgid "Rugby League"
+msgstr "ラグビーリーグ"
+
+#: src/data/categories.ts:373
+msgid "Ruins"
+msgstr "廃墟"
+
+#: src/data/categories.ts:5940
+msgid "Russian"
+msgstr "ロシア料理"
+
+#: src/data/categories.ts:10276
+msgid "Sailing Club"
+msgstr "ヨットクラブ"
+
+#: src/data/categories.ts:8676
+msgid "Sake Bar"
+msgstr "酒バー"
+
+#: src/data/categories.ts:5972
+msgid "Salad Bar"
+msgstr "サラダバー"
+
+#: src/data/categories.ts:6004
+msgid "Salvadoran"
+msgstr "サルバドール料理"
+
+#: src/data/categories.ts:6036
+msgid "Sandwich Shop"
+msgstr "サンドウィッチ屋"
+
+#: src/data/categories.ts:6068
+msgid "Satay"
+msgstr "サテ"
+
+#: src/data/categories.ts:11875
+msgid "Sauna / Steam Room"
+msgstr "サウナ／スチーム室"
+
+#: src/data/categories.ts:6100
+msgid "Scandinavian"
+msgstr "スカンジナビア料理"
+
+#: src/data/categories.ts:9645
+msgid "Scenic View"
+msgstr "美しい景色"
+
+#: src/data/categories.ts:8010
+msgid "School"
+msgstr "学校"
+
+#: src/data/categories.ts:593
+msgid "Science Museum"
+msgstr "科学博物館"
+
+#: src/data/categories.ts:6132
+msgid "Scottish"
+msgstr "スコットランド料理"
+
+#: src/data/categories.ts:18120
+msgid "Scuba Diving"
+msgstr "スキューバダイビング"
+
+#: src/data/categories.ts:6164
+msgid "Seafood"
+msgstr "シーフード"
+
+#: src/data/categories.ts:18962
+msgid "Seaport"
+msgstr "海港"
+
+#: src/data/categories.ts:14292
+msgid "Secretarial Services"
+msgstr "秘書サービス"
+
+#: src/data/categories.ts:11366
+msgid "Services"
+msgstr "サービス"
+
+#: src/data/categories.ts:6196
+msgid "Shabu-Shabu"
+msgstr "しゃぶしゃぶ"
+
+#: src/data/categories.ts:6228
+msgid "Shandong"
+msgstr "山東料理"
+
+#: src/data/categories.ts:6260
+msgid "Shanghai"
+msgstr "上海料理"
+
+#: src/data/categories.ts:18147
+msgid "Shipping Store"
+msgstr "荷造梱包と発送取扱店"
+
+#: src/data/categories.ts:15452
+msgid "Shoe Repair & Shine"
+msgstr "靴修理と靴磨き"
+
+#: src/data/categories.ts:16214
+msgid "Shoe Store"
+msgstr "靴屋"
+
+#: src/data/categories.ts:15691
+msgid "Shopping"
+msgstr "ショッピング"
+
+#: src/data/categories.ts:18174
+msgid "Shopping Center"
+msgstr "ショッピングセンター"
+
+#: src/data/categories.ts:18201
+msgid "Shopping Mall"
+msgstr "ショッピングモール"
+
+#: src/data/categories.ts:11662
+msgid "Shower"
+msgstr "シャワー"
+
+#: src/data/categories.ts:14877
+msgid "Shrine"
+msgstr "神社／神殿"
+
+#: src/data/categories.ts:11092
+msgid "Skate Park"
+msgstr "スケートパーク"
+
+#: src/data/categories.ts:18228
+msgid "Skateboard Shop"
+msgstr "スケートボード販売店"
+
+#: src/data/categories.ts:10383
+msgid "Ski Lift"
+msgstr "スキーリフト"
+
+#: src/data/categories.ts:10388
+msgid "Ski Rental"
+msgstr "スキーレンタル"
+
+#: src/data/categories.ts:19179
+msgid "Ski Resort"
+msgstr "スキーリゾート"
+
+#: src/data/categories.ts:10410
+msgid "Ski School"
+msgstr "スキー学校"
+
+#: src/data/categories.ts:10432
+#: src/data/categories.ts:18255
+msgid "Ski Shop"
+msgstr "スキーショップ"
+
+#: src/data/categories.ts:10459
+msgid "Ski Slope"
+msgstr "ゲレンデ"
+
+#: src/data/categories.ts:10303
+msgid "Skydiving"
+msgstr "スカイダイビング"
+
+#: src/data/categories.ts:6292
+msgid "Slovak"
+msgstr "スロバキア料理"
+
+#: src/data/categories.ts:18282
+msgid "Smoke / Vape Shop"
+msgstr "タバコと葉巻販売店"
+
+#: src/data/categories.ts:6324
+msgid "Smoothies"
+msgstr "スムージー"
+
+#: src/data/categories.ts:6356
+msgid "Snack"
+msgstr "スナック"
+
+#: src/data/categories.ts:10378
+msgid "Snow"
+msgstr "雪"
+
+#: src/data/categories.ts:11119
+msgid "Soccer Field"
+msgstr "サッカーフィールド"
+
+#: src/data/categories.ts:1271
+msgid "Soccer Stadium"
+msgstr "サッカースタジアム"
+
+#: src/data/categories.ts:15535
+msgid "Social"
+msgstr "ソーシャル"
+
+#: src/data/categories.ts:14623
+msgid "Social Club"
+msgstr "社交クラブ"
+
+#: src/data/categories.ts:6388
+msgid "Som Tum"
+msgstr "ソムタム"
+
+#: src/data/categories.ts:15104
+msgid "Sorority House"
+msgstr "女子学生社交クラブ会館"
+
+#: src/data/categories.ts:6420
+msgid "Soup"
+msgstr "スープ"
+
+#: src/data/categories.ts:6452
+msgid "South American"
+msgstr "南アメリカ料理"
+
+#: src/data/categories.ts:6484
+msgid "Southern / Soul Food"
+msgstr "南部／ソールフード"
+
+#: src/data/categories.ts:18309
+msgid "Souvenir Store"
+msgstr "お土産販売店"
+
+#: src/data/categories.ts:6516
+msgid "Spanish"
+msgstr "スペイン料理"
+
+#: src/data/categories.ts:8708
+msgid "Speakeasy"
+msgstr "潜り酒場"
+
+#: src/data/categories.ts:18336
+msgid "Sporting Goods"
+msgstr "スポーツ用品"
+
+#: src/data/categories.ts:1068
+#: src/data/categories.ts:10466
+msgid "Sports"
+msgstr "スポーツ"
+
+#: src/data/categories.ts:8740
+msgid "Sports Bar"
+msgstr "スポーツバー"
+
+#: src/data/categories.ts:11146
+msgid "Sports Center"
+msgstr "スポーツセンター"
+
+#: src/data/categories.ts:11173
+msgid "Sports Club"
+msgstr "スポーツクラブ"
+
+#: src/data/categories.ts:9657
+msgid "Square"
+msgstr "スクエア"
+
+#: src/data/categories.ts:11200
+msgid "Squash Court"
+msgstr "スカッシュコート"
+
+#: src/data/categories.ts:6548
+msgid "Sri Lankan"
+msgstr "スリランカ料理"
+
+#: src/data/categories.ts:9025
+msgid "Stables"
+msgstr "厩舎"
+
+#: src/data/categories.ts:1751
+msgid "State Office Building"
+msgstr "地方行政施設"
+
+#: src/data/categories.ts:18363
+msgid "Stationery & Office Supplies"
+msgstr "文房具と事務用品"
+
+#: src/data/categories.ts:6580
+msgid "Steak House"
+msgstr "ステーキハウス"
+
+#: src/data/categories.ts:12227
+msgid "Stonemason"
+msgstr "石工"
+
+#: src/data/categories.ts:15479
+msgid "Storage"
+msgstr "収納倉庫"
+
+#: src/data/categories.ts:8772
+msgid "Strip Club"
+msgstr "ストリップクラブ"
+
+#: src/data/categories.ts:8032
+msgid "Student Center"
+msgstr "学生センター"
+
+#: src/data/categories.ts:19256
+msgid "Subway Station"
+msgstr "地下鉄駅"
+
+#: src/data/categories.ts:10330
+msgid "Summer Camp"
+msgstr "サマーキャンプ"
+
+#: src/data/categories.ts:6612
+msgid "Sundanese"
+msgstr "スンダ料理"
+
+#: src/data/categories.ts:17139
+msgid "Supermarket"
+msgstr "スーパーマーケット"
+
+#: src/data/categories.ts:18390
+msgid "Surf Shop"
+msgstr "サーフィン用具店"
+
+#: src/data/categories.ts:10352
+msgid "Surfing"
+msgstr "サーフィン"
+
+#: src/data/categories.ts:14319
+msgid "Surveying"
+msgstr "測量"
+
+#: src/data/categories.ts:6644
+msgid "Sushi"
+msgstr "寿司"
+
+#: src/data/categories.ts:8059
+msgid "Swim School"
+msgstr "スイミングスクール"
+
+#: src/data/categories.ts:11227
+msgid "Swimming Pool"
+msgstr "スイミングプール"
+
+#: src/data/categories.ts:6676
+msgid "Swiss"
+msgstr "スイス料理"
+
+#: src/data/categories.ts:816
+msgid "Symphony"
+msgstr "交響楽団"
+
+#: src/data/categories.ts:14899
+msgid "Synagogue"
+msgstr "シナゴーグ"
+
+#: src/data/categories.ts:6708
+msgid "Szechuan"
+msgstr "四川料理"
+
+#: src/data/categories.ts:6740
+msgid "Tacos"
+msgstr "タコス"
+
+#: src/data/categories.ts:15506
+msgid "Tailor"
+msgstr "仕立屋"
+
+#: src/data/categories.ts:6772
+msgid "Taiwanese"
+msgstr "台湾料理"
+
+#: src/data/categories.ts:11902
+msgid "Tanning Salon"
+msgstr "日焼けサロン"
+
+#: src/data/categories.ts:6804
+msgid "Tapas"
+msgstr "タパス"
+
+#: src/data/categories.ts:6836
+msgid "Tatar"
+msgstr "タタール料理"
+
+#: src/data/categories.ts:11929
+msgid "Tattoo Parlor"
+msgstr "刺青店"
+
+#: src/data/categories.ts:19268
+msgid "Taxi Stand"
+msgstr "タクシー乗り場"
+
+#: src/data/categories.ts:6868
+msgid "Tea House"
+msgstr "ティーハウス"
+
+#: src/data/categories.ts:14346
+msgid "Tech Startup"
+msgstr "技術系新会社"
+
+#: src/data/categories.ts:9669
+msgid "Telescope"
+msgstr "望遠鏡"
+
+#: src/data/categories.ts:12344
+msgid "Television Station"
+msgstr "テレビ局"
+
+#: src/data/categories.ts:14921
+msgid "Temple"
+msgstr "寺院／神殿"
+
+#: src/data/categories.ts:11254
+msgid "Tennis Court"
+msgstr "テニスコート"
+
+#: src/data/categories.ts:1293
+msgid "Tennis Stadium"
+msgstr "テニス・スタジアム"
+
+#: src/data/categories.ts:14373
+msgid "Testing Lab"
+msgstr "実験室"
+
+#: src/data/categories.ts:6900
+msgid "Tex-Mex"
+msgstr "テキサス流メキシコ料理"
+
+#: src/data/categories.ts:6932
+msgid "Thai"
+msgstr "タイ料理"
+
+#: src/data/categories.ts:1039
+msgid "Theater"
+msgstr "劇場"
+
+#: src/data/categories.ts:6964
+msgid "Theme"
+msgstr "テーマ"
+
+#: src/data/categories.ts:210
+msgid "Theme Park"
+msgstr "テーマパーク"
+
+#: src/data/categories.ts:13030
+msgid "Therapist"
+msgstr "セラピスト"
+
+#: src/data/categories.ts:18417
+msgid "Thrift Store"
+msgstr "リサイクルショップ"
+
+#: src/data/categories.ts:6996
+msgid "Tibetan"
+msgstr "チベット料理"
+
+#: src/data/categories.ts:8804
+msgid "Tiki Bar"
+msgstr "ティキバー"
+
+#: src/data/categories.ts:18833
+msgid "Toll Booth"
+msgstr "料金所"
+
+#: src/data/categories.ts:9681
+msgid "Tour Provider"
+msgstr "ツアー手配者"
+
+#: src/data/categories.ts:9693
+msgid "Tourist Attraction"
+msgstr "観光名所"
+
+#: src/data/categories.ts:9705
+msgid "Tourist Information"
+msgstr "観光案内"
+
+#: src/data/categories.ts:9717
+msgid "Tower"
+msgstr "タワー"
+
+#: src/data/categories.ts:9904
+msgid "Town Common"
+msgstr "街の広場"
+
+#: src/data/categories.ts:1778
+msgid "Town Hall"
+msgstr "市役所／町役場"
+
+#: src/data/categories.ts:18444
+msgid "Toy and Game Store"
+msgstr "おもちゃとゲーム販売店"
+
+#: src/data/categories.ts:11281
+msgid "Track"
+msgstr "陸上競技場"
+
+#: src/data/categories.ts:10364
+msgid "Trail Station"
+msgstr "トレイルステーション"
+
+#: src/data/categories.ts:15126
+msgid "Trailer Park"
+msgstr "トレーラーパーク"
+
+#: src/data/categories.ts:19280
+msgid "Train Station"
+msgstr "鉄道駅"
+
+#: src/data/categories.ts:19292
+msgid "Tram Stop"
+msgstr "トラム駅"
+
+#: src/data/categories.ts:19203
+msgid "Transit"
+msgstr "乗り換え"
+
+#: src/data/categories.ts:18652
+msgid "Travel"
+msgstr "旅行"
+
+#: src/data/categories.ts:14400
+msgid "Travel Agent"
+msgstr "旅行会社"
+
+#: src/data/categories.ts:7028
+#: src/data/categories.ts:18838
+msgid "Truck Stop"
+msgstr "トラックストップ"
+
+#: src/data/categories.ts:9729
+msgid "Tunnel"
+msgstr "トンネル"
+
+#: src/data/categories.ts:7060
+msgid "Turkish"
+msgstr "トルコ料理"
+
+#: src/data/categories.ts:9741
+msgid "UNESCO World Heritage Site"
+msgstr "ユネスコ世界遺産"
+
+#: src/data/categories.ts:7092
+msgid "Ukrainian"
+msgstr "ウクライナ料理"
+
+#: src/data/categories.ts:8086
+msgid "University"
+msgstr "総合大学"
+
+#: src/data/categories.ts:13057
+msgid "Urgent Care Center"
+msgstr "救命救急センター"
+
+#: src/data/categories.ts:18471
+msgid "Used Merchandise"
+msgstr "中古品"
+
+#: src/data/categories.ts:18498
+msgid "Vacant Storefront"
+msgstr "空き店舗"
+
+#: src/data/categories.ts:7124
+msgid "Vegan"
+msgstr "ビーガン"
+
+#: src/data/categories.ts:7156
+msgid "Vegetarian"
+msgstr "ベジタリアン"
+
+#: src/data/categories.ts:7188
+msgid "Venezuelan"
+msgstr "ベネズエラ料理"
+
+#: src/data/categories.ts:13084
+msgid "Veterinarian"
+msgstr "獣医"
+
+#: src/data/categories.ts:18515
+msgid "Video Game Store"
+msgstr "ビデオゲーム販売店"
+
+#: src/data/categories.ts:18542
+msgid "Video Store"
+msgstr "ビデオ販売店"
+
+#: src/data/categories.ts:7220
+msgid "Vietnamese"
+msgstr "ベトナム料理"
+
+#: src/data/categories.ts:9275
+msgid "Vineyard"
+msgstr "ブドウ園"
+
+#: src/data/categories.ts:8103
+msgid "Vocational School"
+msgstr "専門学校"
+
+#: src/data/categories.ts:9753
+msgid "Volcano"
+msgstr "火山"
+
+#: src/data/categories.ts:11308
+msgid "Volleyball Court"
+msgstr "バレーボールコート"
+
+#: src/data/categories.ts:13294
+msgid "Warehouse"
+msgstr "倉庫"
+
+#: src/data/categories.ts:18569
+msgid "Warehouse Store"
+msgstr "倉庫型安売り店舗"
+
+#: src/data/categories.ts:13316
+msgid "Waste / Recycling Facility"
+msgstr "ゴミ／リサイクル施設"
+
+#: src/data/categories.ts:18596
+msgid "Watch Shop"
+msgstr "時計屋"
+
+#: src/data/categories.ts:237
+msgid "Water Park"
+msgstr "ウォーターパーク"
+
+#: src/data/categories.ts:9765
+msgid "Water Tower"
+msgstr "給水塔"
+
+#: src/data/categories.ts:9777
+msgid "Waterfall"
+msgstr "滝"
+
+#: src/data/categories.ts:12461
+msgid "Wedding Hall"
+msgstr "結婚式会場"
+
+#: src/data/categories.ts:9789
+msgid "Well"
+msgstr "井戸"
+
+#: src/data/categories.ts:9801
+msgid "Wharf"
+msgstr "波止場"
+
+#: src/data/categories.ts:8836
+msgid "Whisky Bar"
+msgstr "ウイスキーバー"
+
+#: src/data/categories.ts:18623
+msgid "Wholesale Store"
+msgstr "卸問屋"
+
+#: src/data/categories.ts:13338
+msgid "Windmill"
+msgstr "風車"
+
+#: src/data/categories.ts:8868
+msgid "Wine Bar"
+msgstr "ワインバー"
+
+#: src/data/categories.ts:17166
+msgid "Wine Shop"
+msgstr "ワイン販売店"
+
+#: src/data/categories.ts:8900
+msgid "Winery"
+msgstr "ワイナリー"
+
+#: src/data/categories.ts:7252
+msgid "Wings"
+msgstr "チキンウイング"
+
+#: src/data/categories.ts:16241
+msgid "Women's Clothing Store"
+msgstr "女性服販売店"
+
+#: src/data/categories.ts:7284
+msgid "Yakitori"
+msgstr "焼き鳥"
+
+#: src/data/categories.ts:11335
+msgid "Yoga Studio"
+msgstr "ヨガスタジオ"
+
+#: src/data/categories.ts:7316
+msgid "Yunnan"
+msgstr "雲南料理"
+
+#: src/data/categories.ts:7348
+msgid "Zhejiang"
+msgstr "せっ江料理"
+
+#: src/data/categories.ts:9052
+msgid "Zoo"
+msgstr "動物園"

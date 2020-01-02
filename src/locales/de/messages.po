@@ -1,0 +1,3199 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2019-08-06 21:43-0400\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/data/categories.ts:15998
+msgid "Accessories Store"
+msgstr "Zubehörhandel"
+
+#: src/data/categories.ts:13536
+msgid "Accountant"
+msgstr "Steuerberater"
+
+#: src/data/categories.ts:1812
+msgid "Acehnese"
+msgstr "Acehnesisch"
+
+#: src/data/categories.ts:12490
+msgid "Acupuncturist"
+msgstr "Akupunkteur"
+
+#: src/data/categories.ts:11686
+msgid "Adult"
+msgstr "Für Erwachsene"
+
+#: src/data/categories.ts:15540
+msgid "Adult Care"
+msgstr "Pflegeheim"
+
+#: src/data/categories.ts:7387
+msgid "Adult Education Center"
+msgstr "Weiterbildungszentrum"
+
+#: src/data/categories.ts:15696
+msgid "Adult Shop"
+msgstr "Erotikshop"
+
+#: src/data/categories.ts:13563
+msgid "Advertising Agency"
+msgstr "Werbeagentur"
+
+#: src/data/categories.ts:13118
+msgid "Aerospace"
+msgstr "Luft- und Raumfahrt"
+
+#: src/data/categories.ts:1844
+msgid "Afghan"
+msgstr "Afghanisch"
+
+#: src/data/categories.ts:1876
+msgid "African"
+msgstr "Afrikanisch"
+
+#: src/data/categories.ts:18657
+msgid "Air"
+msgstr "Flugwesen"
+
+#: src/data/categories.ts:18662
+msgid "Airport"
+msgstr "Flughafen"
+
+#: src/data/categories.ts:18674
+msgid "Airport Gate"
+msgstr "Flughafengate"
+
+#: src/data/categories.ts:18686
+msgid "Airport Lounge"
+msgstr "Flughafenlounge"
+
+#: src/data/categories.ts:18698
+msgid "Airport Service"
+msgstr "Flughafendienst"
+
+#: src/data/categories.ts:18710
+msgid "Airport Terminal"
+msgstr "Flughafenterminal"
+
+#: src/data/categories.ts:18722
+msgid "Airport Tram"
+msgstr "S-Bahn zum Flughafen"
+
+#: src/data/categories.ts:12517
+msgid "Alternative Medicine"
+msgstr "Alternative Medizin"
+
+#: src/data/categories.ts:627
+msgid "Amphitheater"
+msgstr "Amphitheater"
+
+#: src/data/categories.ts:9
+msgid "Amusements"
+msgstr "Vergnügungen"
+
+#: src/data/categories.ts:1908
+msgid "Anhui"
+msgstr "Anhui"
+
+#: src/data/categories.ts:13590
+msgid "Animal Shelter"
+msgstr "Tierheim"
+
+#: src/data/categories.ts:8939
+msgid "Animals"
+msgstr "Tiere"
+
+#: src/data/categories.ts:15723
+msgid "Antique Store"
+msgstr "Antiquitätenladen"
+
+#: src/data/categories.ts:8944
+msgid "Aquarium"
+msgstr "Aquarium"
+
+#: src/data/categories.ts:9086
+msgid "Aquatic Farm"
+msgstr "Fischzucht"
+
+#: src/data/categories.ts:14
+msgid "Arcade"
+msgstr "Spielhalle"
+
+#: src/data/categories.ts:322
+msgid "Archaeological Site"
+msgstr "Archäologische Stätte"
+
+#: src/data/categories.ts:13617
+msgid "Architect"
+msgstr "Architekt"
+
+#: src/data/categories.ts:1940
+msgid "Arepa"
+msgstr "Arepas"
+
+#: src/data/categories.ts:1972
+msgid "Argentinian"
+msgstr "Argentinisch"
+
+#: src/data/categories.ts:15750
+msgid "Army Navy Store"
+msgstr "Armee- und Marinebekleidung"
+
+#: src/data/categories.ts:13644
+msgid "Art & Design Studio"
+msgstr "Art & Design Studio"
+
+#: src/data/categories.ts:271
+msgid "Art Gallery"
+msgstr "Kunstgalerie"
+
+#: src/data/categories.ts:485
+msgid "Art Museum"
+msgstr "Kunstmuseum"
+
+#: src/data/categories.ts:13671
+msgid "Art Services"
+msgstr "Künstlerische Leistungen"
+
+#: src/data/categories.ts:13698
+msgid "Art Studio"
+msgstr "Atelier"
+
+#: src/data/categories.ts:15777
+msgid "Arts & Crafts Store"
+msgstr "Kunsthandwerk-Laden"
+
+#: src/data/categories.ts:4
+msgid "Arts & Entertainment"
+msgstr "Kunst & Unterhaltung"
+
+#: src/data/categories.ts:850
+msgid "Arts Center"
+msgstr "Kunstzentrum"
+
+#: src/data/categories.ts:2004
+msgid "Asian"
+msgstr "Asiatisch"
+
+#: src/data/categories.ts:14950
+msgid "Assisted Living"
+msgstr "Betreutes Wohnen"
+
+#: src/data/categories.ts:15155
+msgid "Astrologer / Psychic"
+msgstr "Astrologe / Medium"
+
+#: src/data/categories.ts:877
+msgid "Auditorium"
+msgstr "Hörsaal"
+
+#: src/data/categories.ts:2036
+msgid "Australian"
+msgstr "Australisch"
+
+#: src/data/categories.ts:2068
+msgid "Austrian"
+msgstr "Österreichisch"
+
+#: src/data/categories.ts:1073
+msgid "Auto Racetrack"
+msgstr "Rennbahn"
+
+#: src/data/categories.ts:11376
+msgid "Automobile Dealership"
+msgstr "Autohändler"
+
+#: src/data/categories.ts:11403
+msgid "Automobile Rental"
+msgstr "Autovermietung"
+
+#: src/data/categories.ts:11430
+msgid "Automobile Repair"
+msgstr "KFZ-Werkstatt"
+
+#: src/data/categories.ts:11371
+#: src/data/categories.ts:18772
+msgid "Automotive"
+msgstr "Automobil"
+
+#: src/data/categories.ts:15804
+msgid "Automotive Supplies"
+msgstr "Automobilzulieferung"
+
+#: src/data/categories.ts:8971
+msgid "Aviary"
+msgstr "Vogelhaus"
+
+#: src/data/categories.ts:2196
+msgid "BBQ"
+msgstr "BBQ"
+
+#: src/data/categories.ts:16025
+msgid "Baby Store"
+msgstr "Babyfachgeschäft"
+
+#: src/data/categories.ts:10471
+msgid "Badminton Court"
+msgstr "Badmintonplatz"
+
+#: src/data/categories.ts:2100
+msgid "Bagels"
+msgstr "Bagels"
+
+#: src/data/categories.ts:18734
+msgid "Baggage Claim"
+msgstr "Gepäckausgabe"
+
+#: src/data/categories.ts:2132
+#: src/data/categories.ts:16680
+msgid "Bakery"
+msgstr "Bäckerei"
+
+#: src/data/categories.ts:2164
+msgid "Balinese"
+msgstr "Balinesisch"
+
+#: src/data/categories.ts:654
+msgid "Bandstand"
+msgstr "Musikpavillon"
+
+#: src/data/categories.ts:13367
+msgid "Bank"
+msgstr "Bank"
+
+#: src/data/categories.ts:8132
+msgid "Bar"
+msgstr "Bar"
+
+#: src/data/categories.ts:9923
+msgid "Barbecue"
+msgstr "Barbecue"
+
+#: src/data/categories.ts:11713
+msgid "Barber"
+msgstr "Barbershop"
+
+#: src/data/categories.ts:10498
+msgid "Baseball Field"
+msgstr "Baseballfeld"
+
+#: src/data/categories.ts:1095
+msgid "Baseball Stadium"
+msgstr "Baseballstadion"
+
+#: src/data/categories.ts:10525
+msgid "Basketball Court"
+msgstr "Basketballfeld"
+
+#: src/data/categories.ts:1117
+msgid "Basketball Stadium"
+msgstr "Basketballhalle"
+
+#: src/data/categories.ts:11606
+msgid "Bath House"
+msgstr "Bad"
+
+#: src/data/categories.ts:11601
+msgid "Bathing"
+msgstr "Baden"
+
+#: src/data/categories.ts:9935
+msgid "Bathing Area"
+msgstr "Badestelle"
+
+#: src/data/categories.ts:9820
+msgid "Battlefield"
+msgstr "Schlachtfeld"
+
+#: src/data/categories.ts:9947
+msgid "Beach"
+msgstr "Strand"
+
+#: src/data/categories.ts:8164
+msgid "Beach Bar"
+msgstr "Strandbar"
+
+#: src/data/categories.ts:15831
+msgid "Beauty & Cosmetics"
+msgstr "Beauty & Kosmetik"
+
+#: src/data/categories.ts:11681
+msgid "Beauty & Spa"
+msgstr "Beauty & Spa"
+
+#: src/data/categories.ts:11740
+msgid "Beauty Salon"
+msgstr "Schönheitssalon"
+
+#: src/data/categories.ts:7414
+msgid "Beauty School"
+msgstr "Fachschule für Kosmetik"
+
+#: src/data/categories.ts:18981
+msgid "Bed & Breakfast"
+msgstr "Bed & Breakfast"
+
+#: src/data/categories.ts:8196
+msgid "Beer Bar"
+msgstr "Bierkneipe"
+
+#: src/data/categories.ts:8228
+msgid "Beer Garden"
+msgstr "Biergarten"
+
+#: src/data/categories.ts:16707
+msgid "Beer Store"
+msgstr "Bier- und Getränkehandel"
+
+#: src/data/categories.ts:2292
+msgid "Beijing"
+msgstr "Peking"
+
+#: src/data/categories.ts:2228
+msgid "Belarusian"
+msgstr "Weißrussisch"
+
+#: src/data/categories.ts:2260
+msgid "Belgian"
+msgstr "Belgisch"
+
+#: src/data/categories.ts:2324
+msgid "Betawinese"
+msgstr "Betawinesisch"
+
+#: src/data/categories.ts:18862
+msgid "Bicycle"
+msgstr "Fahrrad"
+
+#: src/data/categories.ts:15182
+msgid "Bicycle Repair"
+msgstr "Fahrradreparatur"
+
+#: src/data/categories.ts:15858
+msgid "Bicycle Store"
+msgstr "Fahrradladen"
+
+#: src/data/categories.ts:15885
+msgid "Big Box Store"
+msgstr "Großmarkt"
+
+#: src/data/categories.ts:18867
+msgid "Bike Rental"
+msgstr "Fahrradverleih"
+
+#: src/data/categories.ts:18889
+msgid "Bike Share Station"
+msgstr "Leihrad-Station"
+
+#: src/data/categories.ts:9959
+msgid "Bike Trail"
+msgstr "Radweg"
+
+#: src/data/categories.ts:2356
+msgid "Bistro"
+msgstr "Bistro"
+
+#: src/data/categories.ts:19003
+msgid "Boarding House"
+msgstr "Pension"
+
+#: src/data/categories.ts:9971
+msgid "Boat Charter"
+msgstr "Boots-Charter"
+
+#: src/data/categories.ts:9998
+msgid "Boat Ramp"
+msgstr "Bootsrampe"
+
+#: src/data/categories.ts:10010
+msgid "Boat Rental"
+msgstr "Bootsvermietung"
+
+#: src/data/categories.ts:11457
+msgid "Boat Sales"
+msgstr "Boot- und Schiffsverkauf"
+
+#: src/data/categories.ts:2388
+msgid "Bodega"
+msgstr "Bodega"
+
+#: src/data/categories.ts:15912
+msgid "Bookstore"
+msgstr "Buchladen"
+
+#: src/data/categories.ts:2420
+msgid "Bosnian"
+msgstr "Bosnisch"
+
+#: src/data/categories.ts:9832
+msgid "Botanical Garden"
+msgstr "Botanischer Garten"
+
+#: src/data/categories.ts:16052
+msgid "Boutique"
+msgstr "Boutique"
+
+#: src/data/categories.ts:10552
+msgid "Bowling Alley"
+msgstr "Bowlingbahn"
+
+#: src/data/categories.ts:10579
+msgid "Boxing Gym"
+msgstr "Boxclub"
+
+#: src/data/categories.ts:2452
+msgid "Brazilian"
+msgstr "Brasilianisch"
+
+#: src/data/categories.ts:2484
+msgid "Breakfast"
+msgstr "Frühstück"
+
+#: src/data/categories.ts:8260
+msgid "Brewery"
+msgstr "Brauhaus"
+
+#: src/data/categories.ts:2516
+msgid "Brewpub"
+msgstr "Brauhaus"
+
+#: src/data/categories.ts:16079
+msgid "Bridal Store"
+msgstr "Brautmoden"
+
+#: src/data/categories.ts:9309
+msgid "Bridge"
+msgstr "Brücke"
+
+#: src/data/categories.ts:2548
+msgid "British"
+msgstr "Britisch"
+
+#: src/data/categories.ts:2580
+msgid "Bubble Tea"
+msgstr "Bubble Tea"
+
+#: src/data/categories.ts:14657
+msgid "Buddhist Temple"
+msgstr "Buddhistischer Tempel"
+
+#: src/data/categories.ts:2612
+msgid "Buffet"
+msgstr "Buffet"
+
+#: src/data/categories.ts:13725
+#: src/data/categories.ts:18896
+msgid "Building"
+msgstr "Gebäude"
+
+#: src/data/categories.ts:11958
+msgid "Building & Trades"
+msgstr "Baugewerbe"
+
+#: src/data/categories.ts:17308
+msgid "Building Materials"
+msgstr "Baumaterialien"
+
+#: src/data/categories.ts:2644
+msgid "Bulgarian"
+msgstr "Bulgarisch"
+
+#: src/data/categories.ts:1139
+msgid "Bull Ring"
+msgstr "Stierkampfarena"
+
+#: src/data/categories.ts:2676
+msgid "Burgers"
+msgstr "Burger"
+
+#: src/data/categories.ts:2708
+msgid "Burmese"
+msgstr "Burmesisch"
+
+#: src/data/categories.ts:2740
+msgid "Burritos"
+msgstr "Burritos"
+
+#: src/data/categories.ts:19208
+msgid "Bus Station"
+msgstr "Bushaltestelle"
+
+#: src/data/categories.ts:19220
+msgid "Bus Stop"
+msgstr "Bushaltestelle"
+
+#: src/data/categories.ts:13752
+msgid "Business Center"
+msgstr "Geschäftszentrum"
+
+#: src/data/categories.ts:16734
+msgid "Butcher Shop"
+msgstr "Metzgerei"
+
+#: src/data/categories.ts:19232
+msgid "Cable Car Station"
+msgstr "Seilbahnstation"
+
+#: src/data/categories.ts:2772
+msgid "Cafe"
+msgstr "Café"
+
+#: src/data/categories.ts:2804
+msgid "Cafeteria"
+msgstr "Caféteria"
+
+#: src/data/categories.ts:2836
+msgid "Cajun & Creole"
+msgstr "Cajun & Kreolisch"
+
+#: src/data/categories.ts:2868
+msgid "Cambodian"
+msgstr "Kambodschanisch"
+
+#: src/data/categories.ts:15939
+msgid "Camera Store"
+msgstr "Kamerafachhandel"
+
+#: src/data/categories.ts:10022
+#: src/data/categories.ts:19025
+msgid "Campground"
+msgstr "Campingplatz"
+
+#: src/data/categories.ts:16761
+msgid "Candy Store"
+msgstr "Bonbon-Laden"
+
+#: src/data/categories.ts:2900
+msgid "Cantonese"
+msgstr "Kantonesisch"
+
+#: src/data/categories.ts:9321
+msgid "Canyon"
+msgstr "Schlucht"
+
+#: src/data/categories.ts:1324
+msgid "Capitol Building"
+msgstr "Parlamentsgebäude"
+
+#: src/data/categories.ts:11484
+msgid "Car Wash"
+msgstr "Autowäsche"
+
+#: src/data/categories.ts:2932
+msgid "Caribbean"
+msgstr "Karibisch"
+
+#: src/data/categories.ts:41
+msgid "Carousel"
+msgstr "Karussell"
+
+#: src/data/categories.ts:11963
+msgid "Carpenter"
+msgstr "Schreiner"
+
+#: src/data/categories.ts:17335
+msgid "Carpets & Floor Coverings"
+msgstr "Teppiche und Bodenbeläge"
+
+#: src/data/categories.ts:63
+msgid "Casino"
+msgstr "Casino"
+
+#: src/data/categories.ts:9333
+msgid "Castle"
+msgstr "Burg"
+
+#: src/data/categories.ts:15966
+msgid "Catalog Store"
+msgstr "Kataloghandel"
+
+#: src/data/categories.ts:12373
+msgid "Catering"
+msgstr "Catering"
+
+#: src/data/categories.ts:9345
+msgid "Cave"
+msgstr "Höhle"
+
+#: src/data/categories.ts:9357
+msgid "Cemetery"
+msgstr "Friedhof"
+
+#: src/data/categories.ts:2964
+msgid "Cha Chaan Teng"
+msgstr "Cha Chaan Teng"
+
+#: src/data/categories.ts:19047
+msgid "Chalets"
+msgstr "Chalets"
+
+#: src/data/categories.ts:8292
+msgid "Champagne Bar"
+msgstr "Champagner-Bar"
+
+#: src/data/categories.ts:13394
+msgid "Check Cashing"
+msgstr "Scheckeinlösung"
+
+#: src/data/categories.ts:16788
+msgid "Cheese Shop"
+msgstr "Käseladen"
+
+#: src/data/categories.ts:90
+msgid "Chess"
+msgstr "Schach"
+
+#: src/data/categories.ts:15567
+msgid "Child Care"
+msgstr "Kinderbetreuung"
+
+#: src/data/categories.ts:16106
+msgid "Children's Clothing Store"
+msgstr "Geschäft für Kinderbekleidung"
+
+#: src/data/categories.ts:2996
+msgid "Chinese"
+msgstr "Chinesisch"
+
+#: src/data/categories.ts:3028
+msgid "Chinese Breakfast"
+msgstr "Chinesisches Frühstück"
+
+#: src/data/categories.ts:12544
+msgid "Chiropractor"
+msgstr "Chiropraktiker"
+
+#: src/data/categories.ts:16815
+msgid "Chocolate Shop"
+msgstr "Schokoladengeschäft"
+
+#: src/data/categories.ts:14679
+msgid "Church"
+msgstr "Kirche"
+
+#: src/data/categories.ts:904
+msgid "Circus"
+msgstr "Zirkus"
+
+#: src/data/categories.ts:1351
+msgid "City Hall"
+msgstr "Rathaus"
+
+#: src/data/categories.ts:9844
+msgid "City Park"
+msgstr "Stadtpark"
+
+#: src/data/categories.ts:9369
+msgid "City Walls"
+msgstr "Stadtmauer"
+
+#: src/data/categories.ts:1319
+msgid "Civic"
+msgstr "Bürgerlich / Öffentlich"
+
+#: src/data/categories.ts:1378
+msgid "Civic Center"
+msgstr "Bürgerzentrum"
+
+#: src/data/categories.ts:11985
+msgid "Cleaning & Sanitation"
+msgstr "Reinigungsfirma"
+
+#: src/data/categories.ts:9381
+msgid "Cliff"
+msgstr "Klippe"
+
+#: src/data/categories.ts:10606
+msgid "Climbing Gym"
+msgstr "Kletterhalle"
+
+#: src/data/categories.ts:12571
+msgid "Clinic"
+msgstr "Klinik"
+
+#: src/data/categories.ts:15993
+msgid "Clothing"
+msgstr "Bekleidung"
+
+#: src/data/categories.ts:8324
+msgid "Cocktail Bar"
+msgstr "Cocktail Bar"
+
+#: src/data/categories.ts:3060
+msgid "Coffee Shop"
+msgstr "Coffee Shop"
+
+#: src/data/categories.ts:7441
+msgid "College"
+msgstr "College"
+
+#: src/data/categories.ts:7458
+msgid "College Academic Building"
+msgstr "Universitätsgebäude"
+
+#: src/data/categories.ts:7470
+msgid "College Administrative Building"
+msgstr "Universitätsverwaltung"
+
+#: src/data/categories.ts:7482
+msgid "College Bookstore"
+msgstr "Universitätsbuchhandlung"
+
+#: src/data/categories.ts:7509
+msgid "College Cafeteria"
+msgstr "Uni-Caféteria"
+
+#: src/data/categories.ts:14972
+msgid "College Dormitory / Residence Hall"
+msgstr "Studentenwohnheim"
+
+#: src/data/categories.ts:7536
+msgid "College Gym"
+msgstr "Unisport"
+
+#: src/data/categories.ts:7548
+msgid "College Library"
+msgstr "Universitätsbibliothek"
+
+#: src/data/categories.ts:7565
+msgid "College Quad"
+msgstr "Universitätsgeviert"
+
+#: src/data/categories.ts:7570
+msgid "College Rec Center"
+msgstr "Uni-Freizeitzentrum"
+
+#: src/data/categories.ts:7582
+msgid "College Theater"
+msgstr "Unitheater"
+
+#: src/data/categories.ts:3092
+msgid "Colombian"
+msgstr "Kolumbianisch"
+
+#: src/data/categories.ts:931
+msgid "Comedy Club"
+msgstr "Comedy Club"
+
+#: src/data/categories.ts:16270
+msgid "Comic Books"
+msgstr "Comic-Hefte"
+
+#: src/data/categories.ts:12251
+msgid "Communications"
+msgstr "Kommunikation"
+
+#: src/data/categories.ts:14434
+msgid "Community Association"
+msgstr "Gemeindeverband"
+
+#: src/data/categories.ts:1405
+msgid "Community Center"
+msgstr "Gemeindezentrum"
+
+#: src/data/categories.ts:7604
+msgid "Community College"
+msgstr "Volkshochschule"
+
+#: src/data/categories.ts:13779
+msgid "Computer Services"
+msgstr "IT-Dienstleistungen"
+
+#: src/data/categories.ts:16297
+msgid "Computers & Home Electronics"
+msgstr "Computer & Heimelektronik"
+
+#: src/data/categories.ts:681
+msgid "Concert Hall"
+msgstr "Konzertsaal"
+
+#: src/data/categories.ts:14701
+msgid "Confucian Temple"
+msgstr "Konfuziustempel"
+
+#: src/data/categories.ts:12007
+msgid "Construction Company"
+msgstr "Baufirma"
+
+#: src/data/categories.ts:1432
+msgid "Consulate / Embassy"
+msgstr "Konsulat / Botschaft"
+
+#: src/data/categories.ts:16842
+msgid "Convenience Store"
+msgstr "Mini-Markt"
+
+#: src/data/categories.ts:14723
+msgid "Convent"
+msgstr "Kloster"
+
+#: src/data/categories.ts:12395
+msgid "Convention Center"
+msgstr "Kongresszentrum"
+
+#: src/data/categories.ts:7621
+msgid "Cooking School"
+msgstr "Kochschule"
+
+#: src/data/categories.ts:16324
+msgid "Cosmetics Shop"
+msgstr "Kosmetikfachgeschäft"
+
+#: src/data/categories.ts:16351
+msgid "Costume Shop"
+msgstr "Kostümladen"
+
+#: src/data/categories.ts:1459
+msgid "Court House"
+msgstr "Gericht"
+
+#: src/data/categories.ts:13806
+msgid "Coworking Space"
+msgstr "Co-Working Space"
+
+#: src/data/categories.ts:16378
+msgid "Craft Store"
+msgstr "Bastelladen"
+
+#: src/data/categories.ts:13421
+msgid "Credit Union"
+msgstr "Volksbank"
+
+#: src/data/categories.ts:3124
+msgid "Creperie"
+msgstr "Crêperie"
+
+#: src/data/categories.ts:10633
+msgid "Cricket"
+msgstr "Cricket"
+
+#: src/data/categories.ts:3156
+msgid "Cuban"
+msgstr "Kubanisch"
+
+#: src/data/categories.ts:1481
+msgid "Cultural Center"
+msgstr "Kulturzentrum"
+
+#: src/data/categories.ts:3188
+msgid "Cupcake Shop"
+msgstr "Cupcake-Laden"
+
+#: src/data/categories.ts:13448
+msgid "Currency Exchange"
+msgstr "Wechselstube"
+
+#: src/data/categories.ts:1508
+msgid "Customs House"
+msgstr "Zollgebäude"
+
+#: src/data/categories.ts:10660
+msgid "Cycle Studio"
+msgstr "Spinning Studio"
+
+#: src/data/categories.ts:3220
+msgid "Czech"
+msgstr "Tschechisch"
+
+#: src/data/categories.ts:9113
+msgid "Dairy Farm"
+msgstr "Milchbetrieb"
+
+#: src/data/categories.ts:16869
+msgid "Dairy Store"
+msgstr "Geschäft für Milchprodukte"
+
+#: src/data/categories.ts:9393
+msgid "Dam"
+msgstr "Damm"
+
+#: src/data/categories.ts:958
+msgid "Dance"
+msgstr "Tanz"
+
+#: src/data/categories.ts:102
+msgid "Dance Hall"
+msgstr "Disko"
+
+#: src/data/categories.ts:7648
+msgid "Dance Studio"
+msgstr "Tanzstudio"
+
+#: src/data/categories.ts:11767
+msgid "Day Spa"
+msgstr "Wellness"
+
+#: src/data/categories.ts:3252
+msgid "Deli"
+msgstr "Deli"
+
+#: src/data/categories.ts:12598
+msgid "Dentist"
+msgstr "Zahnarzt"
+
+#: src/data/categories.ts:16405
+msgid "Department Store"
+msgstr "Kaufhaus"
+
+#: src/data/categories.ts:1535
+msgid "Department of Motor Vehicles"
+msgstr "Kraftfahrzeug-Zulassungsstelle."
+
+#: src/data/categories.ts:3284
+msgid "Dessert Shop"
+msgstr "Dessert-Laden"
+
+#: src/data/categories.ts:13833
+msgid "Detective & Security Services"
+msgstr "Detektiv- und Sicherheitsservice"
+
+#: src/data/categories.ts:10687
+msgid "Diet & Weight Loss"
+msgstr "Diät und Gewichtsreduktion"
+
+#: src/data/categories.ts:16432
+msgid "Dietary & Supplement Shop"
+msgstr "Geschäft für Nahrungsergänzungsmittel"
+
+#: src/data/categories.ts:9405
+msgid "Dike"
+msgstr "Deich"
+
+#: src/data/categories.ts:3316
+msgid "Dim Sum"
+msgstr "Dim Sum"
+
+#: src/data/categories.ts:3348
+msgid "Diner"
+msgstr "Imbiss"
+
+#: src/data/categories.ts:1807
+msgid "Dining"
+msgstr "Essen gehen"
+
+#: src/data/categories.ts:3380
+msgid "Dinner Theater"
+msgstr "Erlebnisgastronomie"
+
+#: src/data/categories.ts:10034
+msgid "Disc Golf"
+msgstr "Discgolf"
+
+#: src/data/categories.ts:16459
+msgid "Discount & Variety Store"
+msgstr "Ein-Euro-Laden"
+
+#: src/data/categories.ts:8356
+msgid "Distillery"
+msgstr "Distillerie"
+
+#: src/data/categories.ts:13140
+msgid "Distribution Center"
+msgstr "Verteilerzentrum"
+
+#: src/data/categories.ts:8388
+msgid "Dive Bar"
+msgstr "Spelunke"
+
+#: src/data/categories.ts:10046
+msgid "Dive Center"
+msgstr "Tauchbasis"
+
+#: src/data/categories.ts:10714
+msgid "Diving Center"
+msgstr "Tauchbasis"
+
+#: src/data/categories.ts:12625
+msgid "Doctor"
+msgstr "Arzt"
+
+#: src/data/categories.ts:9856
+msgid "Dog Park"
+msgstr "Hundewiese"
+
+#: src/data/categories.ts:1161
+msgid "Dog Racetrack"
+msgstr "Hunderennbahn"
+
+#: src/data/categories.ts:3412
+msgid "Dongbei"
+msgstr "Dongbei"
+
+#: src/data/categories.ts:3444
+msgid "Donut Shop"
+msgstr "Donut-Laden"
+
+#: src/data/categories.ts:3476
+msgid "Dosa"
+msgstr "Dosa"
+
+#: src/data/categories.ts:11633
+msgid "Drinking Water"
+msgstr "Trinkwasser"
+
+#: src/data/categories.ts:397
+msgid "Drive-in Theater"
+msgstr "Autokino"
+
+#: src/data/categories.ts:7675
+msgid "Driving School"
+msgstr "Fahrschule"
+
+#: src/data/categories.ts:15209
+msgid "Dry Cleaner"
+msgstr "Reinigung"
+
+#: src/data/categories.ts:3508
+msgid "Dumpling"
+msgstr "Knödel"
+
+#: src/data/categories.ts:9417
+msgid "Dunes"
+msgstr "Dünen"
+
+#: src/data/categories.ts:3540
+msgid "Dutch"
+msgstr "Niederländisch"
+
+#: src/data/categories.ts:16486
+msgid "Duty Free Shop"
+msgstr "Duty Free Shop"
+
+#: src/data/categories.ts:18746
+msgid "Duty-free Shop"
+msgstr "Duty Free Shop"
+
+#: src/data/categories.ts:11506
+msgid "EV Charging Station"
+msgstr "EV-Ladestation"
+
+#: src/data/categories.ts:3572
+msgid "Eastern European"
+msgstr "Osteuropäisch"
+
+#: src/data/categories.ts:7382
+msgid "Education"
+msgstr "Bildung"
+
+#: src/data/categories.ts:12029
+msgid "Electrician"
+msgstr "Elektriker"
+
+#: src/data/categories.ts:16513
+msgid "Electronics Store"
+msgstr "Elektronikfachgeschäft"
+
+#: src/data/categories.ts:7702
+msgid "Elementary School"
+msgstr "Grundschule"
+
+#: src/data/categories.ts:18901
+msgid "Elevator"
+msgstr "Aufzug"
+
+#: src/data/categories.ts:15594
+msgid "Emergency Phone"
+msgstr "Notrufsäule"
+
+#: src/data/categories.ts:12652
+msgid "Emergency Room"
+msgstr "Notfallambulanz"
+
+#: src/data/categories.ts:15606
+msgid "Emergency Shelter"
+msgstr "Notunterkunft"
+
+#: src/data/categories.ts:3604
+msgid "Empanada"
+msgstr "Empanadas"
+
+#: src/data/categories.ts:13860
+msgid "Employment Agencies"
+msgstr "Arbeitsvermittlung"
+
+#: src/data/categories.ts:15633
+msgid "Employment Agency"
+msgstr "Arbeitsagentur"
+
+#: src/data/categories.ts:13887
+msgid "Engineering"
+msgstr "Technik und Ingenieurwesen"
+
+#: src/data/categories.ts:13914
+msgid "Entertainment Service"
+msgstr "Unterhaltungsdienste"
+
+#: src/data/categories.ts:18906
+msgid "Entrance"
+msgstr "Eingang"
+
+#: src/data/categories.ts:12051
+msgid "Equipment Rental"
+msgstr "Geräteverleih"
+
+#: src/data/categories.ts:512
+msgid "Erotic Museum"
+msgstr "Erotikmuseum"
+
+#: src/data/categories.ts:18911
+msgid "Escalator"
+msgstr "Rolltreppe"
+
+#: src/data/categories.ts:3636
+msgid "Ethiopian"
+msgstr "Äthiopisch"
+
+#: src/data/categories.ts:12417
+msgid "Event Space"
+msgstr "Veranstaltungsort"
+
+#: src/data/categories.ts:16540
+msgid "Event Tickets"
+msgstr "Veranstaltungstickets"
+
+#: src/data/categories.ts:12368
+msgid "Events"
+msgstr "Veranstaltungen"
+
+#: src/data/categories.ts:12439
+msgid "Exhibition Hall"
+msgstr "Messehalle"
+
+#: src/data/categories.ts:16567
+msgid "Fabric Store"
+msgstr "Stoffwarenladen"
+
+#: src/data/categories.ts:13162
+msgid "Factory"
+msgstr "Fabrik"
+
+#: src/data/categories.ts:3668
+msgid "Falafel"
+msgstr "Falafel"
+
+#: src/data/categories.ts:9140
+msgid "Farm"
+msgstr "Bauernhof"
+
+#: src/data/categories.ts:16896
+msgid "Farmers Market"
+msgstr "Wochenmarkt"
+
+#: src/data/categories.ts:9081
+msgid "Farming"
+msgstr "Landwirtschaft"
+
+#: src/data/categories.ts:3700
+msgid "Fast Food"
+msgstr "Fast Food"
+
+#: src/data/categories.ts:18923
+msgid "Ferry Terminal"
+msgstr "Fährterminal"
+
+#: src/data/categories.ts:985
+msgid "Festival"
+msgstr "Festival"
+
+#: src/data/categories.ts:3732
+msgid "Filipino"
+msgstr "Filipino"
+
+#: src/data/categories.ts:12256
+msgid "Film & Video Production"
+msgstr "Film- und Videoproduktion"
+
+#: src/data/categories.ts:13475
+msgid "Financial Services"
+msgstr "Finanzdienste"
+
+#: src/data/categories.ts:266
+msgid "Fine Arts"
+msgstr "Bildende Künste"
+
+#: src/data/categories.ts:1562
+msgid "Fire Station"
+msgstr "Feuerwache"
+
+#: src/data/categories.ts:9429
+msgid "Firepit"
+msgstr "Feuerstelle"
+
+#: src/data/categories.ts:3764
+msgid "Fish & Chips"
+msgstr "Fish & Chips"
+
+#: src/data/categories.ts:16923
+msgid "Fish Market"
+msgstr "Fischmarkt"
+
+#: src/data/categories.ts:10058
+msgid "Fishing"
+msgstr "Angeln"
+
+#: src/data/categories.ts:16594
+msgid "Fishing Supply"
+msgstr "Angelladen"
+
+#: src/data/categories.ts:10741
+msgid "Fitness Center"
+msgstr "Fitness-Center"
+
+#: src/data/categories.ts:16621
+msgid "Flea Market"
+msgstr "Flohmarkt"
+
+#: src/data/categories.ts:7724
+msgid "Flight School"
+msgstr "Flugschule"
+
+#: src/data/categories.ts:16648
+msgid "Florist"
+msgstr "Blumenhändler"
+
+#: src/data/categories.ts:3796
+msgid "Fondue"
+msgstr "Fondue"
+
+#: src/data/categories.ts:16675
+msgid "Food & Beverage"
+msgstr "Essen & Getränke"
+
+#: src/data/categories.ts:3828
+msgid "Food Court"
+msgstr "Foodcourt"
+
+#: src/data/categories.ts:1183
+msgid "Football Stadium"
+msgstr "Football-Stadion"
+
+#: src/data/categories.ts:9868
+msgid "Forest"
+msgstr "Wald"
+
+#: src/data/categories.ts:9441
+msgid "Fortress"
+msgstr "Festung"
+
+#: src/data/categories.ts:14461
+msgid "Foundation"
+msgstr "Stiftung"
+
+#: src/data/categories.ts:9453
+msgid "Fountain"
+msgstr "Brunnen"
+
+#: src/data/categories.ts:17195
+msgid "Frame Shop"
+msgstr "Rahmenladen"
+
+#: src/data/categories.ts:14994
+msgid "Fraternity House"
+msgstr "Verbindungshaus"
+
+#: src/data/categories.ts:3860
+msgid "French"
+msgstr "Französisch"
+
+#: src/data/categories.ts:3892
+msgid "Fried Chicken"
+msgstr "Gebratenes Huhn"
+
+#: src/data/categories.ts:3924
+msgid "Friterie"
+msgstr "Pommesbude"
+
+#: src/data/categories.ts:3956
+msgid "Frozen Yogurt"
+msgstr "Frozen Yogurt"
+
+#: src/data/categories.ts:16950
+msgid "Fruits & Vegetables"
+msgstr "Obst & Gemüse"
+
+#: src/data/categories.ts:3988
+msgid "Fujian"
+msgstr "Fujian"
+
+#: src/data/categories.ts:13941
+msgid "Funeral Home"
+msgstr "Bestattungsinstitut"
+
+#: src/data/categories.ts:15236
+msgid "Gaming Cafe"
+msgstr "Gaming-Café"
+
+#: src/data/categories.ts:10070
+msgid "Garden"
+msgstr "Garten"
+
+#: src/data/categories.ts:17362
+msgid "Garden Center"
+msgstr "Gartencenter"
+
+#: src/data/categories.ts:11523
+msgid "Gas Station"
+msgstr "Tankstelle"
+
+#: src/data/categories.ts:4020
+msgid "Gastropub"
+msgstr "Kneipe"
+
+#: src/data/categories.ts:9465
+msgid "Gate"
+msgstr "Tor"
+
+#: src/data/categories.ts:8420
+msgid "Gay Bar"
+msgstr "Schwulenbar"
+
+#: src/data/categories.ts:16133
+msgid "General Clothing Store"
+msgstr "Bekleidungsgeschäft"
+
+#: src/data/categories.ts:4052
+msgid "German"
+msgstr "Deutsch"
+
+#: src/data/categories.ts:17222
+msgid "Gifts & Souvenirs"
+msgstr "Geschenke & Souvenirs"
+
+#: src/data/categories.ts:9477
+msgid "Glacier"
+msgstr "Gletscher"
+
+#: src/data/categories.ts:4084
+msgid "Gluten-free"
+msgstr "Glutenfrei"
+
+#: src/data/categories.ts:129
+msgid "Go Karts"
+msgstr "Go Kart"
+
+#: src/data/categories.ts:10768
+msgid "Golf Course"
+msgstr "Golfplatz"
+
+#: src/data/categories.ts:10795
+msgid "Golf Driving Range"
+msgstr "Driving Range"
+
+#: src/data/categories.ts:16977
+msgid "Gourmet Shop"
+msgstr "Delikatessengeschäft"
+
+#: src/data/categories.ts:1567
+msgid "Government Building"
+msgstr "Regierungsgebäude"
+
+#: src/data/categories.ts:7751
+msgid "Graduate School"
+msgstr "Graduiertenkolleg"
+
+#: src/data/categories.ts:4116
+msgid "Greek"
+msgstr "Griechisch"
+
+#: src/data/categories.ts:17004
+msgid "Grocery"
+msgstr "Lebensmittel"
+
+#: src/data/categories.ts:19069
+msgid "Guest House"
+msgstr "Gästehaus"
+
+#: src/data/categories.ts:10082
+msgid "Gun Range"
+msgstr "Schießplatz"
+
+#: src/data/categories.ts:17249
+msgid "Gun Shop"
+msgstr "Waffenladen"
+
+#: src/data/categories.ts:10822
+msgid "Gym"
+msgstr "Fitnessstudio"
+
+#: src/data/categories.ts:10849
+msgid "Gymnastics Studio"
+msgstr "Fitnessstudio"
+
+#: src/data/categories.ts:12073
+msgid "HVAC Company"
+msgstr "Firma für Klimaanlagen"
+
+#: src/data/categories.ts:13968
+msgid "Hacker Space"
+msgstr "Hackerspace"
+
+#: src/data/categories.ts:4148
+msgid "Halal"
+msgstr "Halal"
+
+#: src/data/categories.ts:17389
+msgid "Hardware Store"
+msgstr "Baumarkt"
+
+#: src/data/categories.ts:4180
+msgid "Hawaiian"
+msgstr "Hawaiianisch"
+
+#: src/data/categories.ts:12485
+msgid "Health"
+msgstr "Gesundheit & Fitness"
+
+#: src/data/categories.ts:4212
+msgid "Health Food"
+msgstr "Naturkost"
+
+#: src/data/categories.ts:17031
+msgid "Health Food Store"
+msgstr "Reformhaus"
+
+#: src/data/categories.ts:18758
+msgid "Heliport"
+msgstr "Hubschrauberlandeplatz"
+
+#: src/data/categories.ts:17058
+msgid "Herbs & Spices"
+msgstr "Kräuter und Gewürze"
+
+#: src/data/categories.ts:7768
+msgid "High School"
+msgstr "Gymnasium"
+
+#: src/data/categories.ts:4244
+msgid "Himalayan"
+msgstr "Himalayisch"
+
+#: src/data/categories.ts:14745
+msgid "Hindu Temple"
+msgstr "Hinduistischer Tempel"
+
+#: src/data/categories.ts:317
+msgid "Historic"
+msgstr "Geschichte"
+
+#: src/data/categories.ts:339
+msgid "Historic Building"
+msgstr "Historisches Gebäude"
+
+#: src/data/categories.ts:356
+msgid "Historic Site"
+msgstr "Historische Stätte"
+
+#: src/data/categories.ts:539
+msgid "History Museum"
+msgstr "Historisches Museum"
+
+#: src/data/categories.ts:17276
+msgid "Hobby Store"
+msgstr "Hobby- und Freizeitgeschäft"
+
+#: src/data/categories.ts:1205
+msgid "Hockey Arena"
+msgstr "Eissporthalle"
+
+#: src/data/categories.ts:10876
+msgid "Hockey Field"
+msgstr "Hockeyfeld"
+
+#: src/data/categories.ts:17303
+msgid "Home & Garden"
+msgstr "Heim & Garten"
+
+#: src/data/categories.ts:17416
+msgid "Home Furnishings"
+msgstr "Wohnmöbel"
+
+#: src/data/categories.ts:4276
+msgid "Hong Kong"
+msgstr "Hongkong"
+
+#: src/data/categories.ts:8452
+msgid "Hookah Bar"
+msgstr "Wasserpfeifen-Bar"
+
+#: src/data/categories.ts:1227
+msgid "Horse Racetrack"
+msgstr "Pferderennbahn"
+
+#: src/data/categories.ts:12679
+msgid "Hospice"
+msgstr "Hospiz"
+
+#: src/data/categories.ts:12706
+msgid "Hospital"
+msgstr "Krankenhaus"
+
+#: src/data/categories.ts:19091
+msgid "Hostel"
+msgstr "Hostel"
+
+#: src/data/categories.ts:4308
+msgid "Hot Dog"
+msgstr "Hotdog"
+
+#: src/data/categories.ts:4340
+msgid "Hot Pot"
+msgstr "Hot Pot"
+
+#: src/data/categories.ts:9489
+msgid "Hot Spring"
+msgstr "Thermalquelle"
+
+#: src/data/categories.ts:19113
+msgid "Hotel"
+msgstr "Hotel"
+
+#: src/data/categories.ts:8484
+msgid "Hotel Bar"
+msgstr "Hotelbar"
+
+#: src/data/categories.ts:17443
+msgid "Household Appliances"
+msgstr "Haushaltsgeräte"
+
+#: src/data/categories.ts:15016
+msgid "Housing Project"
+msgstr "Wohnbauprojekt"
+
+#: src/data/categories.ts:4372
+msgid "Huaiyang"
+msgstr "Huaiyang"
+
+#: src/data/categories.ts:4404
+msgid "Hunan"
+msgstr "Hunan"
+
+#: src/data/categories.ts:4436
+msgid "Hungarian"
+msgstr "Ungarisch"
+
+#: src/data/categories.ts:4468
+msgid "Ice Cream"
+msgstr "Eis"
+
+#: src/data/categories.ts:10903
+msgid "Ice Skating Rink"
+msgstr "Eislaufanlage"
+
+#: src/data/categories.ts:4500
+msgid "Indian"
+msgstr "Indisch"
+
+#: src/data/categories.ts:4532
+msgid "Indian Sweets"
+msgstr "Indische Süßspeisen"
+
+#: src/data/categories.ts:4564
+msgid "Indonesian"
+msgstr "Indonesisch"
+
+#: src/data/categories.ts:4596
+msgid "Indonesian Meatballs"
+msgstr "Indonesische Frikadellen"
+
+#: src/data/categories.ts:1249
+msgid "Indoor Arena"
+msgstr "Indoor-Halle"
+
+#: src/data/categories.ts:13113
+msgid "Industrial"
+msgstr "Industrie"
+
+#: src/data/categories.ts:13184
+msgid "Industrial Estate"
+msgstr "Gewerbegebiet"
+
+#: src/data/categories.ts:13995
+msgid "Insurance Agent"
+msgstr "Versicherungsmakler"
+
+#: src/data/categories.ts:14022
+msgid "Internet Cafe"
+msgstr "Internetcafé"
+
+#: src/data/categories.ts:13502
+msgid "Investment Brokerage"
+msgstr "Investmentberatung"
+
+#: src/data/categories.ts:4628
+msgid "Irish"
+msgstr "Irisch"
+
+#: src/data/categories.ts:4660
+msgid "Israeli"
+msgstr "Israelisch"
+
+#: src/data/categories.ts:4692
+msgid "Italian"
+msgstr "Italienisch"
+
+#: src/data/categories.ts:4724
+msgid "Japanese"
+msgstr "Japanisch"
+
+#: src/data/categories.ts:4756
+msgid "Javanese"
+msgstr "Javanesisch"
+
+#: src/data/categories.ts:708
+msgid "Jazz & Blues"
+msgstr "Jazz & Blues"
+
+#: src/data/categories.ts:9501
+msgid "Jetty"
+msgstr "Landungssteg"
+
+#: src/data/categories.ts:17553
+msgid "Jewelry Store"
+msgstr "Schmuckgeschäft"
+
+#: src/data/categories.ts:4788
+msgid "Jewish"
+msgstr "Jüdisch"
+
+#: src/data/categories.ts:4820
+msgid "Jiangsu"
+msgstr "Jiangsu"
+
+#: src/data/categories.ts:15660
+msgid "Job Training"
+msgstr "Berufsausbildung"
+
+#: src/data/categories.ts:4852
+msgid "Juice Bar"
+msgstr "Saftbar"
+
+#: src/data/categories.ts:8516
+msgid "Karaoke"
+msgstr "Karaoke"
+
+#: src/data/categories.ts:4884
+msgid "Kebab"
+msgstr "Kebab"
+
+#: src/data/categories.ts:7790
+msgid "Kindergarten"
+msgstr "Kita"
+
+#: src/data/categories.ts:14767
+msgid "Kingdom Hall"
+msgstr "Königreichssaal"
+
+#: src/data/categories.ts:17470
+msgid "Kitchen Supply"
+msgstr "Küchengeräte"
+
+#: src/data/categories.ts:17580
+msgid "Knitting Store"
+msgstr "Wollgeschäft"
+
+#: src/data/categories.ts:4916
+msgid "Korean"
+msgstr "Koreanisch"
+
+#: src/data/categories.ts:4948
+msgid "Korean Barbecue"
+msgstr "Koreanisches BBQ"
+
+#: src/data/categories.ts:14488
+msgid "Labor Organization"
+msgstr "Arbeitsorganisation"
+
+#: src/data/categories.ts:13206
+msgid "Laboratory"
+msgstr "Labor"
+
+#: src/data/categories.ts:9513
+msgid "Lagoon"
+msgstr "Lagune"
+
+#: src/data/categories.ts:9525
+msgid "Lake"
+msgstr "See"
+
+#: src/data/categories.ts:12095
+msgid "Landfill"
+msgstr "Deponie"
+
+#: src/data/categories.ts:9304
+msgid "Landmark"
+msgstr "Wahrzeichen"
+
+#: src/data/categories.ts:12117
+msgid "Landscaper"
+msgstr "Landschaftsgärtner"
+
+#: src/data/categories.ts:7812
+msgid "Language School"
+msgstr "Sprachschule"
+
+#: src/data/categories.ts:10094
+msgid "Laser Tag"
+msgstr "Laser Tag"
+
+#: src/data/categories.ts:4980
+msgid "Latin American"
+msgstr "Lateinamerikanisch"
+
+#: src/data/categories.ts:15263
+msgid "Laundromat"
+msgstr "Waschsalon"
+
+#: src/data/categories.ts:7839
+msgid "Law School"
+msgstr "Juristische Fakultät"
+
+#: src/data/categories.ts:14049
+msgid "Lawyer & Legal Services"
+msgstr "Anwaltskanzlei"
+
+#: src/data/categories.ts:17607
+msgid "Leather Goods"
+msgstr "Lederwaren"
+
+#: src/data/categories.ts:5012
+msgid "Lebanese"
+msgstr "Libanesisch"
+
+#: src/data/categories.ts:1594
+msgid "Library"
+msgstr "Bibliothek"
+
+#: src/data/categories.ts:19244
+msgid "Light Rail Station"
+msgstr "S-Bahn-Station"
+
+#: src/data/categories.ts:9537
+msgid "Lighthouse"
+msgstr "Leuchtturm"
+
+#: src/data/categories.ts:17497
+msgid "Lighting Store"
+msgstr "Lampengeschäft"
+
+#: src/data/categories.ts:16160
+msgid "Lingerie Shop"
+msgstr "Dessous-Shop"
+
+#: src/data/categories.ts:17085
+msgid "Liquor Store"
+msgstr "Spirituosenladen"
+
+#: src/data/categories.ts:9167
+msgid "Livestock Farm"
+msgstr "Viehzuchtbetrieb"
+
+#: src/data/categories.ts:12139
+#: src/data/categories.ts:15290
+msgid "Locksmith"
+msgstr "Schlüsseldienst"
+
+#: src/data/categories.ts:18794
+msgid "Lot"
+msgstr "Parkplatz"
+
+#: src/data/categories.ts:15317
+msgid "Lottery Store"
+msgstr "Lottoverkaufsstelle"
+
+#: src/data/categories.ts:8548
+msgid "Lounge"
+msgstr "Lounge"
+
+#: src/data/categories.ts:17634
+msgid "Luggage Store"
+msgstr "Koffergeschäft"
+
+#: src/data/categories.ts:5044
+msgid "Mac & Cheese"
+msgstr "Pasta"
+
+#: src/data/categories.ts:5076
+msgid "Macanese"
+msgstr "Macauisch"
+
+#: src/data/categories.ts:5108
+msgid "Malaysian"
+msgstr "Malaysisch"
+
+#: src/data/categories.ts:5140
+msgid "Mamak"
+msgstr "Mamak"
+
+#: src/data/categories.ts:5172
+msgid "Manadonese"
+msgstr "Manadonesisch"
+
+#: src/data/categories.ts:14076
+msgid "Management & Consulting"
+msgstr "Management & Beratung"
+
+#: src/data/categories.ts:12733
+msgid "Marijuana Dispensary"
+msgstr "Cannabis auf Rezept"
+
+#: src/data/categories.ts:10121
+msgid "Marina"
+msgstr "Yachthafen"
+
+#: src/data/categories.ts:18918
+msgid "Marine"
+msgstr "Marine"
+
+#: src/data/categories.ts:17661
+msgid "Marketplace"
+msgstr "Marktplatz"
+
+#: src/data/categories.ts:10930
+msgid "Martial Arts"
+msgstr "Kampfsport"
+
+#: src/data/categories.ts:11794
+msgid "Massage"
+msgstr "Massage"
+
+#: src/data/categories.ts:12760
+msgid "Maternity Clinic"
+msgstr "Geburtsklinik"
+
+#: src/data/categories.ts:17688
+msgid "Mattress Store"
+msgstr "Matratzenladen"
+
+#: src/data/categories.ts:10133
+msgid "Maze"
+msgstr "Labyrinth"
+
+#: src/data/categories.ts:12787
+msgid "Medical Center"
+msgstr "Medizinisches Zentrum"
+
+#: src/data/categories.ts:12814
+msgid "Medical Lab"
+msgstr "Medizinisches Labor"
+
+#: src/data/categories.ts:7856
+msgid "Medical School"
+msgstr "Medizinische Fakultät"
+
+#: src/data/categories.ts:17715
+msgid "Medical Supply Store"
+msgstr "Sanitätshaus"
+
+#: src/data/categories.ts:5204
+msgid "Mediterranean"
+msgstr "Mediterran"
+
+#: src/data/categories.ts:14515
+msgid "Membership Organization"
+msgstr "Mitgliederorganisation"
+
+#: src/data/categories.ts:9549
+msgid "Memorial"
+msgstr "Gedenkstätte"
+
+#: src/data/categories.ts:16187
+msgid "Men's Clothing Store"
+msgstr "Herrenausstatter"
+
+#: src/data/categories.ts:5236
+msgid "Mexican"
+msgstr "Mexikanisch"
+
+#: src/data/categories.ts:5268
+msgid "Middle Eastern"
+msgstr "Arabisch"
+
+#: src/data/categories.ts:7873
+msgid "Middle School"
+msgstr "Realschule"
+
+#: src/data/categories.ts:12841
+msgid "Midwife"
+msgstr "Hebamme"
+
+#: src/data/categories.ts:1621
+msgid "Military Base"
+msgstr "Militärstützpunkt"
+
+#: src/data/categories.ts:10150
+msgid "Miniature Golf"
+msgstr "Minigolf"
+
+#: src/data/categories.ts:13228
+msgid "Mining & Drilling"
+msgstr "Bergbau & Bohrindustrie"
+
+#: src/data/categories.ts:14789
+msgid "Mission"
+msgstr "Mission"
+
+#: src/data/categories.ts:17524
+msgid "Mobile Homes"
+msgstr "Wohnmobile"
+
+#: src/data/categories.ts:17742
+msgid "Mobile Phones"
+msgstr "Mobiltelefone"
+
+#: src/data/categories.ts:5300
+msgid "Modern European"
+msgstr "Modern-Europäisch"
+
+#: src/data/categories.ts:5332
+msgid "Molecular Gastronomy"
+msgstr "Molekulare Küche"
+
+#: src/data/categories.ts:14811
+msgid "Monastery"
+msgstr "Kloster"
+
+#: src/data/categories.ts:13362
+msgid "Money"
+msgstr "Finanzen"
+
+#: src/data/categories.ts:5364
+msgid "Mongolian"
+msgstr "Mongolisch"
+
+#: src/data/categories.ts:9561
+msgid "Monument"
+msgstr "Denkmal"
+
+#: src/data/categories.ts:5396
+msgid "Moroccan"
+msgstr "Marokkanisch"
+
+#: src/data/categories.ts:14833
+msgid "Mosque"
+msgstr "Moschee"
+
+#: src/data/categories.ts:19135
+msgid "Motel"
+msgstr "Motel"
+
+#: src/data/categories.ts:11545
+msgid "Motorcycle Sales"
+msgstr "Motorradhändler"
+
+#: src/data/categories.ts:9573
+msgid "Mountain"
+msgstr "Berg"
+
+#: src/data/categories.ts:424
+msgid "Movie Rental"
+msgstr "Videothek"
+
+#: src/data/categories.ts:451
+msgid "Movie Theater"
+msgstr "Kino"
+
+#: src/data/categories.ts:392
+msgid "Movies"
+msgstr "Film"
+
+#: src/data/categories.ts:480
+msgid "Museum"
+msgstr "Museum"
+
+#: src/data/categories.ts:622
+msgid "Music"
+msgstr "Musik"
+
+#: src/data/categories.ts:7895
+msgid "Music School"
+msgstr "Musikschule"
+
+#: src/data/categories.ts:17769
+msgid "Music Store"
+msgstr "Musikhaus"
+
+#: src/data/categories.ts:11821
+msgid "Nail Salon"
+msgstr "Nagelstudio"
+
+#: src/data/categories.ts:15038
+msgid "Named Residential Building"
+msgstr "Benanntes Wohngebäude"
+
+#: src/data/categories.ts:9880
+msgid "National Park"
+msgstr "Nationalpark"
+
+#: src/data/categories.ts:9892
+msgid "Nature Preserve"
+msgstr "Naturschutzgebiet"
+
+#: src/data/categories.ts:5428
+msgid "New American"
+msgstr "Neue amerikanische Küche"
+
+#: src/data/categories.ts:12278
+msgid "Newspaper"
+msgstr "Zeitung"
+
+#: src/data/categories.ts:17796
+msgid "Newsstand"
+msgstr "Zeitungsstand"
+
+#: src/data/categories.ts:8580
+msgid "Nightclub"
+msgstr "Nightclub"
+
+#: src/data/categories.ts:8127
+msgid "Nightlife"
+msgstr "Nachtleben"
+
+#: src/data/categories.ts:14103
+msgid "Non-Profit"
+msgstr "Non-Profit"
+
+#: src/data/categories.ts:5460
+msgid "Noodles"
+msgstr "Nudeln"
+
+#: src/data/categories.ts:14130
+msgid "Notary"
+msgstr "Notar"
+
+#: src/data/categories.ts:10177
+msgid "Nude Beach"
+msgstr "FKK"
+
+#: src/data/categories.ts:7922
+msgid "Nursery School"
+msgstr "Kindergarten"
+
+#: src/data/categories.ts:12868
+msgid "Nursing Home"
+msgstr "Seniorenheim"
+
+#: src/data/categories.ts:12895
+msgid "Nutritionist"
+msgstr "Ernährungsberater"
+
+#: src/data/categories.ts:13531
+msgid "Office"
+msgstr "Büro"
+
+#: src/data/categories.ts:17823
+msgid "Office Supply"
+msgstr "Büroartikel"
+
+#: src/data/categories.ts:13250
+msgid "Oil Field"
+msgstr "Ölfeld"
+
+#: src/data/categories.ts:735
+msgid "Opera"
+msgstr "Oper"
+
+#: src/data/categories.ts:17850
+msgid "Optical Goods"
+msgstr "Optiker"
+
+#: src/data/categories.ts:12922
+msgid "Optometrist"
+msgstr "Augenarzt"
+
+#: src/data/categories.ts:9194
+msgid "Orchard"
+msgstr "Obstplantage"
+
+#: src/data/categories.ts:14429
+msgid "Organization"
+msgstr "Organisation"
+
+#: src/data/categories.ts:17877
+msgid "Outdoor Supply"
+msgstr "Outdoorladen"
+
+#: src/data/categories.ts:8934
+msgid "Outdoors & Recreation"
+msgstr "Freizeit in der Natur"
+
+#: src/data/categories.ts:17904
+msgid "Outlet Mall"
+msgstr "Outlet"
+
+#: src/data/categories.ts:17931
+msgid "Outlet Store"
+msgstr "Outlet Store"
+
+#: src/data/categories.ts:8612
+msgid "Oxygen Bar"
+msgstr "Sauerstoffbar"
+
+#: src/data/categories.ts:5492
+msgid "Padangnese"
+msgstr "Padang"
+
+#: src/data/categories.ts:9585
+msgid "Pagoda"
+msgstr "Pagode"
+
+#: src/data/categories.ts:10957
+msgid "Paintball Field"
+msgstr "Paintball-Feld"
+
+#: src/data/categories.ts:12161
+msgid "Painting Company"
+msgstr "Malerbetrieb"
+
+#: src/data/categories.ts:5524
+msgid "Pakistani"
+msgstr "Pakistanisch"
+
+#: src/data/categories.ts:1626
+msgid "Palace"
+msgstr "Palast"
+
+#: src/data/categories.ts:5556
+msgid "Pancake House"
+msgstr "Pfannkuchenhaus"
+
+#: src/data/categories.ts:18777
+msgid "Parking Garage/Lot"
+msgstr "Parkhaus / Parkplatz"
+
+#: src/data/categories.ts:9815
+msgid "Parks"
+msgstr "Parks"
+
+#: src/data/categories.ts:17958
+msgid "Party Supplies"
+msgstr "Partyzubehör"
+
+#: src/data/categories.ts:5588
+msgid "Pastry Shop"
+msgstr "Patisserie"
+
+#: src/data/categories.ts:17985
+msgid "Pawn Shop"
+msgstr "Pfandhaus"
+
+#: src/data/categories.ts:5620
+msgid "Peking Duck"
+msgstr "Pekingente"
+
+#: src/data/categories.ts:845
+#: src/data/categories.ts:1012
+msgid "Performing Arts"
+msgstr "Darstellende Künste"
+
+#: src/data/categories.ts:5652
+msgid "Persian"
+msgstr "Persisch"
+
+#: src/data/categories.ts:5684
+msgid "Peruvian"
+msgstr "Peruanisch"
+
+#: src/data/categories.ts:12183
+msgid "Pest Control"
+msgstr "Schädlingsbekämpfung"
+
+#: src/data/categories.ts:15344
+msgid "Pet Services"
+msgstr "Haustierbetreuung"
+
+#: src/data/categories.ts:18012
+msgid "Pet Store"
+msgstr "Tierhandlung"
+
+#: src/data/categories.ts:8998
+msgid "Petting Zoo"
+msgstr "Streichelzoo"
+
+#: src/data/categories.ts:18039
+msgid "Pharmacy"
+msgstr "Apotheke"
+
+#: src/data/categories.ts:15371
+msgid "Photography Lab"
+msgstr "Fotolabor"
+
+#: src/data/categories.ts:12949
+msgid "Physical Therapist"
+msgstr "Physiotherapeut"
+
+#: src/data/categories.ts:762
+msgid "Piano Bar"
+msgstr "Piano Bar"
+
+#: src/data/categories.ts:10189
+msgid "Picnic Area"
+msgstr "Picknick-Bereich"
+
+#: src/data/categories.ts:5716
+msgid "Pie Shop"
+msgstr "Konditorei"
+
+#: src/data/categories.ts:18950
+msgid "Pier"
+msgstr "Pier"
+
+#: src/data/categories.ts:11848
+msgid "Piercing Parlor"
+msgstr "Piercing-Studio"
+
+#: src/data/categories.ts:10984
+msgid "Pilates Studio"
+msgstr "Pilates-Studio"
+
+#: src/data/categories.ts:5748
+msgid "Pizza"
+msgstr "Pizza"
+
+#: src/data/categories.ts:566
+msgid "Planetarium"
+msgstr "Planetarium"
+
+#: src/data/categories.ts:9221
+msgid "Plant Nursery"
+msgstr "Gärtnerei"
+
+#: src/data/categories.ts:10201
+msgid "Playground"
+msgstr "Spielplatz"
+
+#: src/data/categories.ts:11011
+msgid "Playing Field"
+msgstr "Sportplatz"
+
+#: src/data/categories.ts:9597
+msgid "Plaza"
+msgstr "Plaza"
+
+#: src/data/categories.ts:12205
+msgid "Plumber"
+msgstr "Klempner"
+
+#: src/data/categories.ts:12976
+msgid "Podiatrist"
+msgstr "Medizinische Fußpflege"
+
+#: src/data/categories.ts:1643
+msgid "Police Station"
+msgstr "Polizeiwache"
+
+#: src/data/categories.ts:5780
+msgid "Polish"
+msgstr "Polnisch"
+
+#: src/data/categories.ts:14157
+msgid "Political Office"
+msgstr "Politisches Amt"
+
+#: src/data/categories.ts:14542
+msgid "Political Organization"
+msgstr "Politische Organisation"
+
+#: src/data/categories.ts:156
+msgid "Pool Hall"
+msgstr "Billardsalon"
+
+#: src/data/categories.ts:18066
+msgid "Pop-Up Shop"
+msgstr "Pop-Up Store"
+
+#: src/data/categories.ts:17112
+msgid "Pork Store"
+msgstr "Metzger"
+
+#: src/data/categories.ts:15398
+msgid "Portrait Studio"
+msgstr "Portraitstudio "
+
+#: src/data/categories.ts:5812
+msgid "Portuguese"
+msgstr "Portugiesisch"
+
+#: src/data/categories.ts:1665
+msgid "Post Office"
+msgstr "Post"
+
+#: src/data/categories.ts:9248
+msgid "Poultry Farm"
+msgstr "Hühnerfarm"
+
+#: src/data/categories.ts:5844
+msgid "Poutine"
+msgstr "Poutine"
+
+#: src/data/categories.ts:13272
+msgid "Power Plant"
+msgstr "Kraftwerk"
+
+#: src/data/categories.ts:7944
+msgid "Preschool"
+msgstr "Vorschule"
+
+#: src/data/categories.ts:14184
+msgid "Printing & Photocopies"
+msgstr "Drucken & Kopieren"
+
+#: src/data/categories.ts:1692
+msgid "Prison"
+msgstr "Gefängnis"
+
+#: src/data/categories.ts:7966
+msgid "Private School"
+msgstr "Privatschule"
+
+#: src/data/categories.ts:14569
+msgid "Professional Association"
+msgstr "Berufsverband"
+
+#: src/data/categories.ts:8644
+msgid "Pub"
+msgstr "Pub"
+
+#: src/data/categories.ts:298
+msgid "Public Art"
+msgstr "Öffentliche Kunst"
+
+#: src/data/categories.ts:1697
+msgid "Public Building"
+msgstr "Öffentliches Gebäude"
+
+#: src/data/categories.ts:9609
+msgid "Quarry"
+msgstr "Steinbruch"
+
+#: src/data/categories.ts:10264
+msgid "RV Park"
+msgstr "Stellplatz"
+
+#: src/data/categories.ts:12300
+msgid "Radio Station"
+msgstr "Radiosender"
+
+#: src/data/categories.ts:10213
+msgid "Rafting"
+msgstr "Rafting"
+
+#: src/data/categories.ts:5876
+msgid "Ramen"
+msgstr "Ramen"
+
+#: src/data/categories.ts:1724
+msgid "Ranger Station"
+msgstr "Rangerstation"
+
+#: src/data/categories.ts:9621
+msgid "Rapids"
+msgstr "Stromschnellen"
+
+#: src/data/categories.ts:14211
+msgid "Real Estate Agent"
+msgstr "Immobilienmakler"
+
+#: src/data/categories.ts:18093
+msgid "Record Shop"
+msgstr "Plattenladen"
+
+#: src/data/categories.ts:12322
+msgid "Recording Studio"
+msgstr "Tonstudio"
+
+#: src/data/categories.ts:9918
+msgid "Recreation"
+msgstr "Erholung"
+
+#: src/data/categories.ts:10225
+msgid "Recreational Facility"
+msgstr "Freizeitanlage"
+
+#: src/data/categories.ts:11572
+msgid "Recreational Vehicle Sales"
+msgstr "Verkäufer von Wohnmobilen"
+
+#: src/data/categories.ts:14238
+msgid "Recruiting Agency"
+msgstr "Personalvermittlung"
+
+#: src/data/categories.ts:13003
+msgid "Rehab Center"
+msgstr "Rehazentrum"
+
+#: src/data/categories.ts:14652
+msgid "Religious"
+msgstr "Religiös"
+
+#: src/data/categories.ts:14855
+msgid "Religious Center"
+msgstr "Religiöses Zentrum"
+
+#: src/data/categories.ts:14596
+msgid "Religious Organization"
+msgstr "Religiöse Organisation"
+
+#: src/data/categories.ts:7988
+msgid "Religious School"
+msgstr "Religionsschule"
+
+#: src/data/categories.ts:15425
+msgid "Repair Shop"
+msgstr "Reparaturgeschäft"
+
+#: src/data/categories.ts:14265
+msgid "Research"
+msgstr "Forschung"
+
+#: src/data/categories.ts:9633
+msgid "Reservoir"
+msgstr "Stausee"
+
+#: src/data/categories.ts:14945
+msgid "Residential"
+msgstr "Anwohner"
+
+#: src/data/categories.ts:15060
+msgid "Residential Development"
+msgstr "Gefördertes Wohnhausprojekt"
+
+#: src/data/categories.ts:19157
+msgid "Resort"
+msgstr "Resort"
+
+#: src/data/categories.ts:18976
+msgid "Rest"
+msgstr "Übernachten"
+
+#: src/data/categories.ts:18811
+msgid "Rest Area"
+msgstr "Rastplatz"
+
+#: src/data/categories.ts:11645
+msgid "Restrooms"
+msgstr "Toiletten"
+
+#: src/data/categories.ts:15150
+msgid "Retail"
+msgstr "Einzelhandel"
+
+#: src/data/categories.ts:15082
+msgid "Retirement Home"
+msgstr "Seniorenheim"
+
+#: src/data/categories.ts:11038
+msgid "Rock Climbing"
+msgstr "Klettern"
+
+#: src/data/categories.ts:789
+msgid "Rock Club"
+msgstr "Rock Club"
+
+#: src/data/categories.ts:183
+msgid "Roller Coaster"
+msgstr "Achterbahn"
+
+#: src/data/categories.ts:10237
+msgid "Roller Skating Rink"
+msgstr "Rollschuhbahn"
+
+#: src/data/categories.ts:5908
+msgid "Romanian"
+msgstr "Rumänisch"
+
+#: src/data/categories.ts:11065
+msgid "Rugby League"
+msgstr "Rugby-Liga"
+
+#: src/data/categories.ts:373
+msgid "Ruins"
+msgstr "Ruine"
+
+#: src/data/categories.ts:5940
+msgid "Russian"
+msgstr "Russisch"
+
+#: src/data/categories.ts:10276
+msgid "Sailing Club"
+msgstr "Segelclub"
+
+#: src/data/categories.ts:8676
+msgid "Sake Bar"
+msgstr "Sake Bar"
+
+#: src/data/categories.ts:5972
+msgid "Salad Bar"
+msgstr "Salatbar"
+
+#: src/data/categories.ts:6004
+msgid "Salvadoran"
+msgstr "Salvadorianisch"
+
+#: src/data/categories.ts:6036
+msgid "Sandwich Shop"
+msgstr "Sandwich-Laden"
+
+#: src/data/categories.ts:6068
+msgid "Satay"
+msgstr "Satay"
+
+#: src/data/categories.ts:11875
+msgid "Sauna / Steam Room"
+msgstr "Sauna / Dampfbad"
+
+#: src/data/categories.ts:6100
+msgid "Scandinavian"
+msgstr "Skandinavisch"
+
+#: src/data/categories.ts:9645
+msgid "Scenic View"
+msgstr "Ausblickspunkt"
+
+#: src/data/categories.ts:8010
+msgid "School"
+msgstr "Schule"
+
+#: src/data/categories.ts:593
+msgid "Science Museum"
+msgstr "Naturwissenschaftliches Museum"
+
+#: src/data/categories.ts:6132
+msgid "Scottish"
+msgstr "Schottisch"
+
+#: src/data/categories.ts:18120
+msgid "Scuba Diving"
+msgstr "Sporttauchen"
+
+#: src/data/categories.ts:6164
+msgid "Seafood"
+msgstr "Fisch und Meeresfrüchte"
+
+#: src/data/categories.ts:18962
+msgid "Seaport"
+msgstr "Seehafen"
+
+#: src/data/categories.ts:14292
+msgid "Secretarial Services"
+msgstr "Sekretariatsdienstleistung"
+
+#: src/data/categories.ts:11366
+msgid "Services"
+msgstr "Dienstleistungen"
+
+#: src/data/categories.ts:6196
+msgid "Shabu-Shabu"
+msgstr "Shabu-Shabu"
+
+#: src/data/categories.ts:6228
+msgid "Shandong"
+msgstr "Shandong"
+
+#: src/data/categories.ts:6260
+msgid "Shanghai"
+msgstr "Shanghai"
+
+#: src/data/categories.ts:18147
+msgid "Shipping Store"
+msgstr "Versandlager"
+
+#: src/data/categories.ts:15452
+msgid "Shoe Repair & Shine"
+msgstr "Schuster & Schuhputzer"
+
+#: src/data/categories.ts:16214
+msgid "Shoe Store"
+msgstr "Schuhgeschäft"
+
+#: src/data/categories.ts:15691
+msgid "Shopping"
+msgstr "Einkaufen"
+
+#: src/data/categories.ts:18174
+msgid "Shopping Center"
+msgstr "Einkaufszentrum"
+
+#: src/data/categories.ts:18201
+msgid "Shopping Mall"
+msgstr "Shoppingcenter"
+
+#: src/data/categories.ts:11662
+msgid "Shower"
+msgstr "Dusche"
+
+#: src/data/categories.ts:14877
+msgid "Shrine"
+msgstr "Schrein"
+
+#: src/data/categories.ts:11092
+msgid "Skate Park"
+msgstr "Skater-Park"
+
+#: src/data/categories.ts:18228
+msgid "Skateboard Shop"
+msgstr "Skateboard-Laden"
+
+#: src/data/categories.ts:10383
+msgid "Ski Lift"
+msgstr "Skilift"
+
+#: src/data/categories.ts:10388
+msgid "Ski Rental"
+msgstr "Skiverleih"
+
+#: src/data/categories.ts:19179
+msgid "Ski Resort"
+msgstr "Skiresort"
+
+#: src/data/categories.ts:10410
+msgid "Ski School"
+msgstr "Skischule"
+
+#: src/data/categories.ts:10432
+#: src/data/categories.ts:18255
+msgid "Ski Shop"
+msgstr "Ski-Fachgeschäft"
+
+#: src/data/categories.ts:10459
+msgid "Ski Slope"
+msgstr "Skipiste"
+
+#: src/data/categories.ts:10303
+msgid "Skydiving"
+msgstr "Fallschirmspringen"
+
+#: src/data/categories.ts:6292
+msgid "Slovak"
+msgstr "Slowakisch"
+
+#: src/data/categories.ts:18282
+msgid "Smoke / Vape Shop"
+msgstr "Tabakladen und Vape Shop"
+
+#: src/data/categories.ts:6324
+msgid "Smoothies"
+msgstr "Smoothies"
+
+#: src/data/categories.ts:6356
+msgid "Snack"
+msgstr "Snack"
+
+#: src/data/categories.ts:10378
+msgid "Snow"
+msgstr "Schnee"
+
+#: src/data/categories.ts:11119
+msgid "Soccer Field"
+msgstr "Fußballplatz"
+
+#: src/data/categories.ts:1271
+msgid "Soccer Stadium"
+msgstr "Fußballstadion"
+
+#: src/data/categories.ts:15535
+msgid "Social"
+msgstr "Sozial"
+
+#: src/data/categories.ts:14623
+msgid "Social Club"
+msgstr "Verein"
+
+#: src/data/categories.ts:6388
+msgid "Som Tum"
+msgstr "Som Tum"
+
+#: src/data/categories.ts:15104
+msgid "Sorority House"
+msgstr "Schwesternschaftshaus"
+
+#: src/data/categories.ts:6420
+msgid "Soup"
+msgstr "Suppe"
+
+#: src/data/categories.ts:6452
+msgid "South American"
+msgstr "Südamerikanisch"
+
+#: src/data/categories.ts:6484
+msgid "Southern / Soul Food"
+msgstr "Südstaaten / Soulfood"
+
+#: src/data/categories.ts:18309
+msgid "Souvenir Store"
+msgstr "Souvenirladen"
+
+#: src/data/categories.ts:6516
+msgid "Spanish"
+msgstr "Spanisch"
+
+#: src/data/categories.ts:8708
+msgid "Speakeasy"
+msgstr "Studentenkneipe"
+
+#: src/data/categories.ts:18336
+msgid "Sporting Goods"
+msgstr "Sportgeschäft"
+
+#: src/data/categories.ts:1068
+#: src/data/categories.ts:10466
+msgid "Sports"
+msgstr "Sport"
+
+#: src/data/categories.ts:8740
+msgid "Sports Bar"
+msgstr "Sportbar"
+
+#: src/data/categories.ts:11146
+msgid "Sports Center"
+msgstr "Sportzentrum"
+
+#: src/data/categories.ts:11173
+msgid "Sports Club"
+msgstr "Sportclub"
+
+#: src/data/categories.ts:9657
+msgid "Square"
+msgstr "Platz"
+
+#: src/data/categories.ts:11200
+msgid "Squash Court"
+msgstr "Squashplatz"
+
+#: src/data/categories.ts:6548
+msgid "Sri Lankan"
+msgstr "Srilankisch"
+
+#: src/data/categories.ts:9025
+msgid "Stables"
+msgstr "Ställe"
+
+#: src/data/categories.ts:1751
+msgid "State Office Building"
+msgstr "Landesregierungsgebäude"
+
+#: src/data/categories.ts:18363
+msgid "Stationery & Office Supplies"
+msgstr "Schreibwaren & Bürobedarf"
+
+#: src/data/categories.ts:6580
+msgid "Steak House"
+msgstr "Steakhaus"
+
+#: src/data/categories.ts:12227
+msgid "Stonemason"
+msgstr "Steinmetz"
+
+#: src/data/categories.ts:15479
+msgid "Storage"
+msgstr "Lagerraum"
+
+#: src/data/categories.ts:8772
+msgid "Strip Club"
+msgstr "Stripklub"
+
+#: src/data/categories.ts:8032
+msgid "Student Center"
+msgstr "Schülerzentrum"
+
+#: src/data/categories.ts:19256
+msgid "Subway Station"
+msgstr "U-Bahn-Station"
+
+#: src/data/categories.ts:10330
+msgid "Summer Camp"
+msgstr "Sommerlager"
+
+#: src/data/categories.ts:6612
+msgid "Sundanese"
+msgstr "Sundanesisch"
+
+#: src/data/categories.ts:17139
+msgid "Supermarket"
+msgstr "Supermarkt"
+
+#: src/data/categories.ts:18390
+msgid "Surf Shop"
+msgstr "Surfshop"
+
+#: src/data/categories.ts:10352
+msgid "Surfing"
+msgstr "Surfen"
+
+#: src/data/categories.ts:14319
+msgid "Surveying"
+msgstr "Vermessung"
+
+#: src/data/categories.ts:6644
+msgid "Sushi"
+msgstr "Sushi"
+
+#: src/data/categories.ts:8059
+msgid "Swim School"
+msgstr "Schwimmschule"
+
+#: src/data/categories.ts:11227
+msgid "Swimming Pool"
+msgstr "Schwimmbad"
+
+#: src/data/categories.ts:6676
+msgid "Swiss"
+msgstr "Schweizerisch"
+
+#: src/data/categories.ts:816
+msgid "Symphony"
+msgstr "Symphonie"
+
+#: src/data/categories.ts:14899
+msgid "Synagogue"
+msgstr "Synagoge"
+
+#: src/data/categories.ts:6708
+msgid "Szechuan"
+msgstr "Szechuan"
+
+#: src/data/categories.ts:6740
+msgid "Tacos"
+msgstr "Tacos"
+
+#: src/data/categories.ts:15506
+msgid "Tailor"
+msgstr "Schneider"
+
+#: src/data/categories.ts:6772
+msgid "Taiwanese"
+msgstr "Taiwanesisch"
+
+#: src/data/categories.ts:11902
+msgid "Tanning Salon"
+msgstr "Solarium"
+
+#: src/data/categories.ts:6804
+msgid "Tapas"
+msgstr "Tapas"
+
+#: src/data/categories.ts:6836
+msgid "Tatar"
+msgstr "Tatar"
+
+#: src/data/categories.ts:11929
+msgid "Tattoo Parlor"
+msgstr "Tattoo-Studio"
+
+#: src/data/categories.ts:19268
+msgid "Taxi Stand"
+msgstr "Taxistand"
+
+#: src/data/categories.ts:6868
+msgid "Tea House"
+msgstr "Teehaus"
+
+#: src/data/categories.ts:14346
+msgid "Tech Startup"
+msgstr "Tech-Startup"
+
+#: src/data/categories.ts:9669
+msgid "Telescope"
+msgstr "Teleskop"
+
+#: src/data/categories.ts:12344
+msgid "Television Station"
+msgstr "Fernsehsender"
+
+#: src/data/categories.ts:14921
+msgid "Temple"
+msgstr "Tempel"
+
+#: src/data/categories.ts:11254
+msgid "Tennis Court"
+msgstr "Tennisplatz"
+
+#: src/data/categories.ts:1293
+msgid "Tennis Stadium"
+msgstr "Tennisstadion"
+
+#: src/data/categories.ts:14373
+msgid "Testing Lab"
+msgstr "Testlabor"
+
+#: src/data/categories.ts:6900
+msgid "Tex-Mex"
+msgstr "Tex-Mex"
+
+#: src/data/categories.ts:6932
+msgid "Thai"
+msgstr "Thai"
+
+#: src/data/categories.ts:1039
+msgid "Theater"
+msgstr "Theater"
+
+#: src/data/categories.ts:6964
+msgid "Theme"
+msgstr "Thema"
+
+#: src/data/categories.ts:210
+msgid "Theme Park"
+msgstr "Freizeitpark"
+
+#: src/data/categories.ts:13030
+msgid "Therapist"
+msgstr "Therapeut"
+
+#: src/data/categories.ts:18417
+msgid "Thrift Store"
+msgstr "Secondhandladen"
+
+#: src/data/categories.ts:6996
+msgid "Tibetan"
+msgstr "Tibetanisch"
+
+#: src/data/categories.ts:8804
+msgid "Tiki Bar"
+msgstr "Tiki Bar"
+
+#: src/data/categories.ts:18833
+msgid "Toll Booth"
+msgstr "Mautstelle"
+
+#: src/data/categories.ts:9681
+msgid "Tour Provider"
+msgstr "Reiseveranstalter"
+
+#: src/data/categories.ts:9693
+msgid "Tourist Attraction"
+msgstr "Touristenattraktion"
+
+#: src/data/categories.ts:9705
+msgid "Tourist Information"
+msgstr "Touristeninformation"
+
+#: src/data/categories.ts:9717
+msgid "Tower"
+msgstr "Turm"
+
+#: src/data/categories.ts:9904
+msgid "Town Common"
+msgstr "Parkanlage"
+
+#: src/data/categories.ts:1778
+msgid "Town Hall"
+msgstr "Rathaus"
+
+#: src/data/categories.ts:18444
+msgid "Toy and Game Store"
+msgstr "Spielwarenladen"
+
+#: src/data/categories.ts:11281
+msgid "Track"
+msgstr "Bahn"
+
+#: src/data/categories.ts:10364
+msgid "Trail Station"
+msgstr "Wanderstation"
+
+#: src/data/categories.ts:15126
+msgid "Trailer Park"
+msgstr "Wohnwagen-Siedlung"
+
+#: src/data/categories.ts:19280
+msgid "Train Station"
+msgstr "Bahnhof"
+
+#: src/data/categories.ts:19292
+msgid "Tram Stop"
+msgstr "Haltestelle"
+
+#: src/data/categories.ts:19203
+msgid "Transit"
+msgstr "Transit"
+
+#: src/data/categories.ts:18652
+msgid "Travel"
+msgstr "Reisen"
+
+#: src/data/categories.ts:14400
+msgid "Travel Agent"
+msgstr "Reisebüro"
+
+#: src/data/categories.ts:7028
+#: src/data/categories.ts:18838
+msgid "Truck Stop"
+msgstr "Raststätte"
+
+#: src/data/categories.ts:9729
+msgid "Tunnel"
+msgstr "Tunnel"
+
+#: src/data/categories.ts:7060
+msgid "Turkish"
+msgstr "Türkisch"
+
+#: src/data/categories.ts:9741
+msgid "UNESCO World Heritage Site"
+msgstr "UNESCO Welterbestätte"
+
+#: src/data/categories.ts:7092
+msgid "Ukrainian"
+msgstr "Ukrainisch"
+
+#: src/data/categories.ts:8086
+msgid "University"
+msgstr "Universität"
+
+#: src/data/categories.ts:13057
+msgid "Urgent Care Center"
+msgstr "Notdienst"
+
+#: src/data/categories.ts:18471
+msgid "Used Merchandise"
+msgstr "Gebrauchtwaren"
+
+#: src/data/categories.ts:18498
+msgid "Vacant Storefront"
+msgstr "leer stehendes Geschäft"
+
+#: src/data/categories.ts:7124
+msgid "Vegan"
+msgstr "Vegan"
+
+#: src/data/categories.ts:7156
+msgid "Vegetarian"
+msgstr "Vegetarisch"
+
+#: src/data/categories.ts:7188
+msgid "Venezuelan"
+msgstr "Venezolanisch"
+
+#: src/data/categories.ts:13084
+msgid "Veterinarian"
+msgstr "Tierarzt"
+
+#: src/data/categories.ts:18515
+msgid "Video Game Store"
+msgstr "Videospielladen"
+
+#: src/data/categories.ts:18542
+msgid "Video Store"
+msgstr "Videothek"
+
+#: src/data/categories.ts:7220
+msgid "Vietnamese"
+msgstr "Vietnamesisch"
+
+#: src/data/categories.ts:9275
+msgid "Vineyard"
+msgstr "Weingut"
+
+#: src/data/categories.ts:8103
+msgid "Vocational School"
+msgstr "Berufsschule"
+
+#: src/data/categories.ts:9753
+msgid "Volcano"
+msgstr "Vulkan"
+
+#: src/data/categories.ts:11308
+msgid "Volleyball Court"
+msgstr "Volleyballplatz"
+
+#: src/data/categories.ts:13294
+msgid "Warehouse"
+msgstr "Lagerhalle"
+
+#: src/data/categories.ts:18569
+msgid "Warehouse Store"
+msgstr "Großhandel"
+
+#: src/data/categories.ts:13316
+msgid "Waste / Recycling Facility"
+msgstr "Müll- und Recycling-Anlage"
+
+#: src/data/categories.ts:18596
+msgid "Watch Shop"
+msgstr "Uhrengeschäft"
+
+#: src/data/categories.ts:237
+msgid "Water Park"
+msgstr "Wasserpark"
+
+#: src/data/categories.ts:9765
+msgid "Water Tower"
+msgstr "Wasserturm"
+
+#: src/data/categories.ts:9777
+msgid "Waterfall"
+msgstr "Wasserfall"
+
+#: src/data/categories.ts:12461
+msgid "Wedding Hall"
+msgstr "Hochzeitssaal"
+
+#: src/data/categories.ts:9789
+msgid "Well"
+msgstr "Brunnen"
+
+#: src/data/categories.ts:9801
+msgid "Wharf"
+msgstr "Landungsbrücke"
+
+#: src/data/categories.ts:8836
+msgid "Whisky Bar"
+msgstr "Whisky Bar"
+
+#: src/data/categories.ts:18623
+msgid "Wholesale Store"
+msgstr "Großmarkt"
+
+#: src/data/categories.ts:13338
+msgid "Windmill"
+msgstr "Windmühle"
+
+#: src/data/categories.ts:8868
+msgid "Wine Bar"
+msgstr "Weinbar"
+
+#: src/data/categories.ts:17166
+msgid "Wine Shop"
+msgstr "Weingeschäft"
+
+#: src/data/categories.ts:8900
+msgid "Winery"
+msgstr "Vinothek"
+
+#: src/data/categories.ts:7252
+msgid "Wings"
+msgstr "Chicken Wings"
+
+#: src/data/categories.ts:16241
+msgid "Women's Clothing Store"
+msgstr "Damen-Modehaus"
+
+#: src/data/categories.ts:7284
+msgid "Yakitori"
+msgstr "Yakitori"
+
+#: src/data/categories.ts:11335
+msgid "Yoga Studio"
+msgstr "Yoga-Studio"
+
+#: src/data/categories.ts:7316
+msgid "Yunnan"
+msgstr "Yunnan"
+
+#: src/data/categories.ts:7348
+msgid "Zhejiang"
+msgstr "Zhejiang"
+
+#: src/data/categories.ts:9052
+msgid "Zoo"
+msgstr "Zoo"

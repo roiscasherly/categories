@@ -24,13 +24,19 @@ interface ICategoryAttribute {
     required: boolean;
 }
 export declare enum Languages {
+    de = "de",
     en = "en",
+    es = "es",
     fil = "fil",
+    fr = "fr",
     id = "id",
+    ja = "ja",
+    ko = "ko",
     ms = "ms",
     th = "th",
     vi = "vi",
-    'zh-Hans' = "zh-Hans"
+    'zh-Hans' = "zh-Hans",
+    'zh-Hant' = "zh-Hant"
 }
 /**
  * dump all categories

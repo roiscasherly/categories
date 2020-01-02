@@ -1,25 +1,37 @@
 const lingui = require('@lingui/core');
 
+import de from './locales/de/messages';
 import en from './locales/en/messages';
+import es from './locales/es/messages';
 import fil from './locales/fil/messages';
+import fr from './locales/fr/messages';
 import id from './locales/id/messages';
+import ja from './locales/ja/messages';
+import ko from './locales/ko/messages';
 import ms from './locales/ms/messages';
 import th from './locales/th/messages';
 import vi from './locales/vi/messages';
 import zhHans from './locales/zh-Hans/messages';
+import zhHant from './locales/zh-Hant/messages';
 
 import categories from './data/categories';
 import getCompletenessUtil from './utils/getCompleteness';
 import { byId } from './utils/transforms';
 
 const catalogs = {
+  de,
   en,
+  es,
   fil,
+  fr,
   id,
+  ja,
+  ko,
   ms,
   th,
   vi,
   'zh-Hans': zhHans,
+  'zh-Hant': zhHant,
 };
 
 // Some shared types
@@ -55,13 +67,19 @@ interface ICategoryAttribute {
 }
 
 export enum Languages {
+  de = 'de',
   en = 'en',
+  es = 'es',
   fil = 'fil',
+  fr = 'fr',
   id = 'id',
+  ja = 'ja',
+  ko = 'ko',
   ms = 'ms',
   th = 'th',
   vi = 'vi',
   'zh-Hans' = 'zh-Hans',
+  'zh-Hant' = 'zh-Hant',
 }
 
 /**
