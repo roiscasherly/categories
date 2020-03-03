@@ -15,7 +15,7 @@ msgstr ""
 
 #: src/data/categories.ts:15998
 msgid "Accessories Store"
-msgstr "Toko Aksesori"
+msgstr "Toko Aksesoris"
 
 #: src/data/categories.ts:13536
 msgid "Accountant"
