@@ -15,7 +15,7 @@ msgstr ""
 
 #: src/data/categories.ts:15998
 msgid "Accessories Store"
-msgstr "Toko Aksesori"
+msgstr "Toko Aksesoris"
 
 #: src/data/categories.ts:13536
 msgid "Accountant"
@@ -87,7 +87,7 @@ msgstr "Terminal Bandara"
 
 #: src/data/categories.ts:18722
 msgid "Airport Tram"
-msgstr "Trem Bandara"
+msgstr "Kereta Bandara"
 
 #: src/data/categories.ts:12517
 msgid "Alternative Medicine"
@@ -95,7 +95,7 @@ msgstr "Obat Alternatif"
 
 #: src/data/categories.ts:627
 msgid "Amphitheater"
-msgstr "Amfiteater"
+msgstr "Teater"
 
 #: src/data/categories.ts:9
 msgid "Amusements"
@@ -345,7 +345,7 @@ msgstr "Kamar & Sarapan"
 
 #: src/data/categories.ts:8196
 msgid "Beer Bar"
-msgstr "Bar Bir"
+msgstr "Bir Bar"
 
 #: src/data/categories.ts:8228
 msgid "Beer Garden"
@@ -409,7 +409,7 @@ msgstr "Rumah Kost"
 
 #: src/data/categories.ts:9971
 msgid "Boat Charter"
-msgstr "Carter Kapal"
+msgstr "Sewa Kapal"
 
 #: src/data/categories.ts:9998
 msgid "Boat Ramp"
@@ -579,7 +579,7 @@ msgstr "Restoran Kanton"
 
 #: src/data/categories.ts:9321
 msgid "Canyon"
-msgstr "Ngarai"
+msgstr "Lembah"
 
 #: src/data/categories.ts:1324
 msgid "Capitol Building"
